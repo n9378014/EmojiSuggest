@@ -1,0 +1,13 @@
+@mixin font-face($name, $src, $weight, $style) 
+	@font-face
+		font-family: quote($name)
+		src: url($src)
+		font-weight: $weight
+		font-style: $style
+
+
+@include font-face(Lato, './fonts/Lato-Regular.woff2', 400, normal)
+@include font-face("Source Sans Pro", './fonts/SourceSansPro-Black.woff2', 900, normal)
+@include font-face("Font Awesome Brands", './fonts/Font-Awesome-5-Brands-Regular-400.otf', 400, normal)
+@include font-face("Font Awesome Solid", './fonts/Font-Awesome-5-Free-Solid-900.otf', 900, normal)
+@include font-face(M1Plus, './fonts/mplus-1-black.ttf', 900, normal)

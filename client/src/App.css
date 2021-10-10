@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-color: #dbf7fd;
+  background-color: rgb(75, 82, 121);
+    margin-right: auto;   
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  overflow: scroll;
+
+}
+
+.content{
+  margin-left: 750px;
+
+  overflow: scroll;
+  align-items: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
