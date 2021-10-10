@@ -10,7 +10,7 @@ const maxHorizontal = 19;//111
 const maxVertical = Math.ceil(numEmojis / maxHorizontal);
 
 const center = Math.round((maxHorizontal * (maxVertical / 4)) + ((maxHorizontal - 1) * (maxVertical / 4))) - Math.round((maxHorizontal) / 2);//Math.ceil(numEmojis/2)-3;
-const lenHistory = Math.ceil(maxHorizontal / 2);
+const lenHistory = Math.ceil(maxHorizontal / 2) - 2;
 const lenRandom = lenHistory;
 const defaultEmojis = [];
 
@@ -51,10 +51,10 @@ const Hexgrid = () => {
 
   function getTileColour(tileIndex) {
     let colour = 'white';
-    if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory + 1)) {
+    if (tileIndex <= (center - 2) && tileIndex >= (center - lenHistory - 1)) { //If tile is part of emoji history
       colour = '#dbf7fd';//'#d4d4d4';
     }
-    if (tileIndex === center) {
+    if (tileIndex === center) { //If active emoji tile
       colour = '#a4eefc';
     }
     return colour;
@@ -73,7 +73,6 @@ const Hexgrid = () => {
       return image
     }
     else { //it is a single emoji character
-      //image = `/images/${hexcode}.svg`;
       image = "http://localhost:9000/images/" + hexcode + ".png";
       return image;
     }
@@ -100,13 +99,21 @@ const Hexgrid = () => {
       Insert emoji history into active tiles
       */
       if (emojiHistory.length >= 1) {
-        for (let i = 0; i < emojiHistory.length; i++) {
-          if (center - i > 49) {
-            hexcodes[center - i] = emojiHistory[emojiHistory.length - 1 - i];
+        for (let i = 0; i < emojiHistory.length-1; i++) {
+          if (center - i -2 > 49) {
+            hexcodes[center - i - 2] = emojiHistory[emojiHistory.length - 2 - i];
           }
         }
       }
 
+      // if (emojiHistory.length >= 1) {
+      //   values[0][center] = emojiHistory[emojiHistory.length-1];
+      //   for (let i = 0; i < emojiHistory.length-1; i++) {
+      //     if (center - i -1> 49) {
+      //       values[0][center - i - 2] = emojiHistory[emojiHistory.length - 1 - i];
+      //     }
+      //   }
+      // }
 
     /*
     Map hexcodes to tiles 
@@ -190,7 +197,7 @@ const Hexgrid = () => {
     let newEmojis = emojiHistory;
     for (let i = 0; i < num; i++) {
       newEmojis.push(hexcode);
-      if (newEmojis.length > lenHistory) {
+      if (newEmojis.length > lenHistory+1) {
         newEmojis.shift();
       }
     }
@@ -224,9 +231,10 @@ const Hexgrid = () => {
 
       //Insert emoji history into active tiles:
       if (emojiHistory.length >= 1) {
-        for (let i = 0; i < emojiHistory.length; i++) {
-          if (center - i > 49) {
-            values[0][center - i] = emojiHistory[emojiHistory.length - 1 - i];
+        values[0][center] = emojiHistory[emojiHistory.length-1];
+        for (let i = 0; i < emojiHistory.length-1; i++) {
+          if (center - i -2> 49) {
+            values[0][center - i - 2] = emojiHistory[emojiHistory.length - 1 - i];
           }
         }
       }
@@ -251,8 +259,8 @@ const Hexgrid = () => {
     /*
       Fill the emoji history with placeholders
     */
-    updateEmojiHistory(openmoji.openmojis[3073].hexcode, lenHistory);
-
+    updateEmojiHistory(openmoji.openmojis[3073].hexcode, lenHistory+1 );
+    
     /*
       TODO: Replace this with a call to the getrandoms function
     */
