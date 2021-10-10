@@ -30,18 +30,31 @@ var combineEmoji = function (hex1, hex2, callback) {
 
 router.get("/:emojihex1/:emojihex2", async function (req, res, next) {
     var hexcode1 = req.params.emojihex1
-    var hexcode2 = req.params.emojihex2
+    var hexcodeArr = req.params.emojihex2.split(" ");
+    var urlArr = [];
+    var hexcode2 = '1F4A9';
 
-    var fileName = hexcode1 + hexcode2 + '.png';
-
-    combineEmoji(hexcode1, hexcode2, function (err) {
-        // let fileExists = fs.existsSync('./public/blends/' + fileName);
-        // console.log(fileName + "Emoji blend exists:", fileExists);
-
-        res.json({
-            url: fileName
+    if(hexcodeArr.length > 0){
+        hexcodeArr.forEach(hex => {
+            combineEmoji(hexcode1, hex, function (err) {
+                console.log("Emoji blended: " + hexcode1 + " + " + hex)
+                urlArr.push(hexcode1 + hex + '.png')
+            });
         });
-    });
+        var jsonURLs = JSON.stringify(urlArr);
+        res.json(jsonURLs);
+    }
+    else{
+        var fileName = hexcode1 + hexcode2 + '.png';
+        combineEmoji(hexcode1, hexcode2, function (err) {
+            // let fileExists = fs.existsSync('./public/blends/' + fileName);
+            // console.log(fileName + "Emoji blend exists:", fileExists);
+    
+            res.json({
+                url: fileName
+            });
+        });    
+    }
 });
 
 module.exports = router;
