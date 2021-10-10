@@ -19,7 +19,7 @@ function generateEmojis(num) {
       emojis.push(openmoji.openmojis[numbers[index]].hexcode);
     }
 
-    return emojis;   // The function returns the product of p1 and p2
+    return emojis;  
   }
 
 /*
