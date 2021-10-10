@@ -50,25 +50,23 @@ router.get("/:emojihex", function (req, res, next) {
     }
 
     var hexcodesProcessed = 0;
-    numbers.forEach(num => {
+    numbers.forEach(async num => {
         randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
 
-        /*
-        Create image files here
-        */
+        //Create image files here:
         var fileName = hexcode + openmoji.openmojis[num].hexcode + '.png';
         await combineEmoji(hexcode, openmoji.openmojis[num].hexcode, function (err) {
             //console.log("Emoji blended");
+            hexcodesProcessed++;
+            if (hexcodesProcessed === numbers.length) {
+                //Save to database:
+                sessions.create(hexcode, randomEmojis.toString());
+    
+                //Format blends and send:
+                var jsonBlends = JSON.stringify(randomEmojis);
+                res.json(jsonBlends);
+            }    
         });
-        hexcodesProcessed++;
-        if (hexcodesProcessed === numbers.length) {
-            //Save to database:
-            sessions.create(hexcode, randomEmojis.toString());
-
-            //Format blends and send:
-            var jsonBlends = JSON.stringify(randomEmojis);
-            res.json(jsonBlends);
-        }
     });
 });
 
