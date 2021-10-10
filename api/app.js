@@ -13,6 +13,7 @@ var emojiblendsRouter = require("./routes/emojiblends");
 var randomHexcodesRouter = require("./routes/randomhexcodes");
 var randomBlendHexcodesRouter = require("./routes/randomblendhexcodes");
 var blendEmojisRouter = require("./routes/blendemojis");
+var blendManyEmojisRouter = require("./routes/blendmanyemojis");
 var markovHexcodesRouter = require("./routes/markovhexcodes");
 
 
@@ -36,6 +37,7 @@ app.use("/emojiblends", emojiblendsRouter);
 app.use("/randomhexcodes", randomHexcodesRouter);
 app.use("/randomblendhexcodes", randomBlendHexcodesRouter);
 app.use("/blendemojis", blendEmojisRouter);
+app.use("/blendmanyemojis", blendManyEmojisRouter);
 app.use('/blends', express.static(__dirname + '/public'));
 app.use("/markovhexcodes", markovHexcodesRouter);
 
