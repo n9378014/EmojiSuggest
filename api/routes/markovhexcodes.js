@@ -47,27 +47,32 @@ function generateEmojis(num, startEmoji) {
 
   let words = [];
   let emojis = [];
-
-  while (words.length < numEmojis) {
-    var startWord = 'dinosaur'; //TODO: replace with startEmoji tag or other descriptor
-    var word = generator.generate({
-      wordToStart: startWord,
-      minWordCount: 1,
-      maxWordCount: 1
-    });
-    if (isEmoji(word) && words.indexOf(word) === -1) words.push(word); //If word is an emoji and isn't already in words, put it there
+  try {
+    while (words.length < numEmojis) {
+      var startWord = 'dinosaur'; //TODO: replace with startEmoji tag or other descriptor
+      var word = generator.generate({
+        wordToStart: startWord,
+        minWordCount: 1,
+        maxWordCount: 1
+      });
+      if (isEmoji(word) && words.indexOf(word) === -1) words.push(word); //If word is an emoji and isn't already in words, put it there
+    }
+  
+    for (let index = 0; index < words.length; index++) {
+      emojis.push(getHexcode(words[index]).hexcode);
+    }  
+  } catch (error) {
+    for (let index = 0; index < num; index++) {
+      emojis.push('1F4A9');
+    }  
   }
-
-  for (let index = 0; index < words.length; index++) {
-    emojis.push(getHexcode(words[index]).hexcode);
-  }
-
   return emojis;
 }
 
 /*
 */
 router.get("/:emojihex", function (req, res, next) {
+  console.log('HEELP');
   var hexcode = req.params.emojihex
   var limit = req.query.limit;
   randomEmojis = generateEmojis(limit, hexcode);

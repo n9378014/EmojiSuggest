@@ -41,6 +41,7 @@ const cat3Index = [13, 14, 15, 16, 17, 18,
 const cat4Index = []; //137
 const cat5Index = [];
 const cat6Index = [];
+const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129];
 
 let imageURLs = new Array(numEmojis);
 
@@ -189,6 +190,19 @@ const Hexgrid = () => {
     })
   }
 
+    /*  
+  Get markov blends
+  */
+  function getMarkovHexcodes(hexcode) {
+    return new Promise((resolve, reject) => {
+      var obj;
+      fetch("http://localhost:9000/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
+        .then(res => res.json())
+        .then(data => obj = JSON.parse(data))
+        .then(() => { resolve(obj); })
+    })
+  }
+
   /*
   Update emoji history and remove the oldest entry if length exceeds max.
   */
@@ -230,16 +244,20 @@ const Hexgrid = () => {
     }
 
     //Get hexcodes for new tiles, then assign them to tiles:
-    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
+    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
       //Substitute blendedHexcodes into hexcodes where appropriate:
-      if (values[1] !== undefined && values[1] !== null && hexcode !== undefined) {
+      if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
         cat1Index.forEach(index => {
           values[0][index] = values[1][cat1Index.indexOf(index)];
         });
+        cat7Index.forEach(index => {
+          values[0][index] = values[2][cat7Index.indexOf(index)];
+        });
+
       }
 
-      values[0][100] = values[2]; //Make this one a blend between current and most recent history
-      values[0][137] = values[3]; //Make this one a blend between current and most recent history
+      values[0][100] = values[3]; //Make this one a blend between current and most recent history
+      values[0][137] = values[4]; //Make this one a blend between current and most recent history
 
       //Insert emoji history into active tiles:
       if (emojiHistory.length >= 1) {
