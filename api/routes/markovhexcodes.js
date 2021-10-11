@@ -13,12 +13,34 @@ function setupMarkov() {
   });
   console.log(result);
 }
+
+/*
+TODO: 
+*/
+function isEmoji(word) {
+  const result = openmoji.openmojis.find(({ annotation }) => annotation === word);
+  if(result.length > 0){
+    return true;
+  }
+  return false;
+}
+
+/*
+TODO: 
+*/
+function getHexcode(word) {
+  const result = openmoji.openmojis.find(({ annotation }) => annotation === word);
+  if(result.length > 0){
+    return result[0];
+  }
+  return -1;
+}
+
 /*
 TODO: Update with markov chains
 */
 function generateEmojis(num, startEmoji) {
   /*
-  Old code below.
   TODO: Update with markov chains
   */
   var numEmojis = num; //113; //id 56 is the center
@@ -33,11 +55,11 @@ function generateEmojis(num, startEmoji) {
       minWordCount: 1,
       maxWordCount: 1
     });
-    if (words.indexOf(word) === -1) words.push(word);
+    if (isEmoji(word) && words.indexOf(word) === -1) words.push(word); //If word is an emoji and isn't already in words, put it there
   }
 
   for (let index = 0; index < words.length; index++) {
-    //emojis.push(openmoji.openmojis[words[index]].hexcode); //TODO: Push emoji hexcode
+    emojis.push(getHexcode(words[index]).hexcode);
   }
 
   return emojis;
@@ -45,9 +67,10 @@ function generateEmojis(num, startEmoji) {
 
 /*
 */
-router.get("/", function (req, res, next) {
+router.get("/:emojihex", function (req, res, next) {
+  var hexcode = req.params.emojihex
   var limit = req.query.limit;
-  randomEmojis = generateEmojis(limit);
+  randomEmojis = generateEmojis(limit, hexcode);
   var jsonEmojis = JSON.stringify(randomEmojis);
   res.json(jsonEmojis);
 });

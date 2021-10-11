@@ -10,7 +10,7 @@ const maxHorizontal = 19;//111
 const maxVertical = Math.ceil(numEmojis / maxHorizontal);
 
 const center = Math.round((maxHorizontal * (maxVertical / 4)) + ((maxHorizontal - 1) * (maxVertical / 4))) - Math.round((maxHorizontal) / 2);//Math.ceil(numEmojis/2)-3;
-const lenHistory = Math.ceil(maxHorizontal / 2) - 2;
+const lenHistory = Math.ceil(maxHorizontal / 2) - 1;
 const lenRandom = lenHistory;
 const defaultEmojis = [];
 
@@ -23,7 +23,7 @@ const cat1Index = [0, 1, 2, 3, 4, 5,
   37, 38, 39, 40, 41, 42, 43,
   56, 57, 58, 59, 60, 61, 62,
   74, 75, 76, 77, 78, 79, 80, 81,
-  93, 94, 95, 96, 97, 98, 99, 100];
+  93, 94, 95, 96, 97, 98, 99]; //100
 
 const cat2Index = [7, 8, 9, 10, 11,
   26, 27, 28, 29,
@@ -38,7 +38,7 @@ const cat3Index = [13, 14, 15, 16, 17, 18,
                   85, 86, 87, 88, 89, 90, 91, 92,
                   103, 104, 105, 106, 107, 108, 109, 110];
 
-const cat4Index = [];
+const cat4Index = []; //137
 const cat5Index = [];
 const cat6Index = [];
 
@@ -51,7 +51,7 @@ const Hexgrid = () => {
 
   function getTileColour(tileIndex) {
     let colour = 'white';
-    if (tileIndex <= (center - 2) && tileIndex >= (center - lenHistory - 1)) { //If tile is part of emoji history
+    if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory)) { //If tile is part of emoji history
       colour = '#dbf7fd';//'#d4d4d4';
     }
     if (tileIndex === center) { //If active emoji tile
@@ -99,9 +99,9 @@ const Hexgrid = () => {
       Insert emoji history into active tiles
       */
       if (emojiHistory.length >= 1) {
-        for (let i = 0; i < emojiHistory.length-1; i++) {
-          if (center - i -2 > 49) {
-            hexcodes[center - i - 2] = emojiHistory[emojiHistory.length - 2 - i];
+        for (let i = 0; i < emojiHistory.length; i++) {
+          if (center - i - 1 >= (center - lenHistory)) {
+            hexcodes[center - i -1] = emojiHistory[emojiHistory.length - 2 - i];
           }
         }
       }
@@ -185,7 +185,6 @@ const Hexgrid = () => {
       fetch("http://localhost:9000/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
-        .then(() => { console.log(obj);})
         .then(() => { resolve(obj); })
     })
   }
@@ -215,7 +214,7 @@ const Hexgrid = () => {
   }
 
   const handleClick = (id, hexcode, e) => {
-    //console.log(hexcode + ' was clicked. ID is ' + id);
+    console.log(hexcode + ' was clicked. ID is ' + id);
 
 
 
@@ -231,7 +230,7 @@ const Hexgrid = () => {
     }
 
     //Get hexcodes for new tiles, then assign them to tiles:
-    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2])]).then((values) => {
+    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
       //Substitute blendedHexcodes into hexcodes where appropriate:
       if (values[1] !== undefined && values[1] !== null && hexcode !== undefined) {
         cat1Index.forEach(index => {
@@ -239,14 +238,15 @@ const Hexgrid = () => {
         });
       }
 
-      values[0][center - 1] = values[2]; //Make this one a blend between current and most recent history
+      values[0][100] = values[2]; //Make this one a blend between current and most recent history
+      values[0][137] = values[3]; //Make this one a blend between current and most recent history
 
       //Insert emoji history into active tiles:
       if (emojiHistory.length >= 1) {
         values[0][center] = emojiHistory[emojiHistory.length-1];
-        for (let i = 0; i < emojiHistory.length-1; i++) {
-          if (center - i -2> 49) {
-            values[0][center - i - 2] = emojiHistory[emojiHistory.length - 1 - i];
+        for (let i = 0; i < emojiHistory.length; i++) {
+          if (center - i - 1 >= (center - lenHistory)) {
+            values[0][center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
           }
         }
       }
