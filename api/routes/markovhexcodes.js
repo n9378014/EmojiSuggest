@@ -4,9 +4,9 @@ var router = express.Router();
 const openmoji = require('openmoji');
 const Markov = require('node-markov-generator');
 const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
+const generator = new Markov.TextGenerator(corpus);
 
 function setupMarkov() {
-  const generator = new Markov.TextGenerator(corpus);
   const result = generator.generate({
     wordToStart: 'is',
     minWordCount: 1
@@ -16,23 +16,28 @@ function setupMarkov() {
 /*
 TODO: Update with markov chains
 */
-function generateEmojis(num) {
+function generateEmojis(num, startEmoji) {
   /*
   Old code below.
   TODO: Update with markov chains
   */
   var numEmojis = num; //113; //id 56 is the center
 
-  let numbers = [];
+  let words = [];
   let emojis = [];
 
-  while (numbers.length < numEmojis) {
-    var r = Math.floor(Math.random() * (openmoji.openmojis.length - 1));
-    if (numbers.indexOf(r) === -1) numbers.push(r);
+  while (words.length < numEmojis) {
+    var startWord = 'dinosaur'; //TODO: replace with startEmoji tag or other descriptor
+    var word = generator.generate({
+      wordToStart: startWord,
+      minWordCount: 1,
+      maxWordCount: 1
+    });
+    if (words.indexOf(word) === -1) words.push(word);
   }
 
-  for (let index = 0; index < numbers.length; index++) {
-    emojis.push(openmoji.openmojis[numbers[index]].hexcode);
+  for (let index = 0; index < words.length; index++) {
+    //emojis.push(openmoji.openmojis[words[index]].hexcode); //TODO: Push emoji hexcode
   }
 
   return emojis;
