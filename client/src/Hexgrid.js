@@ -204,6 +204,16 @@ const Hexgrid = () => {
     setEmojiHistory(newEmojis);
   }
 
+  function getBlendHexcode(hexcode1, hexcode2) {
+    return new Promise((resolve, reject) => {
+      var obj;
+      fetch("http://localhost:9000/blendemojis/" + hexcode1 + "/" + hexcode2)
+        .then(res => res.json())
+        .then(() => { obj = [hexcode1, hexcode2]; })
+        .then(() => { resolve(obj); })
+    })
+  }
+
   const handleClick = (id, hexcode, e) => {
     //console.log(hexcode + ' was clicked. ID is ' + id);
 
@@ -221,13 +231,15 @@ const Hexgrid = () => {
     }
 
     //Get hexcodes for new tiles, then assign them to tiles:
-    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode)]).then((values) => {
+    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2])]).then((values) => {
       //Substitute blendedHexcodes into hexcodes where appropriate:
       if (values[1] !== undefined && values[1] !== null && hexcode !== undefined) {
         cat1Index.forEach(index => {
           values[0][index] = values[1][cat1Index.indexOf(index)];
         });
       }
+
+      values[0][center - 1] = values[2]; //Make this one a blend between current and most recent history
 
       //Insert emoji history into active tiles:
       if (emojiHistory.length >= 1) {
