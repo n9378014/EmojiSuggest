@@ -5,7 +5,7 @@ const openmoji = require('openmoji');
 const sharp = require('sharp')
 const fs = require('fs');
 var path = require('path');
-const sessions = require("../controllers/session.controller.js");
+//const sessions = require("../controllers/session.controller.js");
 
 var combineEmoji = async function (hex1, hex2, callback) {
     sharp('./public/images/' + hex1 + '.png')
@@ -60,7 +60,7 @@ router.get("/:emojihex", function (req, res, next) {
             hexcodesProcessed++;
             if (hexcodesProcessed === numbers.length) {
                 //Save to database:
-                sessions.create(hexcode, randomEmojis.toString());
+                //sessions.create(hexcode, randomEmojis.toString());
     
                 //Format blends and send:
                 var jsonBlends = JSON.stringify(randomEmojis);

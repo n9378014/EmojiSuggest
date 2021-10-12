@@ -1,18 +1,12 @@
 var express = require("express");
 var router = express.Router();
+var path = require('path');
 
 const openmoji = require('openmoji');
 const Markov = require('node-markov-generator');
+const corpusPath = path.join(__dirname, 'test.txt');
 const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
-const generator = new Markov.TextGenerator(corpus);
-
-function setupMarkov() {
-  const result = generator.generate({
-    wordToStart: 'is',
-    minWordCount: 1
-  });
-  console.log(result);
-}
+const generator = new Markov.TextGenerator(corpusPath);
 
 /*
 TODO: 
@@ -49,12 +43,13 @@ function generateEmojis(num, startEmoji) {
   let emojis = [];
   try {
     while (words.length < numEmojis) {
-      var startWord = 'dinosaur'; //TODO: replace with startEmoji tag or other descriptor
+      var startWord = 'thor'; //TODO: replace with startEmoji tag or other descriptor
       var word = generator.generate({
         wordToStart: startWord,
         minWordCount: 1,
         maxWordCount: 1
       });
+      console.log("WORD: " + word);
       if (isEmoji(word) && words.indexOf(word) === -1) words.push(word); //If word is an emoji and isn't already in words, put it there
     }
   
@@ -63,7 +58,7 @@ function generateEmojis(num, startEmoji) {
     }  
   } catch (error) {
     for (let index = 0; index < num; index++) {
-      emojis.push('1F4A9');
+      emojis.push('1F436');
     }  
   }
   return emojis;

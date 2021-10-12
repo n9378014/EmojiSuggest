@@ -16,7 +16,6 @@ var blendEmojisRouter = require("./routes/blendemojis");
 var blendManyEmojisRouter = require("./routes/blendmanyemojis");
 var markovHexcodesRouter = require("./routes/markovhexcodes");
 
-
 var app = express();
 
 // view engine setup
@@ -45,14 +44,19 @@ app.use("/markovhexcodes", markovHexcodesRouter);
 TODO: Move this to markovhexcodes. And find better corpus
 */
 const Markov = require('node-markov-generator');
-const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
+const corpusPath = path.join(__dirname, 'routes/test.txt');
+//const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
 //Corpus needs to be bigrams already, generator doesnt seem to get the memo otherwise
-const generator = new Markov.TextGenerator(corpus);
+const generator = new Markov.TextGenerator(corpusPath);
 const result = generator.generate({
-  wordToStart: 'is',
-  minWordCount: 1
+  wordToStart: 'thor',
+  minWordCount: 1,
+  maxWordCount: 1
 });
 console.log(result);
+// const MarkovChain = require('markov-chain-generator');
+// const markovChain = new MarkovChain('Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this. But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.');
+// console.log(markovChain.generate(null, 5));
 
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.
