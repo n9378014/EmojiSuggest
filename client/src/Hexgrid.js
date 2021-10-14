@@ -2,7 +2,7 @@ import { TiledHexagons } from 'tiled-hexagons'
 import { useState, useEffect } from 'react'
 import React, { Component } from 'react';
 
-const apiURL = 'http://3.21.207.179';
+const apiURL = 'http://3.21.207.179:9000';
 const openmoji = require('openmoji');
 const fs = require('fs');
 
