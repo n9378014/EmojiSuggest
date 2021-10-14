@@ -19,14 +19,14 @@ var markovHexcodesRouter = require("./routes/markovhexcodes");
 var app = express();
 
 var corsOptions = {
-  origin: 'http://3.21.207.179:3000'
+  origin: '*'
 }
+app.use(cors(corsOptions));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
-app.use(cors(corsOptions));
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -34,15 +34,14 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
-app.use("/testAPI", testAPIRouter);
-app.use("/emojiblends", emojiblendsRouter);
-app.use("/randomhexcodes", randomHexcodesRouter);
-app.use("/randomblendhexcodes", randomBlendHexcodesRouter);
-app.use("/blendemojis", blendEmojisRouter);
-app.use("/blendmanyemojis", blendManyEmojisRouter);
-app.use('/blends', express.static(__dirname + '/public'));
-app.use("/markovhexcodes", markovHexcodesRouter);
+app.use('/users', usersRouter, cors(corsOptions));
+app.use("/emojiblends", emojiblendsRouter, cors(corsOptions));
+app.use("/randomhexcodes", randomHexcodesRouter, cors(corsOptions));
+app.use("/randomblendhexcodes", randomBlendHexcodesRouter, cors(corsOptions));
+app.use("/blendemojis", blendEmojisRouter, cors(corsOptions));
+app.use("/blendmanyemojis", blendManyEmojisRouter, cors(corsOptions));
+app.use('/blends', express.static(__dirname + '/public'), cors(corsOptions));
+app.use("/markovhexcodes", markovHexcodesRouter, cors(corsOptions));
 
 /*
 TODO: Move this to markovhexcodes. And find better corpus
