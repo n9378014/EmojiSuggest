@@ -190,7 +190,7 @@ const Hexgrid = () => {
     })
   }
 
-    /*  
+  /*  
   Get markov blends
   */
   function getMarkovHexcodes(hexcode) {
@@ -278,6 +278,8 @@ const Hexgrid = () => {
         .then(() => { setEmojiTiles(newTileObj); });
 
       //newTileObj = newTileObject(values, hexcode); //gen tiles then return them
+    }).catch(error => {
+      console.error(error.message)
     });
   }
 
