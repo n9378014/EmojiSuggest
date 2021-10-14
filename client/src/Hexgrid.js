@@ -275,7 +275,10 @@ const Hexgrid = () => {
         resolve();
       });
       tilePromise
-        .then(() => { setEmojiTiles(newTileObj); });
+        .then(() => { setEmojiTiles(newTileObj); }).catch(error => {
+          console.log("Something went wrong with the tilePromise.")
+          console.error(error.message)
+        });
 
       //newTileObj = newTileObject(values, hexcode); //gen tiles then return them
     }).catch(error => {
@@ -302,6 +305,10 @@ const Hexgrid = () => {
       .then(data => obj = JSON.parse(data))
       .then(() => iniTileObj = newTileObject([obj, []]))
       .then(() => setEmojiTiles(iniTileObj))
+      .catch(error => {
+        console.log("Something went wrong.")
+        console.error(error.message)
+      })
   });
 
   return (
