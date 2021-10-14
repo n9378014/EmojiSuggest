@@ -19,8 +19,7 @@ var markovHexcodesRouter = require("./routes/markovhexcodes");
 var app = express();
 
 var corsOptions = {
-  origin: '*',
-  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+  origin: 'http://3.21.207.179:3000'
 }
 
 // view engine setup
