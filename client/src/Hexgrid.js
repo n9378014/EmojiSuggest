@@ -74,7 +74,7 @@ const Hexgrid = () => {
       return image
     }
     else { //it is a single emoji character
-      image = "/images/" + hexcode + ".png";
+      image = "http://localhost:9000/images/" + hexcode + ".png";
       return image;
     }
   }
@@ -137,10 +137,10 @@ const Hexgrid = () => {
         //   .then(data => { imageURLs[index] = "http://localhost:9000/blends/" + data.url })
         //return 'http://localhost:9000/blends/1F9431F0CF.png';
         //return image
-        imageURLs[index] = "/blends/" + hexcode[0] + hexcode[1] + '.png';
+        imageURLs[index] = "http://localhost:9000/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
       else { //it is a single emoji character
-        imageURLs[index] = "/images/" + hexcode + ".png";
+        imageURLs[index] = "http://localhost:9000/images/" + hexcode + ".png";
       }
       return {
         img: imageURLs[index],
@@ -170,7 +170,7 @@ const Hexgrid = () => {
   function getRandomHexcodes() {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("/randomhexcodes?limit=" + numEmojis.toString())
+      fetch("http://localhost:9000/randomhexcodes?limit=" + numEmojis.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -183,7 +183,7 @@ const Hexgrid = () => {
   function getRandomBlendHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
+      fetch("http://localhost:9000/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -196,7 +196,7 @@ const Hexgrid = () => {
   function getMarkovHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
+      fetch("http://localhost:9000/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -295,7 +295,7 @@ const Hexgrid = () => {
       TODO: Replace this with a call to the getrandoms function
     */
     var obj;
-    fetch("/randomhexcodes?limit=" + numEmojis.toString())
+    fetch("http://localhost:9000/randomhexcodes?limit=" + numEmojis.toString())
       .then(res => res.json())
       .then(data => obj = JSON.parse(data))
       .then(() => iniTileObj = newTileObject([obj, []]))
