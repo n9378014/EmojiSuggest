@@ -300,13 +300,13 @@ const Hexgrid = () => {
       TODO: Replace this with a call to the getrandoms function
     */
     var obj;
-    fetch("/randomhexcodes?limit=" + numEmojis.toString())
+    fetch("http://localhost:9000/randomhexcodes?limit=" + numEmojis.toString())
       .then(res => res.json())
       .then(data => obj = JSON.parse(data))
       .then(() => iniTileObj = newTileObject([obj, []]))
       .then(() => setEmojiTiles(iniTileObj))
       .catch(error => {
-        console.log("Something went wrong.")
+        console.log("Something went wrong with the randomhexcodes fetch request.")
         console.error(error.message)
       })
   });
