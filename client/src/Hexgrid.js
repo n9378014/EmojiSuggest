@@ -2,7 +2,6 @@ import { TiledHexagons } from 'tiled-hexagons'
 import { useState, useEffect } from 'react'
 import React, { Component } from 'react';
 
-const apiURL = 'http://3.21.207.179:9000';
 const openmoji = require('openmoji');
 const fs = require('fs');
 
@@ -47,6 +46,10 @@ const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129];
 let imageURLs = new Array(numEmojis);
 
 const Hexgrid = () => {
+
+  const apiURL = process.env.REACT_APP_BACKEND;
+  console.log("URL: " + apiURL);
+
   const [emojiHistory, setEmojiHistory] = useState([]);
   var iniTileObj = newTileObject([defaultEmojis]);
   const [emojiTiles, setEmojiTiles] = useState(iniTileObj); //
