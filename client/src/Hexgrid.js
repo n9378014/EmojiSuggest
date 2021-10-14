@@ -2,6 +2,7 @@ import { TiledHexagons } from 'tiled-hexagons'
 import { useState, useEffect } from 'react'
 import React, { Component } from 'react';
 
+const apiURL = 'http://3.21.207.179';
 const openmoji = require('openmoji');
 const fs = require('fs');
 
@@ -74,7 +75,7 @@ const Hexgrid = () => {
       return image
     }
     else { //it is a single emoji character
-      image = "http://localhost:9000/images/" + hexcode + ".png";
+      image = apiURL +"/images/" + hexcode + ".png";
       return image;
     }
   }
@@ -137,10 +138,10 @@ const Hexgrid = () => {
         //   .then(data => { imageURLs[index] = "http://localhost:9000/blends/" + data.url })
         //return 'http://localhost:9000/blends/1F9431F0CF.png';
         //return image
-        imageURLs[index] = "http://localhost:9000/blends/" + hexcode[0] + hexcode[1] + '.png';
+        imageURLs[index] = apiURL + "/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
       else { //it is a single emoji character
-        imageURLs[index] = "http://localhost:9000/images/" + hexcode + ".png";
+        imageURLs[index] = apiURL + "/images/" + hexcode + ".png";
       }
       return {
         img: imageURLs[index],
@@ -170,7 +171,7 @@ const Hexgrid = () => {
   function getRandomHexcodes() {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("http://localhost:9000/randomhexcodes?limit=" + numEmojis.toString())
+      fetch(apiURL+"/randomhexcodes?limit=" + numEmojis.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -183,7 +184,7 @@ const Hexgrid = () => {
   function getRandomBlendHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("http://localhost:9000/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
+      fetch(apiURL+"/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -196,7 +197,7 @@ const Hexgrid = () => {
   function getMarkovHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("http://localhost:9000/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
+      fetch(apiURL+ "/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -220,7 +221,7 @@ const Hexgrid = () => {
   function getBlendHexcode(hexcode1, hexcode2) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch("http://localhost:9000/blendemojis/" + hexcode1 + "/" + hexcode2)
+      fetch(apiURL+"/blendemojis/" + hexcode1 + "/" + hexcode2)
         .then(res => res.json())
         .then(() => { obj = [hexcode1, hexcode2]; })
         .then(() => { resolve(obj); })
@@ -300,7 +301,7 @@ const Hexgrid = () => {
       TODO: Replace this with a call to the getrandoms function
     */
     var obj;
-    fetch("http://localhost:9000/randomhexcodes?limit=" + numEmojis.toString())
+    fetch(apiURL + "/randomhexcodes?limit=" + numEmojis.toString())
       .then(res => res.json())
       .then(data => obj = JSON.parse(data))
       .then(() => iniTileObj = newTileObject([obj, []]))

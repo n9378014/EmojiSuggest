@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 // Importing style sheet (TODO: remove this later)
 import './App.css';
-import { useState } from 'react'
 
 // Importing pages and components
 import Home from "./Home";

@@ -18,7 +18,7 @@ var markovHexcodesRouter = require("./routes/markovhexcodes");
 
 var app = express();
 
-var whitelist = ['http://localhost:3000', 'http://localhost']
+var whitelist = ['http://localhost:3000', 'http://localhost', 'http://3.21.207.179:3000']
 var corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.indexOf(origin) !== -1) {
