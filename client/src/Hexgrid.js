@@ -1,6 +1,7 @@
 import { TiledHexagons } from 'tiled-hexagons'
 import { useState, useEffect } from 'react'
 import React, { Component } from 'react';
+import { saveAs } from 'file-saver';
 
 const openmoji = require('openmoji');
 const fs = require('fs');
@@ -46,10 +47,6 @@ const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129];
 let imageURLs = new Array(numEmojis);
 
 const Hexgrid = () => {
-
-  const apiURL = process.env.REACT_APP_BACKEND;
-  console.log("URL: " + apiURL);
-
   const [emojiHistory, setEmojiHistory] = useState([]);
   var iniTileObj = newTileObject([defaultEmojis]);
   const [emojiTiles, setEmojiTiles] = useState(iniTileObj); //
@@ -78,7 +75,7 @@ const Hexgrid = () => {
       return image
     }
     else { //it is a single emoji character
-      image = apiURL +"/images/" + hexcode + ".png";
+      image = "/images/" + hexcode + ".png";
       return image;
     }
   }
@@ -141,10 +138,10 @@ const Hexgrid = () => {
         //   .then(data => { imageURLs[index] = "http://localhost:9000/blends/" + data.url })
         //return 'http://localhost:9000/blends/1F9431F0CF.png';
         //return image
-        imageURLs[index] = apiURL + "/blends/" + hexcode[0] + hexcode[1] + '.png';
+        imageURLs[index] = "/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
       else { //it is a single emoji character
-        imageURLs[index] = apiURL + "/images/" + hexcode + ".png";
+        imageURLs[index] = "/images/" + hexcode + ".png";
       }
       return {
         img: imageURLs[index],
@@ -174,7 +171,7 @@ const Hexgrid = () => {
   function getRandomHexcodes() {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch(apiURL+"/randomhexcodes?limit=" + numEmojis.toString())
+      fetch("/api/randomhexcodes?limit=" + numEmojis.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -187,7 +184,7 @@ const Hexgrid = () => {
   function getRandomBlendHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch(apiURL+"/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
+      fetch("/api/randomblendhexcodes/" + hexcode + "?limit=" + cat1Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -200,7 +197,7 @@ const Hexgrid = () => {
   function getMarkovHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch(apiURL+ "/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
+      fetch("/api/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -224,7 +221,7 @@ const Hexgrid = () => {
   function getBlendHexcode(hexcode1, hexcode2) {
     return new Promise((resolve, reject) => {
       var obj;
-      fetch(apiURL+"/blendemojis/" + hexcode1 + "/" + hexcode2)
+      fetch("/api/blendemojis/" + hexcode1 + "/" + hexcode2)
         .then(res => res.json())
         .then(() => { obj = [hexcode1, hexcode2]; })
         .then(() => { resolve(obj); })
@@ -234,60 +231,72 @@ const Hexgrid = () => {
   const handleClick = (id, hexcode, e) => {
     console.log(hexcode + ' was clicked. ID is ' + id);
 
-
-
-    updateEmojiHistory(hexcode, 1); //Add clicked emoji to emoji history
-
-    /*
-    TODO: Replace all emoji with 'loading' emoji with no click handler
-    */
-
-    //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
-    if(Array.isArray(hexcode)){ //Then hexcode is a blend
-      hexcode = hexcode[1];
-    }
-
-    //Get hexcodes for new tiles, then assign them to tiles:
-    Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
-      //Substitute blendedHexcodes into hexcodes where appropriate:
-      if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
-        cat1Index.forEach(index => {
-          values[0][index] = values[1][cat1Index.indexOf(index)];
-        });
-        cat7Index.forEach(index => {
-          values[0][index] = values[2][cat7Index.indexOf(index)];
-        });
-
+    if (id === center) {
+      var imgURL = '';
+    
+      if (Array.isArray(hexcode)) { //Then hexcode is a blend
+        imgURL = "/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
+      else { //it is a single emoji character
+        imgURL = "/images/" + hexcode + ".png";
+      }
+  
+      saveAs(imgURL, 'blend.png');
+    }
+    else {
+      updateEmojiHistory(hexcode, 1); //Add clicked emoji to emoji history
 
-      values[0][100] = values[3]; //Make this one a blend between current and most recent history
-      values[0][137] = values[4]; //Make this one a blend between current and most recent history
-
-      //Insert emoji history into active tiles:
-      if (emojiHistory.length >= 1) {
-        values[0][center] = emojiHistory[emojiHistory.length-1];
-        for (let i = 0; i < emojiHistory.length; i++) {
-          if (center - i - 1 >= (center - lenHistory)) {
-            values[0][center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
+      /*
+      TODO: Replace all emoji with 'loading' emoji with no click handler
+      */
+  
+      //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
+      if(Array.isArray(hexcode)){ //Then hexcode is a blend
+        hexcode = hexcode[1];
+      }
+  
+      //Get hexcodes for new tiles, then assign them to tiles:
+      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
+        //Substitute blendedHexcodes into hexcodes where appropriate:
+        if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
+          cat1Index.forEach(index => {
+            values[0][index] = values[1][cat1Index.indexOf(index)];
+          });
+          cat7Index.forEach(index => {
+            values[0][index] = values[2][cat7Index.indexOf(index)];
+          });
+  
+        }
+  
+        values[0][100] = values[3]; //Make this one a blend between current and most recent history
+        values[0][137] = values[4]; //Make this one a blend between current and most recent history
+  
+        //Insert emoji history into active tiles:
+        if (emojiHistory.length >= 1) {
+          values[0][center] = emojiHistory[emojiHistory.length-1];
+          for (let i = 0; i < emojiHistory.length; i++) {
+            if (center - i - 1 >= (center - lenHistory)) {
+              values[0][center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
+            }
           }
         }
-      }
-
-      var newTileObj;
-      const tilePromise = new Promise((resolve, reject) => {
-        newTileObj = newTileObject(values, hexcode);
-        resolve();
-      });
-      tilePromise
-        .then(() => { setEmojiTiles(newTileObj); }).catch(error => {
-          console.log("Something went wrong with the tilePromise.")
-          console.error(error.message)
+  
+        var newTileObj;
+        const tilePromise = new Promise((resolve, reject) => {
+          newTileObj = newTileObject(values, hexcode);
+          resolve();
         });
-
-      //newTileObj = newTileObject(values, hexcode); //gen tiles then return them
-    }).catch(error => {
-      console.error(error.message)
-    });
+        tilePromise
+          .then(() => { setEmojiTiles(newTileObj); }).catch(error => {
+            console.log("Something went wrong with the tilePromise.")
+            console.error(error.message)
+          });
+  
+        //newTileObj = newTileObject(values, hexcode); //gen tiles then return them
+      }).catch(error => {
+        console.error(error.message)
+      });
+    }
   }
 
   /*
@@ -304,7 +313,7 @@ const Hexgrid = () => {
       TODO: Replace this with a call to the getrandoms function
     */
     var obj;
-    fetch(apiURL + "/randomhexcodes?limit=" + numEmojis.toString())
+    fetch("/api/randomhexcodes?limit=" + numEmojis.toString())
       .then(res => res.json())
       .then(data => obj = JSON.parse(data))
       .then(() => iniTileObj = newTileObject([obj, []]))

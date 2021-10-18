@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "canvas": "^2.8.0",
+    "file-saver": "^2.0.5",
     "jquery": "^3.6.0",
     "openmoji": "^13.1.0",
     "react": "^17.0.2",

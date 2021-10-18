@@ -18,7 +18,7 @@ var markovHexcodesRouter = require("./routes/markovhexcodes");
 
 var app = express();
 
-var whitelist = ['http://localhost:3000', 'http://localhost', 'http://3.21.207.179:3000']
+var whitelist = ['http://localhost:3000', 'http://localhost', 'http://3.21.207.179:3000', 'http://3.21.207.179']
 var corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.indexOf(origin) !== -1) {
@@ -28,42 +28,42 @@ var corsOptions = {
     }
   }
 }
-app.use(cors(corsOptions));
+app.use(express.static(path.resolve(__dirname, '../client/build')));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
-app.use(logger('dev'));
+//app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter, cors(corsOptions));
-app.use("/emojiblends", emojiblendsRouter, cors(corsOptions));
-app.use("/randomhexcodes", randomHexcodesRouter, cors(corsOptions));
-app.use("/randomblendhexcodes", randomBlendHexcodesRouter, cors(corsOptions));
-app.use("/blendemojis", blendEmojisRouter, cors(corsOptions));
-app.use("/blendmanyemojis", blendManyEmojisRouter, cors(corsOptions));
+//app.use('/users', usersRouter, cors(corsOptions));
+app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
+app.use("/api/randomhexcodes", randomHexcodesRouter, cors(corsOptions));
+app.use("/api/randomblendhexcodes", randomBlendHexcodesRouter, cors(corsOptions));
+app.use("/api/blendemojis", blendEmojisRouter, cors(corsOptions));
+app.use("/api/blendmanyemojis", blendManyEmojisRouter, cors(corsOptions));
 app.use('/blends', express.static(__dirname + '/public'), cors(corsOptions));
-app.use("/markovhexcodes", markovHexcodesRouter, cors(corsOptions));
+app.use("/api/markovhexcodes", markovHexcodesRouter, cors(corsOptions));
 
 /*
 TODO: Move this to markovhexcodes. And find better corpus
 */
-const Markov = require('node-markov-generator');
-const corpusPath = path.join(__dirname, 'routes/test.txt');
-//const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
-//Corpus needs to be bigrams already, generator doesnt seem to get the memo otherwise
-const generator = new Markov.TextGenerator(corpusPath);
-const result = generator.generate({
-  wordToStart: 'thor',
-  minWordCount: 1,
-  maxWordCount: 1
-});
-console.log(result);
+// const Markov = require('node-markov-generator');
+// const corpusPath = path.join(__dirname, 'routes/test.txt');
+// //const corpus = ['This is my text.', 'Markov chains are great', 'Yet another string! This is just awesome.'];
+// //Corpus needs to be bigrams already, generator doesnt seem to get the memo otherwise
+// const generator = new Markov.TextGenerator(corpusPath);
+// const result = generator.generate({
+//   wordToStart: 'thor',
+//   minWordCount: 1,
+//   maxWordCount: 1
+// });
+// console.log(result);
 // const MarkovChain = require('markov-chain-generator');
 // const markovChain = new MarkovChain('Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this. But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.');
 // console.log(markovChain.generate(null, 5));
