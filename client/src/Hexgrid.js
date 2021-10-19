@@ -46,9 +46,9 @@ const cat6Index = [];
 const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129]; //Line heading right from center
 const cat8Index = [139, 158, 177, 196, 215, 234, 253]; //Line heading right-down from center
 const cat9Index = [138, 156, 174, 192, 210, 228, 246]; //Line heading left-down from center
-const cat10Index = []; //Line heading left from center
-const cat11Index = []; //Line heading left-up from center
-const cat12Index = []; //Line heading right-up from center
+const cat10Index = [111, 112, 113, 114, 115, 116, 117, 118, 119]; //Line heading left from center
+const cat11Index = [6, 25, 44, 63, 82, 101]; //Line heading left-up from center
+const cat12Index = [12, 30, 48, 66, 84, 102]; //Line heading right-up from center
 
 let imageURLs = new Array(numEmojis);
 
@@ -268,7 +268,7 @@ const Hexgrid = () => {
   
       saveAs(imgURL, 'blend.png');
     }
-    else {
+    else if(hexcode !== '1F504'){
       updateEmojiHistory(hexcode, 1); //Add clicked emoji to emoji history
 
       /*
