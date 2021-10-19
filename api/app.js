@@ -15,6 +15,7 @@ var randomBlendHexcodesRouter = require("./routes/randomblendhexcodes");
 var blendEmojisRouter = require("./routes/blendemojis");
 var blendManyEmojisRouter = require("./routes/blendmanyemojis");
 var markovHexcodesRouter = require("./routes/markovhexcodes");
+var markovBlendHexcodesRouter = require("./routes/markovblendhexcodes");
 
 var app = express();
 
@@ -49,6 +50,7 @@ app.use("/api/blendemojis", blendEmojisRouter, cors(corsOptions));
 app.use("/api/blendmanyemojis", blendManyEmojisRouter, cors(corsOptions));
 app.use('/blends', express.static(__dirname + '/public'), cors(corsOptions));
 app.use("/api/markovhexcodes", markovHexcodesRouter, cors(corsOptions));
+app.use("/api/markovblendhexcodes", markovBlendHexcodesRouter, cors(corsOptions));
 
 /*
 TODO: Move this to markovhexcodes. And find better corpus

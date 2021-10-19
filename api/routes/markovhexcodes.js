@@ -15,16 +15,16 @@ TODO:
 function isEmoji(word) {
   const resultAnnotation = openmoji.openmojis.find(({ annotation }) => annotation === word);
   if (resultAnnotation !== undefined) {
-      return true;
+    return true;
   }
-  else{
+  else {
     const resultTags = openmoji.openmojis.find(({ tags }) => tags === word);
     if (resultTags !== undefined) {
-        return true;
+      return true;
     }
-    else{
+    else {
       return false;
-    }  
+    }
   }
 }
 
@@ -36,13 +36,13 @@ function getHexcode(word) {
   //console.log("Result returned, ", result.hexcode);
   if (result !== undefined) {
     return result.hexcode;
-}
+  }
   result = openmoji.openmojis.find(({ tags }) => tags === word);
   //console.log("Result: ", result);
   if (result !== undefined) {
     return result.hexcode;
   }
-  else{
+  else {
     return -1;
   }
 }
@@ -65,39 +65,47 @@ TODO: Update with markov chains
 function generateEmojis(num, startEmoji) {
   var numEmojis = num; //113; //id 56 is the center
   let words = [];
+  let wordsOccurences = [];
   let emojis = [];
 
   try {
 
     var startEmojiWords = [startEmoji];
 
-      if (startEmoji.includes(' ')) {
-        startEmojiWords = startEmojiWords.concat(startEmoji.split(' '));
-      }
-      startEmojiWords.forEach(emojiWord => {
-        console.log(emojiWord);
-        do {
-          var complete = false;
-          var markovWords = generator.generate({
-            wordToStart: emojiWord,
-            minWordCount: 1
-          });
-          var tokens = generator.wordStorage.get(emojiWord);
-          if(tokens !== undefined){
-            console.dir(tokens.values);
+    if (startEmoji.includes(' ')) {
+      startEmojiWords = startEmojiWords.concat(startEmoji.replace(',','').replace(':', '').split(' '));
+    }
+    startEmojiWords.forEach(emojiWord => {
+      console.log(emojiWord);
+        var tokens = generator.wordStorage.get(emojiWord);
+        var arrTokens = [];
+        if (tokens !== undefined) {
+          arrTokens = [...tokens.values.keys()];
+          if (arrTokens !== undefined) {
+            for (let i = 0; i < arrTokens.length; i++) {
+              arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
+            }
+            arrTokens.sort((a, b) => b[1] - a[1]);
+            console.log("First", arrTokens[0]);
+            console.log("Last", arrTokens[arrTokens.length - 1]);
           }
-          //console.dir("found: " + str);
-          if (typeof markovWords !== undefined && markovWords[1] !== undefined && words.includes(markovWords[1])  === false) { //If word has been returned
-            words.push(markovWords[1]);
+        }
+        arrTokens.forEach(token => {
+          if(words.includes(token[0]) === false){
+            wordsOccurences.push(token);
+            words.push(token[0]);
           }
-          else{
-            complete = true;
-          }  
-        } while (markovWords !== undefined && !complete);    
-      });
+        });
+    });
+    words = [];
+    wordsOccurences.sort((a, b) => b[1] - a[1]);
+    wordsOccurences.forEach(token => {
+      words.push(token[0]);
+    });
+
     for (let index = 0; index < words.length; index++) {
       var hex = getHexcode(words[index]);
-      if(hex !== -1 && emojis.length < num){
+      if (hex !== -1 && emojis.length < num) {
         emojis.push(hex);
       }
     }
@@ -111,7 +119,7 @@ function generateEmojis(num, startEmoji) {
   while (emojis.length < num) {
     var r = Math.floor(Math.random() * (openmoji.openmojis.length - 1));
     var rHex = openmoji.openmojis[r].hexcode;
-    if(emojis.indexOf(rHex) === -1) emojis.push(rHex);
+    if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
   }
 
   // if (emojis.length < num) {
