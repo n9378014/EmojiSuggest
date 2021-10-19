@@ -21,38 +21,39 @@ for (let index = 0; index < numEmojis; index++) {
 var tempmojis = [[]];
 for (let index = 0; index < numEmojis; index++) {
   tempmojis[0].push(openmoji.openmojis[3073].hexcode)
- }
- 
-const cat1Index = [0, 1, 2, 3, 4, 5,
+}
+
+const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal TODO: Reverse order
   19, 20, 21, 22, 23, 24,
   37, 38, 39, 40, 41, 42, 43,
   56, 57, 58, 59, 60, 61, 62,
   74, 75, 76, 77, 78, 79, 80, 81,
   93, 94, 95, 96, 97, 98, 99]; //100
 
-const cat2Index = [7, 8, 9, 10, 11,
+const cat2Index = [7, 8, 9, 10, 11, //Top middle petal //TODO: reverse order
   26, 27, 28, 29,
   45, 46, 47,
   64, 65,
   83];
 
-const cat3Index = [13, 14, 15, 16, 17, 18,
-                  31, 32, 33, 34, 35, 36,
-                  49, 50, 51, 52, 53, 54, 55,
-                  67, 68, 69, 70, 71, 72, 73,
-                  85, 86, 87, 88, 89, 90, 91, 92,
-                  103, 104, 105, 106, 107, 108, 109, 110];
+const cat3Index = [13, 14, 15, 16, 17, 18, //Top right petal TODO: Reverse order
+  31, 32, 33, 34, 35, 36,
+  49, 50, 51, 52, 53, 54, 55,
+  67, 68, 69, 70, 71, 72, 73,
+  85, 86, 87, 88, 89, 90, 91, 92,
+  103, 104, 105, 106, 107, 108, 109, 110];
 
-const cat4Index = []; //137
-const cat5Index = [];
-const cat6Index = [];
+const cat4Index = []; //Bottom left petal
+const cat5Index = []; //Bottom middle petal
+const cat6Index = []; //Bottom right petal
 
+//Single emoji rows, fanning out from center:
 const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129]; //Line heading right from center
 const cat8Index = [139, 158, 177, 196, 215, 234, 253]; //Line heading right-down from center
 const cat9Index = [138, 156, 174, 192, 210, 228, 246]; //Line heading left-down from center
-const cat10Index = [111, 112, 113, 114, 115, 116, 117, 118, 119]; //Line heading left from center
-const cat11Index = [6, 25, 44, 63, 82, 101]; //Line heading left-up from center
-const cat12Index = [12, 30, 48, 66, 84, 102]; //Line heading right-up from center
+const cat10Index = [119, 118, 117, 116, 115, 114, 113, 112, 111]; //Line heading left from center
+const cat11Index = [101, 82, 63, 44, 25, 6]; //Line heading left-up from center
+const cat12Index = [102, 84, 66, 48, 30, 12]; //Line heading right-up from center
 
 let imageURLs = new Array(numEmojis);
 
@@ -64,10 +65,10 @@ const Hexgrid = () => {
 
   function getTileColour(tileIndex) {
     let colour = 'white';
-    if(cat7Index.includes(tileIndex) || cat8Index.includes(tileIndex) || cat9Index.includes(tileIndex) || cat10Index.includes(tileIndex) || cat11Index.includes(tileIndex) || cat12Index.includes(tileIndex)){
+    if (cat7Index.includes(tileIndex) || cat8Index.includes(tileIndex) || cat9Index.includes(tileIndex) || cat10Index.includes(tileIndex) || cat11Index.includes(tileIndex) || cat12Index.includes(tileIndex)) {
       colour = 'white'; //white
     }
-    else{
+    else {
       colour = '#dbf7fd';//'blue;
     }
     // if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory)) { //If tile is part of emoji history
@@ -114,25 +115,25 @@ const Hexgrid = () => {
       });
     }
 
-      /*
-      Insert emoji history into active tiles
-      */
-      if (emojiHistory.length >= 1) {
-        for (let i = 0; i < emojiHistory.length; i++) {
-          if (center - i - 1 >= (center - lenHistory)) {
-            hexcodes[center - i -1] = emojiHistory[emojiHistory.length - 2 - i];
-          }
+    /*
+    Insert emoji history into active tiles
+    */
+    if (emojiHistory.length >= 1) {
+      for (let i = 0; i < emojiHistory.length; i++) {
+        if (center - i - 1 >= (center - lenHistory)) {
+          hexcodes[center - i - 1] = emojiHistory[emojiHistory.length - 2 - i];
         }
       }
+    }
 
-      // if (emojiHistory.length >= 1) {
-      //   values[0][center] = emojiHistory[emojiHistory.length-1];
-      //   for (let i = 0; i < emojiHistory.length-1; i++) {
-      //     if (center - i -1> 49) {
-      //       values[0][center - i - 2] = emojiHistory[emojiHistory.length - 1 - i];
-      //     }
-      //   }
-      // }
+    // if (emojiHistory.length >= 1) {
+    //   values[0][center] = emojiHistory[emojiHistory.length-1];
+    //   for (let i = 0; i < emojiHistory.length-1; i++) {
+    //     if (center - i -1> 49) {
+    //       values[0][center - i - 2] = emojiHistory[emojiHistory.length - 1 - i];
+    //     }
+    //   }
+    // }
 
     /*
     Map hexcodes to tiles 
@@ -221,9 +222,9 @@ const Hexgrid = () => {
     })
   }
 
-    /*  
-  Get markov blends
-  */
+  /*  
+Get markov blends
+*/
   function getMarkovBlendHexcodes(hexcode, limit) {
     return new Promise((resolve, reject) => {
       var obj;
@@ -241,7 +242,7 @@ const Hexgrid = () => {
     let newEmojis = emojiHistory;
     for (let i = 0; i < num; i++) {
       newEmojis.push(hexcode);
-      if (newEmojis.length > lenHistory+1) {
+      if (newEmojis.length > lenHistory + 1) {
         newEmojis.shift();
       }
     }
@@ -263,17 +264,17 @@ const Hexgrid = () => {
 
     if (id === center) {
       var imgURL = '';
-    
+
       if (Array.isArray(hexcode)) { //Then hexcode is a blend
         imgURL = "/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
       else { //it is a single emoji character
         imgURL = "/images/" + hexcode + ".png";
       }
-  
+
       saveAs(imgURL, 'blend.png');
     }
-    else if(hexcode !== '1F504'){
+    else if (hexcode !== '1F504') {
       updateEmojiHistory(hexcode, 1); //Add clicked emoji to emoji history
 
       /*
@@ -282,12 +283,12 @@ const Hexgrid = () => {
       setEmojiTiles(tmpTileObj);
 
       //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
-      if(Array.isArray(hexcode)){ //Then hexcode is a blend
+      if (Array.isArray(hexcode)) { //Then hexcode is a blend
         hexcode = hexcode[1];
       }
-  
+
       //Get hexcodes for new tiles, then assign them to tiles:
-      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length),getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
+      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length), getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
         //Substitute blendedHexcodes into hexcodes where appropriate:
         if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
           cat1Index.forEach(index => {
@@ -307,10 +308,10 @@ const Hexgrid = () => {
 
         values[0][100] = values[3]; //Make this one a blend between current and most recent history
         values[0][137] = values[4]; //Make this one a blend between current and most recent history
-  
+
         //Insert emoji history into active tiles:
         if (emojiHistory.length >= 1) {
-          values[0][center] = emojiHistory[emojiHistory.length-1];
+          values[0][center] = emojiHistory[emojiHistory.length - 1];
           for (let i = 0; i < emojiHistory.length; i++) {
             if (center - i - 1 >= (center - lenHistory)) {
               values[0][center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
@@ -324,12 +325,13 @@ const Hexgrid = () => {
           resolve();
         });
         tilePromise
-          .then(() => { setEmojiTiles(newTileObj);           console.log(values);
+          .then(() => {
+            setEmojiTiles(newTileObj); console.log(values);
           }).catch(error => {
             console.log("Something went wrong with the tilePromise.")
             console.error(error.message)
           });
-  
+
         //newTileObj = newTileObject(values, hexcode); //gen tiles then return them
       }).catch(error => {
         console.error(error.message)
@@ -345,8 +347,8 @@ const Hexgrid = () => {
     /*
       Fill the emoji history with placeholders
     */
-    updateEmojiHistory(openmoji.openmojis[3073].hexcode, lenHistory+1 );
-    
+    updateEmojiHistory(openmoji.openmojis[3073].hexcode, lenHistory + 1);
+
     /*
       TODO: Replace this with a call to the getrandoms function
     */
