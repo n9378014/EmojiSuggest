@@ -239,9 +239,6 @@ function getBlendHexcode(num, startEmoji) {
         })
   }
 
-const promise3 = new Promise((resolve, reject) => {
-    var emojis = generateEmojis(limit, emojiName);
-  });
 /*
 */
 router.get("/:emojihex", function (req, res, next) {
@@ -252,24 +249,19 @@ router.get("/:emojihex", function (req, res, next) {
 
     Promise.all([getBlendHexcode(limit, emojiName)]).then((values) => {
         var randomEmojis = values[0];
-        console.log("Emoji length: " + randomEmojis.length);
-        console.log("Limit" + limit);
     
         var hexcodesProcessed = 0;
         randomEmojis.forEach(async emoji => {
             //randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
             randomEmojis[randomEmojis.indexOf(emoji)] = [hexcode, emoji];
             //Create image files here:
-            console.log(randomEmojis.length);
             var fileName = hexcode + emoji + '.png';
             await combineEmoji(hexcode, emoji, function (err) {
                 //console.log("Emoji blended");
                 hexcodesProcessed++;
-                console.log("Hexes processed: " + hexcodesProcessed);
                 if (hexcodesProcessed === randomEmojis.length) {
                     //Save to database:
                     //sessions.create(hexcode, randomEmojis.toString());
-                    console.log("FINISHED!");
     
                     //Format blends and send:
                     var jsonBlends = JSON.stringify(randomEmojis);

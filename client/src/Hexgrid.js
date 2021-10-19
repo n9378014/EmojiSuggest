@@ -42,7 +42,13 @@ const cat3Index = [13, 14, 15, 16, 17, 18,
 const cat4Index = []; //137
 const cat5Index = [];
 const cat6Index = [];
+
 const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129]; //Line heading right from center
+const cat8Index = [139, 158, 177, 196, 215, 234, 253]; //Line heading right-down from center
+const cat9Index = [138, 156, 174, 192, 210, 228, 246]; //Line heading left-down from center
+const cat10Index = []; //Line heading left from center
+const cat11Index = []; //Line heading left-up from center
+const cat12Index = []; //Line heading right-up from center
 
 let imageURLs = new Array(numEmojis);
 
@@ -53,9 +59,15 @@ const Hexgrid = () => {
 
   function getTileColour(tileIndex) {
     let colour = 'white';
-    if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory)) { //If tile is part of emoji history
-      colour = '#dbf7fd';//'#d4d4d4';
+    if(cat7Index.includes(tileIndex) || cat8Index.includes(tileIndex) || cat9Index.includes(tileIndex) || cat10Index.includes(tileIndex) || cat11Index.includes(tileIndex) || cat12Index.includes(tileIndex)){
+      colour = 'white'; //white
     }
+    else{
+      colour = '#dbf7fd';//'blue;
+    }
+    // if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory)) { //If tile is part of emoji history
+    //   colour = '#dbf7fd';//'#d4d4d4';
+    // }
     if (tileIndex === center) { //If active emoji tile
       colour = '#a4eefc';
     }
