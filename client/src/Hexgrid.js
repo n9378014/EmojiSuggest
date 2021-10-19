@@ -18,7 +18,11 @@ const defaultEmojis = [];
 for (let index = 0; index < numEmojis; index++) {
   defaultEmojis.push(openmoji.openmojis[3073].hexcode);
 }
-
+var tempmojis = [[]];
+for (let index = 0; index < numEmojis; index++) {
+  tempmojis[0].push(openmoji.openmojis[3073].hexcode)
+ }
+ 
 const cat1Index = [0, 1, 2, 3, 4, 5,
   19, 20, 21, 22, 23, 24,
   37, 38, 39, 40, 41, 42, 43,
@@ -56,6 +60,7 @@ const Hexgrid = () => {
   const [emojiHistory, setEmojiHistory] = useState([]);
   var iniTileObj = newTileObject([defaultEmojis]);
   const [emojiTiles, setEmojiTiles] = useState(iniTileObj); //
+  const tmpTileObj = newTileObject(tempmojis, openmoji.openmojis[3073].hexcode);
 
   function getTileColour(tileIndex) {
     let colour = 'white';
@@ -272,9 +277,10 @@ const Hexgrid = () => {
       updateEmojiHistory(hexcode, 1); //Add clicked emoji to emoji history
 
       /*
-      TODO: Replace all emoji with 'loading' emoji with no click handler
+      Replace all emoji with 'loading' that can't be clicked
       */
-  
+      setEmojiTiles(tmpTileObj);
+
       //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
       if(Array.isArray(hexcode)){ //Then hexcode is a blend
         hexcode = hexcode[1];
@@ -298,7 +304,7 @@ const Hexgrid = () => {
           });
 
         }
-  
+
         values[0][100] = values[3]; //Make this one a blend between current and most recent history
         values[0][137] = values[4]; //Make this one a blend between current and most recent history
   
@@ -311,14 +317,15 @@ const Hexgrid = () => {
             }
           }
         }
-  
+
         var newTileObj;
         const tilePromise = new Promise((resolve, reject) => {
           newTileObj = newTileObject(values, hexcode);
           resolve();
         });
         tilePromise
-          .then(() => { setEmojiTiles(newTileObj); }).catch(error => {
+          .then(() => { setEmojiTiles(newTileObj);           console.log(values);
+          }).catch(error => {
             console.log("Something went wrong with the tilePromise.")
             console.error(error.message)
           });
