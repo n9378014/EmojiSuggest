@@ -42,7 +42,7 @@ const cat3Index = [13, 14, 15, 16, 17, 18,
 const cat4Index = []; //137
 const cat5Index = [];
 const cat6Index = [];
-const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129];
+const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129]; //Line heading right from center
 
 let imageURLs = new Array(numEmojis);
 
@@ -192,12 +192,25 @@ const Hexgrid = () => {
   }
 
   /*  
-  Get markov blends
+  Get markov emojis
   */
   function getMarkovHexcodes(hexcode) {
     return new Promise((resolve, reject) => {
       var obj;
       fetch("/api/markovhexcodes/" + hexcode + "?limit=" + cat7Index.length.toString())
+        .then(res => res.json())
+        .then(data => obj = JSON.parse(data))
+        .then(() => { resolve(obj); })
+    })
+  }
+
+    /*  
+  Get markov blends
+  */
+  function getMarkovBlendHexcodes(hexcode, limit) {
+    return new Promise((resolve, reject) => {
+      var obj;
+      fetch("/api/markovblendhexcodes/" + hexcode + "?limit=" + limit.toString())
         .then(res => res.json())
         .then(data => obj = JSON.parse(data))
         .then(() => { resolve(obj); })
@@ -256,7 +269,7 @@ const Hexgrid = () => {
       }
   
       //Get hexcodes for new tiles, then assign them to tiles:
-      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode)]).then((values) => {
+      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length),getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
         //Substitute blendedHexcodes into hexcodes where appropriate:
         if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
           cat1Index.forEach(index => {
@@ -265,7 +278,13 @@ const Hexgrid = () => {
           cat7Index.forEach(index => {
             values[0][index] = values[2][cat7Index.indexOf(index)];
           });
-  
+          cat2Index.forEach(index => {
+            values[0][index] = values[5][cat2Index.indexOf(index)];
+          });
+          cat3Index.forEach(index => {
+            values[0][index] = values[6][cat3Index.indexOf(index)];
+          });
+
         }
   
         values[0][100] = values[3]; //Make this one a blend between current and most recent history

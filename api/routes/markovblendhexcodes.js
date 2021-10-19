@@ -5,9 +5,32 @@ var parseString = require('xml2js').parseString;
 const fs = require('fs');
 const openmoji = require('openmoji');
 const Markov = require('node-markov-generator');
+const sharp = require('sharp')
 
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
+
+var combineEmoji = function (hex1, hex2, callback) {
+    sharp('./public/images/' + hex1 + '.png')
+        .resize({
+            fit: sharp.fit.contain,
+            height: 350
+        })
+        .toBuffer({ resolveWithObject: true })
+        .then(({ data, info }) => {
+            sharp('./public/images/' + hex2 + '.png')
+                .resize(618, 618)
+                .composite([{
+                    input: data, gravity: 'southeast'
+                }])
+                .toFile('./public/blends/' + hex1 + hex2 + '.png', function (err) {
+                    callback();
+                });
+        })
+        .catch(err => {
+            console.log("RandomBlendHexcodes Error: ", err);
+        });
+}
 
 /*
 TODO: 
@@ -138,18 +161,128 @@ function generateEmojis(num, startEmoji) {
     return emojis;
 }
 
+function getBlendHexcode(num, startEmoji) {
+    return new Promise((resolve, reject) => {
+        var numEmojis = num; //113; //id 56 is the center
+        let words = [];
+        let wordsOccurences = [];
+        let emojis = [];
+    
+        try {
+    
+            var startEmojiWords = [startEmoji];
+    
+            if (startEmoji.includes(' ')) {
+                startEmojiWords = startEmojiWords.concat(startEmoji.replace(',', '').replace(':', '').split(' '));
+            }
+            startEmojiWords.forEach(emojiWord => {
+                // const generator = new Markov.TextGenerator(corpusPath);
+                // const result = generator.generate({
+                //   wordToStart: emojiWord,
+                //   minWordCount: 1,
+                //   maxWordCount: 1
+                // });
+    
+                var tokens = generator.wordStorage.get(emojiWord);
+                var arrTokens = [];
+                if (tokens !== undefined) {
+                    arrTokens = [...tokens.values.keys()];
+                    if (arrTokens !== undefined) {
+                        for (let i = 0; i < arrTokens.length; i++) {
+                            arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
+                        }
+                        arrTokens.sort((a, b) => b[1] - a[1]);
+                        console.log("First", arrTokens[0]);
+                        console.log("Last", arrTokens[arrTokens.length - 1]);
+                    }
+                }
+                arrTokens.forEach(token => {
+                    if (words.includes(token[0]) === false) {
+                        wordsOccurences.push(token);
+                        words.push(token[0]);
+                    }
+                });
+            });
+            words = [];
+            wordsOccurences.sort((a, b) => b[1] - a[1]);
+            wordsOccurences.forEach(token => {
+                words.push(token[0]);
+            });
+    
+            for (let index = 0; index < words.length; index++) {
+                var hex = getHexcode(words[index]);
+                if (hex !== -1 && emojis.length < num) {
+                    emojis.push(hex);
+                }
+            }
+    
+        } catch (error) {
+            console.log("Markov error", error);
+        }
+        console.log("Words: ", words);
+    
+        //If emoji array is still not long enough, fill with random emoji:
+        while (emojis.length < num) {
+            var r = Math.floor(Math.random() * (openmoji.openmojis.length - 1));
+            var rHex = openmoji.openmojis[r].hexcode;
+            if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
+        }
+    
+        // if (emojis.length < num) {
+        //   for (let i = emojis.length; i < num; i++) {
+        //     emojis.push('1F436');
+        //   }
+        // }
+        console.log("Emojis: ", emojis);
+    
+        resolve(emojis);
+        })
+  }
+
+const promise3 = new Promise((resolve, reject) => {
+    var emojis = generateEmojis(limit, emojiName);
+  });
 /*
 */
 router.get("/:emojihex", function (req, res, next) {
     var hexcode = req.params.emojihex
     var limit = req.query.limit;
-
     var emojiName = getAnnotation(hexcode);
     console.log("Starter emoji ID'd as: " + emojiName);
-    randomEmojis = generateEmojis(limit, emojiName);
 
-    var jsonEmojis = JSON.stringify(randomEmojis);
-    res.json(jsonEmojis);
+    Promise.all([getBlendHexcode(limit, emojiName)]).then((values) => {
+        var randomEmojis = values[0];
+        console.log("Emoji length: " + randomEmojis.length);
+        console.log("Limit" + limit);
+    
+        var hexcodesProcessed = 0;
+        randomEmojis.forEach(async emoji => {
+            //randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
+            randomEmojis[randomEmojis.indexOf(emoji)] = [hexcode, emoji];
+            //Create image files here:
+            console.log(randomEmojis.length);
+            var fileName = hexcode + emoji + '.png';
+            await combineEmoji(hexcode, emoji, function (err) {
+                //console.log("Emoji blended");
+                hexcodesProcessed++;
+                console.log("Hexes processed: " + hexcodesProcessed);
+                if (hexcodesProcessed === randomEmojis.length) {
+                    //Save to database:
+                    //sessions.create(hexcode, randomEmojis.toString());
+                    console.log("FINISHED!");
+    
+                    //Format blends and send:
+                    var jsonBlends = JSON.stringify(randomEmojis);
+                    res.json(jsonBlends);
+                }    
+            });
+        });
+    
+      });
+    //randomEmojis = getBlendHexcode(limit, emojiName);//generateEmojis(limit, emojiName);
+
+    // var jsonEmojis = JSON.stringify(randomEmojis);
+    // res.json(jsonEmojis);
 });
 
 
