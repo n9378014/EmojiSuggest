@@ -23,6 +23,7 @@ for (let index = 0; index < numEmojis; index++) {
   tempmojis[0].push(openmoji.openmojis[3073].hexcode)
 }
 
+
 const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal 
   19, 20, 21, 22, 23, 24,
   37, 38, 39, 40, 41, 42, 43,
@@ -252,6 +253,13 @@ Get markov blends
   function getBlendHexcode(hexcode1, hexcode2) {
     return new Promise((resolve, reject) => {
       var obj;
+      if (Array.isArray(hexcode1)) {
+        hexcode1 = hexcode1[0];
+      }
+      if (Array.isArray(hexcode2)) {
+        hexcode2 = hexcode2[0];
+      }
+
       fetch("/api/blendemojis/" + hexcode1 + "/" + hexcode2)
         .then(res => res.json())
         .then(() => { obj = [hexcode1, hexcode2]; })
@@ -281,10 +289,11 @@ Get markov blends
       Replace all emoji with 'loading' that can't be clicked
       */
       setEmojiTiles(tmpTileObj);
+      console.log("Hex: " + hexcode);
 
       //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
       if (Array.isArray(hexcode)) { //Then hexcode is a blend
-        hexcode = hexcode[1];
+        hexcode = hexcode[1]; console.log("BLEND: " + hexcode);
       }
 
       //Get hexcodes for new tiles, then assign them to tiles:
@@ -292,8 +301,8 @@ Get markov blends
         //Substitute blendedHexcodes into hexcodes where appropriate:
         if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
           cat1Index.forEach(index => {
-              values[0][index] = values[1][cat1Index.indexOf(index)];
-            
+            values[0][index] = values[1][cat1Index.indexOf(index)];
+
           });
           cat7Index.forEach(index => {
             values[0][index] = values[2][cat7Index.indexOf(index)];
@@ -307,12 +316,12 @@ Get markov blends
 
         }
 
-        if(emojiHistory[emojiHistory.length-2] !==  '1F504'){
+        if (emojiHistory[emojiHistory.length - 2] !== '1F504') {
           values[0][100] = values[3]; //Make this one a blend between current and most recent history
           values[0][137] = values[4]; //Make this one a blend between current and most recent history  
           cat1Index.forEach(index => {
             if (index !== 100) {
-              values[0][index] = values[0][index+1];
+              values[0][index] = values[0][index + 1];
             }
           });
         }
@@ -356,6 +365,10 @@ Get markov blends
   This is occuring twice according to the API terminal
   */
   window.addEventListener('DOMContentLoaded', (event) => {
+    const scroll = document.querySelector('.App');
+    scroll.scrollLeft = 350;
+    scroll.scrollTop = 350;
+
     /*
       Fill the emoji history with placeholders
     */

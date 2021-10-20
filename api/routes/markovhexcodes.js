@@ -5,6 +5,7 @@ var parseString = require('xml2js').parseString;
 const fs = require('fs');
 const openmoji = require('openmoji');
 const Markov = require('node-markov-generator');
+const natural = require('natural');
 
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
@@ -86,10 +87,22 @@ function generateEmojis(num, startEmoji) {
               arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
             }
             arrTokens.sort((a, b) => b[1] - a[1]);
-            console.log("First", arrTokens[0]);
-            console.log("Last", arrTokens[arrTokens.length - 1]);
+            // console.log("First", arrTokens[0]);
+            // console.log("Last", arrTokens[arrTokens.length - 1]);
           }
         }
+        else{
+          stemmer = natural.PorterStemmer;
+          tokens = generator.wordStorage.get(stemmer.stem(emojiWord));
+          if (tokens !== undefined) {
+              arrTokens = [...tokens.values.keys()];
+              for (let i = 0; i < arrTokens.length; i++) {
+                  arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
+              }
+              arrTokens.sort((a, b) => b[1] - a[1]);
+          }
+      }
+
         arrTokens.forEach(token => {
           if(words.includes(token[0]) === false){
             wordsOccurences.push(token);
@@ -113,7 +126,7 @@ function generateEmojis(num, startEmoji) {
   } catch (error) {
     console.log("Markov error", error);
   }
-  console.log("Words: ", words);
+  //console.log("Words: ", words);
 
   //If emoji array is still not long enough, fill with random emoji:
   while (emojis.length < num) {
@@ -127,7 +140,7 @@ function generateEmojis(num, startEmoji) {
   //     emojis.push('1F436');
   //   }
   // }
-  console.log("Emojis: ", emojis);
+  //console.log("Emojis: ", emojis);
 
   return emojis;
 }

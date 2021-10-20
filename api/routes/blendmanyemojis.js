@@ -24,7 +24,7 @@ var combineEmoji = function (hex1, hex2, callback) {
                 });
         })
         .catch(err => {
-            console.log("Error: ", err);
+            console.log("blendmanyemoji Error: ", err);
         });
 }
 
