@@ -28,7 +28,7 @@ const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal
   37, 38, 39, 40, 41, 42, 43,
   56, 57, 58, 59, 60, 61, 62,
   74, 75, 76, 77, 78, 79, 80, 81,
-  93, 94, 95, 96, 97, 98, 99].reverse(); //100
+  93, 94, 95, 96, 97, 98, 99, 100].reverse(); //100
 
 const cat2Index = [7, 8, 9, 10, 11, //Top middle petal 
   26, 27, 28, 29,
@@ -292,7 +292,8 @@ Get markov blends
         //Substitute blendedHexcodes into hexcodes where appropriate:
         if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
           cat1Index.forEach(index => {
-            values[0][index] = values[1][cat1Index.indexOf(index)];
+              values[0][index] = values[1][cat1Index.indexOf(index)];
+            
           });
           cat7Index.forEach(index => {
             values[0][index] = values[2][cat7Index.indexOf(index)];
@@ -306,8 +307,19 @@ Get markov blends
 
         }
 
-        values[0][100] = values[3]; //Make this one a blend between current and most recent history
-        values[0][137] = values[4]; //Make this one a blend between current and most recent history
+        if(emojiHistory[emojiHistory.length-2] !==  '1F504'){
+          values[0][100] = values[3]; //Make this one a blend between current and most recent history
+          values[0][137] = values[4]; //Make this one a blend between current and most recent history  
+          cat1Index.forEach(index => {
+            if (index !== 100) {
+              values[0][index] = values[0][index+1];
+            }
+          });
+        }
+        // else{
+        //   // values[0][100] = values[3][0]; 
+        //   // values[0][137] = values[4][1];   
+        // }
 
         //Insert emoji history into active tiles:
         if (emojiHistory.length >= 1) {
