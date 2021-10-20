@@ -23,25 +23,25 @@ for (let index = 0; index < numEmojis; index++) {
   tempmojis[0].push(openmoji.openmojis[3073].hexcode)
 }
 
-const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal TODO: Reverse order
+const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal 
   19, 20, 21, 22, 23, 24,
   37, 38, 39, 40, 41, 42, 43,
   56, 57, 58, 59, 60, 61, 62,
   74, 75, 76, 77, 78, 79, 80, 81,
-  93, 94, 95, 96, 97, 98, 99]; //100
+  93, 94, 95, 96, 97, 98, 99].reverse(); //100
 
-const cat2Index = [7, 8, 9, 10, 11, //Top middle petal //TODO: reverse order
+const cat2Index = [7, 8, 9, 10, 11, //Top middle petal 
   26, 27, 28, 29,
   45, 46, 47,
   64, 65,
-  83];
+  83].reverse();
 
-const cat3Index = [13, 14, 15, 16, 17, 18, //Top right petal TODO: Reverse order
+const cat3Index = [13, 14, 15, 16, 17, 18, //Top right petal
   31, 32, 33, 34, 35, 36,
   49, 50, 51, 52, 53, 54, 55,
   67, 68, 69, 70, 71, 72, 73,
   85, 86, 87, 88, 89, 90, 91, 92,
-  103, 104, 105, 106, 107, 108, 109, 110];
+  103, 104, 105, 106, 107, 108, 109, 110].reverse();
 
 const cat4Index = []; //Bottom left petal
 const cat5Index = []; //Bottom middle petal
@@ -66,16 +66,16 @@ const Hexgrid = () => {
   function getTileColour(tileIndex) {
     let colour = 'white';
     if (cat7Index.includes(tileIndex) || cat8Index.includes(tileIndex) || cat9Index.includes(tileIndex) || cat10Index.includes(tileIndex) || cat11Index.includes(tileIndex) || cat12Index.includes(tileIndex)) {
-      colour = 'white'; //white
+      colour = '#dbf7fd'; //white
     }
     else {
-      colour = '#dbf7fd';//'blue;
+      colour = 'white';//'blue;
     }
     // if (tileIndex <= (center - 1) && tileIndex >= (center - lenHistory)) { //If tile is part of emoji history
     //   colour = '#dbf7fd';//'#d4d4d4';
     // }
     if (tileIndex === center) { //If active emoji tile
-      colour = '#a4eefc';
+      colour = '#a4eefc'; //blue
     }
     return colour;
   }
