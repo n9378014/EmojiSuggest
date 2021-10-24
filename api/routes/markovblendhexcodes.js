@@ -11,6 +11,8 @@ var natural = require('natural');
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 
+var dataRecord = require('../models/recorddata');
+
 var combineEmoji = function (hex1, hex2, callback) {
     sharp('./public/images/' + hex1 + '.png')
         .resize({
@@ -178,7 +180,7 @@ function getBlendHexcode(num, startEmoji) {
 /*
 */
 router.get("/:emojihex", function (req, res, next) {
-    var hexcode = req.params.emojihex
+    var hexcode = req.params.emojihex;
     var limit = req.query.limit;
     var emojiName = getAnnotation(hexcode);
     console.log("Starter emoji ID'd as: " + emojiName);
@@ -208,7 +210,7 @@ router.get("/:emojihex", function (req, res, next) {
     
       });
     //randomEmojis = getBlendHexcode(limit, emojiName);//generateEmojis(limit, emojiName);
-
+    //dataRecord.save(hexcode);
     // var jsonEmojis = JSON.stringify(randomEmojis);
     // res.json(jsonEmojis);
 });

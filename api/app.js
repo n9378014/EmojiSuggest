@@ -7,8 +7,6 @@ var cors = require("cors");
 var findRemoveSync = require('find-remove');
 
 var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-var testAPIRouter = require("./routes/testAPI");
 var emojiblendsRouter = require("./routes/emojiblends");
 var randomHexcodesRouter = require("./routes/randomhexcodes");
 var randomBlendHexcodesRouter = require("./routes/randomblendhexcodes");
@@ -42,7 +40,6 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-//app.use('/users', usersRouter, cors(corsOptions));
 app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
 app.use("/api/randomhexcodes", randomHexcodesRouter, cors(corsOptions));
 app.use("/api/randomblendhexcodes", randomBlendHexcodesRouter, cors(corsOptions));
@@ -72,12 +69,11 @@ TODO: Move this to markovhexcodes. And find better corpus
 
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.
-TODO: Replace console output with something more sensible.
 */
 setInterval(function(){ 
   const result = findRemoveSync(path.join(__dirname + '/public/blends'), {age: { seconds: 1800 }, extensions: '.png' });
   if(Object.keys(result).length < 0){
-    console.log('Ah yes "' + result + '", we have dismissed that data.');
+    console.log('The following files have been deleted: ' + result);
   }
 }, 300000);
 

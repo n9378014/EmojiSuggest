@@ -9,6 +9,7 @@ const natural = require('natural');
 
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
+var dataRecord = require('../models/recorddata');
 
 /*
 TODO: 
@@ -154,9 +155,11 @@ router.get("/:emojihex", function (req, res, next) {
   var emojiName = getAnnotation(hexcode);
   console.log("Starter emoji ID'd as: " + emojiName);
   randomEmojis = generateEmojis(limit, emojiName);
-
+  dataRecord.save(hexcode);
   var jsonEmojis = JSON.stringify(randomEmojis);
+  console.log(jsonEmojis);
   res.json(jsonEmojis);
+
 });
 
 
