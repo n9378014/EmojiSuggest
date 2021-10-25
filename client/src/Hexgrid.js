@@ -266,10 +266,34 @@ Get markov blends
         .then(() => { resolve(obj); })
     })
   }
+  function getVarietyHexcodes(hexcode, limit) {
+    return new Promise((resolve, reject) => {
+      var obj;
+      if (Array.isArray(hexcode)) {
+        hexcode = hexcode[0];
+      }
+
+      fetch("/api/variety/" + hexcode + "?limit=" + limit.toString())
+        .then(res => res.json())
+        .then(data => { obj = JSON.parse(data); })
+        .then(() => { resolve(obj); })
+        .catch(error => {
+          console.error(error.message)
+        });
+    })
+  }
+
 
   const handleClick = (id, hexcode, e) => {
     console.log(hexcode + ' was clicked. ID is ' + id);
+    // Promise.all([getVarietyHexcodes(hexcode, numEmojis)]).then((values) => {
+    //   console.log("Variety happends");
+    //   console.log(values);
+    // }).catch(error => {
+    //   console.error(error.message)
+    // });
 
+    
     if (id === center) {
       var imgURL = '';
 

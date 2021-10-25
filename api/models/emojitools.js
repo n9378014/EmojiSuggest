@@ -20,6 +20,15 @@ module.exports = {
             }
         }
     },
+    isHexcode: function (hex) {
+        const result = openmoji.openmojis.find(({ hexcode }) => hexcode === hex);
+        if (result !== undefined) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    },
     /*
     Gets the hexcode of an emoji based on it's annotation, 
     returns -1 if word is not an emoji

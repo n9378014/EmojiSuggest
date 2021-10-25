@@ -1,83 +1,17 @@
-var express = require("express");
-var router = express.Router();
-var path = require('path');
-var parseString = require('xml2js').parseString;
+const express = require("express");
+const router = express.Router();
+const path = require('path');
+const parseString = require('xml2js').parseString;
 const fs = require('fs');
-const openmoji = require('openmoji');
-const Markov = require('node-markov-generator');
-const natural = require('natural');
 
-var corpus = fs.readFileSync('corpus.txt').toString().split(",");
-var generator = new Markov.TextGenerator(corpus);
-var dataRecord = require('../models/recorddata');
-var emojiTools = require('../models/emojitools');
-var emojiGen = require('../models/emojigenerators');
+const dataRecord = require('../models/recorddata');
+const emojiTools = require('../models/emojitools');
+const emojiGen = require('../models/emojigenerators');
 
 /*
 */
-function generateEmojis(num, startEmoji) {
-  var numEmojis = num; //113; //id 56 is the center
-  let words = [];
-  let wordsOccurences = [];
-  let emojis = [];
-
-  try {
-
-    var startEmojiWords = [startEmoji];
-
-    if (startEmoji.includes(' ')) {
-      startEmojiWords = startEmojiWords.concat(startEmoji.replace(',','').replace(':', '').split(' '));
-    }
-    startEmojiWords.forEach(emojiWord => {
-      console.log(emojiWord);
-        var tokens = generator.wordStorage.get(emojiWord);
-        var arrTokens = [];
-        if (tokens !== undefined) {
-          arrTokens = [...tokens.values.keys()];
-          if (arrTokens !== undefined) {
-            for (let i = 0; i < arrTokens.length; i++) {
-              arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
-            }
-            arrTokens.sort((a, b) => b[1] - a[1]);
-            // console.log("First", arrTokens[0]);
-            // console.log("Last", arrTokens[arrTokens.length - 1]);
-          }
-        }
-        else{
-          stemmer = natural.PorterStemmer;
-          tokens = generator.wordStorage.get(stemmer.stem(emojiWord));
-          if (tokens !== undefined) {
-              arrTokens = [...tokens.values.keys()];
-              for (let i = 0; i < arrTokens.length; i++) {
-                  arrTokens[i] = [arrTokens[i], tokens.values.get(arrTokens[i]).numberOfOccurrences];
-              }
-              arrTokens.sort((a, b) => b[1] - a[1]);
-          }
-      }
-
-        arrTokens.forEach(token => {
-          if(words.includes(token[0]) === false){
-            wordsOccurences.push(token);
-            words.push(token[0]);
-          }
-        });
-    });
-    words = [];
-    wordsOccurences.sort((a, b) => b[1] - a[1]);
-    wordsOccurences.forEach(token => {
-      words.push(token[0]);
-    });
-
-    for (let index = 0; index < words.length; index++) {
-      var hex = emojiTools.getHexcode(words[index]);
-      if (hex !== -1 && emojis.length < numEmojis) {
-        emojis.push(hex);
-      }
-    }
-
-  } catch (error) {
-    console.log("Markov error", error);
-  }
+function generateEmojis(numEmojis, startEmoji) {
+  var emojis = emojiGen.markovEmojis(numEmojis, startEmoji);
 
   //If emoji array is still not long enough, fill with random emoji:
   if(emojis.length < numEmojis){
@@ -97,11 +31,10 @@ router.get("/:emojihex", function (req, res, next) {
   var emojiName = emojiTools.getAnnotation(hexcode);
   //console.log("Starter emoji ID'd as: " + emojiName);
   randomEmojis = generateEmojis(limit, emojiName);
-  dataRecord.save(hexcode);
+  dataRecord.saveSelected(hexcode);
   var jsonEmojis = JSON.stringify(randomEmojis);
   console.log(jsonEmojis);
   res.json(jsonEmojis);
-
 });
 
 

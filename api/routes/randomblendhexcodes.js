@@ -4,7 +4,8 @@ const openmoji = require('openmoji');
 
 const fs = require('fs');
 var path = require('path');
-var emojiTools = require('../models/emojitools');
+const emojiTools = require('../models/emojitools');
+const emojiGen = require('../models/emojigenerators');
 
 /*
 Recieves hexcode, and finds unrelated emoji blends. Returns array of hexcodes.
@@ -13,36 +14,11 @@ router.get("/:emojihex", function (req, res, next) {
     var hexcode = req.params.emojihex
     var limit = req.query.limit;
     var category = req.query.category;
-
-    /*
-    Placeholder of 8 blends, for testing purposes
-    */
-    let randomEmojis = [];
-    let numbers = [];
-
-    while (numbers.length < limit) {
-        var r = Math.floor(Math.random() * (openmoji.openmojis.length - 1));
-        numbers.push(r);
-    }
-
-    var hexcodesProcessed = 0;
-    numbers.forEach(async num => {
-        randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
-
-        //Create image files here:
-        var fileName = hexcode + openmoji.openmojis[num].hexcode + '.png';
-        await emojiTools.combineIcons(hexcode, openmoji.openmojis[num].hexcode, function (err) {
-            //console.log("Emoji blended");
-            hexcodesProcessed++;
-            if (hexcodesProcessed === numbers.length) {
-                //Save to database:
-                //sessions.create(hexcode, randomEmojis.toString());
-    
-                //Format blends and send:
-                var jsonBlends = JSON.stringify(randomEmojis);
-                res.json(jsonBlends);
-            }    
-        });
+    //var randomEmojis = [];
+    emojiGen.randomBlends(limit, hexcode, function (randomEmojis) {
+        //Format blends and send:
+        var jsonBlends = JSON.stringify(randomEmojis);
+        res.json(jsonBlends);
     });
 });
 

@@ -7,13 +7,13 @@ var cors = require("cors");
 var findRemoveSync = require('find-remove');
 
 var indexRouter = require('./routes/index');
-var emojiblendsRouter = require("./routes/emojiblends");
+//var emojiblendsRouter = require("./routes/emojiblends");
 var randomHexcodesRouter = require("./routes/randomhexcodes");
 var randomBlendHexcodesRouter = require("./routes/randomblendhexcodes");
 var blendEmojisRouter = require("./routes/blendemojis");
-var blendManyEmojisRouter = require("./routes/blendmanyemojis");
 var markovHexcodesRouter = require("./routes/markovhexcodes");
 var markovBlendHexcodesRouter = require("./routes/markovblendhexcodes");
+var varietyRouter = require("./routes/variety");
 
 var app = express();
 
@@ -40,14 +40,14 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
+app.use('/blends', express.static(__dirname + '/public'), cors(corsOptions));
+app.use("/api/blendemojis", blendEmojisRouter, cors(corsOptions));
 app.use("/api/randomhexcodes", randomHexcodesRouter, cors(corsOptions));
 app.use("/api/randomblendhexcodes", randomBlendHexcodesRouter, cors(corsOptions));
-app.use("/api/blendemojis", blendEmojisRouter, cors(corsOptions));
-app.use("/api/blendmanyemojis", blendManyEmojisRouter, cors(corsOptions));
-app.use('/blends', express.static(__dirname + '/public'), cors(corsOptions));
 app.use("/api/markovhexcodes", markovHexcodesRouter, cors(corsOptions));
 app.use("/api/markovblendhexcodes", markovBlendHexcodesRouter, cors(corsOptions));
+app.use("/api/variety", varietyRouter, cors(corsOptions));
+//app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
 
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.
