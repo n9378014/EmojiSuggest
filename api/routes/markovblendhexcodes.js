@@ -5,46 +5,12 @@ var parseString = require('xml2js').parseString;
 const fs = require('fs');
 const openmoji = require('openmoji');
 const Markov = require('node-markov-generator');
-const sharp = require('sharp')
 var natural = require('natural');
 
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 
 var emojiTools = require('../models/emojitools');
-
-/*
-Gets the hexcode of an emoji based on it's annotation
-*/
-function getHexcode(word) {
-    var result = openmoji.openmojis.find(({ annotation }) => annotation === word);
-    //console.log("Result returned, ", result.hexcode);
-    if (result !== undefined) {
-        return result.hexcode;
-    }
-    result = openmoji.openmojis.find(({ tags }) => tags === word);
-    //console.log("Result: ", result);
-    if (result !== undefined) {
-        return result.hexcode;
-    }
-    else {
-        return -1;
-    }
-}
-
-function getAnnotation(hex) {
-    const result = openmoji.openmojis.find(({ hexcode }) => hexcode === hex);
-    if (result.annotation.length > 0) {
-        if (Array.isArray(result.annotation)) {
-            return result.annotation[0];
-        } else {
-            return result.annotation;
-        }
-    }
-    return -1;
-}
-
-
 
 function getBlendHexcode(num, startEmoji) {
     return new Promise((resolve, reject) => {
@@ -107,7 +73,7 @@ function getBlendHexcode(num, startEmoji) {
             });
     
             for (let index = 0; index < words.length; index++) {
-                var hex = getHexcode(words[index]);
+                var hex = emojiTools.getHexcode(words[index]);
                 if (hex !== -1 && emojis.length < num) {
                     emojis.push(hex);
                 }
@@ -141,7 +107,7 @@ function getBlendHexcode(num, startEmoji) {
 router.get("/:emojihex", function (req, res, next) {
     var hexcode = req.params.emojihex;
     var limit = req.query.limit;
-    var emojiName = getAnnotation(hexcode);
+    var emojiName = emojiTools.getAnnotation(hexcode);
     console.log("Starter emoji ID'd as: " + emojiName);
 
     Promise.all([getBlendHexcode(limit, emojiName)]).then((values) => {

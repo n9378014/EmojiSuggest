@@ -2,14 +2,12 @@ var express = require("express");
 var router = express.Router();
 const openmoji = require('openmoji');
 
-const sharp = require('sharp')
 const fs = require('fs');
 var path = require('path');
-//const sessions = require("../controllers/session.controller.js");
 var emojiTools = require('../models/emojitools');
 
 /*
-Recieves hexcode, and finds related emoji blends. Returns array of hexcodes.
+Recieves hexcode, and finds unrelated emoji blends. Returns array of hexcodes.
 */
 router.get("/:emojihex", function (req, res, next) {
     var hexcode = req.params.emojihex

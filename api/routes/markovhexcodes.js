@@ -10,40 +10,9 @@ const natural = require('natural');
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 var dataRecord = require('../models/recorddata');
+var emojiTools = require('../models/emojitools');
 
 /*
-Gets the hexcode of an emoji based on it's annotation
-*/
-function getHexcode(word) {
-  var result = openmoji.openmojis.find(({ annotation }) => annotation === word);
-  //console.log("Result returned, ", result.hexcode);
-  if (result !== undefined) {
-    return result.hexcode;
-  }
-  result = openmoji.openmojis.find(({ tags }) => tags === word);
-  //console.log("Result: ", result);
-  if (result !== undefined) {
-    return result.hexcode;
-  }
-  else {
-    return -1;
-  }
-}
-
-function getAnnotation(hex) {
-  const result = openmoji.openmojis.find(({ hexcode }) => hexcode === hex);
-  if (result.annotation.length > 0) {
-    if (Array.isArray(result.annotation)) {
-      return result.annotation[0];
-    } else {
-      return result.annotation;
-    }
-  }
-  return -1;
-}
-
-/*
-TODO: Update with markov chains
 */
 function generateEmojis(num, startEmoji) {
   var numEmojis = num; //113; //id 56 is the center
@@ -99,8 +68,8 @@ function generateEmojis(num, startEmoji) {
     });
 
     for (let index = 0; index < words.length; index++) {
-      var hex = getHexcode(words[index]);
-      if (hex !== -1 && emojis.length < num) {
+      var hex = emojiTools.getHexcode(words[index]);
+      if (hex !== -1 && emojis.length < numEmojis) {
         emojis.push(hex);
       }
     }
@@ -117,13 +86,6 @@ function generateEmojis(num, startEmoji) {
     if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
   }
 
-  // if (emojis.length < num) {
-  //   for (let i = emojis.length; i < num; i++) {
-  //     emojis.push('1F436');
-  //   }
-  // }
-  //console.log("Emojis: ", emojis);
-
   return emojis;
 }
 
@@ -133,7 +95,7 @@ router.get("/:emojihex", function (req, res, next) {
   var hexcode = req.params.emojihex
   var limit = req.query.limit;
 
-  var emojiName = getAnnotation(hexcode);
+  var emojiName = emojiTools.getAnnotation(hexcode);
   //console.log("Starter emoji ID'd as: " + emojiName);
   randomEmojis = generateEmojis(limit, emojiName);
   dataRecord.save(hexcode);
