@@ -74,7 +74,7 @@ function getBlendHexcode(num, startEmoji) {
     
             for (let index = 0; index < words.length; index++) {
                 var hex = emojiTools.getHexcode(words[index]);
-                if (hex !== -1 && emojis.length < num) {
+                if (hex !== -1 && emojis.length < numEmojis) {
                     emojis.push(hex);
                 }
             }
