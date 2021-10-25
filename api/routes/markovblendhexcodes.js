@@ -15,9 +15,9 @@ router.get("/:emojihex", function (req, res, next) {
     var emojiName = emojiTools.getAnnotation(hexcode);
     console.log("Starter emoji ID'd as: " + emojiName);
 
-    Promise.all([emojiGen.markovBlends(limit, emojiName)]).then((values) => {
-        var randomEmojis = values[0];
-    
+    emojiGen.markovBlends(limit, emojiName, function (blends) {
+        var randomEmojis = blends;
+
         var hexcodesProcessed = 0;
         randomEmojis.forEach(async emoji => {
             //randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
@@ -37,7 +37,32 @@ router.get("/:emojihex", function (req, res, next) {
                 }    
             });
         });
-      });
+
+    });
+
+    // Promise.all([emojiGen.markovBlends(limit, emojiName)]).then((values) => {
+    //     var randomEmojis = values[0];
+    
+    //     var hexcodesProcessed = 0;
+    //     randomEmojis.forEach(async emoji => {
+    //         //randomEmojis.push([hexcode, openmoji.openmojis[num].hexcode]);
+    //         randomEmojis[randomEmojis.indexOf(emoji)] = [hexcode, emoji];
+    //         //Create image files here:
+    //         var fileName = hexcode + emoji + '.png';
+    //         await emojiTools.combineIcons(hexcode, emoji, function (err) {
+    //             //console.log("Emoji blended");
+    //             hexcodesProcessed++;
+    //             if (hexcodesProcessed === randomEmojis.length) {
+    //                 //Save to database:
+    //                 //sessions.create(hexcode, randomEmojis.toString());
+    
+    //                 //Format blends and send:
+    //                 var jsonBlends = JSON.stringify(randomEmojis);
+    //                 res.json(jsonBlends);
+    //             }    
+    //         });
+    //     });
+    //   });
 });
 
 

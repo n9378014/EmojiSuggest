@@ -122,8 +122,8 @@ module.exports = {
         }
         return emojis;
     },
-    markovBlends: function (numEmojis, startEmoji) {
-        return new Promise((resolve, reject) => {
+    markovBlends: function (numEmojis, startEmoji, callback) {
+        // return new Promise((resolve, reject) => {
             let words = [];
             let wordsOccurences = [];
             let emojis = [];
@@ -199,7 +199,8 @@ module.exports = {
                 if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
             }
 
-            resolve(emojis);
-        })
+            // resolve(emojis);
+            callback(emojis);
+        // })
     }
 };
