@@ -11,6 +11,7 @@ var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 var dataRecord = require('../models/recorddata');
 var emojiTools = require('../models/emojitools');
+var emojiGen = require('../models/emojigenerators');
 
 /*
 */
@@ -77,13 +78,11 @@ function generateEmojis(num, startEmoji) {
   } catch (error) {
     console.log("Markov error", error);
   }
-  //console.log("Words: ", words);
 
   //If emoji array is still not long enough, fill with random emoji:
-  while (emojis.length < num) {
-    var r = Math.floor(Math.random() * (openmoji.openmojis.length - 1));
-    var rHex = openmoji.openmojis[r].hexcode;
-    if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
+  if(emojis.length < numEmojis){
+    var rEmojis = emojiGen.randomEmojis(numEmojis - emojis.length);
+    emojis = emojis.concat(rEmojis);
   }
 
   return emojis;
