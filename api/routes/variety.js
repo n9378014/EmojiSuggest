@@ -25,11 +25,14 @@ router.get("/:selHex", function(req, res, next) {
 
         emojiGen.randomBlends(limit, hexcode, function (blends) {
             randomBlends = blends;
-            var jsonEmojis = JSON.stringify([randomEmojis, randomBlends, markovEmojis, markovBlends]);
-            res.json(jsonEmojis);    
+            console.log(randomBlends);
+            emojiGen.markovBlends(limit, hexcode, function (mBlends) {
+                markovBlends = mBlends;
+                var jsonEmojis = JSON.stringify([randomEmojis, randomBlends, markovEmojis, markovBlends]);
+                console.log(jsonEmojis);
+                res.json(jsonEmojis);        
+            });
         });
-
-
     }
     else{
         console.log("Encountered a problem");

@@ -58,7 +58,6 @@ module.exports = {
                 }
             });
         });
-
     },
     markovEmojis: function (numEmojis, startEmoji) {
         let words = [];
@@ -122,12 +121,12 @@ module.exports = {
         }
         return emojis;
     },
-    markovBlends: function (numEmojis, startEmoji, callback) {
-        // return new Promise((resolve, reject) => {
+    markovBlends: function (numEmojis, hexcode, callback) {
+            var startEmoji = emojiTools.getAnnotation(hexcode);
             let words = [];
             let wordsOccurences = [];
             let emojis = [];
-
+            let blends = [];
             try {
 
                 var startEmojiWords = [startEmoji];
@@ -187,7 +186,6 @@ module.exports = {
                         emojis.push(hex);
                     }
                 }
-
             } catch (error) {
                 console.log("Markov error", error);
             }
@@ -199,8 +197,17 @@ module.exports = {
                 if (emojis.indexOf(rHex) === -1) emojis.push(rHex);
             }
 
-            // resolve(emojis);
-            callback(emojis);
-        // })
+            var hexcodesProcessed = 0;
+            emojis.forEach(async hex => {
+                blends.push([hexcode, hex]);
+    
+                //Create image files here:
+                await emojiTools.combineIcons(hexcode, hex, function (err) {
+                    hexcodesProcessed++;
+                    if (hexcodesProcessed === emojis.length) {
+                        callback(blends);
+                    }
+                });
+            });
     }
 };

@@ -44,9 +44,26 @@ const cat3Index = [13, 14, 15, 16, 17, 18, //Top right petal
   85, 86, 87, 88, 89, 90, 91, 92,
   103, 104, 105, 106, 107, 108, 109, 110].reverse();
 
-const cat4Index = []; //Bottom left petal
-const cat5Index = []; //Bottom middle petal
-const cat6Index = []; //Bottom right petal
+const cat4Index = [130, 131, 132, 133, 134, 135, 136, 137,
+148, 149, 150, 151, 152, 153, 154, 155,
+167, 168, 169, 170, 171, 172, 173,
+185, 186, 187, 188, 189, 190, 191,
+204, 205, 206, 207, 208, 209,
+222, 223, 224, 225, 226, 227,
+241, 242, 243, 244, 245]; //Bottom left petal
+const cat5Index = [157,
+175, 176,
+193, 194, 195,
+211, 212, 213, 124,
+229, 230, 231, 232, 233,
+247, 248, 249, 250, 251, 252]; //Bottom middle petal
+const cat6Index = [140, 141, 142, 143, 144, 145, 146, 147,
+159, 160, 161, 162, 163, 164, 165, 166,
+178, 179, 180, 181, 182, 183, 184,
+197, 198, 199, 200, 201, 202, 203,
+216, 217, 218, 219, 220, 221,
+235, 236, 237, 238, 239, 240,
+254, 255, 256, 257, 258]; //Bottom right petal
 
 //Single emoji rows, fanning out from center:
 const cat7Index = [121, 122, 123, 124, 125, 126, 127, 128, 129]; //Line heading right from center
@@ -321,21 +338,36 @@ Get markov blends
       }
 
       //Get hexcodes for new tiles, then assign them to tiles:
-      Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length), getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
+      //Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length), getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
+      Promise.all([getVarietyHexcodes(hexcode, numEmojis)]).then((tvalues) => {
+        let values = [];
+        values[0] = tvalues[0][0]; //random emoji
+        values[1] = tvalues[0][1]; //random blends
+        values[2] = tvalues[0][2]; //markov emoji
+        values[3] = tvalues[0][3]; //markov blends
         //Substitute blendedHexcodes into hexcodes where appropriate:
         if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
           cat1Index.forEach(index => {
             values[0][index] = values[1][cat1Index.indexOf(index)];
-
-          });
-          cat7Index.forEach(index => {
-            values[0][index] = values[2][cat7Index.indexOf(index)];
           });
           cat2Index.forEach(index => {
-            values[0][index] = values[5][cat2Index.indexOf(index)];
+            values[0][index] = values[3][cat2Index.indexOf(index)];
           });
           cat3Index.forEach(index => {
-            values[0][index] = values[6][cat3Index.indexOf(index)];
+            values[0][index] = values[3][cat3Index.indexOf(index)];
+          });
+          cat4Index.forEach(index => {
+            values[0][index] = values[1][cat4Index.indexOf(index)];
+          });
+          cat5Index.forEach(index => {
+            values[0][index] = values[3][cat5Index.indexOf(index)];
+          });
+          cat6Index.forEach(index => {
+            values[0][index] = values[3][cat6Index.indexOf(index)];
+          });
+
+          cat7Index.forEach(index => { //Line headed right from centre
+            values[0][index] = values[2][cat7Index.indexOf(index)];
           });
 
         }

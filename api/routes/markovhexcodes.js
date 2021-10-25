@@ -31,7 +31,7 @@ router.get("/:emojihex", function (req, res, next) {
   var emojiName = emojiTools.getAnnotation(hexcode);
   //console.log("Starter emoji ID'd as: " + emojiName);
   randomEmojis = generateEmojis(limit, emojiName);
-  dataRecord.saveSelected(hexcode);
+  //dataRecord.saveSelected(hexcode);
   var jsonEmojis = JSON.stringify(randomEmojis);
   console.log(jsonEmojis);
   res.json(jsonEmojis);

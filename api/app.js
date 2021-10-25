@@ -49,6 +49,11 @@ app.use("/api/markovblendhexcodes", markovBlendHexcodesRouter, cors(corsOptions)
 app.use("/api/variety", varietyRouter, cors(corsOptions));
 //app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
 
+const deleted = findRemoveSync(path.join(__dirname + '/public/blends'), {extensions: '.png' });
+if(Object.keys(deleted).length < 0){
+  console.log('The following files have been deleted: ' + deleted);
+}
+
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.
 */
