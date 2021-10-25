@@ -4,9 +4,12 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "build": "cd ../client && npm install && npm run build"
+    "build": "npm install && cd ../client && npm install && npm run build",
+    "deploy": "pm2 start -i 0 ./bin/www && pm2 save && pm2 startup",
+    "data": "cat researchdata.txt"
   },
   "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.6",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
@@ -14,15 +17,17 @@
     "find-remove": "^3.1.0",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "markov-chain-generator": "^0.3.0",
-    "merge-images": "^2.0.0",
     "morgan": "~1.9.1",
     "mysql": "^2.18.1",
     "natural": "^5.1.1",
     "node-fetch": "^3.0.0",
     "node-markov-generator": "^0.4.3",
+    "node-pre-gyp": "^0.17.0",
+    "node-wordnet": "^0.1.12",
     "openmoji": "^13.1.0",
     "sharp": "^0.29.1",
+    "sqlite3": "^5.0.2",
+    "wordnet-db": "^3.1.14",
     "xml2js": "^0.4.23"
   }
 }

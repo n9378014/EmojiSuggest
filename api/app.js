@@ -5,6 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var cors = require("cors");
 var findRemoveSync = require('find-remove');
+const emojiGen = require('./models/emojigenerators');
 
 var indexRouter = require('./routes/index');
 //var emojiblendsRouter = require("./routes/emojiblends");
@@ -53,6 +54,14 @@ const deleted = findRemoveSync(path.join(__dirname + '/public/blends'), {extensi
 if(Object.keys(deleted).length < 0){
   console.log('The following files have been deleted: ' + deleted);
 }
+
+/*
+Practice with wordnet.
+*/
+emojiGen.wordnetBlends(2, '1F415', function (blends) {
+  console.log('Wordnet blend:');
+  console.log(blends);
+});
 
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.

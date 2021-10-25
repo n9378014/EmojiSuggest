@@ -5,6 +5,10 @@ const Markov = require('node-markov-generator');
 const natural = require('natural');
 const fs = require('fs');
 
+var wndb = require('wordnet-db');
+const WordNet = require("node-wordnet");
+const wordnet = new natural.WordNet(wndb.path);
+
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 
@@ -209,5 +213,17 @@ module.exports = {
                     }
                 });
             });
+    },
+    wordnetBlends: function (numEmojis, hexcode, callback) {
+        var startEmoji = 'dog';//emojiTools.getAnnotation(hexcode);
+        wordnet.lookup(startEmoji, function(details) {
+            console.log("Word: " + startEmoji);
+            console.log("Definition: " + details[0].def);
+            console.log("Synonyms: " + details[0].synonyms);
+            //console.dir(details);
+        });
+        // wordnet.synsets(startEmoji, function(details) {
+        //     console.dir(details);
+        // });
     }
 };
