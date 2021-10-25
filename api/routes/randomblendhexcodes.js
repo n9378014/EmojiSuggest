@@ -6,29 +6,7 @@ const sharp = require('sharp')
 const fs = require('fs');
 var path = require('path');
 //const sessions = require("../controllers/session.controller.js");
-
-var combineEmoji = async function (hex1, hex2, callback) {
-    sharp('./public/images/' + hex1 + '.png')
-        .resize({
-            fit: sharp.fit.contain,
-            height: 350
-        })
-        .toBuffer({ resolveWithObject: true })
-        .then(({ data, info }) => {
-            sharp('./public/images/' + hex2 + '.png')
-                .resize(618, 618)
-                .composite([{
-                    input: data, gravity: 'southeast'
-                }])
-                .toFile('./public/blends/' + hex1 + hex2 + '.png', function (err) {
-                    callback();
-                });
-        })
-        .catch(err => {
-            console.log("RandomBlendHexcodes Error: ", err);
-        });
-}
-
+var emojiTools = require('../models/emojitools');
 
 /*
 Recieves hexcode, and finds related emoji blends. Returns array of hexcodes.
@@ -55,7 +33,7 @@ router.get("/:emojihex", function (req, res, next) {
 
         //Create image files here:
         var fileName = hexcode + openmoji.openmojis[num].hexcode + '.png';
-        await combineEmoji(hexcode, openmoji.openmojis[num].hexcode, function (err) {
+        await emojiTools.combineIcons(hexcode, openmoji.openmojis[num].hexcode, function (err) {
             //console.log("Emoji blended");
             hexcodesProcessed++;
             if (hexcodesProcessed === numbers.length) {

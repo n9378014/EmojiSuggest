@@ -11,48 +11,7 @@ var natural = require('natural');
 var corpus = fs.readFileSync('corpus.txt').toString().split(",");
 var generator = new Markov.TextGenerator(corpus);
 
-var dataRecord = require('../models/recorddata');
-
-var combineEmoji = function (hex1, hex2, callback) {
-    sharp('./public/images/' + hex1 + '.png')
-        .resize({
-            fit: sharp.fit.contain,
-            height: 350
-        })
-        .toBuffer({ resolveWithObject: true })
-        .then(({ data, info }) => {
-            sharp('./public/images/' + hex2 + '.png')
-                .resize(618, 618)
-                .composite([{
-                    input: data, gravity: 'southeast'
-                }])
-                .toFile('./public/blends/' + hex1 + hex2 + '.png', function (err) {
-                    callback();
-                });
-        })
-        .catch(err => {
-            console.log("RandomBlendHexcodes Error: ", err);
-        });
-}
-
-/*
-TODO: 
-*/
-function isEmoji(word) {
-    const resultAnnotation = openmoji.openmojis.find(({ annotation }) => annotation === word);
-    if (resultAnnotation !== undefined) {
-        return true;
-    }
-    else {
-        const resultTags = openmoji.openmojis.find(({ tags }) => tags === word);
-        if (resultTags !== undefined) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
-}
+var emojiTools = require('../models/emojitools');
 
 /*
 Gets the hexcode of an emoji based on it's annotation
@@ -194,7 +153,7 @@ router.get("/:emojihex", function (req, res, next) {
             randomEmojis[randomEmojis.indexOf(emoji)] = [hexcode, emoji];
             //Create image files here:
             var fileName = hexcode + emoji + '.png';
-            await combineEmoji(hexcode, emoji, function (err) {
+            await emojiTools.combineIcons(hexcode, emoji, function (err) {
                 //console.log("Emoji blended");
                 hexcodesProcessed++;
                 if (hexcodesProcessed === randomEmojis.length) {
@@ -210,7 +169,6 @@ router.get("/:emojihex", function (req, res, next) {
     
       });
     //randomEmojis = getBlendHexcode(limit, emojiName);//generateEmojis(limit, emojiName);
-    //dataRecord.save(hexcode);
     // var jsonEmojis = JSON.stringify(randomEmojis);
     // res.json(jsonEmojis);
 });

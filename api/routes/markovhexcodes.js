@@ -12,25 +12,6 @@ var generator = new Markov.TextGenerator(corpus);
 var dataRecord = require('../models/recorddata');
 
 /*
-TODO: 
-*/
-function isEmoji(word) {
-  const resultAnnotation = openmoji.openmojis.find(({ annotation }) => annotation === word);
-  if (resultAnnotation !== undefined) {
-    return true;
-  }
-  else {
-    const resultTags = openmoji.openmojis.find(({ tags }) => tags === word);
-    if (resultTags !== undefined) {
-      return true;
-    }
-    else {
-      return false;
-    }
-  }
-}
-
-/*
 Gets the hexcode of an emoji based on it's annotation
 */
 function getHexcode(word) {
