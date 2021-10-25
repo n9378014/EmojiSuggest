@@ -153,7 +153,7 @@ router.get("/:emojihex", function (req, res, next) {
   var limit = req.query.limit;
 
   var emojiName = getAnnotation(hexcode);
-  console.log("Starter emoji ID'd as: " + emojiName);
+  //console.log("Starter emoji ID'd as: " + emojiName);
   randomEmojis = generateEmojis(limit, emojiName);
   dataRecord.save(hexcode);
   var jsonEmojis = JSON.stringify(randomEmojis);
