@@ -11,6 +11,8 @@ router.get("/:selHex", function(req, res, next) {
     var hexcode = req.params.selHex
     var limit = req.query.limit;
     var prev = req.query.prev;
+    var blendedWith = req.query.blendedwith;
+
     if(true){ //Check if hexcode exists in OpenMoji emojitools.isHexcode(hexcode)
         if(!req.query.prev){ //Previous emoji not specified
             dataRecord.saveSelected(hexcode);

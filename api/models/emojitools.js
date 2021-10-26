@@ -67,18 +67,24 @@ module.exports = {
     hex1 is the overlay, hex2 is the base emoji 
     */
     combineIcons: function (hex1, hex2, callback) {
+        const overallHeight = 618; // Size of final export
+        const overlayHeight = 350; // Size of the overlay
+        // No width values because emoji icons are square.
+
+        const anchor = 'southeast'; // changes position of hex1 image relative to hex2
+
         sharp('./public/images/' + hex1 + '.png')
             .resize({
                 fit: sharp.fit.contain,
-                height: 350 //Size of the overlay
+                height: overlayHeight 
             })
             .toBuffer({ resolveWithObject: true })
             .then(({ data, info }) => {
                 sharp('./public/images/' + hex2 + '.png')
-                    .resize(618, 618) //Size of final export
+                    .resize(overallHeight, overallHeight) 
                     .composite([{
                         input: data, 
-                        gravity: 'southeast' //changes position of hex1 image relative to hex2
+                        gravity: anchor 
                     }])
                     .toFile('./public/blends/' + hex1 + hex2 + '.png', function (err) {
                         callback();
