@@ -286,11 +286,17 @@ Get markov blends
   function getVarietyHexcodes(hexcode, limit) {
     return new Promise((resolve, reject) => {
       var obj;
+      var strEnd = '';
       if (Array.isArray(hexcode)) {
+        strEnd = '&blendedwith=' + hexcode[1];
         hexcode = hexcode[0];
       }
+      if(emojiHistory[emojiHistory.length - 2] !== '1F504'){
+        strEnd = strEnd + '&prev=' + emojiHistory[emojiHistory.length - 2];
+      }
+      console.log("/api/variety/" + hexcode + "?limit=" + limit.toString() + strEnd);
 
-      fetch("/api/variety/" + hexcode + "?limit=" + limit.toString())
+      fetch("/api/variety/" + hexcode + "?limit=" + limit.toString() + strEnd)
         .then(res => res.json())
         .then(data => { obj = JSON.parse(data); })
         .then(() => { resolve(obj); })
@@ -333,9 +339,9 @@ Get markov blends
       console.log("Hex: " + hexcode);
 
       //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
-      if (Array.isArray(hexcode)) { //Then hexcode is a blend
-        hexcode = hexcode[1]; console.log("BLEND: " + hexcode);
-      }
+      // if (Array.isArray(hexcode)) { //Then hexcode is a blend
+      //   hexcode = hexcode[1]; console.log("BLEND: " + hexcode);
+      // }
 
       //Get hexcodes for new tiles, then assign them to tiles:
       //Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length), getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
