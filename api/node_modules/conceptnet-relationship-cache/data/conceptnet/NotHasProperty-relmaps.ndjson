@@ -1,0 +1,52 @@
+{"concept":"Alive","rel":"NotHasProperty","emittingConcepts":["3 Hole Punch","Bed","Blanket","Bottle","Butter","Coat","Coffee Table","Computer Mouse","Couch","Cup","Desk","Envelope","Hair","Hamburger","Hanger","Hot Dog","Inanimate Object","Living Room","Mineral","Mug","Peanut Butter","Piece of Toast","Pillow","Plate","Radio","Rock","Stapler","Statue","Stick","Stone","Stuffed Animal","Telephone","Tissue","Tv","Umbrella","Virus"],"receivingConcepts":[]}
+{"concept":"Visible","rel":"NotHasProperty","emittingConcepts":["At Night Sun","Wind"],"receivingConcepts":[]}
+{"concept":"Good","rel":"NotHasProperty","emittingConcepts":["Bad","Crime","Disturbing Other People","Error","Falling","Killing People","Most News on Tv"],"receivingConcepts":["Bad"]}
+{"concept":"Fun","rel":"NotHasProperty","emittingConcepts":["Being Sick","Disappoint Friend","Government","Running With Feet Wet"],"receivingConcepts":[]}
+{"concept":"Wanted","rel":"NotHasProperty","emittingConcepts":["Bill","Trash"],"receivingConcepts":[]}
+{"concept":"Dead","rel":"NotHasProperty","emittingConcepts":["Body Alive","Rock"],"receivingConcepts":[]}
+{"concept":"Necessary","rel":"NotHasProperty","emittingConcepts":["Breakfast","Overkill"],"receivingConcepts":[]}
+{"concept":"Cold","rel":"NotHasProperty","receivingConcepts":["Hot"],"emittingConcepts":["Hot","Weather in Tropical Seas"]}
+{"concept":"Hot","rel":"NotHasProperty","emittingConcepts":["Cold","Fire"],"receivingConcepts":["Cold"]}
+{"concept":"Easy","rel":"NotHasProperty","emittingConcepts":["Communicating With Another Computer","Trying to Eat While Standing"],"receivingConcepts":[]}
+{"concept":"Simple","rel":"NotHasProperty","emittingConcepts":["Complexity","Programming"],"receivingConcepts":[]}
+{"concept":"Computer Mouse","rel":"NotHasProperty","receivingConcepts":["Alive","Living"],"emittingConcepts":[]}
+{"concept":"Living","rel":"NotHasProperty","emittingConcepts":["Computer Mouse","Computer Virus"],"receivingConcepts":[]}
+{"concept":"Clean","rel":"NotHasProperty","emittingConcepts":["Dirty","Mud"],"receivingConcepts":[]}
+{"concept":"Dirty One Eyed Kangaroo","rel":"NotHasProperty","receivingConcepts":["Photogenic","Pretty"],"emittingConcepts":[]}
+{"concept":"Transparent","rel":"NotHasProperty","emittingConcepts":["Dirty Water","Milk"],"receivingConcepts":[]}
+{"concept":"Made Out of Cheese","rel":"NotHasProperty","emittingConcepts":["Earth","Moon"],"receivingConcepts":[]}
+{"concept":"Pleasant","rel":"NotHasProperty","emittingConcepts":["Experience of Feeling Unwell","Fatigue","Hangover"],"receivingConcepts":[]}
+{"concept":"True","rel":"NotHasProperty","emittingConcepts":["Fairy Tale","False","Humans Sometimes Communicate Information Know"],"receivingConcepts":["False"]}
+{"concept":"False","rel":"NotHasProperty","receivingConcepts":["True"],"emittingConcepts":["True","True Sentence"]}
+{"concept":"Interesting","rel":"NotHasProperty","emittingConcepts":["Find Boring","Work Does Not Involve Thinking"],"receivingConcepts":[]}
+{"concept":"Inside","rel":"NotHasProperty","emittingConcepts":["Find Outside","Outside"],"receivingConcepts":[]}
+{"concept":"Fire","rel":"NotHasProperty","receivingConcepts":["Edible","Hot","Ice"],"emittingConcepts":[]}
+{"concept":"Old","rel":"NotHasProperty","emittingConcepts":["Four Year Old","News"],"receivingConcepts":[]}
+{"concept":"Gas","rel":"NotHasProperty","receivingConcepts":["Liquid","Solid"],"emittingConcepts":["Liquid"]}
+{"concept":"Liquid","rel":"NotHasProperty","emittingConcepts":["Gas","Leather","Pen","Solid"],"receivingConcepts":["Gas"]}
+{"concept":"Solid","rel":"NotHasProperty","emittingConcepts":["Gas","Water"],"receivingConcepts":["Liquid"]}
+{"concept":"Good For","rel":"NotHasProperty","emittingConcepts":["Generally Speaking Smoking","Meat"],"receivingConcepts":[]}
+{"concept":"Good to Eat","rel":"NotHasProperty","emittingConcepts":["Hair Gel","Peel of Orange","Yellow Snow"],"receivingConcepts":[]}
+{"concept":"Hamburger","rel":"NotHasProperty","receivingConcepts":["Alive","Made From All Available Meats"],"emittingConcepts":[]}
+{"concept":"Relaxing","rel":"NotHasProperty","emittingConcepts":["Having Unpaid Bills","Which Dangerous"],"receivingConcepts":[]}
+{"concept":"Helium","rel":"NotHasProperty","receivingConcepts":["Explosive","Radioactive"],"emittingConcepts":[]}
+{"concept":"Human","rel":"NotHasProperty","receivingConcepts":["Strong Enough to Lift Building","Strong Enough to Lift Car","Strong Enough to Lift Cow","Strong Enough to Lift Horse","Strong Enough to Lift Truck"],"emittingConcepts":[]}
+{"concept":"Static","rel":"NotHasProperty","emittingConcepts":["Human Memory","Openmind"],"receivingConcepts":[]}
+{"concept":"Useful","rel":"NotHasProperty","emittingConcepts":["If Battery Flat","If Ship Sinks","Phrase Hate"],"receivingConcepts":[]}
+{"concept":"Important","rel":"NotHasProperty","emittingConcepts":["Intrinsic Important Extraneous","Money"],"receivingConcepts":[]}
+{"concept":"Very Nice","rel":"NotHasProperty","emittingConcepts":["Lacey Deroeck","Satan"],"receivingConcepts":[]}
+{"concept":"Life","rel":"NotHasProperty","receivingConcepts":["Endless","Guaranteed to Fair"],"emittingConcepts":[]}
+{"concept":"Kosher","rel":"NotHasProperty","emittingConcepts":["Lobster","Most Cheese"],"receivingConcepts":[]}
+{"concept":"Lotion","rel":"NotHasProperty","receivingConcepts":["Eaten","Hard"],"emittingConcepts":[]}
+{"concept":"Hard","rel":"NotHasProperty","emittingConcepts":["Lotion","Soft"],"receivingConcepts":[]}
+{"concept":"Mail","rel":"NotHasProperty","receivingConcepts":["Male","Worthy of Reading"],"emittingConcepts":[]}
+{"concept":"Difficult","rel":"NotHasProperty","emittingConcepts":["Managing Home","Program"],"receivingConcepts":[]}
+{"concept":"Moon","rel":"NotHasProperty","receivingConcepts":["Made Out of Cheese","Made Up of Cheese"],"emittingConcepts":[]}
+{"concept":"Rock","rel":"NotHasProperty","receivingConcepts":["Alive","Dead"],"emittingConcepts":[]}
+{"concept":"Smoking","rel":"NotHasProperty","receivingConcepts":["Allowed in Several Public Places","Good for Health","Permitted at Many Public Places"],"emittingConcepts":[]}
+{"concept":"Snake","rel":"NotHasProperty","receivingConcepts":["Insect","Slimy"],"emittingConcepts":[]}
+{"concept":"Sugar","rel":"NotHasProperty","receivingConcepts":["Bitter","Sour","Tart"],"emittingConcepts":[]}
+{"concept":"Part of Europe","rel":"NotHasProperty","emittingConcepts":["Tajikistan","Turkmenistan"],"receivingConcepts":[]}
+{"concept":"Talkative Person","rel":"NotHasProperty","receivingConcepts":["Close Mouthed","Mum","Reserved","Reticent","Speechless","Tight Lipped","Uncommunicative"],"emittingConcepts":[]}
+{"concept":"Water","rel":"NotHasProperty","receivingConcepts":["Clear","Solid"],"emittingConcepts":[]}
+{"concept":"World","rel":"NotHasProperty","receivingConcepts":["Flat","Orange","Round"],"emittingConcepts":[]}

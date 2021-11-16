@@ -1,0 +1,217 @@
+{"concept":"40","rel":"InstanceOf","receivingConcepts":["Howitzer","Light Tank"],"emittingConcepts":[]}
+{"concept":"Extended Play","rel":"InstanceOf","emittingConcepts":["1","1st","7","Always","Aske","Baal","Baghdad","Bangarang","Beatles","Blew","Cooking","Dance","Darling","Day by Day","Decline","Digeridoo","Eldorado","First Sessions","Friday 13th","Golden Years","Hot Issue","Human Waste","Joy","Live","Machine","Peppermint","Romeo","Sap","Scandal","Sessions","Sherlock","Space Cakes","Submarine","Superheroes","Target","Three","Tremolo","Trigger","Twinkle"],"receivingConcepts":[]}
+{"concept":"Siege Engine","rel":"InstanceOf","emittingConcepts":["16","Big Bertha","Helepolis"],"receivingConcepts":[]}
+{"concept":"1st","rel":"InstanceOf","receivingConcepts":["Extended Play","Infantry"],"emittingConcepts":[]}
+{"concept":"Infantry","rel":"InstanceOf","emittingConcepts":["1st","43rd","49th","Janissaries","Waffen Ss"],"receivingConcepts":[]}
+{"concept":"Light Machine Gun","rel":"InstanceOf","emittingConcepts":["26","Lewis Gun","Steyr Aug"],"receivingConcepts":[]}
+{"concept":"Submachine Gun","rel":"InstanceOf","emittingConcepts":["31","Sten","Steyr Aug","Thompson Submachine Gun","Uzi"],"receivingConcepts":[]}
+{"concept":"Tankette","rel":"InstanceOf","emittingConcepts":["33","Tks"],"receivingConcepts":[]}
+{"concept":"Armored Car","rel":"InstanceOf","emittingConcepts":["4","Humvee"],"receivingConcepts":[]}
+{"concept":"Howitzer","rel":"InstanceOf","emittingConcepts":["40","M101 Howitzer"],"receivingConcepts":[]}
+{"concept":"Album","rel":"InstanceOf","emittingConcepts":["5","Altar","Animalize","Apostrophe","Arthur","Attention","Beg to Differ","Bummed","Cherished","Contact","Cross Purposes","Dada","Darwin","Dead Letters","Every Good Boy Deserves Fudge","Gloria","Greatest","Gris Gris","In Step","Inner Sanctum","Jagged","Journey Into Space","Keep Faith","Keys of Kingdom","Launched","Lp","Maladroit","Man Alive","Meanderthal","Meddle","Midget Tossing","Minstrel Show","Mirrored","Moving Violation","Outgrow","Pleasure Dome","Poison Pen","Scratch Surface","Second Helping","Shove It","Significant Other","Signify","Slaughterhouse","Slayed","Social Grace","Songstress","Stand","Stop and Smell Roses","Talking Book","Trinity","Unrein","Vapor Trails","Whammy","Wildest","Zoon"],"receivingConcepts":[]}
+{"concept":"Main Battle Tank","rel":"InstanceOf","emittingConcepts":["55","79","Altay","Amx 30","Arjun","Challenger 2","Leopard 2"],"receivingConcepts":[]}
+{"concept":"Assault Rifle","rel":"InstanceOf","emittingConcepts":["90","94","Ak 47","Ak 74","Heckler Koch Hk416","M16 Rifle","M4 Carbine","Sa80"],"receivingConcepts":[]}
+{"concept":"Bullpup","rel":"InstanceOf","emittingConcepts":["91","Famas","Steyr Aug"],"receivingConcepts":[]}
+{"concept":"Aarhus","rel":"InstanceOf","receivingConcepts":["City","River","Stream"],"emittingConcepts":[]}
+{"concept":"City","rel":"InstanceOf","emittingConcepts":["Aarhus","Abeokuta","Adana","Al Ain","Algiers","Amarillo Texas","Annaba","Atlanta","Bahawalpur","Bakhchysarai","Belize City","Belmopan","Bergen","Biskra","Blida","Cardiff","Casablanca","Castries","Chicago","Chlef","Ciudad Juárez","Colombo","Dallas","Daugavpils","Debrecen","Essen","Esztergom","Guadalajara","Győr","Hagen","Haifa","Halabja","Holon","Houston","Indianapolis","Istanbul","Jijel","Jūrmala","Kadapa","Kashan","Kecskemét","Klaipėda","Kolhapur","Kollam","Laghouat","Las Vegas","Leeds","Lloydminster","Lübeck","Milwaukee","Minneapolis","Minsk","Miskolc","Moncton","Most","Mostaganem","Mwanza","Nagykanizsa","Nellore","Nicosia","Nyíregyháza","Oran","Ouargla","Pichilemu","Pimpri Chinchwad","Pittsburgh","Plymouth","Poreč","Port Au Prince","Port Harcourt","Port of Spain","Prešov","Pécs","Relizane","Rivne","Roseau","Rēzekne","San Antonio","Seattle","Sikar","Sisak","Sofia","Songkhla","Sopron","Srikakulam","Sunyani","Szeged","Szombathely","Székesfehérvár","Tallinn","Tangerang","Tatabánya","Tema","Tepic","Ternopil","Tiaret","Tijuana","Tizi Ouzou","Tlemcen","Valmiera","Yerevan"],"receivingConcepts":[]}
+{"concept":"River","rel":"InstanceOf","emittingConcepts":["Aarhus","Adelaide River","Detroit River","Douro","Gos","Mississippi River","Monongahela River","Neosho River","Potomac River","Rio Grande","Sabine River","Susquehanna River","Tocantins River","Yalu River"],"receivingConcepts":[]}
+{"concept":"Newspaper","rel":"InstanceOf","emittingConcepts":["Abc","Aha","Blick","Bola","Bt","Herald","Libero","New York Times","Panorama","Pravda","Province","Record","Sabah","Sme","Statesman","Today","Zaman"],"receivingConcepts":[]}
+{"concept":"Shield Volcano","rel":"InstanceOf","emittingConcepts":["Abu","Mauna Kea","Mauna Loa","Nyamuragira","Zapatera"],"receivingConcepts":[]}
+{"concept":"Pasta","rel":"InstanceOf","emittingConcepts":["Acini Di Pepe","Anellini","Bavette","Bigoli","Bucatini","Capellini","Cavatelli","Conchiglie","Farfalle","Fettuccine","Fregula","Fusilli","Lasagne","Linguine","Macaroni","Mafaldine","Orecchiette","Pappardelle","Ravioli","Rigatoni","Rotelle","Spaghetti","Tagliatelle","Tortellini","Tortelloni","Trenette","Vermicelli"],"receivingConcepts":[]}
+{"concept":"Capital City","rel":"InstanceOf","emittingConcepts":["Addis Ababa","Asmara","Astana","Baghdad","Bogotá","Budapest","Dhaka","Djibouti","Kathmandu","Kingstown","Manila","Mogadishu","Naypyidaw","Paramaribo","Quito"],"receivingConcepts":[]}
+{"concept":"Sea","rel":"InstanceOf","emittingConcepts":["Adriatic Sea","Aegean Sea","Andaman Sea","Arafura Sea","Baltic Sea","Barents Sea","Beaufort Sea","Black Sea","Caribbean Sea","Celtic Sea","Coral Sea","East Siberian Sea","Greenland Sea","Ionian Sea","Irish Sea","Labrador Sea","Laptev Sea","Mediterranean Sea","North Sea","Norwegian Sea","Sea of Azov","Timor Sea","White Sea"],"receivingConcepts":[]}
+{"concept":"Drink","rel":"InstanceOf","emittingConcepts":["Affogato","Butter Tea","Café Au Lait","Ice Cream Float","Milkshake","Slush"],"receivingConcepts":[]}
+{"concept":"Dessert","rel":"InstanceOf","emittingConcepts":["Afikoman","Akutaq","Baked Alaska","Banana Split","Bavarian Cream","Blancmange","Boston Cream Pie","Brioche","Cake","Caramel","Cat Tongue","Cendol","Charlotte","Cheesecake","Compote","Croquembouche","Crème Brûlée","Crème Caramel","Custard","Dacquoise","Egg Tart","Floating Island","Frozen Dessert","Fruit Salad","Granita","Groom's Cake","Hard Sauce","Ice Milk","Italian Ice","Kaymak","Kissel","Meringue","Pepernoot","Petit Four","Pineapple Cake","Religieuse","Rum Ball","Slatko","Summer Pudding","Sundae","Tiramisu","Trifle","Turkish Delight","Varenye","Yule Log","Zabaione"],"receivingConcepts":[]}
+{"concept":"Town","rel":"InstanceOf","emittingConcepts":["Aflao","Amnat Charoen","Ang Thong","Balvi","Bawku","Bobbili","Brookfield","Chesterfield","Corby","Fanga","Gosport","Harlow","Hastings","Ipswich","Kentville","Kingstown","Lastovo","Loei","Lüderitz","Mae Hong Son","Magrath","Medford","Menomonie","Nakhon Phanom","Northampton","Novalja","Pag","Prachuap Khiri Khan","Redditch","Saldus","Stende","Talsi","Trnava","Watford","Wijchen","Zabok"],"receivingConcepts":[]}
+{"concept":"Municipality","rel":"InstanceOf","emittingConcepts":["Afyonkarahisar","Aksaray","Angra Do Heroísmo","Bajina Bašta","Bayburt","Boaco","Chinandega","Erzincan","Giresun","Kars","Kırklareli","Lepe","Lobor","Muş","Orebić","Ponta Delgada","Porto","Ribadeo","Siirt","Tactic","Texel","Toluca","Wijchen","Zas"],"receivingConcepts":[]}
+{"concept":"Intermediate Range Ballistic Missile","rel":"InstanceOf","emittingConcepts":["Aggregate","Df 21"],"receivingConcepts":[]}
+{"concept":"Grenade Launcher","rel":"InstanceOf","emittingConcepts":["Ags 17","M203 Grenade Launcher","M79 Grenade Launcher"],"receivingConcepts":[]}
+{"concept":"Metropolis","rel":"InstanceOf","emittingConcepts":["Ahmedabad","Bangalore","Bhopal","Chennai","Chittagong","Coimbatore","Faisalabad","Faridabad","Guwahati","Hyderabad","Indore","Jabalpur","Jaipur","Jalandhar","Jodhpur","Kabul","Kalyan Dombivali","Kanpur","Karachi","Khulna","Kochi","Kolkata","Kozhikode","Kumasi","Lucknow","Ludhiana","Madurai","Mumbai","Nagpur","Patna","Pune","Qom","Raipur","Rajkot","Rajshahi","Ranchi","Srinagar","Tehran","Thane","Thiruvananthapuram","Visakhapatnam","Yangon"],"receivingConcepts":[]}
+{"concept":"Manga","rel":"InstanceOf","emittingConcepts":["Aion","Air","Akira","Anima","Another","Aria","Astral Project","Bambino","Basilisk","Bastard","Battle Royale","Beck","Beelzebub","Believers","Berserk","Beyblade","Black Cat","Black Jack","Black Magic","Blame","Bleach","Blue","Boyfriend","Buddha","Case Closed","Cat's Eye","Channel","Claymore","Cowboy Bebop","Crater","Dear","Death Note","Diabolo","Dive","Dna","Dust","Eden","F","Freezing","Gals","Gilgamesh","Golden Boy","Gravitation","Grey","H2","Heavy Object","Homunculus","Is","Kanon","Limit","Loveless","Magico","Major","Mars","Mm","Monster","Mouse","Naruto","Needless","Oh My Goddess","One Piece","Orion","Othello","Ping Pong","Pink","Real","Reborn","Red Eyes","Red River","Rough","Saki","Sanctuary","Silent Service","Skip Beat","Slam Dunk","Slayers","Sola","Sprite","Strain","Suppli","Tactics","Touch","Tough","Wallflower","Whistle","X","X Day"],"receivingConcepts":[]}
+{"concept":"Subsidiary","rel":"InstanceOf","emittingConcepts":["Airbus","Alpine","Aol","Baskin Robbins","Body Shop","Braun","Brine","Chase","Converse","Gaz","Gucci","Holden","Ign","Jvc","Lycos","Mack Trucks","Maxis","Penny","Peugeot","Pixar","Pizza Hut","Rare","Real","Reebok","Sapo","Sega","Simpsons","Soap","Sony Pictures Entertainment","Ssl","Sunrise","Sunseeker","Taco Bell","Vespa","Victoria's Secret","Vimeo","Wendy's","Wind","Winners","Yammer","Youtube","Zenith"],"receivingConcepts":[]}
+{"concept":"Narrow Body Aircraft","rel":"InstanceOf","emittingConcepts":["Airbus A320 Family","Boeing 707","Boeing 727","Boeing 737","Boeing 757","De Havilland Comet","Yakovlev Yak 42"],"receivingConcepts":[]}
+{"concept":"Wide Body Aircraft","rel":"InstanceOf","emittingConcepts":["Airbus A380","Boeing 747","Boeing 747 8","Boeing 767","Boeing 777","Boeing 787 Dreamliner"],"receivingConcepts":[]}
+{"concept":"Soundtrack","rel":"InstanceOf","emittingConcepts":["Aladdin","Avengers","Beauty and Beast","Bodyguard","Cars","Crow","Graduate","Hours","Lord of Rings","Lost Highway","Mission","Ray","Sorcerer","Superfly","Twilight"],"receivingConcepts":[]}
+{"concept":"Nasa","rel":"InstanceOf","emittingConcepts":["Alan Shepard","Buzz Aldrin","Neil Armstrong"],"receivingConcepts":[]}
+{"concept":"Village","rel":"InstanceOf","emittingConcepts":["Albany","Aoa","Bare","Bilo","Bistar","Borovo","Buckland Monachorum","Bukovlje","Burlaki","Burst","Castile","Dol","Esperance","Gack","Kajal","Koprivnica","Kumielsk","Lancaster","Livonia","Luka","Malone","Mure","Orahovica","Owego","Pachy","Pale","Perry","Pisanki","Preseka","Slatina","Spencer","Vir","Vus","đAkovo"],"receivingConcepts":[]}
+{"concept":"Box Set","rel":"InstanceOf","emittingConcepts":["Albums","Live Box"],"receivingConcepts":[]}
+{"concept":"Curry","rel":"InstanceOf","emittingConcepts":["Aloo Gobi","Amok"],"receivingConcepts":[]}
+{"concept":"Unicameralism","rel":"InstanceOf","emittingConcepts":["Althing","Folketing","Knesset","National Assembly","Reichstag","Storting"],"receivingConcepts":[]}
+{"concept":"Nightclub","rel":"InstanceOf","emittingConcepts":["Amnesia","Black Hawk","Troubadour"],"receivingConcepts":[]}
+{"concept":"Sausage","rel":"InstanceOf","emittingConcepts":["Andouille","Bratwurst","Braunschweiger","Chorizo","Thuringian Sausage"],"receivingConcepts":[]}
+{"concept":"Bread","rel":"InstanceOf","emittingConcepts":["Antidoron","Baguette","Banana Bread","Boule","Bread Roll","Breadstick","Brioche","Brown Bread","Challah","English Muffin","Flatbread","Graham Bread","Manna","Monkey Bread","Naan","Paska","Potato Bread","Pretzel","Simit","Sliced Bread","Tiger Bread","Toast"],"receivingConcepts":[]}
+{"concept":"State Owned Enterprise","rel":"InstanceOf","emittingConcepts":["Antonov","Ordnance Survey"],"receivingConcepts":[]}
+{"concept":"Pastry","rel":"InstanceOf","emittingConcepts":["Apple Strudel","Bear Claw","Beignet","Brioche","Cannoli","Choux Pastry","Egg Tart","Fritter","Mille Feuille","Monkey Bread","Mooncake","Pretzel","Puff Pastry","Samosa","Strudel","Vatrushka","Vol Au Vent","Zeppole","Éclair"],"receivingConcepts":[]}
+{"concept":"Residential Area","rel":"InstanceOf","emittingConcepts":["Aqua","Aura"],"receivingConcepts":[]}
+{"concept":"Aral Sea","rel":"InstanceOf","receivingConcepts":["Lake","Reservoir"],"emittingConcepts":[]}
+{"concept":"Lake","rel":"InstanceOf","emittingConcepts":["Aral Sea","Great Lake"],"receivingConcepts":[]}
+{"concept":"Reservoir","rel":"InstanceOf","emittingConcepts":["Aral Sea","Great Lake","Ijsselmeer","Lake Mead","Lake Nasser","Lake Powell","Lake Volta","Lake Winnipeg","Tidal Basin"],"receivingConcepts":[]}
+{"concept":"Joint Stock Company","rel":"InstanceOf","emittingConcepts":["Aro","East India Company","Lump of Sugar","Mercator","Rai","Zil"],"receivingConcepts":[]}
+{"concept":"Hamlet","rel":"InstanceOf","emittingConcepts":["Arviat","Fort Chipewyan","Igloolik","Kimmirut","Tulita"],"receivingConcepts":[]}
+{"concept":"Division","rel":"InstanceOf","emittingConcepts":["Atari","Buick","Cadillac","Chevrolet","Chrysler","Dodge","Hummer","Jeep","Lexus","Mercedes Benz","Mercury","Mikoyan","Pollee","Pontiac","Reuters","Smart","Subaru","Umm","Zellers"],"receivingConcepts":[]}
+{"concept":"Aura","rel":"InstanceOf","receivingConcepts":["Commerce","Residential Area"],"emittingConcepts":[]}
+{"concept":"Dim Sum","rel":"InstanceOf","emittingConcepts":["Ba Wan","Har Gow","Shrimp Toast","Spring Roll","Xiaolongbao"],"receivingConcepts":[]}
+{"concept":"Cake","rel":"InstanceOf","emittingConcepts":["Babka","Chocolate Cake","Coffee Cake","Cupcake","Dacquoise","Esterházy Torte","Financier","Fruitcake","Galette","Groom's Cake","Jaffa Cakes","King Cake","Marble Cake","Pancake","Pastiera","Prinzregententorte","Rum Baba","Scone","Sheet Cake","Streuselkuchen","Torte","Wedding Cake"],"receivingConcepts":["Dessert"]}
+{"concept":"Baghdad","rel":"InstanceOf","receivingConcepts":["Capital City","Extended Play"],"emittingConcepts":[]}
+{"concept":"County Seat","rel":"InstanceOf","emittingConcepts":["Bakersfield California","Ploiești"],"receivingConcepts":[]}
+{"concept":"Salad","rel":"InstanceOf","emittingConcepts":["Balsamic Vinegar","Chef Salad","Coleslaw","Egg Salad","Fruit Salad","Olivier Salad","Potato Salad","Ranch Dressing","Rojak","Tabbouleh","Vinaigrette"],"receivingConcepts":[]}
+{"concept":"Doughnut","rel":"InstanceOf","emittingConcepts":["Bamiyeh","Bear Claw","Berliner","Funnel Cake","Koeksister","Oliebol","Sopaipilla","Timbits","Tulumba","Youtiao"],"receivingConcepts":[]}
+{"concept":"s.a","rel":"InstanceOf","emittingConcepts":["Bankia","Bic","Carrefour","Chanel","Citroën","Cora","Dia","Ferrari","Fortis","Lancia","Loewe","Maserati","Nos","Pernod Ricard","Pininfarina","Pirelli","Renault","Seat","Sfr","Vale","Zara"],"receivingConcepts":[]}
+{"concept":"Region","rel":"InstanceOf","emittingConcepts":["Banovina","Khevsureti","Masuria","Samegrelo","Svaneti","Tori"],"receivingConcepts":[]}
+{"concept":"Dagger","rel":"InstanceOf","emittingConcepts":["Barong","Kris"],"receivingConcepts":[]}
+{"concept":"Bomb","rel":"InstanceOf","emittingConcepts":["Bat","Bouncing Bomb"],"receivingConcepts":[]}
+{"concept":"Bavarian Cream","rel":"InstanceOf","receivingConcepts":["Custard","Dessert"],"emittingConcepts":[]}
+{"concept":"Custard","rel":"InstanceOf","emittingConcepts":["Bavarian Cream","Cheesecake","Frangipane","Frozen Custard"],"receivingConcepts":["Dessert"]}
+{"concept":"Steel","rel":"InstanceOf","emittingConcepts":["Bayonne Bridge","Benjamin Franklin Bridge","Goliath","Magic Mountain"],"receivingConcepts":[]}
+{"concept":"Bear Claw","rel":"InstanceOf","receivingConcepts":["Doughnut","Pastry"],"emittingConcepts":[]}
+{"concept":"Soup","rel":"InstanceOf","emittingConcepts":["Beer Soup","Bisque","Borscht","Cullen Skink","Dashi","Goulash","Hot and Sour Soup","Magiritsa","Minestrone","Miso Soup","Naengmyeon","Nikujaga","Oden","Okroshka","Oxtail Soup","Pea Soup","Pozole","Shark Fin Soup","Shchi","Solyanka","Sukiyaki","Tarator","Thukpa","Turtle Soup"],"receivingConcepts":[]}
+{"concept":"Non Governmental Organization","rel":"InstanceOf","emittingConcepts":["Bellona Foundation","Code Pink","Greenpeace","Memorial"],"receivingConcepts":[]}
+{"concept":"Berkshires","rel":"InstanceOf","receivingConcepts":["Connecticut","Massachusetts"],"emittingConcepts":[]}
+{"concept":"California","rel":"InstanceOf","emittingConcepts":["Big Sur","San Diego"],"receivingConcepts":[]}
+{"concept":"Biscuit","rel":"InstanceOf","emittingConcepts":["Biscotti","Bourbon Biscuit","Cat Tongue","Hardtack","Shortbread","Speculoos"],"receivingConcepts":[]}
+{"concept":"Black Cat","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Light Novel","rel":"InstanceOf","emittingConcepts":["Black Cat","Heavy Object","Is","Kanon","Mm","Reborn","Rewrite","Slayers","Summer Days"],"receivingConcepts":[]}
+{"concept":"Pancake","rel":"InstanceOf","emittingConcepts":["Blintz","Crêpe","Galette","Poffertjes","Potato Pancake"],"receivingConcepts":["Cake"]}
+{"concept":"Rapid Transit","rel":"InstanceOf","emittingConcepts":["Blue Line","Green Line","Line","London Underground","Mass Rapid Transit","Red Line","U2"],"receivingConcepts":[]}
+{"concept":"Blueshirts","rel":"InstanceOf","receivingConcepts":["Anti Communism","Corporatism","Fascism"],"emittingConcepts":[]}
+{"concept":"Attack Helicopter","rel":"InstanceOf","emittingConcepts":["Boeing Ah 64 Apache","Eurocopter Tiger","Mil Mi 24"],"receivingConcepts":[]}
+{"concept":"Bonaire","rel":"InstanceOf","receivingConcepts":["Caribbean Netherlands","Netherlands"],"emittingConcepts":[]}
+{"concept":"Caribbean Netherlands","rel":"InstanceOf","emittingConcepts":["Bonaire","Saba","Sint Eustatius"],"receivingConcepts":["Netherlands"]}
+{"concept":"Netherlands","rel":"InstanceOf","emittingConcepts":["Bonaire","Caribbean Netherlands","Saba","Sint Eustatius"],"receivingConcepts":[]}
+{"concept":"Main Course","rel":"InstanceOf","emittingConcepts":["Borani","Carbonara","Cheeseburger","Fabada Asturiana","Freekeh","Hamburger","Mititei","Paella","Pannekoek","Ramen","Sauerbraten","Sisig","Spanish Omelette","Zrazy"],"receivingConcepts":[]}
+{"concept":"Sandwich","rel":"InstanceOf","emittingConcepts":["Bosna","Croque Monsieur","Gyro"],"receivingConcepts":[]}
+{"concept":"Armoured Fighting Vehicle","rel":"InstanceOf","emittingConcepts":["Boxer","Stryker"],"receivingConcepts":[]}
+{"concept":"Nonprofit Organization","rel":"InstanceOf","emittingConcepts":["Boycott Divestment and Sanctions","Memorial"],"receivingConcepts":[]}
+{"concept":"Census Designated Place","rel":"InstanceOf","emittingConcepts":["Brattleboro","Brunswick","Drummond","Hurley","Pella","Woodbridge"],"receivingConcepts":[]}
+{"concept":"Texas","rel":"InstanceOf","emittingConcepts":["Brazos River","Colorado River"],"receivingConcepts":[]}
+{"concept":"Pudding","rel":"InstanceOf","emittingConcepts":["Bread Pudding","Christmas Pudding","Frumenty","Haggis","Panna Cotta","Pease Pudding","Rice Pudding","Spotted Dick","Summer Pudding","Tapioca Pudding","Yorkshire Pudding"],"receivingConcepts":[]}
+{"concept":"Brioche","rel":"InstanceOf","receivingConcepts":["Bread","Breakfast","Dessert","Pastry"],"emittingConcepts":[]}
+{"concept":"Breakfast","rel":"InstanceOf","emittingConcepts":["Brioche","Churro","Croissant","Dhokla","Eggs Benedict","Idli","Kaymak","Monkey Bread"],"receivingConcepts":[]}
+{"concept":"Borough","rel":"InstanceOf","emittingConcepts":["Bronx","Brooklyn","Manhattan","Queens","Staten Island"],"receivingConcepts":[]}
+{"concept":"Suspension Bridge","rel":"InstanceOf","emittingConcepts":["Bronx Whitestone Bridge","Brooklyn Bridge","Golden Gate Bridge","Mackinac Bridge","Pierre Laporte Bridge"],"receivingConcepts":[]}
+{"concept":"Brooklyn Bridge","rel":"InstanceOf","receivingConcepts":["Cable Stayed Bridge","Suspension Bridge"],"emittingConcepts":[]}
+{"concept":"Cable Stayed Bridge","rel":"InstanceOf","emittingConcepts":["Brooklyn Bridge","Øresund Bridge"],"receivingConcepts":[]}
+{"concept":"Sauce","rel":"InstanceOf","emittingConcepts":["Béarnaise Sauce","Hard Sauce","Hollandaise Sauce","Ketchup","Pistou","Pla Ra","Romesco","Salsa","Suprême Sauce","Tartar Sauce","Vinaigrette"],"receivingConcepts":[]}
+{"concept":"Military Base","rel":"InstanceOf","emittingConcepts":["Camp David","Fort George G Meade"],"receivingConcepts":[]}
+{"concept":"Carbine","rel":"InstanceOf","emittingConcepts":["Car 15","Heckler Koch Hk416","M4 Carbine"],"receivingConcepts":[]}
+{"concept":"Cat Tongue","rel":"InstanceOf","receivingConcepts":["Biscuit","Dessert"],"emittingConcepts":[]}
+{"concept":"Stratovolcano","rel":"InstanceOf","emittingConcepts":["Cay","Chimborazo","Coropuna","Cotopaxi","Eyjafjallajökull","Lascar","Llullaillaco","Mount Adams","Mount Ararat","Mount Elbrus","Mount Erebus","Mount Etna","Mount Fuji","Mount Hood","Mount Kilimanjaro","Mount Pinatubo","Mount Rainier","Mount Shasta","Mount St Helens","Ojos Del Salado","Pico De Orizaba","Popocatépetl","Rota","Sakurajima","Sangay","Sierra Nevada","Stromboli","Teide","Tupungatito","Tupungato","White Island"],"receivingConcepts":[]}
+{"concept":"Union Territory","rel":"InstanceOf","emittingConcepts":["Chandigarh","Dadra and Nagar Haveli","Daman and Diu","Delhi","Lakshadweep"],"receivingConcepts":[]}
+{"concept":"Cheesecake","rel":"InstanceOf","receivingConcepts":["Custard","Dessert"],"emittingConcepts":[]}
+{"concept":"Secret Police","rel":"InstanceOf","emittingConcepts":["Cheka","Gestapo","Nkvd"],"receivingConcepts":[]}
+{"concept":"Desert","rel":"InstanceOf","emittingConcepts":["Chihuahuan Desert","Kyzyl Kum"],"receivingConcepts":[]}
+{"concept":"Special Forces","rel":"InstanceOf","emittingConcepts":["Chindits","Delta Force","Flechas","Sayeret Matkal","Special Air Service","Special Forces","United States Navy Seals"],"receivingConcepts":["Special Forces"]}
+{"concept":"Choux Pastry","rel":"InstanceOf","receivingConcepts":["Pastry"],"emittingConcepts":["Croquembouche","Gougère"]}
+{"concept":"Christianity","rel":"InstanceOf","emittingConcepts":["Christmas","Christmas Eve","Midsummer"],"receivingConcepts":[]}
+{"concept":"Fruitcake","rel":"InstanceOf","emittingConcepts":["Christmas Cake","Dundee Cake","Stollen"],"receivingConcepts":["Cake"]}
+{"concept":"Chrysler","rel":"InstanceOf","receivingConcepts":["Limited Liability Company","Division"],"emittingConcepts":[]}
+{"concept":"Limited Liability Company","rel":"InstanceOf","emittingConcepts":["Chrysler","Steinberg","Ted","Zeeman"],"receivingConcepts":[]}
+{"concept":"Churro","rel":"InstanceOf","receivingConcepts":["Breakfast","Dinner"],"emittingConcepts":[]}
+{"concept":"Claymore","rel":"InstanceOf","receivingConcepts":["Sword","Manga"],"emittingConcepts":[]}
+{"concept":"Sword","rel":"InstanceOf","emittingConcepts":["Claymore","Gladius","Katana","Longsword","Macuahuitl","Pata","Rapier","Sabre","Scimitar","Talwar","Uchigatana","Zweihänder"],"receivingConcepts":[]}
+{"concept":"Porridge","rel":"InstanceOf","emittingConcepts":["Congee","Gruel","Polenta","Semolina Pudding"],"receivingConcepts":[]}
+{"concept":"Cooperative","rel":"InstanceOf","emittingConcepts":["Coop","Oclc"],"receivingConcepts":[]}
+{"concept":"Private School","rel":"InstanceOf","emittingConcepts":["Cooper Union","Santa Fe"],"receivingConcepts":[]}
+{"concept":"Cracker","rel":"InstanceOf","emittingConcepts":["Crispbread","Hardtack","Oyster Cracker"],"receivingConcepts":[]}
+{"concept":"Croquembouche","rel":"InstanceOf","receivingConcepts":["Choux Pastry","Dessert"],"emittingConcepts":[]}
+{"concept":"Dacquoise","rel":"InstanceOf","receivingConcepts":["Cake","Dessert"],"emittingConcepts":[]}
+{"concept":"Chaebol","rel":"InstanceOf","emittingConcepts":["Daewoo","Hyundai"],"receivingConcepts":[]}
+{"concept":"Candy","rel":"InstanceOf","emittingConcepts":["Dango","Toffee"],"receivingConcepts":[]}
+{"concept":"Fighter Aircraft","rel":"InstanceOf","emittingConcepts":["Dassault Mirage F1","Supermarine Spitfire"],"receivingConcepts":[]}
+{"concept":"Df 21","rel":"InstanceOf","receivingConcepts":["Intermediate Range Ballistic Missile","Medium Range Ballistic Missile"],"emittingConcepts":[]}
+{"concept":"Fresh Water","rel":"InstanceOf","emittingConcepts":["Dian Lake","Loch Lomond"],"receivingConcepts":[]}
+{"concept":"Hindu","rel":"InstanceOf","emittingConcepts":["Diwali","Ganesh Chaturthi","Holi","Kumbh Mela","Maha Shivaratri"],"receivingConcepts":[]}
+{"concept":"Airliner","rel":"InstanceOf","emittingConcepts":["Douglas Dc 3","Tupolev Tu 134"],"receivingConcepts":[]}
+{"concept":"Corporation","rel":"InstanceOf","emittingConcepts":["Dual","Rendition"],"receivingConcepts":[]}
+{"concept":"Lower House","rel":"InstanceOf","emittingConcepts":["Dáil Éireann","House of Representatives","National Assembly","Sejm","United States House of Representatives"],"receivingConcepts":[]}
+{"concept":"Egg Tart","rel":"InstanceOf","receivingConcepts":["Dessert","Pastry"],"emittingConcepts":[]}
+{"concept":"Eggs Benedict","rel":"InstanceOf","receivingConcepts":["Breakfast","Brunch"],"emittingConcepts":[]}
+{"concept":"Desktop Computer","rel":"InstanceOf","emittingConcepts":["Emac","Imac"],"receivingConcepts":[]}
+{"concept":"Empire State Building","rel":"InstanceOf","receivingConcepts":["Observation Deck","Office"],"emittingConcepts":[]}
+{"concept":"Live Album","rel":"InstanceOf","emittingConcepts":["Entreat","Gluttons for Punishment","Harras","Show of Hands"],"receivingConcepts":[]}
+{"concept":"Anti Ship Missile","rel":"InstanceOf","emittingConcepts":["Exocet","Harpoon","Noor"],"receivingConcepts":[]}
+{"concept":"Exploratorium","rel":"InstanceOf","receivingConcepts":["Perception","Science Museum"],"emittingConcepts":[]}
+{"concept":"Nuclear Weapon","rel":"InstanceOf","emittingConcepts":["Fat Man","Little Boy"],"receivingConcepts":[]}
+{"concept":"Upper House","rel":"InstanceOf","emittingConcepts":["Federal Council","House of Lords","Rajya Sabha","Senate"],"receivingConcepts":[]}
+{"concept":"Flatbread","rel":"InstanceOf","receivingConcepts":["Bread"],"emittingConcepts":["Focaccia","Injera","Kulcha","Lavash","Lefse","Matzo","Pizza","Scallion Pancake","Tortilla"]}
+{"concept":"Cookie","rel":"InstanceOf","emittingConcepts":["Fortune Cookie","Krumkake","Ladyfinger"],"receivingConcepts":[]}
+{"concept":"Schooner","rel":"InstanceOf","emittingConcepts":["Fram","Half Moon"],"receivingConcepts":[]}
+{"concept":"Snack Food","rel":"InstanceOf","emittingConcepts":["French Fries","Leblebi","Pringles","Supplì","Tortilla Chip","Trail Mix"],"receivingConcepts":[]}
+{"concept":"Frozen Dessert","rel":"InstanceOf","receivingConcepts":["Dessert"],"emittingConcepts":["Ice Pop","Sorbet"]}
+{"concept":"Fruit Salad","rel":"InstanceOf","receivingConcepts":["Dessert","Salad"],"emittingConcepts":[]}
+{"concept":"Emirate","rel":"InstanceOf","emittingConcepts":["Fujairah","Ras Al Khaimah","Umm Al Quwain"],"receivingConcepts":[]}
+{"concept":"Atoll","rel":"InstanceOf","emittingConcepts":["Funafuti","Kiritimati","Nui"],"receivingConcepts":[]}
+{"concept":"Galette","rel":"InstanceOf","receivingConcepts":["Cake","Pancake"],"emittingConcepts":[]}
+{"concept":"Gatling Gun","rel":"InstanceOf","emittingConcepts":["Gau 8 Avenger","Minigun"],"receivingConcepts":[]}
+{"concept":"Limited Company","rel":"InstanceOf","emittingConcepts":["Gola","Habitat","Umbro"],"receivingConcepts":[]}
+{"concept":"Great Lake","rel":"InstanceOf","receivingConcepts":["Lake","Reservoir"],"emittingConcepts":[]}
+{"concept":"Caribbean","rel":"InstanceOf","emittingConcepts":["Greater Antilles","Grenadines","Lesser Antilles"],"receivingConcepts":[]}
+{"concept":"Groom's Cake","rel":"InstanceOf","receivingConcepts":["Cake","Dessert"],"emittingConcepts":[]}
+{"concept":"Gyro","rel":"InstanceOf","receivingConcepts":["Meat","Sandwich"],"emittingConcepts":[]}
+{"concept":"Haganah","rel":"InstanceOf","receivingConcepts":["Armed Forces","Paramilitary"],"emittingConcepts":[]}
+{"concept":"Armed Forces","rel":"InstanceOf","emittingConcepts":["Haganah","Irgun"],"receivingConcepts":[]}
+{"concept":"Paramilitary","rel":"InstanceOf","emittingConcepts":["Haganah","Irgun","Schutzstaffel","Scorpions","Sturmabteilung"],"receivingConcepts":[]}
+{"concept":"Hard Sauce","rel":"InstanceOf","receivingConcepts":["Dessert","Sauce"],"emittingConcepts":[]}
+{"concept":"Hardtack","rel":"InstanceOf","receivingConcepts":["Biscuit","Cracker"],"emittingConcepts":[]}
+{"concept":"Heavy Object","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Heckler Koch Hk416","rel":"InstanceOf","receivingConcepts":["Assault Rifle","Carbine","Squad Automatic Weapon"],"emittingConcepts":[]}
+{"concept":"Squad Automatic Weapon","rel":"InstanceOf","emittingConcepts":["Heckler Koch Hk416","Sa80"],"receivingConcepts":[]}
+{"concept":"Ice Cream","rel":"InstanceOf","emittingConcepts":["Ice Cream Sandwich","Sundae"],"receivingConcepts":[]}
+{"concept":"Irgun","rel":"InstanceOf","receivingConcepts":["Armed Forces","Paramilitary"],"emittingConcepts":[]}
+{"concept":"Is","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Ep","rel":"InstanceOf","emittingConcepts":["Jealousy","Reset","Scarred"],"receivingConcepts":[]}
+{"concept":"Kanon","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Karelian Pasty","rel":"InstanceOf","receivingConcepts":["Pasty","Pirog"],"emittingConcepts":[]}
+{"concept":"Kaymak","rel":"InstanceOf","receivingConcepts":["Breakfast","Dessert"],"emittingConcepts":[]}
+{"concept":"Kingstown","rel":"InstanceOf","receivingConcepts":["Capital City","Town"],"emittingConcepts":[]}
+{"concept":"County","rel":"InstanceOf","emittingConcepts":["Kinmen","Orange County California","Penghu"],"receivingConcepts":[]}
+{"concept":"Hinduism","rel":"InstanceOf","emittingConcepts":["Krishna Janmashtami","Navratri"],"receivingConcepts":[]}
+{"concept":"Dairy Product","rel":"InstanceOf","emittingConcepts":["Kumis","Yogurt"],"receivingConcepts":[]}
+{"concept":"Fjord","rel":"InstanceOf","emittingConcepts":["Lake Thun","Tyrifjorden"],"receivingConcepts":[]}
+{"concept":"Salt Lake","rel":"InstanceOf","emittingConcepts":["Lake Urmia","Uvs Lake"],"receivingConcepts":[]}
+{"concept":"Landing Craft","rel":"InstanceOf","emittingConcepts":["Landing Craft Air Cushion","Landing Craft Infantry"],"receivingConcepts":[]}
+{"concept":"Islam","rel":"InstanceOf","emittingConcepts":["Laylat Al Qadr","Mawlid"],"receivingConcepts":[]}
+{"concept":"Cavalry","rel":"InstanceOf","emittingConcepts":["Life Guards","Waffen Ss"],"receivingConcepts":[]}
+{"concept":"Infantry Fighting Vehicle","rel":"InstanceOf","emittingConcepts":["M2 Bradley","Puma","Warrior Tracked Armoured Vehicle"],"receivingConcepts":[]}
+{"concept":"M4 Carbine","rel":"InstanceOf","receivingConcepts":["Assault Rifle","Carbine"],"emittingConcepts":[]}
+{"concept":"Buddhism","rel":"InstanceOf","emittingConcepts":["Magha Puja","Songkran"],"receivingConcepts":[]}
+{"concept":"Lava Dome","rel":"InstanceOf","emittingConcepts":["Mammoth Mountain","Puy De Dôme"],"receivingConcepts":[]}
+{"concept":"Mauna Kea","rel":"InstanceOf","receivingConcepts":["Hotspot","Shield Volcano"],"emittingConcepts":[]}
+{"concept":"Memorial","rel":"InstanceOf","receivingConcepts":["Non Governmental Organization","Nonprofit Organization"],"emittingConcepts":[]}
+{"concept":"Wiki","rel":"InstanceOf","emittingConcepts":["Memory Alpha","Wikidata","Wikivoyage","Wookieepedia"],"receivingConcepts":[]}
+{"concept":"Surface to Air Missile","rel":"InstanceOf","emittingConcepts":["Mica","Mim 104 Patriot","Pechora","Rapier","Roland","Sea Slug"],"receivingConcepts":[]}
+{"concept":"Midsummer","rel":"InstanceOf","receivingConcepts":["Christianity","Paganism","Swedes","Wicca"],"emittingConcepts":[]}
+{"concept":"Mm","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Monkey Bread","rel":"InstanceOf","receivingConcepts":["Bread","Breakfast","Pastry"],"emittingConcepts":[]}
+{"concept":"Mount Olympus","rel":"InstanceOf","receivingConcepts":["Sandstone","Shale"],"emittingConcepts":[]}
+{"concept":"Sandstone","rel":"InstanceOf","emittingConcepts":["Mount Olympus","Table Mountain"],"receivingConcepts":[]}
+{"concept":"National Assembly","rel":"InstanceOf","receivingConcepts":["Unicameralism","Lower House","Parliament"],"emittingConcepts":[]}
+{"concept":"Olivier Salad","rel":"InstanceOf","receivingConcepts":["Salad","Zakuski"],"emittingConcepts":[]}
+{"concept":"Air Force","rel":"InstanceOf","emittingConcepts":["People's Liberation Army Air Force","Royal Air Force","United States Air Force"],"receivingConcepts":[]}
+{"concept":"Pierrot","rel":"InstanceOf","receivingConcepts":["Animation","Film Studio"],"emittingConcepts":[]}
+{"concept":"Pretzel","rel":"InstanceOf","receivingConcepts":["Bread","Pastry"],"emittingConcepts":[]}
+{"concept":"Judaism","rel":"InstanceOf","emittingConcepts":["Purim","Rosh Hashanah"],"receivingConcepts":[]}
+{"concept":"Rapier","rel":"InstanceOf","receivingConcepts":["Sword","Surface to Air Missile"],"emittingConcepts":[]}
+{"concept":"Real","rel":"InstanceOf","receivingConcepts":["Subsidiary","Manga"],"emittingConcepts":[]}
+{"concept":"Reborn","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Reichstag","rel":"InstanceOf","receivingConcepts":["Bicameralism","Unicameralism"],"emittingConcepts":[]}
+{"concept":"Bicameralism","rel":"InstanceOf","emittingConcepts":["Reichstag","United States Congress"],"receivingConcepts":[]}
+{"concept":"Sa80","rel":"InstanceOf","receivingConcepts":["Assault Rifle","Squad Automatic Weapon"],"emittingConcepts":[]}
+{"concept":"Saba","rel":"InstanceOf","receivingConcepts":["Caribbean Netherlands","Netherlands"],"emittingConcepts":[]}
+{"concept":"San Diego","rel":"InstanceOf","receivingConcepts":["California","Galleon"],"emittingConcepts":[]}
+{"concept":"Religion","rel":"InstanceOf","emittingConcepts":["Saturnalia","Terminalia"],"receivingConcepts":[]}
+{"concept":"Sint Eustatius","rel":"InstanceOf","receivingConcepts":["Caribbean Netherlands","Netherlands"],"emittingConcepts":[]}
+{"concept":"Slayers","rel":"InstanceOf","receivingConcepts":["Light Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Steyr Aug","rel":"InstanceOf","receivingConcepts":["Bullpup","Light Machine Gun","Submachine Gun"],"emittingConcepts":[]}
+{"concept":"Summer Pudding","rel":"InstanceOf","receivingConcepts":["Dessert","Pudding"],"emittingConcepts":[]}
+{"concept":"Sundae","rel":"InstanceOf","receivingConcepts":["Dessert","Ice Cream"],"emittingConcepts":[]}
+{"concept":"Tactics","rel":"InstanceOf","receivingConcepts":["Visual Novel","Manga"],"emittingConcepts":[]}
+{"concept":"Teutonic Order","rel":"InstanceOf","receivingConcepts":["Catholic Church","Military Order"],"emittingConcepts":[]}
+{"concept":"Texel","rel":"InstanceOf","receivingConcepts":["Island","Municipality"],"emittingConcepts":[]}
+{"concept":"Valentina Tereshkova","rel":"InstanceOf","receivingConcepts":["Outer Space","Soviet Union"],"emittingConcepts":[]}
+{"concept":"Outer Space","rel":"InstanceOf","emittingConcepts":["Valentina Tereshkova","Yuri Gagarin"],"receivingConcepts":[]}
+{"concept":"Vinaigrette","rel":"InstanceOf","receivingConcepts":["Marination","Salad","Sauce"],"emittingConcepts":[]}
+{"concept":"Waffen Ss","rel":"InstanceOf","receivingConcepts":["Cavalry","Infantry","Police"],"emittingConcepts":[]}
+{"concept":"Wijchen","rel":"InstanceOf","receivingConcepts":["Municipality","Town"],"emittingConcepts":[]}
+{"concept":"Wikidata","rel":"InstanceOf","receivingConcepts":["Knowledge Base","Wiki"],"emittingConcepts":[]}
+{"concept":"Digital Library","rel":"InstanceOf","emittingConcepts":["Wikimedia Commons","Wikisource"],"receivingConcepts":[]}

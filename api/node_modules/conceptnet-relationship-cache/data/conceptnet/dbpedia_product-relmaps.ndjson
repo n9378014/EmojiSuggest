@@ -1,0 +1,197 @@
+{"concept":"Accolade","rel":"dbpedia/product","receivingConcepts":["Hardball","Jack Nicklaus"],"emittingConcepts":[]}
+{"concept":"Adidas","rel":"dbpedia/product","receivingConcepts":["Sports Equipment","Sportswear"],"emittingConcepts":[]}
+{"concept":"Sports Equipment","rel":"dbpedia/product","emittingConcepts":["Adidas","Billabong","Brine"],"receivingConcepts":[]}
+{"concept":"Sportswear","rel":"dbpedia/product","emittingConcepts":["Adidas","Head","Kappa","Reebok","Slam","Umbro"],"receivingConcepts":[]}
+{"concept":"Aeon","rel":"dbpedia/product","receivingConcepts":["Department Store","Discount Store","Hypermarket","Pharmacy","Supermarket"],"emittingConcepts":[]}
+{"concept":"Department Store","rel":"dbpedia/product","emittingConcepts":["Aeon","Big C","Spar"],"receivingConcepts":[]}
+{"concept":"Discount Store","rel":"dbpedia/product","emittingConcepts":["Aeon","Ahold","Carrefour","Mercator","Penny"],"receivingConcepts":[]}
+{"concept":"Hypermarket","rel":"dbpedia/product","emittingConcepts":["Aeon","Ahold","Big C","Cactus","Carrefour","Cora","Mercator","Real","Spar"],"receivingConcepts":[]}
+{"concept":"Pharmacy","rel":"dbpedia/product","emittingConcepts":["Aeon","Ahold"],"receivingConcepts":[]}
+{"concept":"Supermarket","rel":"dbpedia/product","emittingConcepts":["Aeon","Ahold","Big C","Mercator","Spar"],"receivingConcepts":[]}
+{"concept":"Aeros","rel":"dbpedia/product","receivingConcepts":["Glider","Hang Gliding","Paragliding"],"emittingConcepts":[]}
+{"concept":"Agco","rel":"dbpedia/product","receivingConcepts":["Agriculture","Combine Harvester","Diesel Engine","Tractor"],"emittingConcepts":[]}
+{"concept":"Agriculture","rel":"dbpedia/product","emittingConcepts":["Agco","John Deere"],"receivingConcepts":[]}
+{"concept":"Diesel Engine","rel":"dbpedia/product","emittingConcepts":["Agco","John Deere"],"receivingConcepts":[]}
+{"concept":"Lingerie","rel":"dbpedia/product","emittingConcepts":["Agent Provocateur","Victoria's Secret"],"receivingConcepts":[]}
+{"concept":"Ahold","rel":"dbpedia/product","receivingConcepts":["Discount Store","Hypermarket","Pharmacy","Supermarket"],"emittingConcepts":[]}
+{"concept":"Airliner","rel":"dbpedia/product","emittingConcepts":["Airbus","Messerschmitt"],"receivingConcepts":[]}
+{"concept":"Alcon","rel":"dbpedia/product","receivingConcepts":["Contact Lens","Ophthalmology"],"emittingConcepts":[]}
+{"concept":"Electronics","rel":"dbpedia/product","emittingConcepts":["Alesis","Hitachi","Mitsubishi","Toshiba"],"receivingConcepts":[]}
+{"concept":"Alfa","rel":"dbpedia/product","receivingConcepts":["Information Technology","Natural Gas","Oil"],"emittingConcepts":[]}
+{"concept":"Information Technology","rel":"dbpedia/product","emittingConcepts":["Alfa","Wind"],"receivingConcepts":[]}
+{"concept":"Natural Gas","rel":"dbpedia/product","emittingConcepts":["Alfa","Bp","Edison","Repower"],"receivingConcepts":[]}
+{"concept":"Online Auction","rel":"dbpedia/product","emittingConcepts":["Allegro","Ebay"],"receivingConcepts":[]}
+{"concept":"Car","rel":"dbpedia/product","emittingConcepts":["Alpine","Alta","Ballot","Benjamin","Buick","Chevrolet","Citroën","Cyclecar","Datsun","Goliath","Holden","Honda","Hyundai","Iso","Itala","John Deere","Maserati","Mathis","Mazda","Mercury","Monteverdi","Opel","Packard","Peugeot","Pirelli","Pontiac","Proton","Reliant","Seat","Studebaker","Subaru","Suzuki","Talbot","Tatra","Volkswagen"],"receivingConcepts":[]}
+{"concept":"Alta","rel":"dbpedia/product","receivingConcepts":["Car","Motorcycle"],"emittingConcepts":[]}
+{"concept":"Motorcycle","rel":"dbpedia/product","emittingConcepts":["Alta","Bmw","Honda","Iso","Pirelli","Suzuki","Triumph","Victoria","Zanella"],"receivingConcepts":[]}
+{"concept":"Altec Lansing","rel":"dbpedia/product","receivingConcepts":["Headphones","Loudspeaker"],"emittingConcepts":[]}
+{"concept":"Aon","rel":"dbpedia/product","receivingConcepts":["Insurance Broker","Outsourcing","Reinsurance","Risk Management"],"emittingConcepts":[]}
+{"concept":"Outsourcing","rel":"dbpedia/product","emittingConcepts":["Aon","Xerox"],"receivingConcepts":[]}
+{"concept":"Aria","rel":"dbpedia/product","receivingConcepts":["Bass Guitar","Guitar"],"emittingConcepts":[]}
+{"concept":"Bass Guitar","rel":"dbpedia/product","emittingConcepts":["Aria","Ibanez","Rickenbacker"],"receivingConcepts":[]}
+{"concept":"Guitar","rel":"dbpedia/product","emittingConcepts":["Aria","Rickenbacker"],"receivingConcepts":[]}
+{"concept":"Consumer Electronics","rel":"dbpedia/product","emittingConcepts":["Atari","Best Buy","Expert","Nec","Samsung","Sony"],"receivingConcepts":[]}
+{"concept":"Image Scanner","rel":"dbpedia/product","emittingConcepts":["Avision","Xerox"],"receivingConcepts":[]}
+{"concept":"Bank of China","rel":"dbpedia/product","receivingConcepts":["Asset Management","Commercial Bank","Credit Card","Investment Banking","Security","Wealth"],"emittingConcepts":[]}
+{"concept":"Asset Management","rel":"dbpedia/product","emittingConcepts":["Bank of China","Fortis"],"receivingConcepts":[]}
+{"concept":"Commercial Bank","rel":"dbpedia/product","emittingConcepts":["Bank of China","Citigroup","Fortis","Hsbc","Ubs"],"receivingConcepts":[]}
+{"concept":"Credit Card","rel":"dbpedia/product","emittingConcepts":["Bank of China","Hsbc","Ubs"],"receivingConcepts":[]}
+{"concept":"Investment Banking","rel":"dbpedia/product","emittingConcepts":["Bank of China","Citigroup","Fortis","Hsbc","Ubs"],"receivingConcepts":[]}
+{"concept":"Jewellery","rel":"dbpedia/product","emittingConcepts":["Belk","Chanel","Globus","Montblanc"],"receivingConcepts":[]}
+{"concept":"Clothing","rel":"dbpedia/product","emittingConcepts":["Bench","Billabong","Brine","Burberry","C","Circa","Converse","Fila","Globus","Kappa","Mango","Soap","Versace","Zara","Zeeman"],"receivingConcepts":[]}
+{"concept":"Beretta","rel":"dbpedia/product","receivingConcepts":["Firearm","Weapon"],"emittingConcepts":[]}
+{"concept":"Bhp Billiton","rel":"dbpedia/product","receivingConcepts":["Coal","Copper","Iron Ore","Petroleum","Uranium"],"emittingConcepts":[]}
+{"concept":"Coal","rel":"dbpedia/product","emittingConcepts":["Bhp Billiton","Vale"],"receivingConcepts":[]}
+{"concept":"Copper","rel":"dbpedia/product","emittingConcepts":["Bhp Billiton","Vale"],"receivingConcepts":[]}
+{"concept":"Iron Ore","rel":"dbpedia/product","emittingConcepts":["Bhp Billiton","Vale"],"receivingConcepts":[]}
+{"concept":"Petroleum","rel":"dbpedia/product","emittingConcepts":["Bhp Billiton","Bp","Oil Refineries"],"receivingConcepts":[]}
+{"concept":"Big C","rel":"dbpedia/product","receivingConcepts":["Department Store","Hypermarket","Supermarket"],"emittingConcepts":[]}
+{"concept":"Billabong","rel":"dbpedia/product","receivingConcepts":["Clothing","Sports Equipment"],"emittingConcepts":[]}
+{"concept":"Bmw","rel":"dbpedia/product","receivingConcepts":["Bicycle","Motorcycle","Sports Car"],"emittingConcepts":[]}
+{"concept":"Bicycle","rel":"dbpedia/product","emittingConcepts":["Bmw","Gazelle"],"receivingConcepts":[]}
+{"concept":"Sports Car","rel":"dbpedia/product","emittingConcepts":["Bmw","Ferrari","Lamborghini","Matra","Peugeot","Pgo"],"receivingConcepts":[]}
+{"concept":"Boeing","rel":"dbpedia/product","receivingConcepts":["Boeing 737","Boeing 747","Boeing 767","Boeing 777","Boeing 787 Dreamliner","Boeing Ch 47 Chinook"],"emittingConcepts":[]}
+{"concept":"Bp","rel":"dbpedia/product","receivingConcepts":["Filling Station","Natural Gas","Petroleum"],"emittingConcepts":[]}
+{"concept":"Filling Station","rel":"dbpedia/product","emittingConcepts":["Bp","Mercator"],"receivingConcepts":[]}
+{"concept":"Brine","rel":"dbpedia/product","receivingConcepts":["Clothing","Footwear","Sports Equipment"],"emittingConcepts":[]}
+{"concept":"Footwear","rel":"dbpedia/product","emittingConcepts":["Brine","Gola","Head","Kappa","Moon Boot","Reebok","Slam"],"receivingConcepts":[]}
+{"concept":"Burberry","rel":"dbpedia/product","receivingConcepts":["Clothing","Cosmetics","Perfume"],"emittingConcepts":[]}
+{"concept":"Cosmetics","rel":"dbpedia/product","emittingConcepts":["Burberry","Globus"],"receivingConcepts":[]}
+{"concept":"Perfume","rel":"dbpedia/product","emittingConcepts":["Burberry","Chanel","Montblanc"],"receivingConcepts":[]}
+{"concept":"Cablevision","rel":"dbpedia/product","receivingConcepts":["Cable Television","Cablevision"],"emittingConcepts":["Cablevision"]}
+{"concept":"Cable Television","rel":"dbpedia/product","emittingConcepts":["Cablevision","Motorola","Nos","Viacom"],"receivingConcepts":[]}
+{"concept":"Canonical","rel":"dbpedia/product","receivingConcepts":["Canonical","Launchpad","Ubuntu"],"emittingConcepts":["Canonical"]}
+{"concept":"Carrefour","rel":"dbpedia/product","receivingConcepts":["Cash and Carry","Discount Store","Hypermarket"],"emittingConcepts":[]}
+{"concept":"Cash and Carry","rel":"dbpedia/product","emittingConcepts":["Carrefour","Mercator"],"receivingConcepts":[]}
+{"concept":"Chanel","rel":"dbpedia/product","receivingConcepts":["Haute Couture","Jewellery","Perfume"],"emittingConcepts":[]}
+{"concept":"Chevrolet","rel":"dbpedia/product","receivingConcepts":["Car","Truck"],"emittingConcepts":[]}
+{"concept":"Truck","rel":"dbpedia/product","emittingConcepts":["Chevrolet","Erf","Mack Trucks","Tatra","Volkswagen"],"receivingConcepts":[]}
+{"concept":"Circa","rel":"dbpedia/product","receivingConcepts":["Clothing","Hat","Shoe"],"emittingConcepts":[]}
+{"concept":"Shoe","rel":"dbpedia/product","emittingConcepts":["Circa","Converse","Crocs"],"receivingConcepts":[]}
+{"concept":"Citigroup","rel":"dbpedia/product","receivingConcepts":["Commercial Bank","Investment Banking"],"emittingConcepts":[]}
+{"concept":"Compaq","rel":"dbpedia/product","receivingConcepts":["Desktop Computer","Laptop"],"emittingConcepts":[]}
+{"concept":"Video Game","rel":"dbpedia/product","emittingConcepts":["Compile","Creatures","Gravity","Intelligent Systems","Rare","Running With Scissors"],"receivingConcepts":[]}
+{"concept":"Converse","rel":"dbpedia/product","receivingConcepts":["Clothing","Shoe"],"emittingConcepts":[]}
+{"concept":"Cummins","rel":"dbpedia/product","receivingConcepts":["Engine","Filtration","Turbocharger"],"emittingConcepts":[]}
+{"concept":"Engine","rel":"dbpedia/product","emittingConcepts":["Cummins","Daihatsu","Holden","Suzuki"],"receivingConcepts":[]}
+{"concept":"Dell","rel":"dbpedia/product","receivingConcepts":["Peripheral","Server","Smartphone"],"emittingConcepts":[]}
+{"concept":"Server","rel":"dbpedia/product","emittingConcepts":["Dell","Nec","Tyan"],"receivingConcepts":[]}
+{"concept":"Smartphone","rel":"dbpedia/product","emittingConcepts":["Dell","Motorola"],"receivingConcepts":[]}
+{"concept":"Dfi","rel":"dbpedia/product","receivingConcepts":["Automated Teller Machine","Motherboard","Slot Machine","Smart Grid"],"emittingConcepts":[]}
+{"concept":"Motherboard","rel":"dbpedia/product","emittingConcepts":["Dfi","Intel","Tyan"],"receivingConcepts":[]}
+{"concept":"Dickies","rel":"dbpedia/product","receivingConcepts":["Backpack","Belt"],"emittingConcepts":[]}
+{"concept":"Polymer","rel":"dbpedia/product","emittingConcepts":["Dsm","Sabic"],"receivingConcepts":[]}
+{"concept":"Dyson","rel":"dbpedia/product","receivingConcepts":["Hand Dryer","Vacuum Cleaner"],"emittingConcepts":[]}
+{"concept":"Ebay","rel":"dbpedia/product","receivingConcepts":["E Commerce","Online Auction"],"emittingConcepts":[]}
+{"concept":"E Commerce","rel":"dbpedia/product","emittingConcepts":["Ebay","Mercator","Payback"],"receivingConcepts":[]}
+{"concept":"Edison","rel":"dbpedia/product","receivingConcepts":["Electric Power","Natural Gas"],"emittingConcepts":[]}
+{"concept":"Elisa","rel":"dbpedia/product","receivingConcepts":["Internet","Wholesale"],"emittingConcepts":[]}
+{"concept":"Internet","rel":"dbpedia/product","emittingConcepts":["Elisa","Tango"],"receivingConcepts":[]}
+{"concept":"Ericsson","rel":"dbpedia/product","receivingConcepts":["Multimedia","Television"],"emittingConcepts":[]}
+{"concept":"Television","rel":"dbpedia/product","emittingConcepts":["Ericsson","Rca"],"receivingConcepts":[]}
+{"concept":"Exxonmobil","rel":"dbpedia/product","receivingConcepts":["Fuel","Lubricant","Refining"],"emittingConcepts":[]}
+{"concept":"Fedex","rel":"dbpedia/product","receivingConcepts":["Cargo","Mail"],"emittingConcepts":[]}
+{"concept":"Cargo","rel":"dbpedia/product","emittingConcepts":["Fedex","Royal Mail"],"receivingConcepts":[]}
+{"concept":"Mail","rel":"dbpedia/product","emittingConcepts":["Fedex","Royal Mail"],"receivingConcepts":[]}
+{"concept":"Fila","rel":"dbpedia/product","receivingConcepts":["Athletic Shoe","Clothing"],"emittingConcepts":[]}
+{"concept":"Fortis","rel":"dbpedia/product","receivingConcepts":["Asset Management","Commercial Bank","Insurance","Investment Banking"],"emittingConcepts":[]}
+{"concept":"Insurance","rel":"dbpedia/product","emittingConcepts":["Fortis","Mitsubishi"],"receivingConcepts":[]}
+{"concept":"Research","rel":"dbpedia/product","emittingConcepts":["Gartner","Sri International"],"receivingConcepts":[]}
+{"concept":"Visual Novel","rel":"dbpedia/product","emittingConcepts":["Giga","Prototype","Tactics"],"receivingConcepts":[]}
+{"concept":"Globus","rel":"dbpedia/product","receivingConcepts":["Clothing","Cosmetics","Jewellery","Luxury Goods"],"emittingConcepts":[]}
+{"concept":"Good to Go","rel":"dbpedia/product","receivingConcepts":["Transponder","Washington"],"emittingConcepts":[]}
+{"concept":"Gravity","rel":"dbpedia/product","receivingConcepts":["Massively Multiplayer Online Role Playing Game","Video Game"],"emittingConcepts":[]}
+{"concept":"Head","rel":"dbpedia/product","receivingConcepts":["Footwear","Sportswear"],"emittingConcepts":[]}
+{"concept":"Hitachi","rel":"dbpedia/product","receivingConcepts":["Electronics","Information System","Power Station"],"emittingConcepts":[]}
+{"concept":"Holden","rel":"dbpedia/product","receivingConcepts":["Car","Engine"],"emittingConcepts":[]}
+{"concept":"Home Depot","rel":"dbpedia/product","receivingConcepts":["Gardening","Home Appliance","Paint"],"emittingConcepts":[]}
+{"concept":"Gardening","rel":"dbpedia/product","emittingConcepts":["Home Depot","Obi"],"receivingConcepts":[]}
+{"concept":"Home Appliance","rel":"dbpedia/product","emittingConcepts":["Home Depot","Obi","Philips","Toshiba"],"receivingConcepts":[]}
+{"concept":"Honda","rel":"dbpedia/product","receivingConcepts":["Car","Jet Aircraft","Jet Engine","Motorcycle","Outboard Motor","Pump","Robotics","Scooter"],"emittingConcepts":[]}
+{"concept":"Outboard Motor","rel":"dbpedia/product","emittingConcepts":["Honda","Nissan","Suzuki"],"receivingConcepts":[]}
+{"concept":"Hsbc","rel":"dbpedia/product","receivingConcepts":["Commercial Bank","Credit Card","Investment Banking"],"emittingConcepts":[]}
+{"concept":"Hummer","rel":"dbpedia/product","receivingConcepts":["Pickup Truck","Sport Utility Vehicle"],"emittingConcepts":[]}
+{"concept":"Hyundai","rel":"dbpedia/product","receivingConcepts":["Car","Construction","Engineering","Heavy Industry","Retail","Steel"],"emittingConcepts":[]}
+{"concept":"Construction","rel":"dbpedia/product","emittingConcepts":["Hyundai","John Deere","Samsung","Siemens"],"receivingConcepts":[]}
+{"concept":"Heavy Industry","rel":"dbpedia/product","emittingConcepts":["Hyundai","Mitsubishi"],"receivingConcepts":[]}
+{"concept":"Retail","rel":"dbpedia/product","emittingConcepts":["Hyundai","Samsung"],"receivingConcepts":[]}
+{"concept":"Steel","rel":"dbpedia/product","emittingConcepts":["Hyundai","Mitsubishi"],"receivingConcepts":[]}
+{"concept":"Ibanez","rel":"dbpedia/product","receivingConcepts":["Bass Guitar","Effects Unit","Electric Guitar","Mandolin"],"emittingConcepts":[]}
+{"concept":"Coffee","rel":"dbpedia/product","emittingConcepts":["Illy","Starbucks"],"receivingConcepts":[]}
+{"concept":"Intel","rel":"dbpedia/product","receivingConcepts":["Bluetooth","Central Processing Unit","Flash Memory","Microprocessor","Mobile Phone","Motherboard","Solid State Drive"],"emittingConcepts":[]}
+{"concept":"Mobile Phone","rel":"dbpedia/product","emittingConcepts":["Intel","Pantech","Sfr","Tango","Wind"],"receivingConcepts":[]}
+{"concept":"Chocolate","rel":"dbpedia/product","emittingConcepts":["Ion","Leonidas"],"receivingConcepts":[]}
+{"concept":"Iso","rel":"dbpedia/product","receivingConcepts":["Car","Motorcycle"],"emittingConcepts":[]}
+{"concept":"John Deere","rel":"dbpedia/product","receivingConcepts":["Agriculture","Car","Construction","Diesel Engine","Forestry"],"emittingConcepts":[]}
+{"concept":"K S","rel":"dbpedia/product","receivingConcepts":["Fertilizer","Plant","Salt"],"emittingConcepts":[]}
+{"concept":"Fertilizer","rel":"dbpedia/product","emittingConcepts":["K S","Sabic"],"receivingConcepts":[]}
+{"concept":"Kappa","rel":"dbpedia/product","receivingConcepts":["Clothing","Footwear","Sportswear"],"emittingConcepts":[]}
+{"concept":"Kores","rel":"dbpedia/product","receivingConcepts":["Adhesive","Writing Implement"],"emittingConcepts":[]}
+{"concept":"Adhesive","rel":"dbpedia/product","emittingConcepts":["Kores","Pritt"],"receivingConcepts":[]}
+{"concept":"Writing Implement","rel":"dbpedia/product","emittingConcepts":["Kores","Pentel"],"receivingConcepts":[]}
+{"concept":"Krystal","rel":"dbpedia/product","receivingConcepts":["Breakfast","Chicken","Fast Food","French Fries","Hamburger","Milkshake"],"emittingConcepts":[]}
+{"concept":"Mercator","rel":"dbpedia/product","receivingConcepts":["Cash and Carry","Discount Store","E Commerce","Filling Station","Food","Hypermarket","Supermarket","Tourism"],"emittingConcepts":[]}
+{"concept":"Mercedes Benz","rel":"dbpedia/product","receivingConcepts":["Auto Mechanic","Bus","Internal Combustion Engine"],"emittingConcepts":[]}
+{"concept":"Bus","rel":"dbpedia/product","emittingConcepts":["Mercedes Benz","Volkswagen"],"receivingConcepts":[]}
+{"concept":"Microsoft","rel":"dbpedia/product","receivingConcepts":["Bing","Msn","Skype"],"emittingConcepts":[]}
+{"concept":"Mitsubishi","rel":"dbpedia/product","receivingConcepts":["Automotive Industry","Chemical Substance","Electronics","Fossil Fuel","Heavy Industry","Insurance","Mining","Real Estate","Shipbuilding","Steel","Telecommunication"],"emittingConcepts":[]}
+{"concept":"Automotive Industry","rel":"dbpedia/product","emittingConcepts":["Mitsubishi","Porsche"],"receivingConcepts":[]}
+{"concept":"Chemical Substance","rel":"dbpedia/product","emittingConcepts":["Mitsubishi","Sabic"],"receivingConcepts":[]}
+{"concept":"Shipbuilding","rel":"dbpedia/product","emittingConcepts":["Mitsubishi","Samsung"],"receivingConcepts":[]}
+{"concept":"Montblanc","rel":"dbpedia/product","receivingConcepts":["Cufflink","Jewellery","Leather","Pen","Perfume","Sunglasses","Watch"],"emittingConcepts":[]}
+{"concept":"Motorola","rel":"dbpedia/product","receivingConcepts":["Cable Television","Radio Frequency Identification","Smartphone","Tablet Computer"],"emittingConcepts":[]}
+{"concept":"Nec","rel":"dbpedia/product","receivingConcepts":["Consumer Electronics","Lighting","Server"],"emittingConcepts":[]}
+{"concept":"Lighting","rel":"dbpedia/product","emittingConcepts":["Nec","Philips"],"receivingConcepts":[]}
+{"concept":"Netscape","rel":"dbpedia/product","receivingConcepts":["Internet Service Provider","Web Browser"],"emittingConcepts":[]}
+{"concept":"Internet Service Provider","rel":"dbpedia/product","emittingConcepts":["Netscape","Sapo","Sfr"],"receivingConcepts":[]}
+{"concept":"Nissan","rel":"dbpedia/product","receivingConcepts":["Forklift","Outboard Motor"],"emittingConcepts":[]}
+{"concept":"Nos","rel":"dbpedia/product","receivingConcepts":["Cable Television","Landline","Movie Theater"],"emittingConcepts":[]}
+{"concept":"Landline","rel":"dbpedia/product","emittingConcepts":["Nos","Sfr","Tango","Wind"],"receivingConcepts":[]}
+{"concept":"Obi","rel":"dbpedia/product","receivingConcepts":["Gardening","Home Appliance","Tool"],"emittingConcepts":[]}
+{"concept":"Peri","rel":"dbpedia/product","receivingConcepts":["Civil Engineering","Formwork","Scaffolding"],"emittingConcepts":[]}
+{"concept":"Peugeot","rel":"dbpedia/product","receivingConcepts":["Car","Sports Car"],"emittingConcepts":[]}
+{"concept":"Philips","rel":"dbpedia/product","receivingConcepts":["Home Appliance","Lighting"],"emittingConcepts":[]}
+{"concept":"Pirelli","rel":"dbpedia/product","receivingConcepts":["Car","Motorcycle","Tire"],"emittingConcepts":[]}
+{"concept":"Pizza","rel":"dbpedia/product","emittingConcepts":["Pizza Hut","Subway"],"receivingConcepts":[]}
+{"concept":"Rca","rel":"dbpedia/product","receivingConcepts":["Phonograph","Television","Videodisc"],"emittingConcepts":[]}
+{"concept":"Reebok","rel":"dbpedia/product","receivingConcepts":["Footwear","Sportswear"],"emittingConcepts":[]}
+{"concept":"Repower","rel":"dbpedia/product","receivingConcepts":["Electricity Generation","Natural Gas"],"emittingConcepts":[]}
+{"concept":"Electricity Generation","rel":"dbpedia/product","emittingConcepts":["Repower","Siemens"],"receivingConcepts":[]}
+{"concept":"Rickenbacker","rel":"dbpedia/product","receivingConcepts":["Banjo","Bass Guitar","Guitar","Lap Steel Guitar"],"emittingConcepts":[]}
+{"concept":"Royal Mail","rel":"dbpedia/product","receivingConcepts":["Cargo","Mail"],"emittingConcepts":[]}
+{"concept":"Sabic","rel":"dbpedia/product","receivingConcepts":["Chemical Substance","Fertilizer","Metal","Polymer"],"emittingConcepts":[]}
+{"concept":"Samsung","rel":"dbpedia/product","receivingConcepts":["Construction","Consumer Electronics","Retail","Semiconductor","Ship","Shipbuilding"],"emittingConcepts":[]}
+{"concept":"Semiconductor","rel":"dbpedia/product","emittingConcepts":["Samsung","Sony","Toshiba"],"receivingConcepts":[]}
+{"concept":"Sfr","rel":"dbpedia/product","receivingConcepts":["Internet Service Provider","Iptv","Landline","Mobile Phone"],"emittingConcepts":[]}
+{"concept":"Iptv","rel":"dbpedia/product","emittingConcepts":["Sfr","Wind"],"receivingConcepts":[]}
+{"concept":"Siemens","rel":"dbpedia/product","receivingConcepts":["Automation","Construction","Electricity Generation","Finance","Train"],"emittingConcepts":[]}
+{"concept":"Finance","rel":"dbpedia/product","emittingConcepts":["Siemens","Toyota"],"receivingConcepts":[]}
+{"concept":"Slam","rel":"dbpedia/product","receivingConcepts":["Footwear","Sportswear"],"emittingConcepts":[]}
+{"concept":"Sony","rel":"dbpedia/product","receivingConcepts":["Computer Hardware","Consumer Electronics","Entertainment","Mass Media","Semiconductor"],"emittingConcepts":[]}
+{"concept":"Computer Hardware","rel":"dbpedia/product","emittingConcepts":["Sony","Toshiba"],"receivingConcepts":[]}
+{"concept":"Spar","rel":"dbpedia/product","receivingConcepts":["Department Store","Hypermarket","Supermarket"],"emittingConcepts":[]}
+{"concept":"Sri International","rel":"dbpedia/product","receivingConcepts":["Research","Research and Development"],"emittingConcepts":[]}
+{"concept":"Starbucks","rel":"dbpedia/product","receivingConcepts":["Coffee","Frappuccino","Pastry","Smoothie","Tea"],"emittingConcepts":[]}
+{"concept":"Studebaker","rel":"dbpedia/product","receivingConcepts":["Car","Carriage","Wagon"],"emittingConcepts":[]}
+{"concept":"Carriage","rel":"dbpedia/product","emittingConcepts":["Studebaker","Tatra"],"receivingConcepts":[]}
+{"concept":"Wagon","rel":"dbpedia/product","emittingConcepts":["Studebaker","Tatra"],"receivingConcepts":[]}
+{"concept":"Subaru","rel":"dbpedia/product","receivingConcepts":["Car","Toyota"],"emittingConcepts":[]}
+{"concept":"Toyota","rel":"dbpedia/product","emittingConcepts":["Subaru"],"receivingConcepts":["Bank","Finance","Lease"]}
+{"concept":"Subway","rel":"dbpedia/product","receivingConcepts":["Pizza","Salad","Submarine Sandwich"],"emittingConcepts":[]}
+{"concept":"Suzuki","rel":"dbpedia/product","receivingConcepts":["Car","Engine","Motorcycle","Outboard Motor"],"emittingConcepts":[]}
+{"concept":"Taco Bell","rel":"dbpedia/product","receivingConcepts":["Burrito","Taco","Tex Mex"],"emittingConcepts":[]}
+{"concept":"Tango","rel":"dbpedia/product","receivingConcepts":["Digital Television","Internet","Landline","Mobile Phone"],"emittingConcepts":[]}
+{"concept":"Tatra","rel":"dbpedia/product","receivingConcepts":["Car","Carriage","Truck","Wagon"],"emittingConcepts":[]}
+{"concept":"Toshiba","rel":"dbpedia/product","receivingConcepts":["Computer Hardware","Electronics","Elevator","Escalator","Home Appliance","Logistics","Semiconductor"],"emittingConcepts":[]}
+{"concept":"Tyan","rel":"dbpedia/product","receivingConcepts":["Motherboard","Server"],"emittingConcepts":[]}
+{"concept":"Ubs","rel":"dbpedia/product","receivingConcepts":["Commercial Bank","Credit Card","Investment Banking"],"emittingConcepts":[]}
+{"concept":"Umbro","rel":"dbpedia/product","receivingConcepts":["Football Boot","Sportswear"],"emittingConcepts":[]}
+{"concept":"Vale","rel":"dbpedia/product","receivingConcepts":["Aluminium","Coal","Copper","Iron Ore","Manganese","Nickel"],"emittingConcepts":[]}
+{"concept":"Versace","rel":"dbpedia/product","receivingConcepts":["Clothing","Textile"],"emittingConcepts":[]}
+{"concept":"Viacom","rel":"dbpedia/product","receivingConcepts":["Cable Television","Radio"],"emittingConcepts":[]}
+{"concept":"Volkswagen","rel":"dbpedia/product","receivingConcepts":["Bus","Car","Truck"],"emittingConcepts":[]}
+{"concept":"Wind","rel":"dbpedia/product","receivingConcepts":["Information Technology","Iptv","Landline","Mobile Phone"],"emittingConcepts":[]}
+{"concept":"Wyeth","rel":"dbpedia/product","receivingConcepts":["Etanercept","Venlafaxine"],"emittingConcepts":[]}
+{"concept":"Xebec","rel":"dbpedia/product","receivingConcepts":["Anime","Film"],"emittingConcepts":[]}
+{"concept":"Xerox","rel":"dbpedia/product","receivingConcepts":["Image Scanner","Management Consulting","Outsourcing","Printer","Projector"],"emittingConcepts":[]}
+{"concept":"Zanella","rel":"dbpedia/product","receivingConcepts":["Moped","Motorcycle"],"emittingConcepts":[]}

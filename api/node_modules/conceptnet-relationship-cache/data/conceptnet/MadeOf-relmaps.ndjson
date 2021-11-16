@@ -1,0 +1,131 @@
+{"concept":"Troll","rel":"MadeOf","emittingConcepts":["123"],"receivingConcepts":["Fail","Win"]}
+{"concept":"Glass","rel":"MadeOf","emittingConcepts":["Abottle","Bins","Bowl","Computer Monitor","Crt","Glasses","Goblet","Lens","Lenses","Many Bottles","Many Containers","Plate","Tv","Vacuum Tube","Window"],"receivingConcepts":["Molten Sand","Sand","Silica"]}
+{"concept":"Adenozine","rel":"MadeOf","receivingConcepts":["Hydrogen","Oxygen"],"emittingConcepts":["Dna"]}
+{"concept":"Hydrogen","rel":"MadeOf","emittingConcepts":["Adenozine"],"receivingConcepts":["1 Proton and 1 Electron","Subatomic Particles"]}
+{"concept":"Oxygen","rel":"MadeOf","emittingConcepts":["Adenozine","Water"],"receivingConcepts":[]}
+{"concept":"Molecules","rel":"MadeOf","emittingConcepts":["Air","Everything","Human Body","Matter"],"receivingConcepts":[]}
+{"concept":"Copper","rel":"MadeOf","emittingConcepts":["American Penny","Bullet"],"receivingConcepts":[]}
+{"concept":"Iron","rel":"MadeOf","emittingConcepts":["Anchor","Haemoglobin","Sometimes Wire","Steel","Tools"],"receivingConcepts":[]}
+{"concept":"Cells","rel":"MadeOf","emittingConcepts":["Animated Flesh of Dead Person","Body","Human","John Safran","Organism","Panda","Penis","People Animals and Plants","Plants","Zombie"],"receivingConcepts":[]}
+{"concept":"Atom","rel":"MadeOf","receivingConcepts":["Electrons","Neutrons","Nucleous and Electrons","Nucleus","Protons","Subatomic Particles"],"emittingConcepts":[]}
+{"concept":"Electrons","rel":"MadeOf","emittingConcepts":["Atom","Electricity"],"receivingConcepts":[]}
+{"concept":"Subatomic Particles","rel":"MadeOf","emittingConcepts":["Atom","Hydrogen"],"receivingConcepts":[]}
+{"concept":"Atomic Bomb","rel":"MadeOf","receivingConcepts":["Plutonium","Uranium"],"emittingConcepts":[]}
+{"concept":"Plutonium","rel":"MadeOf","emittingConcepts":["Atomic Bomb","Hydrogen Bomb"],"receivingConcepts":[]}
+{"concept":"Uranium","rel":"MadeOf","emittingConcepts":["Atomic Bomb","Hydrogen Bomb"],"receivingConcepts":[]}
+{"concept":"Plastic","rel":"MadeOf","emittingConcepts":["Ball","Bottle","Button","Chairs","Comb","Computer Mice","Computer Monitor","Disposable Forks","Gumshield","Hearing Aid","Horse Shoes Used for Game","Keyboard","Laptops","Lot of Jugs","Pen","Phones","Rugby Ball","Toothpick","Toys","Tv","Wallet","Weight Machine"],"receivingConcepts":["Carbon"]}
+{"concept":"Rubber","rel":"MadeOf","emittingConcepts":["Balloon","Life Ring","Tire","Tires","Toy Balloon","Tyres"],"receivingConcepts":[]}
+{"concept":"Wood","rel":"MadeOf","emittingConcepts":["Banjo","Board","Bridges","Chair","Closets","Cupboards","Desks","Drums","Firestick","Floor","Furniture","Guitar","House","Instruments","Many Useful Things","Most Churches","Paper","Pencil","Ships","Stick","Table","Telephone Pole","Tree","Tree Plant And","Tree Trunk","Witch"],"receivingConcepts":["Tree"]}
+{"concept":"Bath Tub","rel":"MadeOf","receivingConcepts":["Fiberglass and Moulded Into Shape","Iron and Coated With Porcelain"],"emittingConcepts":[]}
+{"concept":"Metal","rel":"MadeOf","emittingConcepts":["Belt Buckle","Bicycle","Car","Cars","Container","Fork","Golf Clubs","Hanging Rail","House","Lock","Locker","Machine Gun","Many Objects","Most Tools","Oil Tanker","Pick","Pipes","Rivets","Robots","Scissors","Silverware","Spring","Tanks","Tools","Wheel"],"receivingConcepts":[]}
+{"concept":"Bicycle Frame","rel":"MadeOf","receivingConcepts":["Aluminium","Carbon Fibre","Steel"],"emittingConcepts":[]}
+{"concept":"Aluminium","rel":"MadeOf","emittingConcepts":["Bicycle Frame","Bowl","Can","Cars"],"receivingConcepts":[]}
+{"concept":"Steel","rel":"MadeOf","emittingConcepts":["Bicycle Frame","Bowl","Katana","Knife","Pair of Scissors","Skyscraper","Sometimes Car Body","Sometimes Computer","Submarine","Sword","Tricycle","Weight Machine"],"receivingConcepts":["Iron"]}
+{"concept":"Blood","rel":"MadeOf","receivingConcepts":["Haemoglobin","Haemogloin"],"emittingConcepts":[]}
+{"concept":"Body","rel":"MadeOf","receivingConcepts":["Cells","Flesh and Bones"],"emittingConcepts":[]}
+{"concept":"Flesh and Bones","rel":"MadeOf","emittingConcepts":["Body","Dog"],"receivingConcepts":[]}
+{"concept":"Bomb","rel":"MadeOf","receivingConcepts":["Explosives","Shrapnel"],"emittingConcepts":[]}
+{"concept":"Book","rel":"MadeOf","receivingConcepts":["Paper","Papers"],"emittingConcepts":[]}
+{"concept":"Paper","rel":"MadeOf","emittingConcepts":["Book","Envelope","Index Card","Letter","Money","Pages of Book","Paper Airplane","Post Note"],"receivingConcepts":["Cellulose","Trees","Wood"]}
+{"concept":"Papers","rel":"MadeOf","emittingConcepts":["Book","Books"],"receivingConcepts":[]}
+{"concept":"Bowl","rel":"MadeOf","receivingConcepts":["Aluminium","Ceramic","Glass","Steel"],"emittingConcepts":[]}
+{"concept":"Ceramic","rel":"MadeOf","emittingConcepts":["Bowl","Plate","Teakettles"],"receivingConcepts":["Clay"]}
+{"concept":"Bread","rel":"MadeOf","receivingConcepts":["Dough","Wheat"],"emittingConcepts":["Toast"]}
+{"concept":"Wheat","rel":"MadeOf","emittingConcepts":["Bread","Hamburger"],"receivingConcepts":[]}
+{"concept":"Brick","rel":"MadeOf","receivingConcepts":["Clay"],"emittingConcepts":["Houses","Town House"]}
+{"concept":"Clay","rel":"MadeOf","emittingConcepts":["Brick","Ceramic","Golem","Pitcher","Pot","Pots"],"receivingConcepts":[]}
+{"concept":"Milk","rel":"MadeOf","emittingConcepts":["Butter","Cheese","Dairy Product"],"receivingConcepts":["Minerals"]}
+{"concept":"Cake","rel":"MadeOf","receivingConcepts":["Egg","Egs","Flour","Ingredients"],"emittingConcepts":[]}
+{"concept":"Ingredients","rel":"MadeOf","emittingConcepts":["Cake","Cup Cakes"],"receivingConcepts":[]}
+{"concept":"Can","rel":"MadeOf","receivingConcepts":["Aluminium","Aluminum"],"emittingConcepts":[]}
+{"concept":"Capacitor","rel":"MadeOf","receivingConcepts":["2 Piece of Thin Metal Seperated by Insulator","Separate Plates"],"emittingConcepts":[]}
+{"concept":"Cars","rel":"MadeOf","receivingConcepts":["Aluminium","Many Things","Metal","Parts"],"emittingConcepts":[]}
+{"concept":"Parts","rel":"MadeOf","emittingConcepts":["Cars","Whole"],"receivingConcepts":[]}
+{"concept":"Cheese","rel":"MadeOf","receivingConcepts":["Fermented Milk and Bacteria","Milk"],"emittingConcepts":[]}
+{"concept":"Flesh and Blood","rel":"MadeOf","emittingConcepts":["Child","Human"],"receivingConcepts":[]}
+{"concept":"Choker","rel":"MadeOf","receivingConcepts":["Precious Jewels","Strings of Pearls"],"emittingConcepts":[]}
+{"concept":"Members","rel":"MadeOf","emittingConcepts":["Church","Set"],"receivingConcepts":[]}
+{"concept":"Fibers","rel":"MadeOf","emittingConcepts":["Cloth","Fabric"],"receivingConcepts":[]}
+{"concept":"People","rel":"MadeOf","emittingConcepts":["Club","Congregation","Crowd","Cult","Egalitarian Society","Mob","Organization","Riot"],"receivingConcepts":[]}
+{"concept":"Carbon","rel":"MadeOf","emittingConcepts":["Coal","Diamond","Food","Plastic"],"receivingConcepts":[]}
+{"concept":"Wool","rel":"MadeOf","emittingConcepts":["Coat","Fabric","Yarn"],"receivingConcepts":[]}
+{"concept":"Carbonated Water","rel":"MadeOf","emittingConcepts":["Cola","Pepsi"],"receivingConcepts":[]}
+{"concept":"Political Ideology","rel":"MadeOf","emittingConcepts":["Community","Government"],"receivingConcepts":["Ideals","Political Ideals"]}
+{"concept":"Computer","rel":"MadeOf","receivingConcepts":["Hardware","Microchips","Silicon"],"emittingConcepts":[]}
+{"concept":"Silicon","rel":"MadeOf","emittingConcepts":["Computer","Computer Chip","Transistors"],"receivingConcepts":[]}
+{"concept":"Computer Monitor","rel":"MadeOf","receivingConcepts":["Glass","Plastic"],"emittingConcepts":[]}
+{"concept":"Countries","rel":"MadeOf","emittingConcepts":["Continent","Continents","World"],"receivingConcepts":[]}
+{"concept":"Sugar","rel":"MadeOf","emittingConcepts":["Cotton Candy","Jelly Beans","Pepsi"],"receivingConcepts":["Minerals"]}
+{"concept":"Bits","rel":"MadeOf","emittingConcepts":["Data","Digital Data"],"receivingConcepts":[]}
+{"concept":"Dog","rel":"MadeOf","receivingConcepts":["Flesh and Bones","Hair"],"emittingConcepts":[]}
+{"concept":"Atoms","rel":"MadeOf","emittingConcepts":["Doormats","Molecule"],"receivingConcepts":[]}
+{"concept":"Cotton","rel":"MadeOf","emittingConcepts":["Duvet","Hat","Pillow","Sheets","Underwear"],"receivingConcepts":[]}
+{"concept":"Dynamite","rel":"MadeOf","receivingConcepts":["Diatomaceous Earth","Nitroglycerin"],"emittingConcepts":[]}
+{"concept":"Earth","rel":"MadeOf","receivingConcepts":["Layers of Rock","Mostly Water"],"emittingConcepts":[]}
+{"concept":"Electricity","rel":"MadeOf","receivingConcepts":["Electrons","Flow of Electrons"],"emittingConcepts":[]}
+{"concept":"Everything","rel":"MadeOf","receivingConcepts":["Matter","Molecules"],"emittingConcepts":[]}
+{"concept":"Matter","rel":"MadeOf","emittingConcepts":["Everything"],"receivingConcepts":["Elements","Molecules","Particles"]}
+{"concept":"Fabric","rel":"MadeOf","receivingConcepts":["Fibers","Thread","Wool"],"emittingConcepts":[]}
+{"concept":"Floor","rel":"MadeOf","receivingConcepts":["Concrete","Wood"],"emittingConcepts":[]}
+{"concept":"Gnocchi","rel":"MadeOf","receivingConcepts":["Potato","Potato Flour"],"emittingConcepts":[]}
+{"concept":"Guitar","rel":"MadeOf","receivingConcepts":["Strings","Wood"],"emittingConcepts":[]}
+{"concept":"Strings","rel":"MadeOf","emittingConcepts":["Guitar","Universe"],"receivingConcepts":[]}
+{"concept":"Keratin","rel":"MadeOf","emittingConcepts":["Hair","Nail"],"receivingConcepts":[]}
+{"concept":"Foam","rel":"MadeOf","emittingConcepts":["Hair Roller","Insulation"],"receivingConcepts":[]}
+{"concept":"Silver","rel":"MadeOf","emittingConcepts":["Hairbrushes","Wires"],"receivingConcepts":[]}
+{"concept":"Heroin","rel":"MadeOf","receivingConcepts":["Diamorphine","Opium","Poppy Flowers"],"emittingConcepts":[]}
+{"concept":"Hot Dogs","rel":"MadeOf","receivingConcepts":["Bi Products","Cows"],"emittingConcepts":[]}
+{"concept":"House","rel":"MadeOf","receivingConcepts":["Building Material","Metal","Rooms","Wood"],"emittingConcepts":[]}
+{"concept":"Rooms","rel":"MadeOf","emittingConcepts":["House","Whorehouse"],"receivingConcepts":[]}
+{"concept":"Houses","rel":"MadeOf","receivingConcepts":["Brick","Bricks"],"emittingConcepts":[]}
+{"concept":"Human","rel":"MadeOf","receivingConcepts":["Bones","Cells","Flesh","Flesh and Blood"],"emittingConcepts":[]}
+{"concept":"Flesh","rel":"MadeOf","emittingConcepts":["Human","Human Being","Human Body","Kitten","Penis","Titty"],"receivingConcepts":[]}
+{"concept":"Human Body","rel":"MadeOf","receivingConcepts":["Flesh","Molecules","Water"],"emittingConcepts":[]}
+{"concept":"Water","rel":"MadeOf","emittingConcepts":["Human Body","Ice","Lettuce","Lubrication","Ocean","Pee","Person","Rain","Sea","Soup","Water Vapor"],"receivingConcepts":["H2o","Hydrogen and Oxygen","Oxegen","Oxygen"]}
+{"concept":"Hydrogen Bomb","rel":"MadeOf","receivingConcepts":["Plutonium","Uranium"],"emittingConcepts":[]}
+{"concept":"Ideals","rel":"MadeOf","emittingConcepts":["Ideology","Political Ideology","System of Abstract Thought"],"receivingConcepts":[]}
+{"concept":"Cannabis","rel":"MadeOf","emittingConcepts":["Indica","Sativa","Sative"],"receivingConcepts":[]}
+{"concept":"Internet","rel":"MadeOf","receivingConcepts":["Networked Computers","Noobs","Old","Tu Hermana en Bolas"],"emittingConcepts":[]}
+{"concept":"Laptops","rel":"MadeOf","receivingConcepts":["Chips","Plastic"],"emittingConcepts":[]}
+{"concept":"Photons","rel":"MadeOf","emittingConcepts":["Laser","Light"],"receivingConcepts":[]}
+{"concept":"Leather","rel":"MadeOf","receivingConcepts":["Cow Skin"],"emittingConcepts":["Punch Bag","Shoes","Soccer Ball"]}
+{"concept":"Light","rel":"MadeOf","receivingConcepts":["Energy","Photons"],"emittingConcepts":[]}
+{"concept":"Lubrication","rel":"MadeOf","receivingConcepts":["Oil","Water"],"emittingConcepts":[]}
+{"concept":"Elements","rel":"MadeOf","emittingConcepts":["Matter","Set"],"receivingConcepts":[]}
+{"concept":"Minerals","rel":"MadeOf","emittingConcepts":["Milk","Sugar"],"receivingConcepts":[]}
+{"concept":"Rock","rel":"MadeOf","emittingConcepts":["Moon","Pluto"],"receivingConcepts":[]}
+{"concept":"Meat","rel":"MadeOf","emittingConcepts":["Muscle","Sausage"],"receivingConcepts":[]}
+{"concept":"Music","rel":"MadeOf","receivingConcepts":["Organized Sounds","Sound","Sounds"],"emittingConcepts":["Song"]}
+{"concept":"Neutron","rel":"MadeOf","receivingConcepts":["One Up Quark and Two Down Quarks","Quarks"],"emittingConcepts":[]}
+{"concept":"Quarks","rel":"MadeOf","emittingConcepts":["Neutron","Proton"],"receivingConcepts":[]}
+{"concept":"Words","rel":"MadeOf","emittingConcepts":["News Column","Rhetoric"],"receivingConcepts":[]}
+{"concept":"Peanut Butter","rel":"MadeOf","receivingConcepts":["Peanuts","Peanuts and Salt"],"emittingConcepts":[]}
+{"concept":"Pee","rel":"MadeOf","receivingConcepts":["Bodily Waste","Waste","Water"],"emittingConcepts":[]}
+{"concept":"Waste","rel":"MadeOf","emittingConcepts":["Pee","Poop"],"receivingConcepts":[]}
+{"concept":"Pencil","rel":"MadeOf","receivingConcepts":["Wood","Wood and Lead"],"emittingConcepts":[]}
+{"concept":"Penis","rel":"MadeOf","receivingConcepts":["Cells","Flesh"],"emittingConcepts":[]}
+{"concept":"Pepsi","rel":"MadeOf","receivingConcepts":["Caffeine","Carbonated Water","Carmel Color","Citric Acid","High Fructose Corn Syrup","Phosphoric Acid","Sugar"],"emittingConcepts":[]}
+{"concept":"Pickle","rel":"MadeOf","receivingConcepts":["Cucumbers","Vinegar and Cucumbers"],"emittingConcepts":[]}
+{"concept":"Pillow","rel":"MadeOf","receivingConcepts":["Cotton","Feathers"],"emittingConcepts":[]}
+{"concept":"Plate","rel":"MadeOf","receivingConcepts":["Ceramic","Glass"],"emittingConcepts":[]}
+{"concept":"Proton","rel":"MadeOf","receivingConcepts":["Quarks","Two Up Quarks and One Down Quark"],"emittingConcepts":[]}
+{"concept":"Salt","rel":"MadeOf","receivingConcepts":["Crystals","Ions","Sodium Chloride"],"emittingConcepts":[]}
+{"concept":"Set","rel":"MadeOf","receivingConcepts":["Elements","Members"],"emittingConcepts":[]}
+{"concept":"Gases","rel":"MadeOf","emittingConcepts":["Sky","Sun"],"receivingConcepts":[]}
+{"concept":"Song","rel":"MadeOf","receivingConcepts":["Lyrics","Music"],"emittingConcepts":[]}
+{"concept":"Stone","rel":"MadeOf","emittingConcepts":["Statues","Table"],"receivingConcepts":[]}
+{"concept":"Stigma","rel":"MadeOf","receivingConcepts":["Discrimination","Ignorance","Prejudice"],"emittingConcepts":[]}
+{"concept":"System of Abstract Thought","rel":"MadeOf","receivingConcepts":["Abstractions","Ideals"],"emittingConcepts":[]}
+{"concept":"Table","rel":"MadeOf","receivingConcepts":["Soft Material","Stone","Wood"],"emittingConcepts":[]}
+{"concept":"Tree","rel":"MadeOf","emittingConcepts":["Talbe","Wood"],"receivingConcepts":["Leaves","Wood"]}
+{"concept":"Tire","rel":"MadeOf","receivingConcepts":["Rubber","Rubber and Latex"],"emittingConcepts":[]}
+{"concept":"Tools","rel":"MadeOf","receivingConcepts":["Iron","Metal"],"emittingConcepts":[]}
+{"concept":"Tricycle","rel":"MadeOf","receivingConcepts":["Steel","Stell"],"emittingConcepts":[]}
+{"concept":"Tv","rel":"MadeOf","receivingConcepts":["Glass","Plastic"],"emittingConcepts":[]}
+{"concept":"Alien Material","rel":"MadeOf","emittingConcepts":["u.f.o","u.f.o S"],"receivingConcepts":[]}
+{"concept":"Utopia","rel":"MadeOf","receivingConcepts":["Community","Equality for Everyone"],"emittingConcepts":[]}
+{"concept":"Wallet","rel":"MadeOf","receivingConcepts":["Man Made Leather","Plastic"],"emittingConcepts":[]}
+{"concept":"War","rel":"MadeOf","receivingConcepts":["Pain and Suffering","Violence"],"emittingConcepts":[]}
+{"concept":"Weight Machine","rel":"MadeOf","receivingConcepts":["Plastic","Steel"],"emittingConcepts":[]}
+{"concept":"Wind","rel":"MadeOf","receivingConcepts":["Air","Moving Air"],"emittingConcepts":[]}
+{"concept":"World","rel":"MadeOf","receivingConcepts":["Continents","Countries"],"emittingConcepts":[]}

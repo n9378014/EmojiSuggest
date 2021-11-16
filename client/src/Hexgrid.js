@@ -6,8 +6,8 @@ import { saveAs } from 'file-saver';
 const openmoji = require('openmoji');
 const fs = require('fs');
 
-const numEmojis = 259;
-const maxHorizontal = 19;//111
+const numEmojis = 259; //If this is adjusted, the catIndex allocations and calls to api\variety will need to be changed
+const maxHorizontal = 19;
 const maxVertical = Math.ceil(numEmojis / maxHorizontal);
 
 const center = Math.round((maxHorizontal * (maxVertical / 4)) + ((maxHorizontal - 1) * (maxVertical / 4))) - Math.round((maxHorizontal) / 2);//Math.ceil(numEmojis/2)-3;
@@ -18,12 +18,12 @@ const defaultEmojis = [];
 for (let index = 0; index < numEmojis; index++) {
   defaultEmojis.push(openmoji.openmojis[3073].hexcode);
 }
-var tempmojis = [[]];
+var tempmojis = [];
 for (let index = 0; index < numEmojis; index++) {
-  tempmojis[0].push(openmoji.openmojis[3073].hexcode)
+  tempmojis.push(openmoji.openmojis[3073].hexcode)
 }
 
-
+const combineHistIndex = [100, 137];
 const cat1Index = [0, 1, 2, 3, 4, 5, //Top left petal 
   19, 20, 21, 22, 23, 24,
   37, 38, 39, 40, 41, 42, 43,
@@ -54,7 +54,7 @@ const cat4Index = [130, 131, 132, 133, 134, 135, 136, 137,
 const cat5Index = [157,
 175, 176,
 193, 194, 195,
-211, 212, 213, 124,
+211, 212, 213, 214,
 229, 230, 231, 232, 233,
 247, 248, 249, 250, 251, 252]; //Bottom middle petal
 const cat6Index = [140, 141, 142, 143, 144, 145, 146, 147,
@@ -77,7 +77,7 @@ let imageURLs = new Array(numEmojis);
 
 const Hexgrid = () => {
   const [emojiHistory, setEmojiHistory] = useState([]);
-  var iniTileObj = newTileObject([defaultEmojis]);
+  var iniTileObj = newTileObject(defaultEmojis);
   const [emojiTiles, setEmojiTiles] = useState(iniTileObj); //
   const tmpTileObj = newTileObject(tempmojis, openmoji.openmojis[3073].hexcode);
 
@@ -100,7 +100,6 @@ const Hexgrid = () => {
 
   function getTileImage(tileIndex, hexcode) {
     let image = ``;
-
     if (Array.isArray(hexcode)) { //Then hexcode is a blend
       //image = `http://localhost:9000/blends/1F9431F0CF.png`;
       // fetch("http://localhost:9000/blendemojis/" + hexcode[0] + "/" + hexcode[1])
@@ -117,8 +116,8 @@ const Hexgrid = () => {
   }
 
   function newTileObject(_emojis, selectedHexcode) {
-    let hexcodes = _emojis[0];
-    let blendedHexcodes = _emojis[1];
+    let hexcodes = _emojis;
+    //let blendedHexcodes = _emojis[1];
     for (let i = 0; i < hexcodes.length; i++) {
       imageURLs[i] = getTileImage(i, hexcodes[i]);
     }
@@ -126,12 +125,12 @@ const Hexgrid = () => {
     /*
     Substitute blendedHexcodes into hexcodes where appropriate
     */
-    if (blendedHexcodes !== undefined && blendedHexcodes !== null && selectedHexcode !== undefined) {
-      cat1Index.forEach(index => {
-        hexcodes[index] = blendedHexcodes[cat1Index.indexOf(index)];
-        //console.log(hexcodes[index]);
-      });
-    }
+    // if (blendedHexcodes !== undefined && blendedHexcodes !== null && selectedHexcode !== undefined) {
+    //   cat1Index.forEach(index => {
+    //     hexcodes[index] = blendedHexcodes[cat1Index.indexOf(index)];
+    //     //console.log(hexcodes[index]);
+    //   });
+    // }
 
     /*
     Insert emoji history into active tiles
@@ -152,11 +151,14 @@ const Hexgrid = () => {
     //     }
     //   }
     // }
-
+    console.log('tiles len ' + hexcodes.length);
     /*
     Map hexcodes to tiles 
     */
     const tileObj = hexcodes.map((hexcode, index) => {
+      if(!hexcode || hexcode.length === 0){
+        hexcode = '2049';
+      }
       /*  
       Assign tile colour based on position in grid
       */
@@ -165,15 +167,8 @@ const Hexgrid = () => {
       /*  
       Assign tile image based on position in grid
       */
-      //let image = `/images/1F4EF.svg`;
-      //image = imageURLs[index];//getTileImage(index, hexcode); //get image then return tile
       if (Array.isArray(hexcode)) { //Then hexcode is a blend
-        //image = `http://localhost:9000/blends/1F9431F0CF.png`;
-        // fetch("http://localhost:9000/blendemojis/" + hexcode[0] + "/" + "1F0CF")
-        //   .then(res => res.json())
-        //   .then(data => { imageURLs[index] = "http://localhost:9000/blends/" + data.url })
-        //return 'http://localhost:9000/blends/1F9431F0CF.png';
-        //return image
+        //console.log("Hex is array: " + hexcode);
         imageURLs[index] = "/blends/" + hexcode[0] + hexcode[1] + '.png';
       }
       else { //it is a single emoji character
@@ -283,14 +278,18 @@ Get markov blends
         .then(() => { resolve(obj); })
     })
   }
-  function getVarietyHexcodes(hexcode, limit) {
+  function getVarietyHexcodes(hexcode, blendedwith, limit) {
     return new Promise((resolve, reject) => {
       var obj;
       var strEnd = '';
       if (Array.isArray(hexcode)) {
-        strEnd = '&blendedwith=' + hexcode[1];
-        hexcode = hexcode[0];
+        strEnd = '&blendedwith=' + hexcode[0];
+        hexcode = hexcode[1];
       }
+      else if (blendedwith.length > 0) {
+        strEnd = '&blendedwith=' + blendedwith;
+      }
+
       if(emojiHistory[emojiHistory.length - 2] !== '1F504'){
         strEnd = strEnd + '&prev=' + emojiHistory[emojiHistory.length - 2];
       }
@@ -298,7 +297,8 @@ Get markov blends
 
       fetch("/api/variety/" + hexcode + "?limit=" + limit.toString() + strEnd)
         .then(res => res.json())
-        .then(data => { obj = JSON.parse(data); })
+        .then(data => { console.log(data); obj = JSON.parse(data); })
+        .then(() => { console.log(obj); })
         .then(() => { resolve(obj); })
         .catch(error => {
           console.error(error.message)
@@ -337,70 +337,131 @@ Get markov blends
       */
       setEmojiTiles(tmpTileObj);
       console.log("Hex: " + hexcode);
-
+      let blendedwith = '';
       //TODO: This is a quick fix, find a way to send both hexcodes and still get blends:
       // if (Array.isArray(hexcode)) { //Then hexcode is a blend
-      //   hexcode = hexcode[1]; console.log("BLEND: " + hexcode);
+      //   blendedwith = hexcode[0];
+      //   hexcode = hexcode[1]; 
       // }
 
       //Get hexcodes for new tiles, then assign them to tiles:
       //Promise.all([getRandomHexcodes(), getRandomBlendHexcodes(hexcode), getMarkovHexcodes(hexcode), getBlendHexcode(hexcode, emojiHistory[emojiHistory.length - 2]), getBlendHexcode(emojiHistory[emojiHistory.length - 2], hexcode), getMarkovBlendHexcodes(hexcode, cat2Index.length), getMarkovBlendHexcodes(hexcode, cat3Index.length)]).then((values) => {
-      Promise.all([getVarietyHexcodes(hexcode, numEmojis)]).then((tvalues) => {
-        let values = [];
-        values[0] = tvalues[0][0]; //random emoji
-        values[1] = tvalues[0][1]; //random blends
-        values[2] = tvalues[0][2]; //markov emoji
-        values[3] = tvalues[0][3]; //markov blends
-        //Substitute blendedHexcodes into hexcodes where appropriate:
-        if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
-          cat1Index.forEach(index => {
-            values[0][index] = values[1][cat1Index.indexOf(index)];
-          });
-          cat2Index.forEach(index => {
-            values[0][index] = values[3][cat2Index.indexOf(index)];
-          });
-          cat3Index.forEach(index => {
-            values[0][index] = values[3][cat3Index.indexOf(index)];
-          });
-          cat4Index.forEach(index => {
-            values[0][index] = values[1][cat4Index.indexOf(index)];
-          });
-          cat5Index.forEach(index => {
-            values[0][index] = values[3][cat5Index.indexOf(index)];
-          });
-          cat6Index.forEach(index => {
-            values[0][index] = values[3][cat6Index.indexOf(index)];
-          });
+      Promise.all([getVarietyHexcodes(hexcode, blendedwith, numEmojis)]).then((tvalues) => { //numEmojis = 259
+        console.log(tvalues[0]);
+        let values = tempmojis;
+        // values[0] = tvalues[0][0]; //random emoji
+        // values[1] = tvalues[0][1]; //random blends
+        // values[2] = tvalues[0][2]; //markov emoji
+        // values[3] = tvalues[0][3]; //markov blends
+        cat1Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][0][cat1Index.indexOf(index)];
+        });
 
-          cat7Index.forEach(index => { //Line headed right from centre
-            values[0][index] = values[2][cat7Index.indexOf(index)];
-          });
-
+        cat2Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][1][cat2Index.indexOf(index)];
+        });
+        cat3Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][2][cat3Index.indexOf(index)];
+        });
+        cat4Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][3][cat4Index.indexOf(index)];
+        });
+        cat5Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][4][cat5Index.indexOf(index)];
+        });
+        cat6Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][5][cat6Index.indexOf(index)];
+        });
+        cat7Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][6][cat7Index.indexOf(index)];
+        });
+        cat8Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][7][cat8Index.indexOf(index)];
+        });
+        cat9Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][8][cat9Index.indexOf(index)];
+        });
+        cat11Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][9][cat11Index.indexOf(index)];
+        });
+        cat12Index.forEach(index => { //Top-left petal
+          values[index] = tvalues[0][10][cat12Index.indexOf(index)];
+        });
+        if(tvalues[0][11].length > 0){
+          combineHistIndex.forEach(index => { //History tiles
+            values[index] = tvalues[0][11][combineHistIndex.indexOf(index)];
+          });  
         }
 
-        if (emojiHistory[emojiHistory.length - 2] !== '1F504') {
-          values[0][100] = values[3]; //Make this one a blend between current and most recent history
-          values[0][137] = values[4]; //Make this one a blend between current and most recent history  
-          cat1Index.forEach(index => {
-            if (index !== 100) {
-              values[0][index] = values[0][index + 1];
-            }
-          });
-        }
+        values[center] = hexcode;
+        // console.log('values ' + values);
+        // console.log('values ' + typeof values);
+        // console.log("value 0  " + values[0]);
+
+                //Substitute blendedHexcodes into hexcodes where appropriate:
+        // if (values[1] !== undefined && values[1] !== null && values[2] !== null && hexcode !== undefined) {
+        //   cat1Index.forEach(index => { //Top-left petal
+        //     values[0][index] = values[1][cat1Index.indexOf(index)];
+        //   });
+        //   cat2Index.forEach(index => { //Top-middle petal
+        //     values[0][index] = values[3][cat2Index.indexOf(index)];
+        //   });
+        //   cat3Index.forEach(index => { //Top-right petal
+        //     values[0][index] = values[3][cat3Index.indexOf(index)];
+        //   });
+        //   cat4Index.forEach(index => { //Bottom-left petal
+        //     values[0][index] = values[1][cat4Index.indexOf(index)];
+        //   });
+        //   cat5Index.forEach(index => { //Bottom-middle petal
+        //     values[0][index] = values[3][cat5Index.indexOf(index)];
+        //   });
+        //   cat6Index.forEach(index => { //Bottom-right petal
+        //     values[0][index] = values[3][cat6Index.indexOf(index)];
+        //   });
+
+        //   cat7Index.forEach(index => { //Line headed right from centre: always random
+        //     values[0][index] = values[2][cat7Index.indexOf(index)];
+        //   });
+        //   cat8Index.forEach(index => {  //Line heading right-down from center
+        //     values[0][index] = values[2][cat8Index.indexOf(index)];
+        //   });
+        //   cat9Index.forEach(index => {  //Line heading left-down from center
+        //     values[0][index] = values[2][cat9Index.indexOf(index)];
+        //   });
+        //   // cat10Index.forEach(index => {  //Line heading left from center: always history
+        //   //   values[0][index] = values[2][cat10Index.indexOf(index)];
+        //   // });
+        //   cat11Index.forEach(index => {  //Line heading left-up from center
+        //     values[0][index] = values[2][cat11Index.indexOf(index)];
+        //   });
+        //   cat12Index.forEach(index => {  //Line heading right-up from center
+        //     values[0][index] = values[2][cat12Index.indexOf(index)];
+        //   });
+        // }
+
+        // if (emojiHistory[emojiHistory.length - 2] !== '1F504') {
+        //   values[0][100] = values[3]; //Make this one a blend between current and most recent history
+        //   values[0][137] = values[4]; //Make this one a blend between current and most recent history  
+        //   cat1Index.forEach(index => {
+        //     if (index !== 100) {
+        //       values[0][index] = values[0][index + 1];
+        //     }
+        //   });
+        // }
         // else{
         //   // values[0][100] = values[3][0]; 
         //   // values[0][137] = values[4][1];   
         // }
 
         //Insert emoji history into active tiles:
-        if (emojiHistory.length >= 1) {
-          values[0][center] = emojiHistory[emojiHistory.length - 1];
-          for (let i = 0; i < emojiHistory.length; i++) {
-            if (center - i - 1 >= (center - lenHistory)) {
-              values[0][center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
-            }
-          }
-        }
+        // if (emojiHistory.length >= 1) {
+        //   values[center] = emojiHistory[emojiHistory.length - 1];
+        //   for (let i = 0; i < emojiHistory.length; i++) {
+        //     if (center - i - 1 >= (center - lenHistory)) {
+        //       values[center - i - 1] = emojiHistory[emojiHistory.length - 1 - i];
+        //     }
+        //   }
+        // }
 
         var newTileObj;
         const tilePromise = new Promise((resolve, reject) => {
@@ -409,7 +470,7 @@ Get markov blends
         });
         tilePromise
           .then(() => {
-            setEmojiTiles(newTileObj); console.log(values);
+            setEmojiTiles(newTileObj); //console.log('values ' + values.length);
           }).catch(error => {
             console.log("Something went wrong with the tilePromise.")
             console.error(error.message)
@@ -443,7 +504,7 @@ Get markov blends
     fetch("/api/randomhexcodes?limit=" + numEmojis.toString())
       .then(res => res.json())
       .then(data => obj = JSON.parse(data))
-      .then(() => iniTileObj = newTileObject([obj, []]))
+      .then(() => iniTileObj = newTileObject(obj))
       .then(() => setEmojiTiles(iniTileObj))
       .catch(error => {
         console.log("Something went wrong with the randomhexcodes fetch request.")

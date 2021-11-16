@@ -1,0 +1,277 @@
+{"concept":"0","rel":"DefinedAs","receivingConcepts":["Empty Set","First Limit Ordinal","Number Zero"],"emittingConcepts":[]}
+{"concept":"Empty Set","rel":"DefinedAs","emittingConcepts":["0","Zero"],"receivingConcepts":["Initial Object in Category of Sets"]}
+{"concept":"0 Degrees Celcius","rel":"DefinedAs","receivingConcepts":["Point at Which Water Freezes","Temperature at Which Water Freezes"],"emittingConcepts":[]}
+{"concept":"Action","rel":"DefinedAs","receivingConcepts":["Literal Act of Doing","Process of Doing","State of Doing"],"emittingConcepts":[]}
+{"concept":"Alaska","rel":"DefinedAs","receivingConcepts":["Coldest State","Largest State in Us","Largest State in Usa","Largest Us State"],"emittingConcepts":[]}
+{"concept":"Allah","rel":"DefinedAs","receivingConcepts":["Arabic Name for God","Name of God in Moslem Religions"],"emittingConcepts":[]}
+{"concept":"America","rel":"DefinedAs","receivingConcepts":["Country Live In","Name of Geographic Area"],"emittingConcepts":[]}
+{"concept":"American Express","rel":"DefinedAs","receivingConcepts":["Name of Company","Name of Credit Card Company"],"emittingConcepts":[]}
+{"concept":"Name of Company","rel":"DefinedAs","emittingConcepts":["American Express","Microsoft","Texas Instruments Ti"],"receivingConcepts":[]}
+{"concept":"Best Policy","rel":"DefinedAs","emittingConcepts":["Another Way to Say Honesty","Honesty","Moral Law Honesty","One Cliche Honesty"],"receivingConcepts":[]}
+{"concept":"Science of Acoustics","rel":"DefinedAs","emittingConcepts":["Area of Physics","Study of Sound in General"],"receivingConcepts":[]}
+{"concept":"Aries","rel":"DefinedAs","receivingConcepts":["First Sign in Zodiac","First Sign of Zodiac"],"emittingConcepts":[]}
+{"concept":"Pine","rel":"DefinedAs","emittingConcepts":["Arkansas State Tree","North Carolina State Tree"],"receivingConcepts":[]}
+{"concept":"Atheism","rel":"DefinedAs","receivingConcepts":["Denial of God","Disbelief in God"],"emittingConcepts":[]}
+{"concept":"Same as Briefcase","rel":"DefinedAs","emittingConcepts":["Attache Case","Stachel"],"receivingConcepts":[]}
+{"concept":"Capital of Texas","rel":"DefinedAs","emittingConcepts":["Austin","Dallas"],"receivingConcepts":[]}
+{"concept":"Same Automobile","rel":"DefinedAs","emittingConcepts":["Auto","Car"],"receivingConcepts":[]}
+{"concept":"Opposite of Good","rel":"DefinedAs","emittingConcepts":["Bad","Evil"],"receivingConcepts":[]}
+{"concept":"Capital of Iraq","rel":"DefinedAs","emittingConcepts":["Bagdad","Baghdad"],"receivingConcepts":[]}
+{"concept":"Bark","rel":"DefinedAs","receivingConcepts":["Out Coating of Tree","Outer Layer of Tree"],"emittingConcepts":[]}
+{"concept":"Basement","rel":"DefinedAs","receivingConcepts":["Bottom Lowest Floor in Most Buildings","Lowest Part of House","Underground Level of Building"],"emittingConcepts":["Find Downstairs"]}
+{"concept":"Basements","rel":"DefinedAs","receivingConcepts":["Plural Form of Basement","Plural Form of Word Basement"],"emittingConcepts":[]}
+{"concept":"Beef","rel":"DefinedAs","receivingConcepts":["Edible Product Derive From Cows","Flesh of Cow","Meat of Cows"],"emittingConcepts":[]}
+{"concept":"Bill","rel":"DefinedAs","receivingConcepts":["Precursor to Law","Same as Charge"],"emittingConcepts":[]}
+{"concept":"Biology","rel":"DefinedAs","receivingConcepts":["Science of Life","Study of Living Things"],"emittingConcepts":[]}
+{"concept":"Black","rel":"DefinedAs","receivingConcepts":["Abscence of Color","Absence of Color","Absence of Colour","Opposite Color of White"],"emittingConcepts":[]}
+{"concept":"Blue Whale","rel":"DefinedAs","receivingConcepts":["Biggest Animal Ever Lived","Largest Creature on Earth"],"emittingConcepts":[]}
+{"concept":"Bono","rel":"DefinedAs","receivingConcepts":["Lead Singer of U2","Lead Singer of U 2"],"emittingConcepts":[]}
+{"concept":"Brain","rel":"DefinedAs","receivingConcepts":["Most Complex Organ in Many Animals","Seat of Knowledge"],"emittingConcepts":[]}
+{"concept":"Breakfast","rel":"DefinedAs","receivingConcepts":["First Meal After Wake Up","First Meal in Morning","First Meal of Day","Most Important Meal of Day"],"emittingConcepts":[]}
+{"concept":"Plural Form of Brick","rel":"DefinedAs","emittingConcepts":["Bricks","Word Bricks"],"receivingConcepts":[]}
+{"concept":"Seed of Plants","rel":"DefinedAs","emittingConcepts":["Bulb","Nut"],"receivingConcepts":[]}
+{"concept":"C","rel":"DefinedAs","receivingConcepts":["First Letter of Word Chair","Third Letter of Roman Alphabet"],"emittingConcepts":[]}
+{"concept":"Calls","rel":"DefinedAs","receivingConcepts":["Plural Form O","Present First Person Tense of Call"],"emittingConcepts":[]}
+{"concept":"Campsite","rel":"DefinedAs","receivingConcepts":["Location Where Go Camping","Place Where One Camps"],"emittingConcepts":[]}
+{"concept":"Can't","rel":"DefinedAs","receivingConcepts":["Contraction of Can Not","Short Form of Can Not"],"emittingConcepts":[]}
+{"concept":"Canada","rel":"DefinedAs","receivingConcepts":["Largest Nation in North America","Second Largest Country","Second Largest Country in World","World's Second Largest Country"],"emittingConcepts":[]}
+{"concept":"Capital Punishment","rel":"DefinedAs","receivingConcepts":["Death Penalty","Same as Death Penalty"],"emittingConcepts":[]}
+{"concept":"Captain","rel":"DefinedAs","receivingConcepts":["Boss in Tha Ship","Boss on Boat","Last One Leaving Sinking Ship","Leader of Team"],"emittingConcepts":[]}
+{"concept":"Car","rel":"DefinedAs","receivingConcepts":["Product of Factory","Same as Automobile","Same Automobile"],"emittingConcepts":[]}
+{"concept":"Cargo","rel":"DefinedAs","receivingConcepts":["Same Name for Shipped Merchandise","Things Carry Over Long Distances"],"emittingConcepts":[]}
+{"concept":"Categorical Imperative","rel":"DefinedAs","receivingConcepts":["Belief Should Act Only According to Maxim Whereby Can at Same Time Will Should Become Universal Law","Central Philosophical Concept in Moral Philosophy of Immanuel Kant"],"emittingConcepts":[]}
+{"concept":"Cats","rel":"DefinedAs","receivingConcepts":["Plural Of'cat","Plural of Cat"],"emittingConcepts":[]}
+{"concept":"Ceiling","rel":"DefinedAs","receivingConcepts":["Top Edge of Room","Top of Room or Building","Top Surface of Room"],"emittingConcepts":[]}
+{"concept":"Chess","rel":"DefinedAs","receivingConcepts":["Game of Kings","Master of All Games"],"emittingConcepts":[]}
+{"concept":"Norm","rel":"DefinedAs","emittingConcepts":["Childhood Onset of Compulsive Hoarding","Dream Amnesia"],"receivingConcepts":[]}
+{"concept":"Children","rel":"DefinedAs","receivingConcepts":["Plural Form of Child","Plural of Child"],"emittingConcepts":[]}
+{"concept":"Christmas","rel":"DefinedAs","receivingConcepts":["Birthday of Baby Jesus","Celebration of Birth of Christ"],"emittingConcepts":[]}
+{"concept":"Sun","rel":"DefinedAs","emittingConcepts":["Closes Star to Earth","Closest Star to Earth","Find Outside"],"receivingConcepts":["Archetype of Child","Center of Solar System","Closest Star to Planet","Main Heat Source of Earth","Nearest Star","Star Closest to Earth"]}
+{"concept":"Slang Term for Male Sex Organ","rel":"DefinedAs","emittingConcepts":["Cock","Schlong","Trouser Snake","Wang"],"receivingConcepts":[]}
+{"concept":"Cold","rel":"DefinedAs","receivingConcepts":["Opposite of Hot","Opposite of Warm"],"emittingConcepts":[]}
+{"concept":"Name of City","rel":"DefinedAs","emittingConcepts":["Colorado Springs","Fulton","Missouri State and Independence"],"receivingConcepts":[]}
+{"concept":"Concord","rel":"DefinedAs","receivingConcepts":["Capital of New Hampshire","Capitol of New Hampshire"],"emittingConcepts":[]}
+{"concept":"White Oak","rel":"DefinedAs","emittingConcepts":["Connecticut State Tree","Illinois State Tree","Maryland State Tree"],"receivingConcepts":[]}
+{"concept":"Consequence of War","rel":"DefinedAs","receivingConcepts":["Death of Child","Murdering of Innocent People","Raping of Women and Children"],"emittingConcepts":[]}
+{"concept":"Cookbooks","rel":"DefinedAs","receivingConcepts":["Plural Form of Cookbook","Plural of Cookbook"],"emittingConcepts":[]}
+{"concept":"Cornucopia","rel":"DefinedAs","receivingConcepts":["Horn Shaped Traditional Basket of Plenty","Traditional Basket of Plenty"],"emittingConcepts":[]}
+{"concept":"Days","rel":"DefinedAs","receivingConcepts":["Plural Form of Day","Plural of Day"],"emittingConcepts":[]}
+{"concept":"Dealing Efficiently With Others","rel":"DefinedAs","receivingConcepts":["Key to Handling Supervisory Positions","Key to Handling Supervisory Responsibilities"],"emittingConcepts":[]}
+{"concept":"Death","rel":"DefinedAs","receivingConcepts":["Archetype of Transition","Beginning of Spiritual Life","End of Existance","Opposite of Life","Other Side of Living","Permanent Terminiation of Life","Result of Killing"],"emittingConcepts":[]}
+{"concept":"December","rel":"DefinedAs","receivingConcepts":["Last Month of Year","Twelfth Month of Year"],"emittingConcepts":[]}
+{"concept":"Diamond","rel":"DefinedAs","receivingConcepts":["Hardest Substance Know","Hardest Substance on Earth"],"emittingConcepts":[]}
+{"concept":"Dinner","rel":"DefinedAs","receivingConcepts":["Final Meal of Day","Stronger Meal in American Culture"],"emittingConcepts":[]}
+{"concept":"Dollars","rel":"DefinedAs","receivingConcepts":["Multiple of Dollar","Plural of Dollar"],"emittingConcepts":[]}
+{"concept":"Door","rel":"DefinedAs","receivingConcepts":["Entrance","Opening of Room"],"emittingConcepts":[]}
+{"concept":"Douglas Adams","rel":"DefinedAs","receivingConcepts":["Author of Hitchhiker's Guide to Galaxy","Author of Restaurant at End of Galaxy"],"emittingConcepts":[]}
+{"concept":"E","rel":"DefinedAs","receivingConcepts":["Base of Natural Logarithms","Fifth Letter of Roman Alphabet"],"emittingConcepts":[]}
+{"concept":"Earth","rel":"DefinedAs","receivingConcepts":["Home of All Humans","Planet Live On","Planet Third Closest to Sun","Planet Where Live","World"],"emittingConcepts":["Round","World"]}
+{"concept":"World","rel":"DefinedAs","emittingConcepts":["Earth"],"receivingConcepts":["Archetype of Persona","Earth","Only Known Planet With Life Forms","Place Live","Planet Earth"]}
+{"concept":"Economics","rel":"DefinedAs","receivingConcepts":["Dismal Science","Study of Economy"],"emittingConcepts":[]}
+{"concept":"Education","rel":"DefinedAs","receivingConcepts":["Best Way to Prevent Ignorance","Launching Pad of Life","Process of Getting Knowledge"],"emittingConcepts":[]}
+{"concept":"Eighty","rel":"DefinedAs","receivingConcepts":["Product of Four and Twenty","Written Word for 80"],"emittingConcepts":[]}
+{"concept":"King","rel":"DefinedAs","emittingConcepts":["Elvis"],"receivingConcepts":["Head of State","Leader of State"]}
+{"concept":"Energy","rel":"DefinedAs","receivingConcepts":["Capacity to Perform Work","Everything","Potential to Do Work"],"emittingConcepts":[]}
+{"concept":"English","rel":"DefinedAs","receivingConcepts":["International Lingua Franca","Language of Business","Most Popular Language on Earth","Official Language of Australia"],"emittingConcepts":[]}
+{"concept":"Erection","rel":"DefinedAs","receivingConcepts":["Enlargement and Hardening of Penis","Stiffening of Penis"],"emittingConcepts":[]}
+{"concept":"Evil","rel":"DefinedAs","receivingConcepts":["Opposite of Good","Opposite of Nice"],"emittingConcepts":["Microsoft"]}
+{"concept":"Opposite of Nice","rel":"DefinedAs","emittingConcepts":["Evil","Mean"],"receivingConcepts":[]}
+{"concept":"Evolution","rel":"DefinedAs","receivingConcepts":["Most Important Idea in Biology","Process of Change Over Time"],"emittingConcepts":[]}
+{"concept":"Execution","rel":"DefinedAs","receivingConcepts":["Highest Punishment","Killing of Person"],"emittingConcepts":[]}
+{"concept":"Belief in God","rel":"DefinedAs","emittingConcepts":["Faith in God","Theism"],"receivingConcepts":[]}
+{"concept":"February","rel":"DefinedAs","receivingConcepts":["Month After January","Second Month of Year"],"emittingConcepts":[]}
+{"concept":"Female","rel":"DefinedAs","receivingConcepts":["Feminine Gender","Opposite of Male"],"emittingConcepts":[]}
+{"concept":"Find Downstairs","rel":"DefinedAs","receivingConcepts":["Basement","Basment","Family Room","First Floor","Front Door","Furnace","Ground Floor","Kitchen","Living Room"],"emittingConcepts":[]}
+{"concept":"First Floor","rel":"DefinedAs","emittingConcepts":["Find Downstairs","Gound Floor"],"receivingConcepts":["Ground Level Floor"]}
+{"concept":"Find Outside","rel":"DefinedAs","receivingConcepts":["Ground","Sky","Sun"],"emittingConcepts":[]}
+{"concept":"Find Underground","rel":"DefinedAs","receivingConcepts":["Root of Plant","Sewer","Subway or Metro"],"emittingConcepts":[]}
+{"concept":"Find Upstairs","rel":"DefinedAs","receivingConcepts":["Attic","Bedroom","Loft","Second Floor","Upper End of Stair"],"emittingConcepts":[]}
+{"concept":"Fission","rel":"DefinedAs","receivingConcepts":["Process of Splitting Atoms","Splitting of Molucules of Hydrogen"],"emittingConcepts":[]}
+{"concept":"Florida State Bird","rel":"DefinedAs","receivingConcepts":["Brown Thrasher","Mockingbird"],"emittingConcepts":[]}
+{"concept":"Brown Thrasher","rel":"DefinedAs","emittingConcepts":["Florida State Bird","Georgia State Bird"],"receivingConcepts":[]}
+{"concept":"Mockingbird","rel":"DefinedAs","emittingConcepts":["Florida State Bird","Mississippi State Bird","State Bird Symbol for Arkansas","Texas State Bird"],"receivingConcepts":[]}
+{"concept":"Florida State Flower","rel":"DefinedAs","receivingConcepts":["Cherokee Rose","Orange Blossom"],"emittingConcepts":[]}
+{"concept":"Cherokee Rose","rel":"DefinedAs","emittingConcepts":["Florida State Flower","Georgia State Flower","Georgia State Tree"],"receivingConcepts":[]}
+{"concept":"Live Oak","rel":"DefinedAs","emittingConcepts":["Florida State Tree","Georgia State Tree"],"receivingConcepts":[]}
+{"concept":"Flowers","rel":"DefinedAs","receivingConcepts":["Plural Form of Word Flower","Plural of Word Flower"],"emittingConcepts":[]}
+{"concept":"Friday","rel":"DefinedAs","receivingConcepts":["Day Before Saturday","Day Immediately After Saturday","Day Immediately After Thursday"],"emittingConcepts":[]}
+{"concept":"Day Immediately After Saturday","rel":"DefinedAs","emittingConcepts":["Friday","Sunday"],"receivingConcepts":[]}
+{"concept":"Name of Movie","rel":"DefinedAs","emittingConcepts":["Fried Green Tomatoes","Steel Magnolias","Title"],"receivingConcepts":[]}
+{"concept":"Friendship","rel":"DefinedAs","receivingConcepts":["Co Existence of Two Beings Who Care for and Respect One Another","Key to Mental Health"],"emittingConcepts":[]}
+{"concept":"Front Room","rel":"DefinedAs","receivingConcepts":["Room at Front of Building","Room Connected to Main Entrance of Building"],"emittingConcepts":[]}
+{"concept":"Front Yard","rel":"DefinedAs","receivingConcepts":["Area in Front of House","Gras in Front of House"],"emittingConcepts":[]}
+{"concept":"Fruit","rel":"DefinedAs","receivingConcepts":["Milk of Mother Earth","Ovary of Angiosperm"],"emittingConcepts":[]}
+{"concept":"Fun","rel":"DefinedAs","receivingConcepts":["Active Pursuit of Happiness","Same as Enjoyable","Unecessary Things Do Bring Pleasure Antonym Would Work"],"emittingConcepts":[]}
+{"concept":"Gardening","rel":"DefinedAs","receivingConcepts":["Act of Caring for Garden","Art of Making Plants Grow","Idea of Helping Plants Grow","Intentional Cultivation of Plants"],"emittingConcepts":[]}
+{"concept":"Genocide","rel":"DefinedAs","receivingConcepts":["Death of Specific Group","Killing of Specific Group"],"emittingConcepts":[]}
+{"concept":"President","rel":"DefinedAs","emittingConcepts":["George"],"receivingConcepts":["Head of State","Name of High Political Office","Person in Control"]}
+{"concept":"Georgia State Tree","rel":"DefinedAs","receivingConcepts":["Cherokee Rose","Live Oak"],"emittingConcepts":[]}
+{"concept":"Giraffe","rel":"DefinedAs","receivingConcepts":["Biggest Ruminant on Earth","Tallest Land Animal","Tallest Mammal on Earth"],"emittingConcepts":[]}
+{"concept":"God","rel":"DefinedAs","receivingConcepts":["Creator of Everything","Final Arbiter of Justice","Love","One","Truth"],"emittingConcepts":[]}
+{"concept":"Love","rel":"DefinedAs","emittingConcepts":["God"],"receivingConcepts":["Greatest Thing Human Can Do","Opposite of Hate","Reason for All Existence","Reason Why Life Exists","Single Greatest Force in Universe","Strongest Feeling There"]}
+{"concept":"One","rel":"DefinedAs","emittingConcepts":["God"],"receivingConcepts":["Smallest Positive Whole Number","Successor of Zero"]}
+{"concept":"Gold","rel":"DefinedAs","receivingConcepts":["Element With Symbol Au","Most Inert Metal"],"emittingConcepts":[]}
+{"concept":"Good","rel":"DefinedAs","receivingConcepts":["Opposite of Evil","Peacefulness"],"emittingConcepts":[]}
+{"concept":"Google","rel":"DefinedAs","receivingConcepts":["Best Search Engine for Web","Name of Search Engine"],"emittingConcepts":[]}
+{"concept":"Gravity","rel":"DefinedAs","receivingConcepts":["Attraction Between Two Masses","Effect of Earth Rotating"],"emittingConcepts":[]}
+{"concept":"Root of All Evil","rel":"DefinedAs","emittingConcepts":["Greed","Love of Money","Money"],"receivingConcepts":[]}
+{"concept":"Name of Person","rel":"DefinedAs","emittingConcepts":["Guru1","Jack","Rosemary"],"receivingConcepts":[]}
+{"concept":"Hard","rel":"DefinedAs","receivingConcepts":["Opposite of Easy","Opposite of Soft"],"emittingConcepts":[]}
+{"concept":"Opposite of Love","rel":"DefinedAs","emittingConcepts":["Hate","In Many Ways Hate"],"receivingConcepts":[]}
+{"concept":"Hearts","rel":"DefinedAs","receivingConcepts":["Name of One Game","Size of Fist and Located Between Lungs"],"emittingConcepts":[]}
+{"concept":"Helium","rel":"DefinedAs","receivingConcepts":["Basis of All Cryogenics Research","Second Element in Periodical Table"],"emittingConcepts":[]}
+{"concept":"Same Shape as Ribbon","rel":"DefinedAs","emittingConcepts":["Highway","Road","Sidewalk"],"receivingConcepts":[]}
+{"concept":"History","rel":"DefinedAs","receivingConcepts":["Manifestation of Complex Adaptive System","Study of Past Events","Written Record"],"emittingConcepts":[]}
+{"concept":"Holidays","rel":"DefinedAs","receivingConcepts":["Plural Form of Holdiay","Plural Form of Holiday"],"emittingConcepts":[]}
+{"concept":"Homer","rel":"DefinedAs","receivingConcepts":["Author of Odyssey","Earliest Known Epic Poet"],"emittingConcepts":[]}
+{"concept":"Skin","rel":"DefinedAs","emittingConcepts":["Humans Outer Layer of Flesh"],"receivingConcepts":["Body's First Protection Against Disease","Largest Organ","Largest Organ of Human Body"]}
+{"concept":"Opposite of Dry","rel":"DefinedAs","emittingConcepts":["Humid","Wet"],"receivingConcepts":[]}
+{"concept":"Hydrogen","rel":"DefinedAs","receivingConcepts":["Cleanest Fuel for Fuel Cells","First Element in Periodical Table","Main Constituent of Jupiter","Simplest Element"],"emittingConcepts":[]}
+{"concept":"Ice","rel":"DefinedAs","receivingConcepts":["Frozen Phase of Water","Solid Phase of H2o","Solid Phase of Water","Solid State of Water"],"emittingConcepts":[]}
+{"concept":"Mountain Bluebird","rel":"DefinedAs","emittingConcepts":["Idaho State Bird","Nevada State Bird"],"receivingConcepts":[]}
+{"concept":"White Pine","rel":"DefinedAs","emittingConcepts":["Idaho State Tree","Maine State Tree","Michigan State Tree"],"receivingConcepts":[]}
+{"concept":"Cardinal","rel":"DefinedAs","emittingConcepts":["Illinois State Bird","Indiana State Bird","North Carolina State Bird","Ohio State Bird","Virginia State Bird","West Virginia State Bird"],"receivingConcepts":[]}
+{"concept":"Violet","rel":"DefinedAs","emittingConcepts":["Illinois State Flower","Rhode Island State Flower"],"receivingConcepts":[]}
+{"concept":"Bicycle","rel":"DefinedAs","emittingConcepts":["In China Primary Personal Vehicle","Most Efficient Type of Machine","Most Efficient Type of Macine","One Method of Transportation"],"receivingConcepts":[]}
+{"concept":"Indonesia","rel":"DefinedAs","receivingConcepts":["Fourth Most Populous Nation","Fourth Most Populous Nation on Earth","World's Largest Muslim Nation"],"emittingConcepts":[]}
+{"concept":"Islam","rel":"DefinedAs","receivingConcepts":["Official Religion of Arab World","Religion Founded by Muhammad","World's Fastest Growing Religion"],"emittingConcepts":[]}
+{"concept":"Isle","rel":"DefinedAs","receivingConcepts":["Same Thing as Island","Top of Submerged Mountain"],"emittingConcepts":[]}
+{"concept":"Ocean","rel":"DefinedAs","emittingConcepts":["Jellyfishs Habitat"],"receivingConcepts":["Biggest Body of Water","Habitat of Shark"]}
+{"concept":"Jesus","rel":"DefinedAs","receivingConcepts":["Only Way to Heaven","Son of God"],"emittingConcepts":[]}
+{"concept":"Son of God","rel":"DefinedAs","emittingConcepts":["Jesus","Jesus Christ"],"receivingConcepts":[]}
+{"concept":"Jesus Christ","rel":"DefinedAs","receivingConcepts":["Central Figure of Christianity","Firstborn of God","Founder of Christian Church","Messiah","Savior of Religion Christianity","Saviour of All Christians","Son of God"],"emittingConcepts":[]}
+{"concept":"John","rel":"DefinedAs","receivingConcepts":["Boss of Company","Name of Male"],"emittingConcepts":[]}
+{"concept":"Judaism","rel":"DefinedAs","receivingConcepts":["Parent Religion of Christianity","Religion Founded by Moses"],"emittingConcepts":[]}
+{"concept":"Jupiter","rel":"DefinedAs","receivingConcepts":["Ancient Roman God","Largest Planet in Solar System","Name of Roman God","Next Planet Farther Out From Mars","Planet Fifth Closest to Sun"],"emittingConcepts":[]}
+{"concept":"Sunflower","rel":"DefinedAs","emittingConcepts":["Kansas State Flower","Kansas State Tree"],"receivingConcepts":[]}
+{"concept":"Kansas State Tree","rel":"DefinedAs","receivingConcepts":["Cottonwood","Sunflower"],"emittingConcepts":[]}
+{"concept":"Cottonwood","rel":"DefinedAs","emittingConcepts":["Kansas State Tree","Nebraska State Tree","Th Wyoming State Tree"],"receivingConcepts":[]}
+{"concept":"Tulip Poplar","rel":"DefinedAs","emittingConcepts":["Kentucky State","Kentucky State Tree","Tennessee State Tree"],"receivingConcepts":[]}
+{"concept":"Goldenrod","rel":"DefinedAs","emittingConcepts":["Kentucky State Flower","Nebraska State Flower"],"receivingConcepts":[]}
+{"concept":"Head of State","rel":"DefinedAs","emittingConcepts":["King","President","Prime Minister"],"receivingConcepts":[]}
+{"concept":"Knowledge","rel":"DefinedAs","receivingConcepts":["First Step to Solving Problem","Mind's Grasp of Reality"],"emittingConcepts":[]}
+{"concept":"Land","rel":"DefinedAs","receivingConcepts":["Ground Above Feet","Opposite of Water"],"emittingConcepts":[]}
+{"concept":"Pacific","rel":"DefinedAs","emittingConcepts":["Larges Ocean in World","Largest Ocean in World"],"receivingConcepts":["Largest Ocean on Earth"]}
+{"concept":"Learning","rel":"DefinedAs","receivingConcepts":["Effect of Teaching","Elementary Origin of Knowledge","Useful Acquisition of Knowledge"],"emittingConcepts":[]}
+{"concept":"Leather","rel":"DefinedAs","receivingConcepts":["Hide of Cows","Skin of Animal"],"emittingConcepts":[]}
+{"concept":"Life","rel":"DefinedAs","receivingConcepts":["Gift of Possibility","Opposite of Death","Sum of Memorable Moments","Universe's Way of Knowing Itself"],"emittingConcepts":[]}
+{"concept":"Lip","rel":"DefinedAs","receivingConcepts":["Edge Of","Flesh Around Mouth","Piece of Skin Around Mouth"],"emittingConcepts":[]}
+{"concept":"Logic","rel":"DefinedAs","receivingConcepts":["Bane of Irrational People","Evaluation of Arguments Into Conclusions","Set of Rules by Which Axioms Can Manipulated to Derive True Statements"],"emittingConcepts":[]}
+{"concept":"Name of City in California","rel":"DefinedAs","emittingConcepts":["Los Angeles","San Diego"],"receivingConcepts":[]}
+{"concept":"Magnolia","rel":"DefinedAs","emittingConcepts":["Louisiana State Flower","Mississippi State Tree"],"receivingConcepts":[]}
+{"concept":"Mabon","rel":"DefinedAs","receivingConcepts":["Pagan Thanksgiving","Sabbat Festival Honoring Harvest"],"emittingConcepts":[]}
+{"concept":"Mailing","rel":"DefinedAs","receivingConcepts":["Act of Despatching Mail","Act of Sending Mail"],"emittingConcepts":[]}
+{"concept":"Chickadee","rel":"DefinedAs","emittingConcepts":["Maine State Bird","Massachusetts State Bird"],"receivingConcepts":[]}
+{"concept":"Male","rel":"DefinedAs","receivingConcepts":["Masculine Gender","Opposite of Female"],"emittingConcepts":[]}
+{"concept":"Mankind","rel":"DefinedAs","receivingConcepts":["Human Race","Totality of Human Beings"],"emittingConcepts":[]}
+{"concept":"Mars","rel":"DefinedAs","receivingConcepts":["Next Frontier","Outermost Terrestrial Planet","Planet Fourth Closest to Sun"],"emittingConcepts":[]}
+{"concept":"American Elm","rel":"DefinedAs","emittingConcepts":["Massachusetts State Tree","North Dakota State Tree"],"receivingConcepts":[]}
+{"concept":"Master Bedroom","rel":"DefinedAs","receivingConcepts":["Largest Bedroom in House","Main Bedroom","Main Bedroom in Dwelling"],"emittingConcepts":[]}
+{"concept":"Masturbation","rel":"DefinedAs","receivingConcepts":["Act of Masturbating","Same Thing as Pleasuring Yourself"],"emittingConcepts":[]}
+{"concept":"Mathematics","rel":"DefinedAs","receivingConcepts":["Language of God","Language of Nature"],"emittingConcepts":[]}
+{"concept":"Mayor","rel":"DefinedAs","receivingConcepts":["Chief Representative of City","Head of City","Highest Political Office in Municipality","Leader of Human Settlement"],"emittingConcepts":[]}
+{"concept":"Meat","rel":"DefinedAs","receivingConcepts":["Flesh of Animal","Muscle Tissue of Animals"],"emittingConcepts":[]}
+{"concept":"Mecca","rel":"DefinedAs","receivingConcepts":["Holiest City of Islam","Major Holy City of Islam"],"emittingConcepts":[]}
+{"concept":"Mercury","rel":"DefinedAs","receivingConcepts":["Closet Plant to Sun","Densest Planet in Solar System","First Planet From Sun"],"emittingConcepts":[]}
+{"concept":"Robin","rel":"DefinedAs","emittingConcepts":["Michigan State Bird","Wisconsin State Bird"],"receivingConcepts":[]}
+{"concept":"Apple Blossom","rel":"DefinedAs","emittingConcepts":["Michigan State Flower","State Flower Symbol for Arkansas"],"receivingConcepts":[]}
+{"concept":"Microsoft","rel":"DefinedAs","receivingConcepts":["Evil","Name of Company"],"emittingConcepts":[]}
+{"concept":"Bluebird","rel":"DefinedAs","emittingConcepts":["Missouri State Bird","New York State Bird"],"receivingConcepts":[]}
+{"concept":"Molecule","rel":"DefinedAs","receivingConcepts":["Smallest Form of Element","Smallest Unit of Compound"],"emittingConcepts":[]}
+{"concept":"Monday","rel":"DefinedAs","receivingConcepts":["Day After Sunday","Day Immediately After Sunday"],"emittingConcepts":[]}
+{"concept":"Money","rel":"DefinedAs","receivingConcepts":["Root of All Evil","Same as Cash","Usual Medium Used to Buy Things"],"emittingConcepts":[]}
+{"concept":"Monotheism","rel":"DefinedAs","receivingConcepts":["Belief in Only One God","Worship of One God"],"emittingConcepts":[]}
+{"concept":"Western Meadowlark","rel":"DefinedAs","emittingConcepts":["Montana State Bird","Nebraska State Bird","North Dakota State Bird","Oregon State Bird","Th Wyoming State Bird"],"receivingConcepts":[]}
+{"concept":"Moon","rel":"DefinedAs","receivingConcepts":["Archetype of Deadly Mother","Brightest Object in Night Sky"],"emittingConcepts":["Nor"]}
+{"concept":"Motherboard","rel":"DefinedAs","receivingConcepts":["Main Component of Personal Computer","Most Important Part of Computer"],"emittingConcepts":[]}
+{"concept":"Mount Everest","rel":"DefinedAs","receivingConcepts":["Highest Mountain on Earth","Mountain Hightes Above Sea Level"],"emittingConcepts":[]}
+{"concept":"Mt Fuji","rel":"DefinedAs","receivingConcepts":["Most Sacred Spot in Japan","Tallest Mountain in Japan"],"emittingConcepts":[]}
+{"concept":"New Jersey State Flower","rel":"DefinedAs","receivingConcepts":["Purple Violet","Scarlet Carnation"],"emittingConcepts":[]}
+{"concept":"Purple Violet","rel":"DefinedAs","emittingConcepts":["New Jersey State Flower","New Jersey State Tree"],"receivingConcepts":[]}
+{"concept":"Scarlet Carnation","rel":"DefinedAs","emittingConcepts":["New Jersey State Flower","Ohio State Flower"],"receivingConcepts":[]}
+{"concept":"New Jersey State Tree","rel":"DefinedAs","receivingConcepts":["Purple Violet","Red Oak"],"emittingConcepts":[]}
+{"concept":"Sugar Maple","rel":"DefinedAs","emittingConcepts":["New York State Tree","Vermont State Tree","West Virginia State Tree","Wisconsin State Tree"],"receivingConcepts":[]}
+{"concept":"Name of Magazine","rel":"DefinedAs","emittingConcepts":["Newsweek","Redbook"],"receivingConcepts":[]}
+{"concept":"Noise","rel":"DefinedAs","receivingConcepts":["Opposite of Silence","Result of Air Molecules Vibrating"],"emittingConcepts":[]}
+{"concept":"Dogwood","rel":"DefinedAs","emittingConcepts":["North Carolina State Flower","Virginia State Tree"],"receivingConcepts":[]}
+{"concept":"November","rel":"DefinedAs","receivingConcepts":["Eleventh Month of Year","Penultimate Month of Year"],"emittingConcepts":[]}
+{"concept":"Omega","rel":"DefinedAs","receivingConcepts":["Last Letter of Greek Alphabet","Name of ω"],"emittingConcepts":[]}
+{"concept":"One Body Signal","rel":"DefinedAs","receivingConcepts":["Desire to Eat","Desire to Rest","Desire to Sleep"],"emittingConcepts":[]}
+{"concept":"One Part of History","rel":"DefinedAs","receivingConcepts":["Factual Story of Past","Narration of Past Events"],"emittingConcepts":[]}
+{"concept":"One Type of Bridge","rel":"DefinedAs","receivingConcepts":["Command Area of Ship","Upper Part of Nose"],"emittingConcepts":[]}
+{"concept":"One Type of Catheter","rel":"DefinedAs","receivingConcepts":["Bozeman's Catheter","Female Catheter","Foley Catheter","Itard's Catheter","Mercier's Catheter"],"emittingConcepts":[]}
+{"concept":"One Type of Scale","rel":"DefinedAs","receivingConcepts":["Ratio of Dimensions of Objects","Relative Sizes of Objects"],"emittingConcepts":[]}
+{"concept":"Open","rel":"DefinedAs","receivingConcepts":["Antonym of Shut","Opposite of Shut"],"emittingConcepts":[]}
+{"concept":"Otaku","rel":"DefinedAs","receivingConcepts":["Japanese Word for Home or at Home","Sub Culture of Obsessive Fandom in Japanese Culture"],"emittingConcepts":[]}
+{"concept":"Pacific Ocean","rel":"DefinedAs","receivingConcepts":["Largest Ocean in Earth","Largest Ocean on Planet Earth"],"emittingConcepts":[]}
+{"concept":"Paris","rel":"DefinedAs","receivingConcepts":["City of Light","Heart of Fashion"],"emittingConcepts":[]}
+{"concept":"Parties","rel":"DefinedAs","receivingConcepts":["Plural Form of Party","Plural Form of Word Party"],"emittingConcepts":[]}
+{"concept":"Peeing","rel":"DefinedAs","receivingConcepts":["Act of Urinating","Emptying of Bladder"],"emittingConcepts":[]}
+{"concept":"Emptying of Bladder","rel":"DefinedAs","emittingConcepts":["Peeing","Urination"],"receivingConcepts":[]}
+{"concept":"Linux Mascot","rel":"DefinedAs","emittingConcepts":["Penguin Called Tux","Tux Penguin"],"receivingConcepts":[]}
+{"concept":"Penis","rel":"DefinedAs","receivingConcepts":["Male Sex Organ","Male Sexual Organ","Opposite of Vagina"],"emittingConcepts":[]}
+{"concept":"Mountain Laurel","rel":"DefinedAs","emittingConcepts":["Pennsylvania State Flower","State Flower Symbol for Connecticut"],"receivingConcepts":[]}
+{"concept":"Philosophy","rel":"DefinedAs","receivingConcepts":["Love of Knowledge","Love of Wisdom","Oldest Form of Systematic Scholarly Inquiry"],"emittingConcepts":[]}
+{"concept":"Phones","rel":"DefinedAs","receivingConcepts":["Plural Form of Phone","Plural of Phone"],"emittingConcepts":[]}
+{"concept":"Planet Earth","rel":"DefinedAs","receivingConcepts":["Home of Humanity","Largest Mass Near Humans","Present Home to Human Race"],"emittingConcepts":["World"]}
+{"concept":"Plays","rel":"DefinedAs","receivingConcepts":["Active Form of Gerund'playing","Plural of Word Play"],"emittingConcepts":[]}
+{"concept":"Pluto","rel":"DefinedAs","receivingConcepts":["Ninth Planet From Sun","Planet Usually Farthest From Sun"],"emittingConcepts":[]}
+{"concept":"Ninth Planet From Sun","rel":"DefinedAs","emittingConcepts":["Pluto","Sometimes Neptune"],"receivingConcepts":[]}
+{"concept":"Pope","rel":"DefinedAs","receivingConcepts":["Head of Catholic Church","Head of Roman Catholic Church","Leader of All Roman Catholics","Leader of Catholic Religion","Leader of Roman Catholic Church"],"emittingConcepts":[]}
+{"concept":"Positive","rel":"DefinedAs","receivingConcepts":["Direct Opposite of Negative","Opposite of Negative"],"emittingConcepts":[]}
+{"concept":"Prices","rel":"DefinedAs","receivingConcepts":["Plural Form of Price","Plural of Price"],"emittingConcepts":[]}
+{"concept":"Prince","rel":"DefinedAs","receivingConcepts":["Son of King","Son of Queen"],"emittingConcepts":[]}
+{"concept":"Provocateur","rel":"DefinedAs","receivingConcepts":["Proker of People","Provoker of People"],"emittingConcepts":[]}
+{"concept":"Queen","rel":"DefinedAs","receivingConcepts":["Female Ruler of Country","Most Powerful Chess Piece","Most Powerful Piece in Chess","Most Powerful Woman in Country","Wife of King"],"emittingConcepts":[]}
+{"concept":"Raising Children","rel":"DefinedAs","receivingConcepts":["Most Important Job in World","Most Stressful Function Human Undertakes"],"emittingConcepts":[]}
+{"concept":"Reading","rel":"DefinedAs","receivingConcepts":["Essential Ingredient of Education","In Uk"],"emittingConcepts":[]}
+{"concept":"Relaxation","rel":"DefinedAs","receivingConcepts":["Opposite of Stress","Opposite of Tension"],"emittingConcepts":[]}
+{"concept":"Religion","rel":"DefinedAs","receivingConcepts":["Collective Term for All Religions","Most Inflammatory Enemy Labelling Device In","Opium of Masses","Way to Unite and Divide Masses"],"emittingConcepts":[]}
+{"concept":"Right","rel":"DefinedAs","receivingConcepts":["Opposite of Left","Opposite of Wrong"],"emittingConcepts":[]}
+{"concept":"Roles","rel":"DefinedAs","receivingConcepts":["Plural of Role","Plural of Word Role"],"emittingConcepts":[]}
+{"concept":"Roof","rel":"DefinedAs","receivingConcepts":["Highest Point on Building","Top of Building","Top of House"],"emittingConcepts":[]}
+{"concept":"Room","rel":"DefinedAs","receivingConcepts":["Singular Version of Rooms","Space Defined by Walls"],"emittingConcepts":[]}
+{"concept":"Saddam Hussein","rel":"DefinedAs","receivingConcepts":["Leader of Country Iraq","President of Iraq"],"emittingConcepts":[]}
+{"concept":"Satan","rel":"DefinedAs","receivingConcepts":["Devil","Prince of Lies"],"emittingConcepts":[]}
+{"concept":"Saturday","rel":"DefinedAs","receivingConcepts":["Day After Friday","Day Immediately After Friday","Seventh Day of Week"],"emittingConcepts":[]}
+{"concept":"Saturn","rel":"DefinedAs","receivingConcepts":["Next Planet Farther Out From Jupiter","Planet Sixth Closest to Sun"],"emittingConcepts":[]}
+{"concept":"Science","rel":"DefinedAs","receivingConcepts":["Pursuit of Knowledge","Pursuit of Truth"],"emittingConcepts":[]}
+{"concept":"Self Reference","rel":"DefinedAs","receivingConcepts":["Beginning of Humor","Beginning of Intelligence"],"emittingConcepts":[]}
+{"concept":"Selfishness","rel":"DefinedAs","receivingConcepts":["Highest Form of Cooperation","Opposite of Selflessness"],"emittingConcepts":[]}
+{"concept":"Highest Form of Cooperation","rel":"DefinedAs","emittingConcepts":["Selfishness","Selishness"],"receivingConcepts":[]}
+{"concept":"Sentience","rel":"DefinedAs","receivingConcepts":["Ability to Have Rational Thought","Ability to Perceive Things Subjectively"],"emittingConcepts":[]}
+{"concept":"Sewed","rel":"DefinedAs","receivingConcepts":["Imperfect Tense of Sew","Past Tense of Sewing"],"emittingConcepts":[]}
+{"concept":"Shell","rel":"DefinedAs","receivingConcepts":["Name of Oil Company","Protective Layer of Egg"],"emittingConcepts":[]}
+{"concept":"Shenzhen","rel":"DefinedAs","receivingConcepts":["City","City in Sourthern China"],"emittingConcepts":[]}
+{"concept":"Shot","rel":"DefinedAs","receivingConcepts":["Past Tense of Shoot","Result of Activating Gun"],"emittingConcepts":[]}
+{"concept":"Sleep","rel":"DefinedAs","receivingConcepts":["Most Basic Form of Entertainment","Most Relaxing Part of Day"],"emittingConcepts":[]}
+{"concept":"Soccer","rel":"DefinedAs","receivingConcepts":["Favorite Sport in Brazil","Game of Football Outside United States","Main Sport of Mexico"],"emittingConcepts":[]}
+{"concept":"Space","rel":"DefinedAs","receivingConcepts":["Empty Vacuum Between Stars and Planets","Final Fronteer"],"emittingConcepts":[]}
+{"concept":"Center of Solar System","rel":"DefinedAs","emittingConcepts":["Star Named Sol","Sun"],"receivingConcepts":[]}
+{"concept":"Stigma","rel":"DefinedAs","receivingConcepts":["Attempt to Label Particular Group of People as Less Worthy of Respect Than Others","Mark of Disgrace or Shame","Mark of Shame Disgrace or Disapproval"],"emittingConcepts":[]}
+{"concept":"Suicide","rel":"DefinedAs","receivingConcepts":["Act of Killing Yourself","Deliberate Taking of One's Own Life"],"emittingConcepts":[]}
+{"concept":"Sunday","rel":"DefinedAs","receivingConcepts":["Day Immediately After Saturday","Day People Go to Church","First Day of Week"],"emittingConcepts":[]}
+{"concept":"Taurus","rel":"DefinedAs","receivingConcepts":["Name of One Type of Car","Second Sign of Zodiac"],"emittingConcepts":[]}
+{"concept":"Tents","rel":"DefinedAs","receivingConcepts":["Plural Form of Tent","Plural of Tent"],"emittingConcepts":[]}
+{"concept":"Bluebonnet","rel":"DefinedAs","emittingConcepts":["Texas State Flower","Texas State Tree"],"receivingConcepts":[]}
+{"concept":"Texas State Tree","rel":"DefinedAs","receivingConcepts":["Bluebonnet","Pecan"],"emittingConcepts":[]}
+{"concept":"Text","rel":"DefinedAs","receivingConcepts":["Main Part of Written Work","Written Symbols of Document","Written Word"],"emittingConcepts":[]}
+{"concept":"Thunder","rel":"DefinedAs","receivingConcepts":["Result of Lighning Strike","Result of Lightning"],"emittingConcepts":[]}
+{"concept":"Time","rel":"DefinedAs","receivingConcepts":["4th Dimension","Fourth Dimention","Most Precious Part of One's Life"],"emittingConcepts":[]}
+{"concept":"Top Floor","rel":"DefinedAs","receivingConcepts":["Highest Floor in Building","Upper Most Level of Building"],"emittingConcepts":[]}
+{"concept":"Two","rel":"DefinedAs","receivingConcepts":["First Prime Number","Smallest Prime Number"],"emittingConcepts":[]}
+{"concept":"Up","rel":"DefinedAs","receivingConcepts":["Direction Opposite Pull of Gravity","Opposite of Down"],"emittingConcepts":[]}
+{"concept":"Venus","rel":"DefinedAs","receivingConcepts":["Hottest Planet","Planet Between Mercury and Earth","Planet Second Closest to Sun"],"emittingConcepts":[]}
+{"concept":"Violence","rel":"DefinedAs","receivingConcepts":["Last Option of Desperate Man","Last Refuge of Incompetent"],"emittingConcepts":[]}
+{"concept":"Vote","rel":"DefinedAs","receivingConcepts":["Act of Participating in Election","Democratic Way to Choose Governant"],"emittingConcepts":[]}
+{"concept":"Water","rel":"DefinedAs","receivingConcepts":["Chemical Compound H2o","Liquid Phase of H2o","Main Ingrediant in Beverages","Main Ingredient in Beverages","Major Constituent of Human Body","Universal Solvent"],"emittingConcepts":[]}
+{"concept":"Wavelength","rel":"DefinedAs","receivingConcepts":["Distance Between Two Peaks of Waves","Reciprocal of Frequency"],"emittingConcepts":[]}
+{"concept":"Went","rel":"DefinedAs","receivingConcepts":["Action of Attending Movie","Past Tense Form of Go"],"emittingConcepts":[]}
+{"concept":"What Will Someday Become History","rel":"DefinedAs","receivingConcepts":["Future","Present"],"emittingConcepts":[]}
+{"concept":"Wine","rel":"DefinedAs","receivingConcepts":["Drink of Gods","Fermented Juice","Fermented Juice of Fruit","Fermented Juice of Fruit Product","Fermented Juice of Grapes","Fruit of Civilization"],"emittingConcepts":[]}
+{"concept":"Winning","rel":"DefinedAs","receivingConcepts":["Goal in Most Competitions","Goal of Game"],"emittingConcepts":[]}
+{"concept":"Winter","rel":"DefinedAs","receivingConcepts":["Cold Quarter of Year","Coldest Season","Opposite of Summertime"],"emittingConcepts":[]}
+{"concept":"Wool","rel":"DefinedAs","receivingConcepts":["Hair Fiber of Sheep","Hair of Sheep","Hiar Fiber of Sheep"],"emittingConcepts":[]}
+{"concept":"Work","rel":"DefinedAs","receivingConcepts":["Bane of Self Indulgent","Only Thing Workaholics Good At"],"emittingConcepts":[]}
+{"concept":"Yellow","rel":"DefinedAs","receivingConcepts":["Colour of Cowardice","Most Common Color for Highlighter"],"emittingConcepts":[]}
+{"concept":"ω","rel":"DefinedAs","receivingConcepts":["First Non Zero Limit Ordinal","Greek Letter Omega"],"emittingConcepts":[]}

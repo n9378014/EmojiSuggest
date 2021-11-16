@@ -1,0 +1,912 @@
+{"concept":"Abacate","rel":"NotUsedFor","receivingConcepts":["Bater Em Alguém","Jogar Nos Outros"],"emittingConcepts":[]}
+{"concept":"Bater Em Alguém","rel":"NotUsedFor","emittingConcepts":["Abacate","Caixa De Cenouras","Chave Fixa","Frigideira","Laptop","Vassoura"],"receivingConcepts":[]}
+{"concept":"Jogar Nos Outros","rel":"NotUsedFor","emittingConcepts":["Abacate","Borracha","Giz","Talheres"],"receivingConcepts":[]}
+{"concept":"Abajour","rel":"NotUsedFor","receivingConcepts":["Acender Velas","Comer","Não Acende Lo","Ter Pouca Iluminação","Trocar a Lampada"],"emittingConcepts":[]}
+{"concept":"Comer","rel":"NotUsedFor","emittingConcepts":["Abajour","Agua Viva","Alga","Alho","Almofada","Animal De Estimação","Apostila","Arroz Escuro","Baleia De Bryde","Banquinho","Barraca De Tiro Ao Alvo","Bicho De Goiaba","Bomba De Chocolate","Cabelo","Cabeça De Frango","Caderno","Caixa De Cerveja","Canivete","Capim","Caramujo","Carne De Carneiro","Catraca","Chouriço","Chuveiro","Cobra","Comprensor De Ar","Concha","Conchinha","Conjunto De Talheres Para Peixe","Coral","Cotonete","Couve","Cozinheiro","Espatula","Espelho","Espinho De Peixe","Estrela Do Mar","Farolete","Ferramentas","Fezes","Flor","Folha De Abacate","Fruta Estragada","Garçom","Gatinho","Gato","Giz","Graxa De Sapato","Grão De Areia","Guarda Sol","Inseto","Jogo De Talheres Para Peixe","Lagarto","Larva De Mosquito","Linguiça De Porco","Lodo","Lousa","Língua Para","Líquido","Material Escolar","Meleca","Melão","Merlin","Milho Verde","Paio","Pamonha","Parafuso","Pasta De Dente","Pasto","Pedaço De Alcatre","Pedaço De Lombo Suino","Pedaço De Polvo","Peixe Cru","Peixe Morto","Penca De Banana Maçã","Pinico","Planta","Pote De Mostarda","Pouco De Sal Úmido","Prateleira","Prato De Omelete De Batatas","Presa","Pêssego","Ratasana","Ratazana","Ratinho","Rato","Raçao De Cachorro","Ração","Restos De Comida","Rocha","Rosa","Samambaia","Sapo","Siri","Sofá","Talão De Notas","Tapete","Tartaruga","Tijolo","Urubu","Vitrine Com Doces Gelados","Vitrô"],"receivingConcepts":[]}
+{"concept":"Cozinhar","rel":"NotUsedFor","emittingConcepts":["Abobora Gigante","Armário","Computador","Escritor","Ferramentas","Galo","Juíz","Lata De Cerveja","Peça Do Jogo","Taxista","Tesoura","Torneira","Video Cassete"],"receivingConcepts":[]}
+{"concept":"Absorvente Femino","rel":"NotUsedFor","receivingConcepts":["Enfiar No Nariz","Jogar Na Privada","Mostrar Aos Outros"],"emittingConcepts":[]}
+{"concept":"Jogar Na Privada","rel":"NotUsedFor","emittingConcepts":["Absorvente Femino","Maria Mole"],"receivingConcepts":[]}
+{"concept":"Acampador","rel":"NotUsedFor","receivingConcepts":["Dormir","Olhar Meus Dentes"],"emittingConcepts":[]}
+{"concept":"Dormir","rel":"NotUsedFor","emittingConcepts":["Acampador","Aparelho De Som","Automóvel","Bagunça","Balcão","Balcão De Check In","Banca De Revistas","Banheiro","Banquinho","Batedeira","Berço","Berço Para Colocar O Cachorro","Bicama","Bronzeador","Cadeira","Café","Caixa","Cama Desarrumada","Carpete","Carro","Chiqueiro","Cinema","Closet","Comercios","Cova","Cozinha","Criado Mudo","Céu Muito Azul","Doce","Doente Gemendo","Escola","Escrivana","Escrivaninha","Estante","Filme","Fogueira E Várias Pessoas","Garçom","Guarda Roupas","Guidão","Laranja","Mar","Mesa","Mesa Com Cadeiras","Pia","Piscina","Pneu","Poltrona","Prato","Provador","Rack","Ralo","Rede","Restaurante","Saguão","Sala De Jantar","Sala Dos Professores","Sofa Confortável","Som","Sopa","Tabua","Telão","Trailer"],"receivingConcepts":[]}
+{"concept":"Acessório","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Não Uza Lo"],"emittingConcepts":[]}
+{"concept":"Atrapalhar","rel":"NotUsedFor","emittingConcepts":["Acessório","Aluno","Corveta","Ferramenta","Guia","Guindaste","Mesa","Mesa De Centro","Penetra","Peso De Papel","Trombadinha"],"receivingConcepts":[]}
+{"concept":"Não Uza Lo","rel":"NotUsedFor","emittingConcepts":["Acessório","Fax","Gravador De Cd","Produto"],"receivingConcepts":[]}
+{"concept":"Trabalhar","rel":"NotUsedFor","emittingConcepts":["Adolescentes","Alumínio","Barraca De Vendas De Pescado","Draga Para Tirar Areia","Espriguiçadeira","Estacionamento","Estatístico","Estudante","Hometheater","Ilha","Muito Calor","Navio","Navio Cisterna","Quadra De Futebol De Areia","Recém Nascido","Travesseiro"],"receivingConcepts":[]}
+{"concept":"Adoçar O Café","rel":"NotUsedFor","emittingConcepts":["Adoçante","Açucar"],"receivingConcepts":[]}
+{"concept":"Advogada","rel":"NotUsedFor","receivingConcepts":["Competir","Fazer Negócios","Nadar"],"emittingConcepts":[]}
+{"concept":"Competir","rel":"NotUsedFor","emittingConcepts":["Advogada","Arraia","Equatoriano"],"receivingConcepts":[]}
+{"concept":"Fazer Negócios","rel":"NotUsedFor","emittingConcepts":["Advogada","Lanchonete"],"receivingConcepts":[]}
+{"concept":"Nadar","rel":"NotUsedFor","emittingConcepts":["Advogada","Bandeira","Banheira","Bermuda","Bidê","Chiqueiro","Churrasqueira","Mochila","Piscina Coberta","Piscina De Agua Quente","Quadra De Futebol De Salão","Roupa","Um Quadro"],"receivingConcepts":[]}
+{"concept":"Advogado","rel":"NotUsedFor","receivingConcepts":["Me Acertar Com Minha Mãe","Ver Meu Estado De Saude"],"emittingConcepts":[]}
+{"concept":"Afazer","rel":"NotUsedFor","receivingConcepts":["Descansar","Quando Estiver De Férias"],"emittingConcepts":[]}
+{"concept":"Descansar","rel":"NotUsedFor","emittingConcepts":["Afazer","Bar","Estacionamento","Praça","Praça De Alimentação","Trabalhador"],"receivingConcepts":[]}
+{"concept":"Afeto","rel":"NotUsedFor","receivingConcepts":["Brigar","Enganar"],"emittingConcepts":[]}
+{"concept":"Brigar","rel":"NotUsedFor","emittingConcepts":["Afeto","Amigo","Colega De Trabalho","Criança","Empregada","Família","Garçom","Gato","Grande Amigo","Homem","Japonês","Mamãe","Mesa De Reuniões","Papai","Pedal","Pessoa","Sala De Aula","Travesseiro"],"receivingConcepts":[]}
+{"concept":"Agasalho","rel":"NotUsedFor","receivingConcepts":["Ir À Praia","Vestir No Calor"],"emittingConcepts":[]}
+{"concept":"Ir À Praia","rel":"NotUsedFor","emittingConcepts":["Agasalho","Sapato"],"receivingConcepts":[]}
+{"concept":"Rabiscar","rel":"NotUsedFor","emittingConcepts":["Agenda","Giz","Móvel"],"receivingConcepts":[]}
+{"concept":"Agua Viva","rel":"NotUsedFor","receivingConcepts":["Comer","Passar a Mão Nela","Queimar Minha Perna"],"emittingConcepts":[]}
+{"concept":"Costurar","rel":"NotUsedFor","emittingConcepts":["Agulha","Fio De Cabelo"],"receivingConcepts":[]}
+{"concept":"Alarme","rel":"NotUsedFor","receivingConcepts":["Fazer Uma Festa","Mante Lo Desligado"],"emittingConcepts":[]}
+{"concept":"Fazer Uma Festa","rel":"NotUsedFor","emittingConcepts":["Alarme","Estacionamento","Leito","Sala De Aula Biblioteca","Sertão"],"receivingConcepts":[]}
+{"concept":"Alfinete","rel":"NotUsedFor","receivingConcepts":["Alfinetar Outras Pessoas","Clipar Um Ponto De Rede","Espetar Os Outros","Levar Uma Alfinetada","Limpar Os Dentes"],"emittingConcepts":[]}
+{"concept":"Alga","rel":"NotUsedFor","receivingConcepts":["Comer","Desperdiçar","Espalhar Pelo Chão","Passar No Cabelo"],"emittingConcepts":[]}
+{"concept":"Desperdiçar","rel":"NotUsedFor","emittingConcepts":["Alga","Pote De Comida","Prato Feito","Vaga"],"receivingConcepts":[]}
+{"concept":"Enfeitar","rel":"NotUsedFor","emittingConcepts":["Algas Marinhas","Guardanapeiro","Porta"],"receivingConcepts":[]}
+{"concept":"Jogar Fora","rel":"NotUsedFor","emittingConcepts":["Algema","Apagador","Apostila","Arquivo","Banana","Bandeija Com Petit Fours","Baseado","Bem De Consumo","Biscoito De Polvilho","Caixa Com Acerolas","Caixa Com Uvas Tipo Italia","Caju","Caldo De Cana","Cerveja","Cerveja Gelada","Cesta Com Revistas","Comida","Coxinha","Coxão Mole","Croissant","Feijão","Flor","Fruta","Garrafa De Pinga","Garrafa De Rum","Garrafa De Vinho Tinto Seco","Garrafa De Água","Goiaba","Guardanapo","Guloseima","Lata De Milho Em Conserva","Lata De Oleo","Manga","Maço De Violetas","Melancia","Mercadoria","Nota Fiscal","Noz","Pacote De Macarrao","Pastel","Pastel De Frango","Pedaço De Carne","Pedaços De Camarão","Peixes","Pinga De Boa Qualidade","Pizza","Pote De Comida","Prato De Comida","Presente","Produto","Pão","Pão Fresquinho","Pé De Alface","Pé De Couve","Pêra","Refeição","Rosa","Sal","Salgadinhos","Salsicha","Seção De Brinquedos","Siri","Tacho Com Oleo Para Fritura","Travessa Com Canapés","Vacina Para O Gado","Água"],"receivingConcepts":[]}
+{"concept":"Algodão","rel":"NotUsedFor","receivingConcepts":["Gelar Cerveja","Usar Seco"],"emittingConcepts":[]}
+{"concept":"Almofada","rel":"NotUsedFor","receivingConcepts":["Comer","Deixar No Chão","Rasgar","Sentar Nela","Subir Na Vida"],"emittingConcepts":[]}
+{"concept":"Deixar No Chão","rel":"NotUsedFor","emittingConcepts":["Almofada","Um Quadro"],"receivingConcepts":[]}
+{"concept":"Rasgar","rel":"NotUsedFor","emittingConcepts":["Almofada","Caderno","Camiseta","Cartaz Sobre a Peça Em Apresentação","Conjunto De Sofas","Cortina","Célula","Nota De Dinheiro","Número De Sorteio","Playboy","Quadro","Revista","Revista De Automóveis"],"receivingConcepts":[]}
+{"concept":"Sentar Nela","rel":"NotUsedFor","emittingConcepts":["Almofada","Linha Imaginaria","Prateleira"],"receivingConcepts":[]}
+{"concept":"Usar Como Travesseiro","rel":"NotUsedFor","emittingConcepts":["Almofda","Pizza De Mussarela","Tijolo"],"receivingConcepts":[]}
+{"concept":"Alpinista","rel":"NotUsedFor","receivingConcepts":["Mergulhar Em Um Lago","Ser Nadador"],"emittingConcepts":[]}
+{"concept":"Estudar","rel":"NotUsedFor","emittingConcepts":["Aluna Fumando Escondida","Box","Carteira","Cozinha","Criado Mudo","Lanchonete","Livro Sobre Direito Trabalhista","Médico","Quarto Escuro","Sofá"],"receivingConcepts":[]}
+{"concept":"Aluno","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Bater","Contar Piadas","Enisnar","Ensinar Ao Um Professor","Jogar Boliche"],"emittingConcepts":[]}
+{"concept":"Bater","rel":"NotUsedFor","emittingConcepts":["Aluno","Cartão De Ponto","Chinês","Morador","Peixe","Porta","Quadro Negro","Telefone","Zebra"],"receivingConcepts":[]}
+{"concept":"Educar","rel":"NotUsedFor","emittingConcepts":["Aluno Levado","Servente De Limpeza","Taxista Aguardando Os Passageiros"],"receivingConcepts":[]}
+{"concept":"Alunos","rel":"NotUsedFor","receivingConcepts":["Chatear","Reprova Lo"],"emittingConcepts":[]}
+{"concept":"Amigo","rel":"NotUsedFor","receivingConcepts":["Brigar","Brigar Ou Maltratar","Dar Uma Má Noticia","Extorquí Lo","Interesse","Irritar"],"emittingConcepts":["Babaca","Rato","Travesti"]}
+{"concept":"Fazer Doce","rel":"NotUsedFor","emittingConcepts":["Amora","Goiaba Branca","Maça","Pêra"],"receivingConcepts":[]}
+{"concept":"Ampola","rel":"NotUsedFor","receivingConcepts":["Bebê La","Tomar Injeção"],"emittingConcepts":[]}
+{"concept":"Adestrar","rel":"NotUsedFor","emittingConcepts":["Anfitrião","Baleias"],"receivingConcepts":[]}
+{"concept":"Criar","rel":"NotUsedFor","emittingConcepts":["Animal Aquático","Boi","Coala","Rato"],"receivingConcepts":[]}
+{"concept":"Animal De Estimação","rel":"NotUsedFor","receivingConcepts":["Comer","Fazer Sujeira","Maltrata Lo","Matar"],"emittingConcepts":["Guaxinim","Peixe Espada","Rato"]}
+{"concept":"Fazer Sujeira","rel":"NotUsedFor","emittingConcepts":["Animal De Estimação","Cachorro"],"receivingConcepts":[]}
+{"concept":"Maltrata Lo","rel":"NotUsedFor","emittingConcepts":["Animal De Estimação","Gato","Golfinho","Sapo"],"receivingConcepts":[]}
+{"concept":"Matar","rel":"NotUsedFor","emittingConcepts":["Animal De Estimação","Armamento","Doente","Espada","Farpa","Fruta","Peixes","Pêssego","Tesoura"],"receivingConcepts":[]}
+{"concept":"Animal Doméstico","rel":"NotUsedFor","receivingConcepts":["Caçar","Maltratar","Rasgar O Sofá"],"emittingConcepts":[]}
+{"concept":"Caçar","rel":"NotUsedFor","emittingConcepts":["Animal Doméstico","Canivete","Vira Latas"],"receivingConcepts":[]}
+{"concept":"Maltratar","rel":"NotUsedFor","emittingConcepts":["Animal Doméstico","Cavalo","Peixe"],"receivingConcepts":[]}
+{"concept":"Quebrar","rel":"NotUsedFor","emittingConcepts":["Antiguidade","Anão De Cimento","Aparelho De Som","Ar Condicionado","Batedeira","Calculadora","Chip","Corrente De Bicicleta","Cristal","Cristaleira","Espelho","Filme","Flor","Força","Garrafa De Vinho Tinto","Giz","Janela","Lustre","Madeira","Maquina Fotográfica","Mesa","Monte De Pratos","Objeto","Pastel","Pedal","Peça Para Bicicleta","Placa De Transito","Prato","Reliquia","Scaner","Teclado","Telão","Vaso","Vitrine"],"receivingConcepts":[]}
+{"concept":"Usar Diariamente","rel":"NotUsedFor","emittingConcepts":["Antiquidade","Marmita"],"receivingConcepts":[]}
+{"concept":"Apagador","rel":"NotUsedFor","receivingConcepts":["Jogar Em Alguém","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Jogar Em Alguém","rel":"NotUsedFor","emittingConcepts":["Apagador","Bebida","Escova","Peso De Papel"],"receivingConcepts":[]}
+{"concept":"Olhar","rel":"NotUsedFor","emittingConcepts":["Apara Raios","Beija Flor","Cédula De Dinheiro","Esfiha","Fumaça","Morte","Salada","Sushi","Tijolos","Uma Loja De Produtos Importados"],"receivingConcepts":[]}
+{"concept":"Aparelho De Raio X","rel":"NotUsedFor","receivingConcepts":["Brincar Com Ele","Tirar Foto"],"emittingConcepts":[]}
+{"concept":"Brincar Com Ele","rel":"NotUsedFor","emittingConcepts":["Aparelho De Raio X","Jacaré Gigante"],"receivingConcepts":[]}
+{"concept":"Aparelho De Som","rel":"NotUsedFor","receivingConcepts":["Dormir","Ouvir Músicas De Fitas Casste","Pendurar No Teto","Quebrar"],"emittingConcepts":[]}
+{"concept":"Pendurar No Teto","rel":"NotUsedFor","emittingConcepts":["Aparelho De Som","Quadro"],"receivingConcepts":[]}
+{"concept":"Ver Televisão","rel":"NotUsedFor","emittingConcepts":["Aparelho Telefonico","Cachoeira"],"receivingConcepts":[]}
+{"concept":"Apostila","rel":"NotUsedFor","receivingConcepts":["Brincar","Comer","Jogar Fora","Se Divertir"],"emittingConcepts":[]}
+{"concept":"Brincar","rel":"NotUsedFor","emittingConcepts":["Apostila","Arma De Fogo","Baleia","Banquinho","Bicicleteiro","Bidê","Cahorro","Caramujo","Castelo De Areia","Clip","Cobra","Computador","Corrente De Bicicleta","Departamento","Empregada","Filho Dormindo","Floricultura","Fogos","Guarda Sol","Historiador","Ibm 486","Leão Marinho","Lula","Molusco","Osciloscópio","Peixe Grande","Professor","Pé De Rabanetes","Ratasana","Rede De Computadores","Rotulo","Samambaia","Sapo","Vaca"],"receivingConcepts":[]}
+{"concept":"Se Divertir","rel":"NotUsedFor","emittingConcepts":["Apostila","Biblioteca","Jogo","Laboratório","Trator Distribuindo Calcario"],"receivingConcepts":[]}
+{"concept":"Se Aquecer","rel":"NotUsedFor","emittingConcepts":["Aquecedor Portatil","Ventilador"],"receivingConcepts":[]}
+{"concept":"Ar Condicionado","rel":"NotUsedFor","receivingConcepts":["Auquecer","Esquentar O Ambiente","Esquentar O Ambietne","Fritar","Limpar","Quebrar"],"emittingConcepts":[]}
+{"concept":"Esquentar O Ambiente","rel":"NotUsedFor","emittingConcepts":["Ar Condicionado","Lampião"],"receivingConcepts":[]}
+{"concept":"Fritar","rel":"NotUsedFor","emittingConcepts":["Ar Condicionado","Frutas","Jabuticaba","Molusco","Panela De Pressão","Pepino","Sanduiche Natural"],"receivingConcepts":[]}
+{"concept":"Limpar","rel":"NotUsedFor","emittingConcepts":["Ar Condicionado","Cadeira Vazia","Camarão","Carpete","Diretora","Mesas","Micro Ondas","Monte De Pratos","Privada","Pátio","Pão"],"receivingConcepts":[]}
+{"concept":"Areia","rel":"NotUsedFor","receivingConcepts":["Colocar Na Cueca","Pôr No Motor Do Carro"],"emittingConcepts":[]}
+{"concept":"Armadura Do Seculo16","rel":"NotUsedFor","receivingConcepts":["Dançar","Usar"],"emittingConcepts":[]}
+{"concept":"Dançar","rel":"NotUsedFor","emittingConcepts":["Armadura Do Seculo16","Cadeira De Balanço","Historiador","Professor A"],"receivingConcepts":[]}
+{"concept":"Usar","rel":"NotUsedFor","emittingConcepts":["Armadura Do Seculo16","Banheiro Comunitário","Calcinha Sexy","Camiseta","Canivete","Colônia","Disquete","Estribo","Extintor","Lavatório","Macaco Hidraulico","Par De Lenços","Pente","Porta Guardanapos","Sapato","Teclado Sujo"],"receivingConcepts":[]}
+{"concept":"Armário","rel":"NotUsedFor","receivingConcepts":["Cozinhar","Deixar Bagunçado","Sentar"],"emittingConcepts":[]}
+{"concept":"Sentar","rel":"NotUsedFor","emittingConcepts":["Armário","Balcão","Cadeira Quebrada","Caixa De Tomates","Criado Mudo","Lata","Leito","Mesas","Sala"],"receivingConcepts":[]}
+{"concept":"Aro","rel":"NotUsedFor","receivingConcepts":["Andar","Arrumar","Colocar No Carro"],"emittingConcepts":[]}
+{"concept":"Andar","rel":"NotUsedFor","emittingConcepts":["Aro","Banana","Barreiro","Jet Sky","Montanha Russa","Onibus Parado","Pneu","Roda Gigante","Veiculo Atolado Na Areia"],"receivingConcepts":[]}
+{"concept":"Arrumar","rel":"NotUsedFor","emittingConcepts":["Aro","Automóvel","Bicicleta Quebrada","Elevador Hidráulico","Impressora Laser","Mesa De Salada","Projetor De Cinema","Semáforo","Vazamento","Vitrine"],"receivingConcepts":[]}
+{"concept":"Colocar No Carro","rel":"NotUsedFor","emittingConcepts":["Aro","Objeto Marítimo","Pneu Usado"],"receivingConcepts":[]}
+{"concept":"Arquivo","rel":"NotUsedFor","receivingConcepts":["Deixar Vazio Sem Nada","Deletar","Guardar Ferramentas","Jogar Fora","Jogar Pela Janela","Organizar Coisas"],"emittingConcepts":[]}
+{"concept":"Jogar Pela Janela","rel":"NotUsedFor","emittingConcepts":["Arquivo","Berço","Espelho","Vaso De Flor"],"receivingConcepts":[]}
+{"concept":"Estragar","rel":"NotUsedFor","emittingConcepts":["Artesanato","Cabo De Rede","Caminhonete","Computador","Faca Afiada","Folha De Sulfite","Geladeira De Bebidas","Goiaba","Jornal","Laranjas Lima","Material Escolar","Monocultura","Pote De Vinagrete","Quadro Na Parede","Refeição","Revista De Automóveis"],"receivingConcepts":[]}
+{"concept":"Atendente","rel":"NotUsedFor","receivingConcepts":["Aconselhar","Dar Informações Erradas","Fazer Coisas Erradas","Ficar Te Irritando","Mostrar O Caminho"],"emittingConcepts":[]}
+{"concept":"Atores","rel":"NotUsedFor","receivingConcepts":["Atuar","Fazerem Festas"],"emittingConcepts":[]}
+{"concept":"Automóvel","rel":"NotUsedFor","receivingConcepts":["Arrumar","Dormir","Dormir Nele","Encapotar","Ficar Preso Em Um Engarrafamento De Transito"],"emittingConcepts":[]}
+{"concept":"Alguem","rel":"NotUsedFor","emittingConcepts":["Automóvel Para Emprestar","Cédula De Dinheiro Para Dar"],"receivingConcepts":[]}
+{"concept":"Conversar","rel":"NotUsedFor","emittingConcepts":["Auxiliar De Promotor","Babaca","Casado","Chato","Computador","Funcionário","Garoto De Programa","Garçom","Gostosa","Gringo","Japonês","Lojista","Mala","Monte De Gente","Pessoa Sentada Lendo O Jornal","Privada","Professora Ou Professor","Quati","Sala Dos Professores","Sujeito Mal Encarado","Vaca","Vendedora Bonita","Zelador"],"receivingConcepts":[]}
+{"concept":"Passear","rel":"NotUsedFor","emittingConcepts":["Avenida","Bicicleta Estragada","Cinema","Empilhadeira","Estábulo","Mordomo","Parque","Pijama","Proprietário","Submarino"],"receivingConcepts":[]}
+{"concept":"Azeitona","rel":"NotUsedFor","receivingConcepts":["Engasgar","Engolir","Fazer Arroz","Jogar Pingue Pongue","Não Colocar No Pastel"],"emittingConcepts":[]}
+{"concept":"Fazer Arroz","rel":"NotUsedFor","emittingConcepts":["Azeitona","Panela De Pressão"],"receivingConcepts":[]}
+{"concept":"Babaca","rel":"NotUsedFor","receivingConcepts":["Amigo","Conversar","Trocar Idéias"],"emittingConcepts":[]}
+{"concept":"Bacia","rel":"NotUsedFor","receivingConcepts":["Beber Agua","Comer Nela"],"emittingConcepts":[]}
+{"concept":"Beber Agua","rel":"NotUsedFor","emittingConcepts":["Bacia","Prato De Comida"],"receivingConcepts":[]}
+{"concept":"Bactéria","rel":"NotUsedFor","receivingConcepts":["Ajudar a Digestão","Expulsar","Passar Doenças"],"emittingConcepts":[]}
+{"concept":"Contratar","rel":"NotUsedFor","emittingConcepts":["Balconista","Funcionário","Secretária"],"receivingConcepts":[]}
+{"concept":"Balcão","rel":"NotUsedFor","receivingConcepts":["Atender Pessoas","Colocar Fogo","Debruçar","Dormir","Sentar","Surfar Na Internet","Ter Minha Cabeça Batida Contra Ele","Uma Residência"],"emittingConcepts":[]}
+{"concept":"Colocar Fogo","rel":"NotUsedFor","emittingConcepts":["Balcão","Banana","Repolho","Vaso Com Samambaia"],"receivingConcepts":[]}
+{"concept":"Debruçar","rel":"NotUsedFor","emittingConcepts":["Balcão","Escrivaninha"],"receivingConcepts":[]}
+{"concept":"Baleia","rel":"NotUsedFor","receivingConcepts":["Brincar","Decoraração"],"emittingConcepts":[]}
+{"concept":"Baleia Franca","rel":"NotUsedFor","receivingConcepts":["Adimirar","Fazer Um Sanduiche"],"emittingConcepts":[]}
+{"concept":"Banana","rel":"NotUsedFor","receivingConcepts":["Andar","Aparafusar","Colocar Fogo","Colocar Na Orelha","Comer a Casca","Jogar Fora","Preparar Um Salgado"],"emittingConcepts":[]}
+{"concept":"Comer a Casca","rel":"NotUsedFor","emittingConcepts":["Banana","Melão"],"receivingConcepts":[]}
+{"concept":"Administrar","rel":"NotUsedFor","emittingConcepts":["Banca De Frutas","Loja De Vestuario Feminino"],"receivingConcepts":[]}
+{"concept":"Nada","rel":"NotUsedFor","emittingConcepts":["Banca De Jornais","Buzina De Bicicleta","Copiadora","Cédula De Dinheiro","Noz","Pé De Alface","Trabalhador"],"receivingConcepts":[]}
+{"concept":"Banca De Revistas","rel":"NotUsedFor","receivingConcepts":["Comprar Filmes","Dormir","Leite"],"emittingConcepts":[]}
+{"concept":"Comprar Filmes","rel":"NotUsedFor","emittingConcepts":["Banca De Revistas","Loja De Artigos Fotograficos"],"receivingConcepts":[]}
+{"concept":"Queimar","rel":"NotUsedFor","emittingConcepts":["Banco","Bolo","Cobertor","Dvd","Eletrodoméstico","Folha De Papel Sulfite","Guardanapo","Livro","Monitor De Vídeo","Peru","Plantação De Soja","Poste De Luz","Revistas"],"receivingConcepts":[]}
+{"concept":"Tocar","rel":"NotUsedFor","emittingConcepts":["Banda De Rock","Guitarra","Pistão","Violao"],"receivingConcepts":[]}
+{"concept":"Bandeira","rel":"NotUsedFor","receivingConcepts":["Limpar O Chão","Nadar"],"emittingConcepts":[]}
+{"concept":"Limpar O Chão","rel":"NotUsedFor","emittingConcepts":["Bandeira","Camiseta","Cozinheiro","Diretora","Pega Panelas","Pão De Hamburguer","Roupa Para Animal","Terno"],"receivingConcepts":[]}
+{"concept":"Guardar","rel":"NotUsedFor","emittingConcepts":["Bandeira Gay","Bem De Consumo","Cadeira Vazia","Caixa De Cerveja","Coxinha","Figura","Jóia","Livro Novo","Ouriço Do Mar","Peça De Carro","Quadro De Picasso","Rack","Roda","Sapo","Tênis","Túmulo"],"receivingConcepts":[]}
+{"concept":"Bandeja","rel":"NotUsedFor","receivingConcepts":["Bater Na Cabeça De Alguém","Bater Na Cabeça Do Fabiano","Bater Nos Outros","Colocar Tijolos","Deixa La Vasia","Fazer Malabarismo","Guardar Coisas","Jogar Em Alguem","Jogar Longe","Jogar No Chão"],"emittingConcepts":[]}
+{"concept":"Bater Na Cabeça De Alguém","rel":"NotUsedFor","emittingConcepts":["Bandeja","Castiçal","Frigideira"],"receivingConcepts":[]}
+{"concept":"Guardar Coisas","rel":"NotUsedFor","emittingConcepts":["Bandeja","Panela","Quartos"],"receivingConcepts":[]}
+{"concept":"Jogar Em Alguem","rel":"NotUsedFor","emittingConcepts":["Bandeja","Rocha"],"receivingConcepts":[]}
+{"concept":"Jogar No Chão","rel":"NotUsedFor","emittingConcepts":["Bandeja","Cerveja","Mouse","Travesseiro"],"receivingConcepts":[]}
+{"concept":"Banheira","rel":"NotUsedFor","receivingConcepts":["Cagar","Decorar","Nadar"],"emittingConcepts":[]}
+{"concept":"Cagar","rel":"NotUsedFor","emittingConcepts":["Banheira","Lugar Cheiroso","Piscina"],"receivingConcepts":[]}
+{"concept":"Decorar","rel":"NotUsedFor","emittingConcepts":["Banheira","Computador","Pé De Alface","Tanque De Guerra"],"receivingConcepts":[]}
+{"concept":"Banheiro Comunitário","rel":"NotUsedFor","receivingConcepts":["Fazer Coco","Usa Lo","Usar"],"emittingConcepts":[]}
+{"concept":"Usa Lo","rel":"NotUsedFor","emittingConcepts":["Banheiro Comunitário","Micro Computador","Produto Vencido"],"receivingConcepts":[]}
+{"concept":"Enxugar","rel":"NotUsedFor","emittingConcepts":["Banhista","Lençol","Lustre"],"receivingConcepts":[]}
+{"concept":"Banquinho","rel":"NotUsedFor","receivingConcepts":["Brincar","Colocar a Televisão","Comer","Dormir","Ficar Em Pé","Não Sentar Nele","Pintar"],"emittingConcepts":[]}
+{"concept":"Ficar Em Pé","rel":"NotUsedFor","emittingConcepts":["Banquinho","Cadeira"],"receivingConcepts":[]}
+{"concept":"Pintar","rel":"NotUsedFor","emittingConcepts":["Banquinho","Caneta","Caneta Esferográfica","Giz","Lapiseira","Mesa","Prato","Quadro Negro","Utensílio"],"receivingConcepts":[]}
+{"concept":"Bar","rel":"NotUsedFor","receivingConcepts":["Almoçar Nele","Descansar"],"emittingConcepts":[]}
+{"concept":"Almoçar Nele","rel":"NotUsedFor","emittingConcepts":["Bar","Laboratório"],"receivingConcepts":[]}
+{"concept":"Jogar","rel":"NotUsedFor","emittingConcepts":["Baralho De Cartas","Campo De Grama","Celular","Laboratorio De Informatica","Laptop","Monte De Pratos","Página De Internet","Quadra De Bocha","Sofá","Terminal De Computador","Tijolo"],"receivingConcepts":[]}
+{"concept":"Barata","rel":"NotUsedFor","receivingConcepts":["Come La","Fazer Uma Criação De Baratas","Minha Casa"],"emittingConcepts":[]}
+{"concept":"Tomar Banho","rel":"NotUsedFor","emittingConcepts":["Barbie","Barraca","Bucha Natural","Closet","Copa","Cozinha","Cueca","Cômodos","Estatua De Pedra","Fonte","Garrafa De Água","Informações","Jardim","Juri","Litro De Leite","Maquina De Somar Eletrica","Mini Sabonete","Peça De Roupa","Pia","Pneu","Privada","Sapato","Secador De Cabelo","Shampoo","Suco De Abacaxi","Talher","Área De Serviço"],"receivingConcepts":[]}
+{"concept":"Pescar","rel":"NotUsedFor","emittingConcepts":["Barco De Pescaria","Cabo De Rede","Embarcação Pesqueira","Isca","Jangada","Luminária","Mulher"],"receivingConcepts":[]}
+{"concept":"Barraca","rel":"NotUsedFor","receivingConcepts":["A Lua De Mel","Carregar","Deixar Em Casa","Ficar Em Casa","Guardar Objetos","Morar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Carregar","rel":"NotUsedFor","emittingConcepts":["Barraca","Estojo","Navio Graneleiro Descarregando","Portão","Saco De Farinha"],"receivingConcepts":[]}
+{"concept":"Deixar Em Casa","rel":"NotUsedFor","emittingConcepts":["Barraca","Laptop","Segurança"],"receivingConcepts":[]}
+{"concept":"Ficar Em Casa","rel":"NotUsedFor","emittingConcepts":["Barraca","Festa"],"receivingConcepts":[]}
+{"concept":"Guardar Objetos","rel":"NotUsedFor","emittingConcepts":["Barraca","Criado Mudo"],"receivingConcepts":[]}
+{"concept":"Morar","rel":"NotUsedFor","emittingConcepts":["Barraca","Buraco","Casa Comercial","Edifício Comercial","Estábulo"],"receivingConcepts":[]}
+{"concept":"Ir Ao Banheiro","rel":"NotUsedFor","emittingConcepts":["Barraca De Coco Gelado","Caderneta","Cartaz","Guaraná","Jardim","Lindo Bebê","Porta Cd","Prefeito"],"receivingConcepts":[]}
+{"concept":"Barracas","rel":"NotUsedFor","receivingConcepts":["Comprar Roupas Nas Festas","Por Fogo"],"emittingConcepts":[]}
+{"concept":"Descascar","rel":"NotUsedFor","emittingConcepts":["Batata","Beringela"],"receivingConcepts":[]}
+{"concept":"Batedeira","rel":"NotUsedFor","receivingConcepts":["Dormir","Misturar Liquido","Não Uza La","Quebrar"],"emittingConcepts":[]}
+{"concept":"Não Uza La","rel":"NotUsedFor","emittingConcepts":["Batedeira","Impressora"],"receivingConcepts":[]}
+{"concept":"Roubar","rel":"NotUsedFor","emittingConcepts":["Batedor De Carteiras","Lojas","Obra De Arte","Presidente"],"receivingConcepts":[]}
+{"concept":"Não Usar","rel":"NotUsedFor","emittingConcepts":["Bateria","Cadeira Giratória","Compressor","Interruptor"],"receivingConcepts":[]}
+{"concept":"Cuidar","rel":"NotUsedFor","emittingConcepts":["Bebe Dormindo","Canteiro Com Cebolinha","Horta","Lindo Bebê","Olho Roxo","Paciente Enfermo","Pé De Rabanetes","Velho"],"receivingConcepts":[]}
+{"concept":"Bebida","rel":"NotUsedFor","receivingConcepts":["Ficar Bebada","Jogar Em Alguém","Jogar Pelo Ralo","Lavar a Louça Engordurada"],"emittingConcepts":[]}
+{"concept":"O Café Da Manhã","rel":"NotUsedFor","emittingConcepts":["Bebida Alcoólica","Purê De Batatas","Verdura"],"receivingConcepts":[]}
+{"concept":"Beliche","rel":"NotUsedFor","receivingConcepts":["Desmontar","Fazer Sexo"],"emittingConcepts":[]}
+{"concept":"Desmontar","rel":"NotUsedFor","emittingConcepts":["Beliche","Bicicleta","Um Carrocel"],"receivingConcepts":[]}
+{"concept":"Fazer Sexo","rel":"NotUsedFor","emittingConcepts":["Beliche","Calculadora","Camisinha","Gargonete","Mandioca","Mulher","Pracinha","Turma De Amigos"],"receivingConcepts":[]}
+{"concept":"Bem De Consumo","rel":"NotUsedFor","receivingConcepts":["Guardar","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Dirigir","rel":"NotUsedFor","emittingConcepts":["Bequer","Cadeira De Balanço","Fruta Do Conde","Lanchonete","Mesa","Navio","Polvo","Rua Interditada"],"receivingConcepts":[]}
+{"concept":"Bermuda","rel":"NotUsedFor","receivingConcepts":["Ir a Um Casamento","Ir Ao Teatro","Lavar","Nadar","Usar No Inverno","Uzar Na Neve"],"emittingConcepts":[]}
+{"concept":"Lavar","rel":"NotUsedFor","emittingConcepts":["Bermuda","Cesto De Lixo","Chiqueiro","Janela","Mesa Usada","Panela","Quintal"],"receivingConcepts":[]}
+{"concept":"Berço","rel":"NotUsedFor","receivingConcepts":["Adultos Dormirem","Colocar Brinquedo","Colocar Meu Filho De 24 Anos","Dormir","Jogar Pela Janela","Servir De Escada","Uma Criança Grande"],"emittingConcepts":[]}
+{"concept":"O Cachorro","rel":"NotUsedFor","emittingConcepts":["Berço Para Dar","Maçã Para Dar","Pastel De Frango Para Dar","Refrigerante Para Dar","Sanduíche De Presunto Com Queijo Para Dar"],"receivingConcepts":[]}
+{"concept":"Biblioteca","rel":"NotUsedFor","receivingConcepts":["Cair","Comprar Um Sanduiche","Ler Jornal","Ler Uma Revista","Se Divertir","Visitar"],"emittingConcepts":[]}
+{"concept":"Cair","rel":"NotUsedFor","emittingConcepts":["Biblioteca","Chão","Escada Rolante","Forro","Poço"],"receivingConcepts":[]}
+{"concept":"Visitar","rel":"NotUsedFor","emittingConcepts":["Biblioteca","Familia Grande","Ilha Fluvial","Primo Distante"],"receivingConcepts":[]}
+{"concept":"Bicama","rel":"NotUsedFor","receivingConcepts":["Dormir","Dormir Sozinho","Usar Apenas Como Sofá"],"emittingConcepts":[]}
+{"concept":"Bicicleta","rel":"NotUsedFor","receivingConcepts":["Cair Dela","Consertar","Correr","Desmontar","Fazer Compras","Ficar Parado","Furar O Pneu","Jogar Futebol","Passear Em Um Dia Chuvoso","Passear Na Chuva","Usar Como Guarda Chuva","Viajar"],"emittingConcepts":[]}
+{"concept":"Consertar","rel":"NotUsedFor","emittingConcepts":["Bicicleta","Bicicleta Para Ser Consertada","Chuveiro","Laboratorio De Informatica","Microprocessador","Monitor","Peça Para Bicicleta","Submarino","Ziper"],"receivingConcepts":[]}
+{"concept":"Correr","rel":"NotUsedFor","emittingConcepts":["Bicicleta","Cadeira","Carro","Carruagem Antiga","Porta","Tartaruga"],"receivingConcepts":[]}
+{"concept":"Ficar Parado","rel":"NotUsedFor","emittingConcepts":["Bicicleta","Relógio"],"receivingConcepts":[]}
+{"concept":"Jogar Futebol","rel":"NotUsedFor","emittingConcepts":["Bicicleta","Cesta De Basquete","Computador","Equipe De Voleibol","Globo","Quadra De Basquete","Sapato","Surfista","Tabela De Basquete","Verdura"],"receivingConcepts":[]}
+{"concept":"Viajar","rel":"NotUsedFor","emittingConcepts":["Bicicleta","Cahorro","Cisne","Locomotiva","Material Escolar","Navio Graneleiro","Selim","Um Taxi"],"receivingConcepts":[]}
+{"concept":"Bicicleteiro","rel":"NotUsedFor","receivingConcepts":["Arrumar Meu Carro","Brincar","Consertar Seu Carro","Desregular O Câmbio Da Bicicleta","Empregar","Voar"],"emittingConcepts":[]}
+{"concept":"Voar","rel":"NotUsedFor","emittingConcepts":["Bicicleteiro","Cama","Carro","Edifício Comercial","Mangueira","Mesa","Motos","Tapete","Teto","Vassoura"],"receivingConcepts":[]}
+{"concept":"Bicleta","rel":"NotUsedFor","receivingConcepts":["Andar Dentro De Casa","Empurrar"],"emittingConcepts":[]}
+{"concept":"Bidê","rel":"NotUsedFor","receivingConcepts":["Brincar","Colocar Roupa Suja","Lavar O Anus","Nadar","O Meu Banheiro"],"emittingConcepts":[]}
+{"concept":"Bigato Na Salada","rel":"NotUsedFor","receivingConcepts":["Estragar O Apetite","Estragar O Jantar"],"emittingConcepts":[]}
+{"concept":"Bisturi","rel":"NotUsedFor","receivingConcepts":["Cortar Ou Fazer Uma Cirurgia","Cortar Papelo","Cortar Um Bife"],"emittingConcepts":[]}
+{"concept":"Escrever","rel":"NotUsedFor","emittingConcepts":["Bobinas","Bola","Bolacha","Cama","Caneta Tinteiro","Parquímetro","Prato","Rimel","Roda"],"receivingConcepts":[]}
+{"concept":"Sujar a Casa","rel":"NotUsedFor","emittingConcepts":["Bocado De Poeira","Lixeira"],"receivingConcepts":[]}
+{"concept":"Boi","rel":"NotUsedFor","receivingConcepts":["Chupar","Criar","Montar","Ser Um Animal De Estimação","Usar De Montaria"],"emittingConcepts":[]}
+{"concept":"Chupar","rel":"NotUsedFor","emittingConcepts":["Boi","Picolé De Limão"],"receivingConcepts":[]}
+{"concept":"Montar","rel":"NotUsedFor","emittingConcepts":["Boi","Rede De Computadores","Touro Bravo"],"receivingConcepts":[]}
+{"concept":"Ser Um Animal De Estimação","rel":"NotUsedFor","emittingConcepts":["Boi","Tubarao"],"receivingConcepts":[]}
+{"concept":"Assoar O Nariz","rel":"NotUsedFor","emittingConcepts":["Bolinho De Bacalhau","Camiseta"],"receivingConcepts":[]}
+{"concept":"Bolo","rel":"NotUsedFor","receivingConcepts":["Alimentar O Cachorro","Congelar","Jogar Na Cara De Alguém","Jogar Na Cara De Um Amigo","Jogar No Lixo","O Jantar","Queimar","Sentar Nele"],"emittingConcepts":[]}
+{"concept":"Jogar No Lixo","rel":"NotUsedFor","emittingConcepts":["Bolo","Caixa De Figos","Caju","Camarão","Carpete","Casquinha De Siri","Cesta Com Pães Tipo Italiano","Copo De Água","Fruta","Lata De Coca Cola","Macarronada","Mamão Formosa","Molusco","Pastel","Peixe","Pêra","Quadro","Salgadinho","Sanduiche De Pernil","Sanduíche De Presunto Com Queijo","Suco De Açai"],"receivingConcepts":[]}
+{"concept":"O Jantar","rel":"NotUsedFor","emittingConcepts":["Bolo","Linguiça De Porco"],"receivingConcepts":[]}
+{"concept":"Bomba De Encher Pneus","rel":"NotUsedFor","receivingConcepts":["Encher Balões","Encher Balões Em Festas"],"emittingConcepts":[]}
+{"concept":"Borracha","rel":"NotUsedFor","receivingConcepts":["Apagar a Lousa","Jogar Nos Outros"],"emittingConcepts":[]}
+{"concept":"Furar","rel":"NotUsedFor","emittingConcepts":["Bote","Roda","Uma Bola De Basquete"],"receivingConcepts":[]}
+{"concept":"Não Funcionar","rel":"NotUsedFor","emittingConcepts":["Botão De Liga Desliga","Monitor"],"receivingConcepts":[]}
+{"concept":"Box","rel":"NotUsedFor","receivingConcepts":["Arrumar O Carro","Estudar","Lavar as Mãos","Telefonar"],"emittingConcepts":[]}
+{"concept":"Lavar as Mãos","rel":"NotUsedFor","emittingConcepts":["Box","Privada","Secador De Cabelos"],"receivingConcepts":[]}
+{"concept":"Se Machucar","rel":"NotUsedFor","emittingConcepts":["Brinquedo","Espinho","Guidão"],"receivingConcepts":[]}
+{"concept":"Joga La Fora","rel":"NotUsedFor","emittingConcepts":["Broa","Fita","Semente"],"receivingConcepts":[]}
+{"concept":"Bronzeador","rel":"NotUsedFor","receivingConcepts":["Dormir","Sair Na Chuva"],"emittingConcepts":[]}
+{"concept":"Assar","rel":"NotUsedFor","emittingConcepts":["Buceta","Pernil"],"receivingConcepts":[]}
+{"concept":"Bucha","rel":"NotUsedFor","receivingConcepts":["Lavar Um Cão","Limpar Os Sapatos"],"emittingConcepts":[]}
+{"concept":"Limpar Os Sapatos","rel":"NotUsedFor","emittingConcepts":["Bucha","Lençol"],"receivingConcepts":[]}
+{"concept":"Domesticar","rel":"NotUsedFor","emittingConcepts":["Bugio","Cobra Jararacuçu"],"receivingConcepts":[]}
+{"concept":"Cabana","rel":"NotUsedFor","receivingConcepts":["Ficar No Agito","Não Uzar","Vender"],"emittingConcepts":[]}
+{"concept":"Não Uzar","rel":"NotUsedFor","emittingConcepts":["Cabana","Persiana"],"receivingConcepts":[]}
+{"concept":"Vender","rel":"NotUsedFor","emittingConcepts":["Cabana","Cliente","Diamante","Esfiha","Ouro","Peixe"],"receivingConcepts":[]}
+{"concept":"Cortar O Cabelo","rel":"NotUsedFor","emittingConcepts":["Cabeleireiro Homossexual","Garçon"],"receivingConcepts":[]}
+{"concept":"Cabelo","rel":"NotUsedFor","receivingConcepts":["Comer","Puxar"],"emittingConcepts":[]}
+{"concept":"Cabide","rel":"NotUsedFor","receivingConcepts":["Guardar as Gravatas","Pendurar Um Quadro"],"emittingConcepts":[]}
+{"concept":"Cabideiro","rel":"NotUsedFor","receivingConcepts":["Cortar Cana","Enfeitar O Quarto","Pendurar Chapeu","Pendurar Sapatos"],"emittingConcepts":[]}
+{"concept":"Cabo De Rede","rel":"NotUsedFor","receivingConcepts":["Estragar","Ligar O Microondas","Pescar"],"emittingConcepts":[]}
+{"concept":"Cabo Submarino","rel":"NotUsedFor","receivingConcepts":["Apoiar","Colocar No Quarto","Fazer Uma Instalação Eletrica","Servir De Guia"],"emittingConcepts":[]}
+{"concept":"Apoiar","rel":"NotUsedFor","emittingConcepts":["Cabo Submarino","Rack"],"receivingConcepts":[]}
+{"concept":"Colocar No Quarto","rel":"NotUsedFor","emittingConcepts":["Cabo Submarino","Criado Mudo","Parquímetro"],"receivingConcepts":[]}
+{"concept":"Cachorro","rel":"NotUsedFor","receivingConcepts":["Fazer Sujeira","Rir","Tirar as Pulgas"],"emittingConcepts":["Mesa"]}
+{"concept":"Me Morder","rel":"NotUsedFor","emittingConcepts":["Cachorro Bravo","Cobra"],"receivingConcepts":[]}
+{"concept":"Cadeira","rel":"NotUsedFor","receivingConcepts":["Brigar Com Alguem","Comprar","Correr","Deitar","Dormir","Ficar Em Pé","Lamber","Pular"],"emittingConcepts":[]}
+{"concept":"Comprar","rel":"NotUsedFor","emittingConcepts":["Cadeira","Caixa De Abacaxis","Caixa De Nesperas","Coisa Antiga","Loja De Artigos Nauticos","Prédio","Vitrine"],"receivingConcepts":[]}
+{"concept":"Deitar","rel":"NotUsedFor","emittingConcepts":["Cadeira","Cama Hospitalar","Mesa","Mesa De Reuniões","Poutrona","Quintal","Rocha","Selim"],"receivingConcepts":[]}
+{"concept":"Lamber","rel":"NotUsedFor","emittingConcepts":["Cadeira","Sabonete","Travesseiro"],"receivingConcepts":[]}
+{"concept":"Pular","rel":"NotUsedFor","emittingConcepts":["Cadeira","Cama","Mesinha De Centro","Penhasco","Sofá","Sofá Cama","Telhado"],"receivingConcepts":[]}
+{"concept":"Cadeira De Balanço","rel":"NotUsedFor","receivingConcepts":["Dançar","Dirigir","Subir Em Algo"],"emittingConcepts":[]}
+{"concept":"Cadeira Giratória","rel":"NotUsedFor","receivingConcepts":["Ficar Girando","Jantar","Não Usar","Rodar"],"emittingConcepts":[]}
+{"concept":"Jantar","rel":"NotUsedFor","emittingConcepts":["Cadeira Giratória","Lanchonete","Pingado","Sofa Confortável","Área De Serviço"],"receivingConcepts":[]}
+{"concept":"Cadeira Vazia","rel":"NotUsedFor","receivingConcepts":["Guardar","Limpar"],"emittingConcepts":[]}
+{"concept":"Caderneta","rel":"NotUsedFor","receivingConcepts":["Anotar Tarefas","Ir Ao Banheiro"],"emittingConcepts":[]}
+{"concept":"Caderno","rel":"NotUsedFor","receivingConcepts":["Comer","Fazer Desenhos Profissionais","Rasgar"],"emittingConcepts":[]}
+{"concept":"Caderno De Chamada","rel":"NotUsedFor","receivingConcepts":["Anotar","Procurar Um Nome"],"emittingConcepts":[]}
+{"concept":"Anotar","rel":"NotUsedFor","emittingConcepts":["Caderno De Chamada","Placas","Registro"],"receivingConcepts":[]}
+{"concept":"Café","rel":"NotUsedFor","receivingConcepts":["Dormir","Matar a Sede","Tomar Com O Cha"],"emittingConcepts":[]}
+{"concept":"Matar a Sede","rel":"NotUsedFor","emittingConcepts":["Café","Pastel De Sabor Pizza","Salgadinho"],"receivingConcepts":[]}
+{"concept":"Cahorro","rel":"NotUsedFor","receivingConcepts":["Brincar","Chutar","Viajar"],"emittingConcepts":[]}
+{"concept":"Chutar","rel":"NotUsedFor","emittingConcepts":["Cahorro","Impressora","Pia","Porta","Pêssego","Televisão"],"receivingConcepts":[]}
+{"concept":"Caixa","rel":"NotUsedFor","receivingConcepts":["Colocar Bicho","Dormir","Ocupar Espaço"],"emittingConcepts":[]}
+{"concept":"Guardar Livros","rel":"NotUsedFor","emittingConcepts":["Caixa Co Uvas Tipo Italia","Carteira","Guarda Roupas"],"receivingConcepts":[]}
+{"concept":"Caixa Com Abacates","rel":"NotUsedFor","receivingConcepts":["Amassar","Jogar Volei"],"emittingConcepts":[]}
+{"concept":"Amassar","rel":"NotUsedFor","emittingConcepts":["Caixa Com Abacates","Jornal","Lata"],"receivingConcepts":[]}
+{"concept":"Caixa De Cerveja","rel":"NotUsedFor","receivingConcepts":["Armazenar Na Geladeira","Comer","Curar a Ressaca","Deixar Guardada","Guardar"],"emittingConcepts":[]}
+{"concept":"Deixar Guardada","rel":"NotUsedFor","emittingConcepts":["Caixa De Cerveja","Jóia","Rede","Webcam"],"receivingConcepts":[]}
+{"concept":"Caixa De Tomates","rel":"NotUsedFor","receivingConcepts":["Deixa Los Apodrecer","Fazer Salada De Frutas","Q N Se Estraguem","Sentar"],"emittingConcepts":[]}
+{"concept":"Caixa Eletrônico","rel":"NotUsedFor","receivingConcepts":["Assaltar","Assistir Tv","Retirar O Extrato","Ser Sequestrado"],"emittingConcepts":[]}
+{"concept":"Assistir Tv","rel":"NotUsedFor","emittingConcepts":["Caixa Eletrônico","Divã","Quadro Na Parede","Sacoleiro","Área De Serviço"],"receivingConcepts":[]}
+{"concept":"Guardar Roupas","rel":"NotUsedFor","emittingConcepts":["Caixa Registradora","Lixeiro"],"receivingConcepts":[]}
+{"concept":"Caju","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Jogar No Lixo"],"emittingConcepts":[]}
+{"concept":"Calculadora","rel":"NotUsedFor","receivingConcepts":["Fazer Sexo","Pôr Na Gaveta","Quebrar","Somar 2 2"],"emittingConcepts":[]}
+{"concept":"Beber","rel":"NotUsedFor","emittingConcepts":["Caldo","Farinha","Garrafa De Vinagre","Garrafa De Vinho Tinto Seco","Gota","Kiwi","Lata Velha","Molho De Soja","Molho Vermelho","Pastel","Pistache","Shampoo","Tubaína","Vasilha Com Agua","Veneno","Vidro De Esmalte","Vinagrete Velho E Ruim","Água Salgada","Óleo"],"receivingConcepts":[]}
+{"concept":"Calendário","rel":"NotUsedFor","receivingConcepts":["Acender Uma Churrasqueira","Deixar Guardado","Rasgá Lo","Usar Como Enfeite"],"emittingConcepts":[]}
+{"concept":"Deixar Guardado","rel":"NotUsedFor","emittingConcepts":["Calendário","Ki Suco","Presente"],"receivingConcepts":[]}
+{"concept":"Rasgá Lo","rel":"NotUsedFor","emittingConcepts":["Calendário","Tapete"],"receivingConcepts":[]}
+{"concept":"Deixar De Enfeite","rel":"NotUsedFor","emittingConcepts":["Caloi Berlinetta","Geladeira De Bebidas","Lapis"],"receivingConcepts":[]}
+{"concept":"Cortar","rel":"NotUsedFor","emittingConcepts":["Calças","Árvore"],"receivingConcepts":[]}
+{"concept":"Cama","rel":"NotUsedFor","receivingConcepts":["Escrever","Ficar Acordado","Ler","Não Dormir Nela","Pular","Pôr Na Cozinha","Rolar","Voar"],"emittingConcepts":[]}
+{"concept":"Ler","rel":"NotUsedFor","emittingConcepts":["Cama","Cozinha","Poster De Mulher","Revista De Fofoca","Sala De Jantar","Salão Escuro"],"receivingConcepts":[]}
+{"concept":"Pôr Na Cozinha","rel":"NotUsedFor","emittingConcepts":["Cama","Poltrona"],"receivingConcepts":[]}
+{"concept":"Fazer Xixi","rel":"NotUsedFor","emittingConcepts":["Cama Usada","Loja"],"receivingConcepts":[]}
+{"concept":"Camarão","rel":"NotUsedFor","receivingConcepts":["Fazer Tutu","Jogar No Lixo","Limpar"],"emittingConcepts":[]}
+{"concept":"Caminhonete","rel":"NotUsedFor","receivingConcepts":["Andar a Pé","Andar No Transito","Carregar Passageiros","Estragar"],"emittingConcepts":[]}
+{"concept":"Camiseta","rel":"NotUsedFor","receivingConcepts":["Assoar O Nariz","Limpar O Chão","Limpar O Rosto","Rasgar","Usar"],"emittingConcepts":[]}
+{"concept":"Camisinha","rel":"NotUsedFor","receivingConcepts":["Encher De Ar Num Show","Fazer Sexo"],"emittingConcepts":[]}
+{"concept":"Perder","rel":"NotUsedFor","emittingConcepts":["Campeã","Carteiras","Julgamento","Processo"],"receivingConcepts":[]}
+{"concept":"Caneta","rel":"NotUsedFor","receivingConcepts":["Aparafusar Um Parafuso Qualquer Que Seja Ele","Emprestar a Alguem","Fazer Cócegas Em Alguém","Furar Papel","Pintar","Pregar Um Prego","Prender O Cabelo","Rabiscar Livros"],"emittingConcepts":[]}
+{"concept":"Pregar Um Prego","rel":"NotUsedFor","emittingConcepts":["Caneta","Panela"],"receivingConcepts":[]}
+{"concept":"Prender O Cabelo","rel":"NotUsedFor","emittingConcepts":["Caneta","Lapis"],"receivingConcepts":[]}
+{"concept":"Desenhar","rel":"NotUsedFor","emittingConcepts":["Caneta Verde","Guardanapo","Lapis","Parede"],"receivingConcepts":[]}
+{"concept":"Canivete","rel":"NotUsedFor","receivingConcepts":["Amolar","Caçar","Comer","Descascar Abacaxi","Machuar Alguém","Navegar Na Internet","Pentear Os Cabelos","Usar"],"emittingConcepts":[]}
+{"concept":"Cano Estourado","rel":"NotUsedFor","receivingConcepts":["A Instalação Hidráulica Da Sua Casa","Dar Dor De Cabeça","Decorar a Casa","Economizar Água","Tomar Agua"],"emittingConcepts":[]}
+{"concept":"Canteiro Com Flores","rel":"NotUsedFor","receivingConcepts":["N Cuidar","Regar"],"emittingConcepts":[]}
+{"concept":"Cantina","rel":"NotUsedFor","receivingConcepts":["Passar Fome","Ve La Fechada","Vê La Fechada"],"emittingConcepts":[]}
+{"concept":"Passar Fome","rel":"NotUsedFor","emittingConcepts":["Cantina","Praça De Alimentação"],"receivingConcepts":[]}
+{"concept":"Capim","rel":"NotUsedFor","receivingConcepts":["Comer","Pastar"],"emittingConcepts":[]}
+{"concept":"Colorir","rel":"NotUsedFor","emittingConcepts":["Caracol","Desenho De Um País"],"receivingConcepts":[]}
+{"concept":"Caramujo","rel":"NotUsedFor","receivingConcepts":["Brincar","Comer"],"emittingConcepts":[]}
+{"concept":"Cardápio","rel":"NotUsedFor","receivingConcepts":["Não Pedir Nada","Rasga Lo","Se Limpar","Ver as Horas","Ver O Preço"],"emittingConcepts":[]}
+{"concept":"Se Limpar","rel":"NotUsedFor","emittingConcepts":["Cardápio","Jornal"],"receivingConcepts":[]}
+{"concept":"Deixar Vazio","rel":"NotUsedFor","emittingConcepts":["Cargueiro","Carrinho De Compras","Estábulo","Galpão","Guarda Roupas"],"receivingConcepts":[]}
+{"concept":"Limpar a Bunda","rel":"NotUsedFor","emittingConcepts":["Carnê Do Inss","Professor"],"receivingConcepts":[]}
+{"concept":"Carpete","rel":"NotUsedFor","receivingConcepts":["Dormir","Jogar No Lixo","Juntar Pó","Limpar","Sujar"],"emittingConcepts":[]}
+{"concept":"Sujar","rel":"NotUsedFor","emittingConcepts":["Carpete","Fonte","Lavadeira","Lodo","Quadro","Ralo","Tapete Persa","Tênis"],"receivingConcepts":[]}
+{"concept":"Carro","rel":"NotUsedFor","receivingConcepts":["Atropelar Uma Pessoa","Correr","Dar Cambalhotas","Deixar Na Garagem","Dormir","Escovar Os Dentes","Voar"],"emittingConcepts":[]}
+{"concept":"Escovar Os Dentes","rel":"NotUsedFor","emittingConcepts":["Carro","Projetor De Cinema","Pão De Hamburguer","Sabonete","Vaso Sanitário"],"receivingConcepts":[]}
+{"concept":"Carteira","rel":"NotUsedFor","receivingConcepts":["Colocar Moedas","Estudar","Guardar Livros","Pentear O Cabelo","Perde La"],"emittingConcepts":[]}
+{"concept":"Pentear O Cabelo","rel":"NotUsedFor","emittingConcepts":["Carteira","Escova De Dentes","Talheres"],"receivingConcepts":[]}
+{"concept":"Fumar","rel":"NotUsedFor","emittingConcepts":["Carteira De Cigarros","Professor"],"receivingConcepts":[]}
+{"concept":"Carteiras","rel":"NotUsedFor","receivingConcepts":["Guardar Calendários De Mulheres Peladas","Perder","Pôr Na Sala De Visitas","Subir Em Cima"],"emittingConcepts":[]}
+{"concept":"Pôr Na Sala De Visitas","rel":"NotUsedFor","emittingConcepts":["Carteiras","Peixe"],"receivingConcepts":[]}
+{"concept":"Subir Em Cima","rel":"NotUsedFor","emittingConcepts":["Carteiras","Escrivaninha","Mesas"],"receivingConcepts":[]}
+{"concept":"Casa Comercial","rel":"NotUsedFor","receivingConcepts":["Dar Aulas","Morar"],"emittingConcepts":[]}
+{"concept":"Castiçal","rel":"NotUsedFor","receivingConcepts":["Bater Na Cabeça De Alguém","Colocar Velas","Ficar No Escuro","Não Por Velas Nele","Que4brar"],"emittingConcepts":[]}
+{"concept":"Ficar No Escuro","rel":"NotUsedFor","emittingConcepts":["Castiçal","Lâmpada"],"receivingConcepts":[]}
+{"concept":"Catchup","rel":"NotUsedFor","receivingConcepts":["Derrubar Na Camiseta","Passar No Pao","Sanduiches"],"emittingConcepts":[]}
+{"concept":"Catraca","rel":"NotUsedFor","receivingConcepts":["Comer","Construir"],"emittingConcepts":[]}
+{"concept":"Construir","rel":"NotUsedFor","emittingConcepts":["Catraca","Saco De Cimento"],"receivingConcepts":[]}
+{"concept":"Cavalo","rel":"NotUsedFor","receivingConcepts":["Colocar Na Baia","Maltratar","Passear Na Cidade","Ter Em Casa"],"emittingConcepts":[]}
+{"concept":"Ter Em Casa","rel":"NotUsedFor","emittingConcepts":["Cavalo","Leão","Placa De Transito","Vaca"],"receivingConcepts":[]}
+{"concept":"Cavalo Marinho","rel":"NotUsedFor","receivingConcepts":["Cavalgar","Fazer Colar"],"emittingConcepts":[]}
+{"concept":"Cavalgar","rel":"NotUsedFor","emittingConcepts":["Cavalo Marinho","Vaca"],"receivingConcepts":[]}
+{"concept":"Fazer Colar","rel":"NotUsedFor","emittingConcepts":["Cavalo Marinho","Linguiça De Porco"],"receivingConcepts":[]}
+{"concept":"Celular","rel":"NotUsedFor","receivingConcepts":["Fazer Ligações","Jogar"],"emittingConcepts":[]}
+{"concept":"Cerveja","rel":"NotUsedFor","receivingConcepts":["Embebedar","Jogar Fora","Jogar No Chão","Tomar","Tomar Quente"],"emittingConcepts":[]}
+{"concept":"Tomar","rel":"NotUsedFor","emittingConcepts":["Cerveja","Lata De Oleo","Medicamento","Pimenta","Sopa Francesa"],"receivingConcepts":[]}
+{"concept":"Cesta Com Pães Tipo Italiano","rel":"NotUsedFor","receivingConcepts":["Dar De Comer Aos Macacos","Jogar No Lixo"],"emittingConcepts":[]}
+{"concept":"Cesto De Lixo","rel":"NotUsedFor","receivingConcepts":["Colocar Pratos Limpos","Enfeitar O Escritorio","Entrar Na Internet","Guardar Verdura","Lavar","Virar"],"emittingConcepts":[]}
+{"concept":"Chato","rel":"NotUsedFor","receivingConcepts":["Conversar","Pedir Informações"],"emittingConcepts":[]}
+{"concept":"Chave De Fenda","rel":"NotUsedFor","receivingConcepts":["Coçar O Ouvido","Ferir"],"emittingConcepts":[]}
+{"concept":"Respirar","rel":"NotUsedFor","emittingConcepts":["Cheiro De Coisa Velha","Garrafão De Oxigenio","Objeto Técnico"],"receivingConcepts":[]}
+{"concept":"Chinês","rel":"NotUsedFor","receivingConcepts":["Bater","Casar","Fazer Feijoada"],"emittingConcepts":[]}
+{"concept":"Casar","rel":"NotUsedFor","emittingConcepts":["Chinês","Puta"],"receivingConcepts":[]}
+{"concept":"Fazer Feijoada","rel":"NotUsedFor","emittingConcepts":["Chinês","Japonês"],"receivingConcepts":[]}
+{"concept":"Chiqueiro","rel":"NotUsedFor","receivingConcepts":["Dormir","Lavar","Nadar"],"emittingConcepts":[]}
+{"concept":"Churrasqueira","rel":"NotUsedFor","receivingConcepts":["Fazer Hamburgues","Nadar"],"emittingConcepts":[]}
+{"concept":"Chuveirinho","rel":"NotUsedFor","receivingConcepts":["Lava a Louça","Lavar a Cabeça","Secar O Cabelo"],"emittingConcepts":[]}
+{"concept":"Chuveiro","rel":"NotUsedFor","receivingConcepts":["Comer","Consertar"],"emittingConcepts":[]}
+{"concept":"Plantar","rel":"NotUsedFor","emittingConcepts":["Cidade","Cozinheiro","Pé De Mandioca"],"receivingConcepts":[]}
+{"concept":"Cinema","rel":"NotUsedFor","receivingConcepts":["Dormir","Não Ir","Passear","Um Dia De Trabalho"],"emittingConcepts":[]}
+{"concept":"Cliente","rel":"NotUsedFor","receivingConcepts":["Não Atende Lo","Reclamar Do Seu Produto","Reclamar E Fazer Queixas","Ser Mal Atendido","Vender"],"emittingConcepts":[]}
+{"concept":"Palitar Os Dentes","rel":"NotUsedFor","emittingConcepts":["Clips","Espeto"],"receivingConcepts":[]}
+{"concept":"Closet","rel":"NotUsedFor","receivingConcepts":["Dormir","Tomar Banho","Transar"],"emittingConcepts":[]}
+{"concept":"Transar","rel":"NotUsedFor","emittingConcepts":["Closet","Roupa","Travesseiro"],"receivingConcepts":[]}
+{"concept":"Explorar","rel":"NotUsedFor","emittingConcepts":["Cobaia","Continente"],"receivingConcepts":[]}
+{"concept":"Cobertor","rel":"NotUsedFor","receivingConcepts":["Dormir No Verão","Queimar"],"emittingConcepts":[]}
+{"concept":"Tomar Sol","rel":"NotUsedFor","emittingConcepts":["Cobertura","Computador","Mata","Quadra"],"receivingConcepts":[]}
+{"concept":"Cobra","rel":"NotUsedFor","receivingConcepts":["Beijar","Brincar","Comer","Me Divertir","Me Morder","Morar Em Sua Casa"],"emittingConcepts":[]}
+{"concept":"Beijar","rel":"NotUsedFor","emittingConcepts":["Cobra","Patricinha","Pessoa Bebendo","Primo","Rato","Sapo"],"receivingConcepts":[]}
+{"concept":"Me Divertir","rel":"NotUsedFor","emittingConcepts":["Cobra","Droga","Sala De Professores"],"receivingConcepts":[]}
+{"concept":"Cobra Jararaca","rel":"NotUsedFor","receivingConcepts":["Companhia","Conviver"],"emittingConcepts":[]}
+{"concept":"Cobra Jararacuçu","rel":"NotUsedFor","receivingConcepts":["Dividir a Cama","Domesticar"],"emittingConcepts":[]}
+{"concept":"Cheirar","rel":"NotUsedFor","emittingConcepts":["Coco De Vaca","Fumaça","Laranja","Maracujá","Ostra"],"receivingConcepts":[]}
+{"concept":"Coisa Molhada","rel":"NotUsedFor","receivingConcepts":["Refrescar","Vestir"],"emittingConcepts":[]}
+{"concept":"Refrescar","rel":"NotUsedFor","emittingConcepts":["Coisa Molhada","Sauna"],"receivingConcepts":[]}
+{"concept":"Vestir","rel":"NotUsedFor","emittingConcepts":["Coisa Molhada","Joia","Penas","Pé De Alface","Tapete","Utensílio"],"receivingConcepts":[]}
+{"concept":"Botar Fogo","rel":"NotUsedFor","emittingConcepts":["Colchão","Móvel","Plantação De Chá"],"receivingConcepts":[]}
+{"concept":"Colher","rel":"NotUsedFor","receivingConcepts":["Bater Tambor","Passar Bombril"],"emittingConcepts":["Flor"]}
+{"concept":"Colônia","rel":"NotUsedFor","receivingConcepts":["Lecionar","Usar"],"emittingConcepts":[]}
+{"concept":"Lecionar","rel":"NotUsedFor","emittingConcepts":["Colônia","Poltrona"],"receivingConcepts":[]}
+{"concept":"Comercios","rel":"NotUsedFor","receivingConcepts":["Dar Coisas","Dormir"],"emittingConcepts":[]}
+{"concept":"Comida","rel":"NotUsedFor","receivingConcepts":["Azedar","Bber","Colocar Fora","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Participar","rel":"NotUsedFor","emittingConcepts":["Competição","Movimento"],"receivingConcepts":[]}
+{"concept":"Comprensor De Ar","rel":"NotUsedFor","receivingConcepts":["Comer","Encher Pneu"],"emittingConcepts":[]}
+{"concept":"Computador","rel":"NotUsedFor","receivingConcepts":["999","9999","Apoiar Vasos","Brincar","Conversar","Cozinhar","Decorar","Deixar Desligado","Ele Não Funcionar","Estragar","Jogar Futebol","Ler Um Livro","Me Incomodar","Pegar Virus","Regar Plantas","Tomar Sol","Utilizar Com Jogos"],"emittingConcepts":[]}
+{"concept":"Deixar Desligado","rel":"NotUsedFor","emittingConcepts":["Computador","Fogão","Leitor De Cd"],"receivingConcepts":[]}
+{"concept":"Ler Um Livro","rel":"NotUsedFor","emittingConcepts":["Computador","Terminal De Computador"],"receivingConcepts":[]}
+{"concept":"Computeiro","rel":"NotUsedFor","receivingConcepts":["Lavar O Carro","Uma Festa"],"emittingConcepts":[]}
+{"concept":"Lavar O Carro","rel":"NotUsedFor","emittingConcepts":["Computeiro","Penca De Bananas Da Terra"],"receivingConcepts":[]}
+{"concept":"Uma Festa","rel":"NotUsedFor","emittingConcepts":["Computeiro","Lousa","Patricinha","Pijama"],"receivingConcepts":[]}
+{"concept":"Concha","rel":"NotUsedFor","receivingConcepts":["Comer","Pegar Batatas Fritas"],"emittingConcepts":[]}
+{"concept":"Condicionador De Ar","rel":"NotUsedFor","receivingConcepts":["Arejar O Ambiente","Esquentar"],"emittingConcepts":[]}
+{"concept":"Esquentar","rel":"NotUsedFor","emittingConcepts":["Condicionador De Ar","Ventilador"],"receivingConcepts":[]}
+{"concept":"Conjunto De Sofas","rel":"NotUsedFor","receivingConcepts":["Enfeitar a Cozinha","Pôr Na Piscina","Pôr No Banheiro","Rasgar"],"emittingConcepts":[]}
+{"concept":"Enfeitar a Cozinha","rel":"NotUsedFor","emittingConcepts":["Conjunto De Sofas","Objeto Antigo"],"receivingConcepts":[]}
+{"concept":"Pôr No Banheiro","rel":"NotUsedFor","emittingConcepts":["Conjunto De Sofas","Som"],"receivingConcepts":[]}
+{"concept":"Continente","rel":"NotUsedFor","receivingConcepts":["Destruir","Explorar"],"emittingConcepts":[]}
+{"concept":"Destruir","rel":"NotUsedFor","emittingConcepts":["Continente","Copa De Árvore","Jardim","Laboratório","Natureza","Nuvem De Pernilongos","Penteadeira","Pêra"],"receivingConcepts":[]}
+{"concept":"Copo","rel":"NotUsedFor","receivingConcepts":["Beber Café","Plantar Um Feijão","Qubrar","Tomar Sopa"],"emittingConcepts":[]}
+{"concept":"Tomar Sopa","rel":"NotUsedFor","emittingConcepts":["Copo","Garfo"],"receivingConcepts":[]}
+{"concept":"Copo De Leite Com Groselha","rel":"NotUsedFor","receivingConcepts":["Beber No Verão","Bener"],"emittingConcepts":[]}
+{"concept":"Copo De Água","rel":"NotUsedFor","receivingConcepts":["Apagar Um Incendio","Jogar No Lixo"],"emittingConcepts":[]}
+{"concept":"Coral","rel":"NotUsedFor","receivingConcepts":["Acariciar","Apreciar","Comer","Escapar Pela Tangente","Pisa Lo"],"emittingConcepts":[]}
+{"concept":"Acariciar","rel":"NotUsedFor","emittingConcepts":["Coral","Gato Do Mato","Vaca"],"receivingConcepts":[]}
+{"concept":"Apreciar","rel":"NotUsedFor","emittingConcepts":["Coral","Lata De Figos Em Calda"],"receivingConcepts":[]}
+{"concept":"Corda","rel":"NotUsedFor","receivingConcepts":["Amarrar Alguém","Fazer Um Balanço","Se Enforcar"],"emittingConcepts":[]}
+{"concept":"Lavar Roupa","rel":"NotUsedFor","emittingConcepts":["Corpo Bonito","Forno Eletrico","Guia Turistico","Picanha","Piscina"],"receivingConcepts":[]}
+{"concept":"Corredor","rel":"NotUsedFor","receivingConcepts":["Colocar Um Sofá","Guardar Móveis"],"emittingConcepts":[]}
+{"concept":"Correia","rel":"NotUsedFor","receivingConcepts":["Amarrar","Colocar No Pescoço"],"emittingConcepts":[]}
+{"concept":"Colocar No Pescoço","rel":"NotUsedFor","emittingConcepts":["Correia","Melancia"],"receivingConcepts":[]}
+{"concept":"Correia De Bicicleta","rel":"NotUsedFor","receivingConcepts":["Consertar a Correia Do Carro","Prender O Pé"],"emittingConcepts":[]}
+{"concept":"Namorar","rel":"NotUsedFor","emittingConcepts":["Correio Elegante","Montanha Russa","Professor"],"receivingConcepts":[]}
+{"concept":"Corrente De Bicicleta","rel":"NotUsedFor","receivingConcepts":["Bater Em Alguem","Brincar","Puxar Um Carro","Quebrar"],"emittingConcepts":[]}
+{"concept":"Bater Em Alguem","rel":"NotUsedFor","emittingConcepts":["Corrente De Bicicleta","Pau"],"receivingConcepts":[]}
+{"concept":"Utilizar","rel":"NotUsedFor","emittingConcepts":["Cortador De Unhas","Rosa Dos Ventos","Uma Maquina De Somar","Utensílio"],"receivingConcepts":[]}
+{"concept":"Cortina","rel":"NotUsedFor","receivingConcepts":["Abrir","Rasgar","Se Vestir"],"emittingConcepts":[]}
+{"concept":"Abrir","rel":"NotUsedFor","emittingConcepts":["Cortina","Lata De Ervilha","Refrigerante"],"receivingConcepts":[]}
+{"concept":"Corveta","rel":"NotUsedFor","receivingConcepts":["Almoçar","Atrapalhar","Sonhar"],"emittingConcepts":[]}
+{"concept":"Almoçar","rel":"NotUsedFor","emittingConcepts":["Corveta","Lanchonete","Mesa Desarrumada","Sofá"],"receivingConcepts":[]}
+{"concept":"Coxinha","rel":"NotUsedFor","receivingConcepts":["Guardar","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Cozinha","rel":"NotUsedFor","receivingConcepts":["Dormir","Estudar","Ler","Tomar Ba","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Cozinheiro","rel":"NotUsedFor","receivingConcepts":["Arrumar a Cama","Cantar Uma Musica","Comer","Fazer Café","Lavar Prato","Limpar a Casa","Limpar O Chão","Plantar"],"emittingConcepts":[]}
+{"concept":"Criado Mudo","rel":"NotUsedFor","receivingConcepts":["Colocar No Quarto","Derrubar Agua","Dormir","Estudar","Guardar Biscoitos","Guardar Objetos","Guardar Uma Arma","Sentar","Subir E Cima"],"emittingConcepts":[]}
+{"concept":"Derrubar Agua","rel":"NotUsedFor","emittingConcepts":["Criado Mudo","Rack"],"receivingConcepts":[]}
+{"concept":"Criança","rel":"NotUsedFor","receivingConcepts":["Brigar","Chorar","Ficarchorando Perto De Você"],"emittingConcepts":[]}
+{"concept":"Chorar","rel":"NotUsedFor","emittingConcepts":["Criança","História Engraçada","Quadro","Televisor"],"receivingConcepts":[]}
+{"concept":"Cristaleira","rel":"NotUsedFor","receivingConcepts":["Colocar Copo De Vidro","Colocar Pratos","Colocar Um Vinho","Pôr No Quintal","Quebrar"],"emittingConcepts":[]}
+{"concept":"Pôr No Quintal","rel":"NotUsedFor","emittingConcepts":["Cristaleira","Tapete","Vaca"],"receivingConcepts":[]}
+{"concept":"Fazer","rel":"NotUsedFor","emittingConcepts":["Croquete","Pastel De Sabor Pizza","Prato"],"receivingConcepts":[]}
+{"concept":"Cueca","rel":"NotUsedFor","receivingConcepts":["Dar Pra Namorada","Enxugar Prato","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Cuscuzeiro","rel":"NotUsedFor","receivingConcepts":["Fazer Acarajé","Fazer Pudim","Fritar Batatas"],"emittingConcepts":[]}
+{"concept":"Cédula De Dinheiro","rel":"NotUsedFor","receivingConcepts":["Nada","Olhar"],"emittingConcepts":[]}
+{"concept":"Limpa Lo","rel":"NotUsedFor","emittingConcepts":["Dedo No Nariz","Vaso Sanitário"],"receivingConcepts":[]}
+{"concept":"Departamento","rel":"NotUsedFor","receivingConcepts":["Brincar","Tumultuar O Trabalho"],"emittingConcepts":[]}
+{"concept":"Acordar","rel":"NotUsedFor","emittingConcepts":["Despertador","Sem Teto Dormindo"],"receivingConcepts":[]}
+{"concept":"Diamante","rel":"NotUsedFor","receivingConcepts":["Jogar No Mar","Vender"],"emittingConcepts":[]}
+{"concept":"Gastar","rel":"NotUsedFor","emittingConcepts":["Dinheiro","Loja"],"receivingConcepts":[]}
+{"concept":"Diretor","rel":"NotUsedFor","receivingConcepts":["295y245y 54y245y 4","Conversar Porque Conversar Com O Diretor Quer Dizer Problema","Maltratar Seus Subordinados","Obedecer Aos Subordinados","Servir Como Para Raio"],"emittingConcepts":[]}
+{"concept":"Diretora","rel":"NotUsedFor","receivingConcepts":["Chingar","Limpar","Limpar O Chão","Me Punir"],"emittingConcepts":[]}
+{"concept":"Diretoria","rel":"NotUsedFor","receivingConcepts":["Brinar","Fazer Reuniões"],"emittingConcepts":[]}
+{"concept":"Disquete","rel":"NotUsedFor","receivingConcepts":["Armazenar Músicas","Guardar Algo Com Mais De 2 Mb","Usar"],"emittingConcepts":[]}
+{"concept":"Doce","rel":"NotUsedFor","receivingConcepts":["Dormir","Não Precisar Ir Ao Dentista"],"emittingConcepts":["Saleiro"]}
+{"concept":"Doente Gemendo","rel":"NotUsedFor","receivingConcepts":["Dormir","Morte","Não Sentir Dor Com Ele"],"emittingConcepts":[]}
+{"concept":"Draga Para Tirar Areia","rel":"NotUsedFor","receivingConcepts":["Fazer Uma Construção","Trabalhar"],"emittingConcepts":[]}
+{"concept":"Ducha","rel":"NotUsedFor","receivingConcepts":["Deixar Sem Água","Lavar a Roupa"],"emittingConcepts":[]}
+{"concept":"Lavar a Roupa","rel":"NotUsedFor","emittingConcepts":["Ducha","Riacho","Sabonete","Shampo"],"receivingConcepts":[]}
+{"concept":"Arremessar","rel":"NotUsedFor","emittingConcepts":["Duzia De Laranjas Lima","Maracujá"],"receivingConcepts":[]}
+{"concept":"Dvd","rel":"NotUsedFor","receivingConcepts":["Queimar","Riscar","Usar Como Porta Copos"],"emittingConcepts":[]}
+{"concept":"Riscar","rel":"NotUsedFor","emittingConcepts":["Dvd","Móvel"],"receivingConcepts":[]}
+{"concept":"Ouvir Música","rel":"NotUsedFor","emittingConcepts":["Dvd Arranhado","Televisão"],"receivingConcepts":[]}
+{"concept":"Edifício Comercial","rel":"NotUsedFor","receivingConcepts":["Morar","Voar"],"emittingConcepts":[]}
+{"concept":"Esfriar","rel":"NotUsedFor","emittingConcepts":["Edredom","Fogueira","Lareira"],"receivingConcepts":[]}
+{"concept":"Elevador Hidráulico","rel":"NotUsedFor","receivingConcepts":["Arrumar","Subir Escadas"],"emittingConcepts":[]}
+{"concept":"Empregada","rel":"NotUsedFor","receivingConcepts":["Brigar","Brincar","Namorar Com Ela","Não Ter Retorno Em Benefícios","Pedir Aumento De Salário"],"emittingConcepts":[]}
+{"concept":"Entrada","rel":"NotUsedFor","receivingConcepts":["Ficar Congestionada","Não Comer","Sair","Show De Rock"],"emittingConcepts":[]}
+{"concept":"Não Comer","rel":"NotUsedFor","emittingConcepts":["Entrada","Torta De Morango Com Chocolate"],"receivingConcepts":[]}
+{"concept":"Sair","rel":"NotUsedFor","emittingConcepts":["Entrada","Escritor","Gay"],"receivingConcepts":[]}
+{"concept":"Erro","rel":"NotUsedFor","receivingConcepts":["Acertar","Confundir"],"emittingConcepts":[]}
+{"concept":"Escada Rolante","rel":"NotUsedFor","receivingConcepts":["Cair","Descer Um Andar","Fazer Exercícios","Ficar Parado No Lugar Admirando a Paisagem Do Shopping","Pular Amarekinha","Pular Amarelinha","Se Cansar"],"emittingConcepts":[]}
+{"concept":"Escargot","rel":"NotUsedFor","receivingConcepts":["O Lanche Da Tarde","Pegar Doenças"],"emittingConcepts":[]}
+{"concept":"Escoteiro","rel":"NotUsedFor","receivingConcepts":["Limpar Chaminé","Te Vigiar"],"emittingConcepts":[]}
+{"concept":"Escova","rel":"NotUsedFor","receivingConcepts":["Coçar O Braço","Jogar Em Alguém","Limpar Cantos Da Parede","Tirar a Água Do Chão"],"emittingConcepts":[]}
+{"concept":"Escova De Dentes","rel":"NotUsedFor","receivingConcepts":["Limpar Privada","Limpar Sapato","Pentear O Cabelo"],"emittingConcepts":[]}
+{"concept":"Escritor","rel":"NotUsedFor","receivingConcepts":["Cozinhar","Sair","Ser Guarda De Trânsito"],"emittingConcepts":[]}
+{"concept":"Escrivana","rel":"NotUsedFor","receivingConcepts":["Dormir","Tomar as Refeições Nela"],"emittingConcepts":[]}
+{"concept":"Escrivaninha","rel":"NotUsedFor","receivingConcepts":["Debruçar","Dormir","Sentar Em Cima","Subir Em Cima"],"emittingConcepts":[]}
+{"concept":"Sentar Em Cima","rel":"NotUsedFor","emittingConcepts":["Escrivaninha","Marmita","Mesa"],"receivingConcepts":[]}
+{"concept":"Escumadeira","rel":"NotUsedFor","receivingConcepts":["Pegar Sopa Da Panela","Servir Sopa","Tirar a Sopa Do Caldeirão"],"emittingConcepts":[]}
+{"concept":"Esfiha","rel":"NotUsedFor","receivingConcepts":["Iluminar O Quarto","Olhar","Vender"],"emittingConcepts":[]}
+{"concept":"Espatula","rel":"NotUsedFor","receivingConcepts":["Comer","Cortar Uma Pizza"],"emittingConcepts":[]}
+{"concept":"Espelho","rel":"NotUsedFor","receivingConcepts":["Comer","Dormir Sobre Ele","Enfeite","Ferir Os Olhos Dos Outros Com O Sol","Jogar Pela Janela","Quebrar","Se Maquiar"],"emittingConcepts":[]}
+{"concept":"Enfeite","rel":"NotUsedFor","emittingConcepts":["Espelho","Golfinho","Telefone"],"receivingConcepts":[]}
+{"concept":"Esportista","rel":"NotUsedFor","receivingConcepts":["Patrocinar","Ser Pedreiro"],"emittingConcepts":[]}
+{"concept":"Estacionamento","rel":"NotUsedFor","receivingConcepts":["Descansar","Estacionar Um Avião","Fazer Uma Festa","Trabalhar"],"emittingConcepts":[]}
+{"concept":"Estacionamento Para Veiculos","rel":"NotUsedFor","receivingConcepts":["Bicicletas","Estacionar"],"emittingConcepts":[]}
+{"concept":"Jogar Tenis","rel":"NotUsedFor","emittingConcepts":["Estante Com Livros De Direito","Quadra De Futebol"],"receivingConcepts":[]}
+{"concept":"Estojo","rel":"NotUsedFor","receivingConcepts":["Carregar","Colocar Bolacha","Não Por Nada Dentro"],"emittingConcepts":[]}
+{"concept":"Estrela Do Mar","rel":"NotUsedFor","receivingConcepts":["Comer","Rechear Um Sanduiche","Ser Sua Companheira"],"emittingConcepts":[]}
+{"concept":"Estudante","rel":"NotUsedFor","receivingConcepts":["Dar Bronca","Me Corrigir","Ser Orador De Um Comício Político","Sustentar","Trabalhar"],"emittingConcepts":[]}
+{"concept":"Dar Bronca","rel":"NotUsedFor","emittingConcepts":["Estudante","Professor A"],"receivingConcepts":[]}
+{"concept":"Sustentar","rel":"NotUsedFor","emittingConcepts":["Estudante","Familia Grande"],"receivingConcepts":[]}
+{"concept":"Estudantes","rel":"NotUsedFor","receivingConcepts":["Avaliar Prova","Estudar O Dia Todo","Pedir Ajuda"],"emittingConcepts":[]}
+{"concept":"Jogar Bola","rel":"NotUsedFor","emittingConcepts":["Estudioso","Inseticida","Macarrão","Mouse","Objeto Marítimo","Sala De Espera","Tangerina"],"receivingConcepts":[]}
+{"concept":"Estábulo","rel":"NotUsedFor","receivingConcepts":["Deixar Vazio","Me Esconder","Morar","Passear"],"emittingConcepts":[]}
+{"concept":"Me Esconder","rel":"NotUsedFor","emittingConcepts":["Estábulo","Fogueira"],"receivingConcepts":[]}
+{"concept":"Faca","rel":"NotUsedFor","receivingConcepts":["Afiar","Cantar","Cavar Canteiros","Levar Comida a Boca"],"emittingConcepts":[]}
+{"concept":"Cantar","rel":"NotUsedFor","emittingConcepts":["Faca","Fotógrafo"],"receivingConcepts":[]}
+{"concept":"Familia Grande","rel":"NotUsedFor","receivingConcepts":["Sustentar","Visitar"],"emittingConcepts":[]}
+{"concept":"Farolete","rel":"NotUsedFor","receivingConcepts":["Acender Nas Noites Escuras","Comer","Deixar Sem Pilha","Martelar"],"emittingConcepts":[]}
+{"concept":"Martelar","rel":"NotUsedFor","emittingConcepts":["Farolete","Prego"],"receivingConcepts":[]}
+{"concept":"Fax","rel":"NotUsedFor","receivingConcepts":["Fazer Uma Ligação","Imprimir","Não Uza Lo","Passar Um Email"],"emittingConcepts":[]}
+{"concept":"Feijão","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Jogra"],"emittingConcepts":[]}
+{"concept":"Ferramenta","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Consertar Uma Pulseira","Quebrar Algo"],"emittingConcepts":[]}
+{"concept":"Ferramentas","rel":"NotUsedFor","receivingConcepts":["Bater Na Cabeça","Carregar Sem Necessidade","Comer","Consertar Carro","Cozinhar"],"emittingConcepts":[]}
+{"concept":"Filho Dormindo","rel":"NotUsedFor","receivingConcepts":["Brincar","Sempre"],"emittingConcepts":[]}
+{"concept":"Filme","rel":"NotUsedFor","receivingConcepts":["Copiar","Deixar Tenso","Dormir","Ficar Tenso","Quebrar","Sentir Medo"],"emittingConcepts":[]}
+{"concept":"Assistir","rel":"NotUsedFor","emittingConcepts":["Filme Ótimo","Fita De Video Para Alugar"],"receivingConcepts":[]}
+{"concept":"Fita","rel":"NotUsedFor","receivingConcepts":["Fazer Um Backup","Joga La Fora"],"emittingConcepts":[]}
+{"concept":"Assitir","rel":"NotUsedFor","emittingConcepts":["Fita De Dvd","Televisão"],"receivingConcepts":[]}
+{"concept":"Flor","rel":"NotUsedFor","receivingConcepts":["Arrancar","Colher","Comer","Deixa La Fora Do Vaso","Jogar Fora","Levar a Velórios","Quebrar"],"emittingConcepts":[]}
+{"concept":"Fofoqueira","rel":"NotUsedFor","receivingConcepts":["Amiga","Atrapalhar a Vida Com Coisas Fúteis","Contar Segredos","Falar De Minha Vida","Falar De Outras Pessoas Estão Falando Mal De Voce","Falar Fofocas","Ficar Em Silêncio","Inimigo","Revelar Segredos","Ser Sua Confidente"],"emittingConcepts":[]}
+{"concept":"Fogareiro","rel":"NotUsedFor","receivingConcepts":["Apagar Fogo","Jogar Alcool"],"emittingConcepts":[]}
+{"concept":"Fogo","rel":"NotUsedFor","receivingConcepts":["Deixa Lo Sujo","Gelar a Comida"],"emittingConcepts":[]}
+{"concept":"Fogueira","rel":"NotUsedFor","receivingConcepts":["Apagar Incêndio","Esfriar","Me Esconder","Os Dias De Calor","Tacar Fogo"],"emittingConcepts":[]}
+{"concept":"Tacar Fogo","rel":"NotUsedFor","emittingConcepts":["Fogueira","Planta"],"receivingConcepts":[]}
+{"concept":"Fogueira E Várias Pessoas","rel":"NotUsedFor","receivingConcepts":["Dormir","Ver Chover"],"emittingConcepts":[]}
+{"concept":"Fogão","rel":"NotUsedFor","receivingConcepts":["Acender Uma Vela","Deixar Desligado","Deixar Parado","Guardar Utensilios De Cozinha","Se Esquentar","Secar a Roupa Molhada"],"emittingConcepts":[]}
+{"concept":"Guardar Utensilios De Cozinha","rel":"NotUsedFor","emittingConcepts":["Fogão","Guarda Roupas"],"receivingConcepts":[]}
+{"concept":"Masturbar Se","rel":"NotUsedFor","emittingConcepts":["Folhinha De Mulher Pelada","Roupa"],"receivingConcepts":[]}
+{"concept":"Escrever Uma Carta","rel":"NotUsedFor","emittingConcepts":["Fone","Lapiseira"],"receivingConcepts":[]}
+{"concept":"Fonte","rel":"NotUsedFor","receivingConcepts":["Conectar Em Dois Computadores","Deixar Desligada","Sujar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Pisar","rel":"NotUsedFor","emittingConcepts":["Formigueiro","Lodo","Poça De Água","Requeijão","Teto"],"receivingConcepts":[]}
+{"concept":"Pagar","rel":"NotUsedFor","emittingConcepts":["Formulário De Imposto","Lavadeira"],"receivingConcepts":[]}
+{"concept":"Formulários","rel":"NotUsedFor","receivingConcepts":["Preencher","Preencher No Trabalho"],"emittingConcepts":[]}
+{"concept":"Forno","rel":"NotUsedFor","receivingConcepts":["Fazer Fritura","Ficar Parado No Canto"],"emittingConcepts":[]}
+{"concept":"Freezer","rel":"NotUsedFor","receivingConcepts":["Colocar Seu Irmão","Colocar Uma Pessoa","Guardar Panelas"],"emittingConcepts":[]}
+{"concept":"Frigideira","rel":"NotUsedFor","receivingConcepts":["Assar Coisas","Bater Em Alguém","Bater Na Cabeça De Alguém","Esquentar Agua","Esquentar Leite","Fazer Uma Sopa","Ferver Leite","Fritar Carne"],"emittingConcepts":[]}
+{"concept":"Fazer Uma Sopa","rel":"NotUsedFor","emittingConcepts":["Frigideira","Pé De Alface"],"receivingConcepts":[]}
+{"concept":"Fruta","rel":"NotUsedFor","receivingConcepts":["Fazer Um Molho","Jogar Fora","Jogar No Lixo","Matar","Pôr Na Macarronada"],"emittingConcepts":[]}
+{"concept":"Pôr Na Macarronada","rel":"NotUsedFor","emittingConcepts":["Fruta","Vinagrete"],"receivingConcepts":[]}
+{"concept":"Fumaça","rel":"NotUsedFor","receivingConcepts":["Cheirar","Irritar Os Olhos","Olhar"],"emittingConcepts":[]}
+{"concept":"Funcionário","rel":"NotUsedFor","receivingConcepts":["Contratar","Conversar","Dormir Na Hora Do Serviço","Que Ele Fique Sentado Sem Fazer Nada"],"emittingConcepts":[]}
+{"concept":"Encher O Saco","rel":"NotUsedFor","emittingConcepts":["Funcionário De Escola","Gerente","Grande Amigo","Vendedor"],"receivingConcepts":[]}
+{"concept":"Galo","rel":"NotUsedFor","receivingConcepts":["Briga","Cozinhar"],"emittingConcepts":[]}
+{"concept":"Gamba","rel":"NotUsedFor","receivingConcepts":["Capturar","Viver Do Meu Lado"],"emittingConcepts":[]}
+{"concept":"Garfo","rel":"NotUsedFor","receivingConcepts":["Comer Pizza","Comer Sobremesa","Consertar Um Carro","Descascar Laranja","Espetar Alguém","Tomar Sopa"],"emittingConcepts":[]}
+{"concept":"Comer Pizza","rel":"NotUsedFor","emittingConcepts":["Garfo","Rodízio De Carne"],"receivingConcepts":[]}
+{"concept":"Consertar Um Carro","rel":"NotUsedFor","emittingConcepts":["Garfo","Médico A"],"receivingConcepts":[]}
+{"concept":"Garota","rel":"NotUsedFor","receivingConcepts":["Brigar Com Ela","Dar Uns Tapas"],"emittingConcepts":[]}
+{"concept":"Garrafa De Pinga","rel":"NotUsedFor","receivingConcepts":["Fazer Doces","Fazer Um Suco Pra as Visitas","Jogar Fora","Quebrar Na Cabeça De Alguém"],"emittingConcepts":[]}
+{"concept":"Garrafa De Vinho Tinto Seco","rel":"NotUsedFor","receivingConcepts":["Beber","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Garrafa De Água","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Garrafa Pet","rel":"NotUsedFor","receivingConcepts":["Esvaziar","Gardar Objetos","Por Alimento Solido Nela"],"emittingConcepts":[]}
+{"concept":"Esvaziar","rel":"NotUsedFor","emittingConcepts":["Garrafa Pet","Perfume"],"receivingConcepts":[]}
+{"concept":"Garçom","rel":"NotUsedFor","receivingConcepts":["45yh5yh46h4w","Ajudar Me a Comer","Alugar","Brigar","Cobrar Comissao","Comer","Conversar","Dormir","Limpar Meus Sapatos","Me Limpar","Paquerar","Rir De Você","Servir Café"],"emittingConcepts":[]}
+{"concept":"Alugar","rel":"NotUsedFor","emittingConcepts":["Garçom","Lojas"],"receivingConcepts":[]}
+{"concept":"Garçonete","rel":"NotUsedFor","receivingConcepts":["Fazer as Unhas","Lavar Copo"],"emittingConcepts":[]}
+{"concept":"Gatinho","rel":"NotUsedFor","receivingConcepts":["Beijá Lo","Comer","Passar a Mão","Pôr No Microondas"],"emittingConcepts":[]}
+{"concept":"Gato","rel":"NotUsedFor","receivingConcepts":["Brigar","Comer","Maltrata Lo","Me Arranhar","Transmitir Doenças"],"emittingConcepts":[]}
+{"concept":"Gato Do Mato","rel":"NotUsedFor","receivingConcepts":["Acariciar","Estimar"],"emittingConcepts":[]}
+{"concept":"Geladeira","rel":"NotUsedFor","receivingConcepts":["Deixar Na Sala","Dixar Desligada"],"emittingConcepts":[]}
+{"concept":"Geladeira De Bebidas","rel":"NotUsedFor","receivingConcepts":["Deixar De Enfeite","Estragar"],"emittingConcepts":[]}
+{"concept":"Gerente","rel":"NotUsedFor","receivingConcepts":["Cuidar Da Sua Privacidade","Encher O Saco","Eyzxe"],"emittingConcepts":[]}
+{"concept":"Giz","rel":"NotUsedFor","receivingConcepts":["Comer","Escrever No Papel","Jogar Nos Outros","Marcar","Pintar","Quebrar","Rabiscar","Rabiscar Muros E Paredes"],"emittingConcepts":[]}
+{"concept":"Globo De Luz","rel":"NotUsedFor","receivingConcepts":["Enfeitar a Árvore De Natal","Escurecer Um Local"],"emittingConcepts":[]}
+{"concept":"Goiaba","rel":"NotUsedFor","receivingConcepts":["Comer Com O Bife","Encontrar Um Bicho","Estragar","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Goiaba Branca","rel":"NotUsedFor","receivingConcepts":["Fazer Doce","Fazer Doce De Goiaba"],"emittingConcepts":[]}
+{"concept":"Fazer Geléia","rel":"NotUsedFor","emittingConcepts":["Goiaba Vermelha","Laranja Lima Da Persia"],"receivingConcepts":[]}
+{"concept":"Golfinho","rel":"NotUsedFor","receivingConcepts":["Enfeite","Judia Lo","Maltrata Lo","O Almoço"],"emittingConcepts":[]}
+{"concept":"Gordo","rel":"NotUsedFor","receivingConcepts":["Uma Competição De Atletismo","Zombar"],"emittingConcepts":[]}
+{"concept":"Grampeador","rel":"NotUsedFor","receivingConcepts":["Grampear O Próprio Dedo","Pregar Roupa","Selar","Soltar"],"emittingConcepts":[]}
+{"concept":"Grande Amigo","rel":"NotUsedFor","receivingConcepts":["Brigar","Encher O Saco"],"emittingConcepts":[]}
+{"concept":"Fazer Suco","rel":"NotUsedFor","emittingConcepts":["Grape Fruit","Laranja Lima","Laranja Lima Da Persia","Pé De Rabanetes","Pêssego"],"receivingConcepts":[]}
+{"concept":"Graxa","rel":"NotUsedFor","receivingConcepts":["Lambuzar a Mão","Melecar","Passar No Rosto"],"emittingConcepts":[]}
+{"concept":"Guarda De Transito","rel":"NotUsedFor","receivingConcepts":["Multar","Multar Minha Lambreta"],"emittingConcepts":[]}
+{"concept":"Guarda Roupa","rel":"NotUsedFor","receivingConcepts":["Armazenar Alimentos","Guardar a Televisão"],"emittingConcepts":[]}
+{"concept":"Guarda Roupas","rel":"NotUsedFor","receivingConcepts":["Deixar Vazio","Dormir","Guardar Alimentos","Guardar Coisas Muito Grandes","Guardar Livros","Guardar Os Ternos","Guardar Sapato","Guardar Utensilios De Cozinha","Pôr Na Sala","Se Mudar"],"emittingConcepts":[]}
+{"concept":"Guarda Sol","rel":"NotUsedFor","receivingConcepts":["Brincar","Chuva","Cobrir Da Chuva","Comer","Deixá Lo Fechado","Dias De Chuva","Ficar Com Ele Fechado Em Dias Ensolarados","Se Proteger Da Chuva"],"emittingConcepts":[]}
+{"concept":"Guardanapeiro","rel":"NotUsedFor","receivingConcepts":["Enfeitar","Guardar Toalhas De Rosto"],"emittingConcepts":[]}
+{"concept":"Guardanapo","rel":"NotUsedFor","receivingConcepts":["Desenhar","Jogar Fora","Limpar a Mesa","Limpar as Mãos","Pedalar","Queimar"],"emittingConcepts":[]}
+{"concept":"Guaxinim","rel":"NotUsedFor","receivingConcepts":["Animal De Estimação","Ser Seu Amigo"],"emittingConcepts":[]}
+{"concept":"Guia","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Guiar","Se Perder"],"emittingConcepts":[]}
+{"concept":"Se Perder","rel":"NotUsedFor","emittingConcepts":["Guia","Localização De Um País"],"receivingConcepts":[]}
+{"concept":"Guidão","rel":"NotUsedFor","receivingConcepts":["Dormir","Se Machucar"],"emittingConcepts":[]}
+{"concept":"Hangar Com Uma Aeronave","rel":"NotUsedFor","receivingConcepts":["Invadir","Pilotar"],"emittingConcepts":[]}
+{"concept":"Navegar","rel":"NotUsedFor","emittingConcepts":["Helicóptero","Lago"],"receivingConcepts":[]}
+{"concept":"Hipermercado","rel":"NotUsedFor","receivingConcepts":["Apostar Corrida","Comprar Roupas"],"emittingConcepts":[]}
+{"concept":"Apostar Corrida","rel":"NotUsedFor","emittingConcepts":["Hipermercado","Jet Sky"],"receivingConcepts":[]}
+{"concept":"Comprar Roupas","rel":"NotUsedFor","emittingConcepts":["Hipermercado","Loja De Calçados"],"receivingConcepts":[]}
+{"concept":"Historiador","rel":"NotUsedFor","receivingConcepts":["Brincar","Dançar"],"emittingConcepts":[]}
+{"concept":"Hub","rel":"NotUsedFor","receivingConcepts":["Decoração","Permanecer Off Line"],"emittingConcepts":[]}
+{"concept":"Imobiliaria","rel":"NotUsedFor","receivingConcepts":["Cobrar De Mim O Aluguel","Comprar Um Presente","Pagar Contas"],"emittingConcepts":[]}
+{"concept":"Pagar Contas","rel":"NotUsedFor","emittingConcepts":["Imobiliaria","Loja De Calçados"],"receivingConcepts":[]}
+{"concept":"Impresora","rel":"NotUsedFor","receivingConcepts":["Deixá La Parada","Imprimir Um Livro","Produzir Um Manuscrito"],"emittingConcepts":[]}
+{"concept":"Impressora","rel":"NotUsedFor","receivingConcepts":["Chutar","Jogar Jogos","Não Uza La"],"emittingConcepts":[]}
+{"concept":"Informação","rel":"NotUsedFor","receivingConcepts":["Desprezar","O Que Não Preciso Saber"],"emittingConcepts":[]}
+{"concept":"Desprezar","rel":"NotUsedFor","emittingConcepts":["Informação","Pobre"],"receivingConcepts":[]}
+{"concept":"Injeção","rel":"NotUsedFor","receivingConcepts":["Agradar Uma Criança","Doer"],"emittingConcepts":[]}
+{"concept":"Inseticida","rel":"NotUsedFor","receivingConcepts":["Jogar Bola","Matar Cachorros"],"emittingConcepts":[]}
+{"concept":"Inseto","rel":"NotUsedFor","receivingConcepts":["Cmer","Comer","Incomodar"],"emittingConcepts":[]}
+{"concept":"Incomodar","rel":"NotUsedFor","emittingConcepts":["Inseto","Mosquisto"],"receivingConcepts":[]}
+{"concept":"Interruptor","rel":"NotUsedFor","receivingConcepts":["Apertar","Levar Choque","Não Usar"],"emittingConcepts":[]}
+{"concept":"Jaboticaba","rel":"NotUsedFor","receivingConcepts":["Deixa La Apodrecer","Fazer Guerra"],"emittingConcepts":[]}
+{"concept":"Jaca","rel":"NotUsedFor","receivingConcepts":["Acertar Sua Cabeça","Comer Com Farinha","Deixar Estragar"],"emittingConcepts":[]}
+{"concept":"Deixar Estragar","rel":"NotUsedFor","emittingConcepts":["Jaca","Pacote De Macarrao","Pepino","Produto","Pé De Alface"],"receivingConcepts":[]}
+{"concept":"Jacaré Gigante","rel":"NotUsedFor","receivingConcepts":["Brincar Com Ele","Lutar","Refeições"],"emittingConcepts":[]}
+{"concept":"Janela","rel":"NotUsedFor","receivingConcepts":["Lavar","Passar Através Dela","Púlar","Quebrar","Sair Por Ela","Se Atirar","Ser Visto Trocando De Roupas"],"emittingConcepts":[]}
+{"concept":"Janela Com Cortina","rel":"NotUsedFor","receivingConcepts":["Clarear O Ambiente","O Quintal"],"emittingConcepts":[]}
+{"concept":"Clarear O Ambiente","rel":"NotUsedFor","emittingConcepts":["Janela Com Cortina","Projetor"],"receivingConcepts":[]}
+{"concept":"Japonês","rel":"NotUsedFor","receivingConcepts":["Brigar","Conversar","Fazer Feijoada"],"emittingConcepts":[]}
+{"concept":"Jardim","rel":"NotUsedFor","receivingConcepts":["Destruir","Ir Ao Banheiro","Mijar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Fazer Um Churrasco","rel":"NotUsedFor","emittingConcepts":["Jardim De Inverno","Lareira"],"receivingConcepts":[]}
+{"concept":"Jet Sky","rel":"NotUsedFor","receivingConcepts":["Andar","Apostar Corrida"],"emittingConcepts":[]}
+{"concept":"Joia","rel":"NotUsedFor","receivingConcepts":["Usufruir","Vestir"],"emittingConcepts":[]}
+{"concept":"Jornal","rel":"NotUsedFor","receivingConcepts":["Amassar","Embrulhar Algo","Estragar","Ler Horóscopo","Ler No Dia Seguinte","Matar Moscas","Peix","Se Limpar"],"emittingConcepts":[]}
+{"concept":"Juri","rel":"NotUsedFor","receivingConcepts":["Me Condenar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Jóia","rel":"NotUsedFor","receivingConcepts":["Deixar Guardada","Guardar","Ir Ao Supermercado","Penhorar"],"emittingConcepts":[]}
+{"concept":"Laboratorio De Informatica","rel":"NotUsedFor","receivingConcepts":["Consertar","Jogar"],"emittingConcepts":[]}
+{"concept":"Laboratório","rel":"NotUsedFor","receivingConcepts":["Almoçar Nele","Aperfeiçoar","Destruir","Fazer Um Exame","Se Divertir"],"emittingConcepts":[]}
+{"concept":"Lampião","rel":"NotUsedFor","receivingConcepts":["Apoiar Livros","Banheiro","Esquentar O Ambiente","Voar Durante O Dia"],"emittingConcepts":[]}
+{"concept":"Lampião a Gás","rel":"NotUsedFor","receivingConcepts":["Acender Durante O Dia","Iluminar a Casa","Uza Lo Em Dia Claro"],"emittingConcepts":[]}
+{"concept":"Iluminar a Casa","rel":"NotUsedFor","emittingConcepts":["Lampião a Gás","Lanterna"],"receivingConcepts":[]}
+{"concept":"Lanchonete","rel":"NotUsedFor","receivingConcepts":["Almoçar","Consumir Bebidas Alcoólicas","Dirigir","Estudar","Fazer Negócios","Jantar","Pagar a Conta","Parar De Comer Porcaria"],"emittingConcepts":[]}
+{"concept":"Lanterna","rel":"NotUsedFor","receivingConcepts":["Deixar Ligada","Iluminar a Casa","Iluminar O Céu","Usar Durante O Dia"],"emittingConcepts":[]}
+{"concept":"Lapis","rel":"NotUsedFor","receivingConcepts":["Colocar Na Boca","Deixar Cair","Deixar De Enfeite","Desenhar","Prender O Cabelo"],"emittingConcepts":[]}
+{"concept":"Deixar Cair","rel":"NotUsedFor","emittingConcepts":["Lapis","Perfume"],"receivingConcepts":[]}
+{"concept":"Lapiseira","rel":"NotUsedFor","receivingConcepts":["Escrever Uma Carta","Pintar"],"emittingConcepts":[]}
+{"concept":"Laptop","rel":"NotUsedFor","receivingConcepts":["Bater Em Alguém","Deixar Em Casa","Jogar","Mergulhar","Realizar Tarefas Em Locais Diversos","Tratamento De Imagens"],"emittingConcepts":[]}
+{"concept":"Laranja","rel":"NotUsedFor","receivingConcepts":["Atirar Na Cabeça Do Guarda","Cheirar","Dormir","Fazer Macarrão"],"emittingConcepts":[]}
+{"concept":"Laranja Lima Da Persia","rel":"NotUsedFor","receivingConcepts":["Fazer Geléia","Fazer Suco"],"emittingConcepts":[]}
+{"concept":"Lareira","rel":"NotUsedFor","receivingConcepts":["Esfriar","Fazer Um Churrasco","Refrescar O Ambiente"],"emittingConcepts":[]}
+{"concept":"Larva De Mosquito","rel":"NotUsedFor","receivingConcepts":["Comer","Iniciar Uma Criação Domestica"],"emittingConcepts":[]}
+{"concept":"Lata","rel":"NotUsedFor","receivingConcepts":["Amassar","Fazer De Lixo","Sentar"],"emittingConcepts":[]}
+{"concept":"Lata De Cerveja","rel":"NotUsedFor","receivingConcepts":["Cozinhar","Embreagar","Tomar Com Remédio"],"emittingConcepts":[]}
+{"concept":"Lata De Massa De Tomate","rel":"NotUsedFor","receivingConcepts":["Fazer Um Molho Branco","Pôr No Doce De Banana","Pôr No Molho Branco"],"emittingConcepts":[]}
+{"concept":"Lata De Oleo","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Tomar"],"emittingConcepts":[]}
+{"concept":"Lavadeira","rel":"NotUsedFor","receivingConcepts":["Louças","Pagar","Sujar"],"emittingConcepts":[]}
+{"concept":"Leito","rel":"NotUsedFor","receivingConcepts":["Fazer Uma Festa","Sentar"],"emittingConcepts":[]}
+{"concept":"Lençol","rel":"NotUsedFor","receivingConcepts":["Enxugar","Limpar Os Sapatos"],"emittingConcepts":[]}
+{"concept":"Limão","rel":"NotUsedFor","receivingConcepts":["Comer Sushi","Espremer No Cafá","Manchar a Pele","Pingar No Olho","Usar Em Ferimentos"],"emittingConcepts":[]}
+{"concept":"Lindo Bebê","rel":"NotUsedFor","receivingConcepts":["Cuidar","Ir Ao Banheiro"],"emittingConcepts":[]}
+{"concept":"Linguiça De Porco","rel":"NotUsedFor","receivingConcepts":["Colocar No Lanche","Comer","Fazer Colar","O Jantar"],"emittingConcepts":[]}
+{"concept":"Linha De Anzol","rel":"NotUsedFor","receivingConcepts":["Amarar Os Sapatos","Artesanato","Soltar Pipa"],"emittingConcepts":[]}
+{"concept":"Linha Imaginaria","rel":"NotUsedFor","receivingConcepts":["Cortar Dois Países","Imaginar Uma Linha","Medições","Pisar Nela","Sentar Nela","Ve La","Ver"],"emittingConcepts":[]}
+{"concept":"Ver","rel":"NotUsedFor","emittingConcepts":["Linha Imaginaria","Tubarão"],"receivingConcepts":[]}
+{"concept":"Livro","rel":"NotUsedFor","receivingConcepts":["Queimar","Queimá Lo","Servir De Suporte"],"emittingConcepts":[]}
+{"concept":"Livro Sobre Direito Criminal","rel":"NotUsedFor","receivingConcepts":["Estudar Estrutura De Dados","Matar O Tempo"],"emittingConcepts":[]}
+{"concept":"Lixeira","rel":"NotUsedFor","receivingConcepts":["Deixar Dentro Do Quarto","Guardar Comida","Sujar a Casa","Urinar"],"emittingConcepts":[]}
+{"concept":"Urinar","rel":"NotUsedFor","emittingConcepts":["Lixeira","Refrigerante","Sofá"],"receivingConcepts":[]}
+{"concept":"Locomotiva","rel":"NotUsedFor","receivingConcepts":["Ter No Jardim","Viajar"],"emittingConcepts":[]}
+{"concept":"Lodo","rel":"NotUsedFor","receivingConcepts":["Comer","Pisar","Sujar"],"emittingConcepts":[]}
+{"concept":"Loja","rel":"NotUsedFor","receivingConcepts":["Fazer Xixi","Gastar"],"emittingConcepts":[]}
+{"concept":"Loja De Artigos Nauticos","rel":"NotUsedFor","receivingConcepts":["Comprar","Comprar Perfume"],"emittingConcepts":[]}
+{"concept":"Entrar","rel":"NotUsedFor","emittingConcepts":["Loja De Brinquedo","Pastelaria"],"receivingConcepts":[]}
+{"concept":"Loja De Calçados","rel":"NotUsedFor","receivingConcepts":["Comprar Roupas","Comprar Tênis","Comprar Uma Camisa","Comprar Uma Panela","Não Comprar Nada","Pagar Contas"],"emittingConcepts":[]}
+{"concept":"Loja De Produtos Importador","rel":"NotUsedFor","receivingConcepts":["Comprar Legumes","Comprar Produtos Nacionais"],"emittingConcepts":[]}
+{"concept":"Fazer Refeição","rel":"NotUsedFor","emittingConcepts":["Loja De Roupas","Mesa De Centro"],"receivingConcepts":[]}
+{"concept":"Loja De Vestuario Feminino","rel":"NotUsedFor","receivingConcepts":["Administrar","Comprar Roupa Masculina"],"emittingConcepts":[]}
+{"concept":"Lojas","rel":"NotUsedFor","receivingConcepts":["Alugar","Deixá Las Fechada","Roubar"],"emittingConcepts":[]}
+{"concept":"Lojista","rel":"NotUsedFor","receivingConcepts":["Conversar","Ser Mal Atendida"],"emittingConcepts":[]}
+{"concept":"Lousa","rel":"NotUsedFor","receivingConcepts":["Comer","Escrever Com Caneta","Uma Festa"],"emittingConcepts":[]}
+{"concept":"Lugar Cheiroso","rel":"NotUsedFor","receivingConcepts":["Cagar","Espirrar"],"emittingConcepts":[]}
+{"concept":"Lula","rel":"NotUsedFor","receivingConcepts":["Brincar","Governar"],"emittingConcepts":[]}
+{"concept":"Lustre","rel":"NotUsedFor","receivingConcepts":["Enxugar","Quebrar"],"emittingConcepts":[]}
+{"concept":"Lâmpada","rel":"NotUsedFor","receivingConcepts":["Acender","Apagar","Clariar","Ficar No Escuro"],"emittingConcepts":[]}
+{"concept":"Apagar","rel":"NotUsedFor","emittingConcepts":["Lâmpada","Quadro Negro"],"receivingConcepts":[]}
+{"concept":"Macarrão","rel":"NotUsedFor","receivingConcepts":["Fazer Macarronada","Jogar Bola"],"emittingConcepts":[]}
+{"concept":"Mala","rel":"NotUsedFor","receivingConcepts":["Conversar","Deixar Em Baixo Da Cama","Pegar Dinheiro No Banco"],"emittingConcepts":[]}
+{"concept":"Mamãe","rel":"NotUsedFor","receivingConcepts":["Brigar","Controlar as Saídas Noturnas","Criticar","Maltrata La"],"emittingConcepts":[]}
+{"concept":"Maltrata La","rel":"NotUsedFor","emittingConcepts":["Mamãe","Professora"],"receivingConcepts":[]}
+{"concept":"Mancha De Óleo","rel":"NotUsedFor","receivingConcepts":["Enfeitar a Camisa","Grudar Em Suas Roupas","Poluir a Minha Praia"],"emittingConcepts":[]}
+{"concept":"Maquina De Somar Eletrica","rel":"NotUsedFor","receivingConcepts":["Custurar Roupas","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Maquina De Tirar Copias","rel":"NotUsedFor","receivingConcepts":["Tirar Cópias","Tirar Fotografias"],"emittingConcepts":[]}
+{"concept":"Mar","rel":"NotUsedFor","receivingConcepts":["Dormir","Escutar"],"emittingConcepts":[]}
+{"concept":"Escutar","rel":"NotUsedFor","emittingConcepts":["Mar","Orelhão"],"receivingConcepts":[]}
+{"concept":"Maracujá","rel":"NotUsedFor","receivingConcepts":["Arremessar","Cheirar"],"emittingConcepts":[]}
+{"concept":"Marmita","rel":"NotUsedFor","receivingConcepts":["Deixar De Lado","Sentar Em Cima","Usar Diariamente"],"emittingConcepts":[]}
+{"concept":"Deixar De Lado","rel":"NotUsedFor","emittingConcepts":["Marmita","Monte De Crianças"],"receivingConcepts":[]}
+{"concept":"Material Escolar","rel":"NotUsedFor","receivingConcepts":["Comer","Estragar","Viajar"],"emittingConcepts":[]}
+{"concept":"Maçã","rel":"NotUsedFor","receivingConcepts":["Fazer Um Ponche","Se Coçar"],"emittingConcepts":[]}
+{"concept":"Mel","rel":"NotUsedFor","receivingConcepts":["Adoçar Café","Curar Dor De Garganta"],"emittingConcepts":[]}
+{"concept":"Curar Dor De Garganta","rel":"NotUsedFor","emittingConcepts":["Mel","Plantação De Gengibre"],"receivingConcepts":[]}
+{"concept":"Melancia","rel":"NotUsedFor","receivingConcepts":["Colocar No Pescoço","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Melão","rel":"NotUsedFor","receivingConcepts":["Colocar Na Salada","Comer","Comer a Casca","Comer Com Casca E Tudo"],"emittingConcepts":[]}
+{"concept":"Mercadoria","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Revender","Ser Inútil"],"emittingConcepts":[]}
+{"concept":"Merendeira","rel":"NotUsedFor","receivingConcepts":["Batucar","Levar a Escola"],"emittingConcepts":[]}
+{"concept":"Merlin","rel":"NotUsedFor","receivingConcepts":["Comer","Comer Sozinho"],"emittingConcepts":[]}
+{"concept":"Comer Sozinho","rel":"NotUsedFor","emittingConcepts":["Merlin","Pote De Vinagrete"],"receivingConcepts":[]}
+{"concept":"Mesa","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Cachorro","Colocar Num Banheiro","Dançar Em Cima","Deitar","Dirigir","Dormir","Pintar","Poucas Pessoas","Quebrar","Sentar Em Cima","Sofrer Uma Necropsia","Trocar Lampada","Voar"],"emittingConcepts":[]}
+{"concept":"Mesa De Centro","rel":"NotUsedFor","receivingConcepts":["Atrapalhar","Colocar Cinzeiros","Colocar No Canto","Deixar No Canto","Fazer Refeição","Por Os Pés","Servir O Café Da Manhã","Tomar Café Da Manhã"],"emittingConcepts":[]}
+{"concept":"Ficar Olhando","rel":"NotUsedFor","emittingConcepts":["Mesa De Frios","Talher"],"receivingConcepts":[]}
+{"concept":"Mesa De Reuniões","rel":"NotUsedFor","receivingConcepts":["Brigar","Deitar"],"emittingConcepts":[]}
+{"concept":"Mesas","rel":"NotUsedFor","receivingConcepts":["Limpar","Sentar","Subir Em Cima"],"emittingConcepts":[]}
+{"concept":"Mesinha De Centro","rel":"NotUsedFor","receivingConcepts":["41747 83","Atrapalhar a Passagem","Por Um Fogão Encima","Pular","Sentar Me","Tropeçar Nela"],"emittingConcepts":[]}
+{"concept":"Micro Ondas","rel":"NotUsedFor","receivingConcepts":["Colocar Um Gato","Estourar Pipoca","Fazer Alimentos","Gelar","Gelar Minha Sopa","Limpar"],"emittingConcepts":[]}
+{"concept":"Microcomputador","rel":"NotUsedFor","receivingConcepts":["Assistir a Um Filme","Colocar Virus"],"emittingConcepts":[]}
+{"concept":"Minhoca","rel":"NotUsedFor","receivingConcepts":["Colocar Na Comida","Segurar"],"emittingConcepts":[]}
+{"concept":"Mochila","rel":"NotUsedFor","receivingConcepts":["Carregar Água","Deixa La No Onibus","Ir Pra Escola","Nadar"],"emittingConcepts":[]}
+{"concept":"Molho De Mostarda","rel":"NotUsedFor","receivingConcepts":["Fazer Arte","Fazer Brigadeiro","Não Pôr No Cachorro Quente","Temperar Um Bigmac"],"emittingConcepts":[]}
+{"concept":"Molusco","rel":"NotUsedFor","receivingConcepts":["Brincar","Fritar","Jogar No Lixo"],"emittingConcepts":[]}
+{"concept":"Monitor","rel":"NotUsedFor","receivingConcepts":["Consertar","Não Funcionar"],"emittingConcepts":[]}
+{"concept":"Monitor De Vídeo","rel":"NotUsedFor","receivingConcepts":["Apoio De Papel","Ligar O Pc","Queimar"],"emittingConcepts":[]}
+{"concept":"Montanha Russa","rel":"NotUsedFor","receivingConcepts":["Acidentar Se","Andar","Ficar Tranquilo","Namorar"],"emittingConcepts":[]}
+{"concept":"Monte De Gente","rel":"NotUsedFor","receivingConcepts":["Colocar No Fogo","Conversar"],"emittingConcepts":[]}
+{"concept":"Monte De Lixo","rel":"NotUsedFor","receivingConcepts":["Decorar a Sala","Deixa Lo Em Casa","Guardar Em Casa"],"emittingConcepts":[]}
+{"concept":"Decorar a Sala","rel":"NotUsedFor","emittingConcepts":["Monte De Lixo","Neon"],"receivingConcepts":[]}
+{"concept":"Monte De Pratos","rel":"NotUsedFor","receivingConcepts":["Deixar Espalhado","Enfeitar a Sala De Visitas","Jogar","Limpar","Limpatr","Quebrar"],"emittingConcepts":[]}
+{"concept":"Morador","rel":"NotUsedFor","receivingConcepts":["Bater","Não Pagar O Aluguel","Perturbar O Sossego"],"emittingConcepts":[]}
+{"concept":"Mosca","rel":"NotUsedFor","receivingConcepts":["Atrapalhar as Pessoas","Por Na Sopa","Zunir No Ouvido"],"emittingConcepts":[]}
+{"concept":"Te Picar","rel":"NotUsedFor","emittingConcepts":["Mosquito","Nuvem De Pernilongos"],"receivingConcepts":[]}
+{"concept":"Mostarda","rel":"NotUsedFor","receivingConcepts":["Beber Comcerveja","Colocar No Cachorro Quente"],"emittingConcepts":[]}
+{"concept":"Observar","rel":"NotUsedFor","emittingConcepts":["Motorista","Peixes","Vista"],"receivingConcepts":[]}
+{"concept":"Mouse","rel":"NotUsedFor","receivingConcepts":["Atrapanhar","Jogar Bola","Jogar No Chão"],"emittingConcepts":[]}
+{"concept":"Dormir Em Casa","rel":"NotUsedFor","emittingConcepts":["Muita Gente","Saco De Dormir"],"receivingConcepts":[]}
+{"concept":"Muito Calor","rel":"NotUsedFor","receivingConcepts":["Andar Nas Ruas","Trabalhar"],"emittingConcepts":[]}
+{"concept":"Mulher","rel":"NotUsedFor","receivingConcepts":["Fazer Sexo","Pescar"],"emittingConcepts":[]}
+{"concept":"Mulher Bem Bonita","rel":"NotUsedFor","receivingConcepts":["Ficar Só Olhando","Me Cobrar","Paquerar Seu Marido"],"emittingConcepts":[]}
+{"concept":"Médico","rel":"NotUsedFor","receivingConcepts":["Detectar Uma Doenca","Estudar","Exame De Prostata","Fazer Suanduíche","Ver Seu Dente"],"emittingConcepts":[]}
+{"concept":"Médico A","rel":"NotUsedFor","receivingConcepts":["Consertar Um Carro","Tratar Um Resfriado"],"emittingConcepts":[]}
+{"concept":"Móveis","rel":"NotUsedFor","receivingConcepts":["Colocar Na Cozinha","Derrubar Um Copo De Agu"],"emittingConcepts":[]}
+{"concept":"Colocar Na Cozinha","rel":"NotUsedFor","emittingConcepts":["Móveis","Sofa Confortável","Tapete"],"receivingConcepts":[]}
+{"concept":"Móvel","rel":"NotUsedFor","receivingConcepts":["Arranhar","Botar Fogo","Fazer Um Sexo Animal","Guardar No Armário","Rabiscar","Riscar"],"emittingConcepts":[]}
+{"concept":"Guardar No Armário","rel":"NotUsedFor","emittingConcepts":["Móvel","Quadro"],"receivingConcepts":[]}
+{"concept":"Navio","rel":"NotUsedFor","receivingConcepts":["Afundar","Dirigir","Poder Pescar","Trabalhar"],"emittingConcepts":[]}
+{"concept":"Nerd","rel":"NotUsedFor","receivingConcepts":["Ensinar Algo","Se Diveritr Comigo"],"emittingConcepts":[]}
+{"concept":"Nota Fiscal","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Justificar Uma Compra","Ter Garantia"],"emittingConcepts":[]}
+{"concept":"Noz","rel":"NotUsedFor","receivingConcepts":["Comer Com a Casca","Jogar Fora","Nada","Tacar No Vizinho"],"emittingConcepts":[]}
+{"concept":"Nuvem De Pernilongos","rel":"NotUsedFor","receivingConcepts":["Destruir","Te Picar"],"emittingConcepts":[]}
+{"concept":"Objeto","rel":"NotUsedFor","receivingConcepts":["Matar as Pessoas","Quebrar"],"emittingConcepts":[]}
+{"concept":"Objeto Marítimo","rel":"NotUsedFor","receivingConcepts":["Colocar No Carro","Jogar Bola","Por No Criado Mudo"],"emittingConcepts":[]}
+{"concept":"Objeto Técnico","rel":"NotUsedFor","receivingConcepts":["Nao Estudar","Respirar"],"emittingConcepts":[]}
+{"concept":"Onda","rel":"NotUsedFor","receivingConcepts":["Fugir Dela","Te Derrubar"],"emittingConcepts":[]}
+{"concept":"Ostra","rel":"NotUsedFor","receivingConcepts":["Cheirar","Não Abri La E Comer O Que Tem Dentro"],"emittingConcepts":[]}
+{"concept":"Fazer Bolo","rel":"NotUsedFor","emittingConcepts":["Pacote De Farinha","Pasteleiro","Peixe"],"receivingConcepts":[]}
+{"concept":"Pacote De Macarrao","rel":"NotUsedFor","receivingConcepts":["Deixar Estragar","Doar","Fazer Um Colar","Jogar Fora","Lanchar"],"emittingConcepts":[]}
+{"concept":"Emagrecer","rel":"NotUsedFor","emittingConcepts":["Pacote De Sal Mineral","Rodízio De Carne"],"receivingConcepts":[]}
+{"concept":"Pai De Santo","rel":"NotUsedFor","receivingConcepts":["Fazer Macumba","Se Benzer"],"emittingConcepts":[]}
+{"concept":"Panela","rel":"NotUsedFor","receivingConcepts":["Bater Na Cabeça De Alguem","Ferver Água","Guardar Coisas","Lavar","Pregar Um Prego","Pôr Na Cabeça","Raspar as Sobras"],"emittingConcepts":[]}
+{"concept":"Bater Na Cabeça De Alguem","rel":"NotUsedFor","emittingConcepts":["Panela","Violão"],"receivingConcepts":[]}
+{"concept":"Panela De Pressão","rel":"NotUsedFor","receivingConcepts":["Cozinhar Macarrão","Explodir","Fazer Arroz","Fritar"],"emittingConcepts":[]}
+{"concept":"Papai","rel":"NotUsedFor","receivingConcepts":["Brigar","Ficar Chamando Sua Atenção"],"emittingConcepts":[]}
+{"concept":"Par De Lenços","rel":"NotUsedFor","receivingConcepts":["Limpar O Mouse","Usar"],"emittingConcepts":[]}
+{"concept":"Parafuso","rel":"NotUsedFor","receivingConcepts":["Comer","Limpar a Orelha","Limpar as Unhas"],"emittingConcepts":[]}
+{"concept":"Parquímetro","rel":"NotUsedFor","receivingConcepts":["Colocar No Quarto","Escrever","Jogar Na Loteria"],"emittingConcepts":[]}
+{"concept":"Pastel","rel":"NotUsedFor","receivingConcepts":["Beber","Comer No Almoço","Dar a Um Cachorro","Dar Ao Meu Gato","Jogar Fora","Jogar No Lixo","Lavar Pratos","Limpar Seu Óculos","Quebrar","Se Lavar","Sobremesa","Sujar a Roupa De Godura","Tapar Buraco"],"emittingConcepts":[]}
+{"concept":"Sobremesa","rel":"NotUsedFor","emittingConcepts":["Pastel","Saleiro"],"receivingConcepts":[]}
+{"concept":"Pastel De Queijo","rel":"NotUsedFor","receivingConcepts":["Cair No Chão","Comer Antes De Dormir"],"emittingConcepts":[]}
+{"concept":"Pastel De Sabor Pizza","rel":"NotUsedFor","receivingConcepts":["Almocar","Fazer","Matar a Sede"],"emittingConcepts":[]}
+{"concept":"Pastel E Do Lado Uma Barraca De Caldo De Cana","rel":"NotUsedFor","receivingConcepts":["Almoçar Todos Os Dias","Não Tomar Caldo De Cana"],"emittingConcepts":[]}
+{"concept":"Pasteleiro","rel":"NotUsedFor","receivingConcepts":["Comer Outra Comida","Dar Banho Em Meu Cachorro","Fazer Bolo","Fritar Peixe","Trocar Dinheiro"],"emittingConcepts":[]}
+{"concept":"Patricinha","rel":"NotUsedFor","receivingConcepts":["Beijar","Uma Festa"],"emittingConcepts":[]}
+{"concept":"Fazer Salada","rel":"NotUsedFor","emittingConcepts":["Pe De Rucula","Tangerina"],"receivingConcepts":[]}
+{"concept":"Pedal","rel":"NotUsedFor","receivingConcepts":["Brigar","Quebrar"],"emittingConcepts":[]}
+{"concept":"O Rato","rel":"NotUsedFor","emittingConcepts":["Pedaço De Queijo Para Dar","Queijo Para Dar"],"receivingConcepts":[]}
+{"concept":"Atirar","rel":"NotUsedFor","emittingConcepts":["Pedras","Prato"],"receivingConcepts":[]}
+{"concept":"Pedófilo","rel":"NotUsedFor","receivingConcepts":["A Vida","Deixar Atras Das Grades","Eu Nunca Quereria Um Pedofilo","Ser Amigo Do Meu Filho"],"emittingConcepts":[]}
+{"concept":"A Vida","rel":"NotUsedFor","emittingConcepts":["Pedófilo","Pepino"],"receivingConcepts":[]}
+{"concept":"Pega Panelas","rel":"NotUsedFor","receivingConcepts":["Bwargtr6wge","Enxugar Pratos","Limpar O Chão","Pegar Uma Jarra Da Geladeira"],"emittingConcepts":[]}
+{"concept":"Peixe","rel":"NotUsedFor","receivingConcepts":["Alimentação","Bater","Colocar No Aquário","Deixar Na Piscina","Fazer Bolo","Joga Lo Fora","Jogar No Lixo","Maltratar","Pôr Na Sala De Visitas","Vender"],"emittingConcepts":[]}
+{"concept":"Peixe Grande","rel":"NotUsedFor","receivingConcepts":["Brincar","Cosinhar"],"emittingConcepts":[]}
+{"concept":"Peixes","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Matar","Observar"],"emittingConcepts":[]}
+{"concept":"Penca De Banana Maçã","rel":"NotUsedFor","receivingConcepts":["Comer","Matar a Fome"],"emittingConcepts":[]}
+{"concept":"Matar a Fome","rel":"NotUsedFor","emittingConcepts":["Penca De Banana Maçã","Suco"],"receivingConcepts":[]}
+{"concept":"Penca De Bananas Da Terra","rel":"NotUsedFor","receivingConcepts":["Comer Pura","Lavar O Carro"],"emittingConcepts":[]}
+{"concept":"Pente","rel":"NotUsedFor","receivingConcepts":["Comer Comida","Morrer","Usar"],"emittingConcepts":[]}
+{"concept":"Morrer","rel":"NotUsedFor","emittingConcepts":["Pente","Uti"],"receivingConcepts":[]}
+{"concept":"Penteadeira","rel":"NotUsedFor","receivingConcepts":["Colocar No Banheiro","Colocar Vaso","Destruir","Guardar as Roupas","Se Ver Feio"],"emittingConcepts":[]}
+{"concept":"Pepino","rel":"NotUsedFor","receivingConcepts":["A Vida","Deixar Estragar","Fritar","Resolver"],"emittingConcepts":[]}
+{"concept":"Perfume","rel":"NotUsedFor","receivingConcepts":["Deixar Cair","Esvaziar","Ficar Com Mau Cheiro","Homens","Por Em Ves De Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Pergunta","rel":"NotUsedFor","receivingConcepts":["Obter Respostas","Responder Com Outra Pergunta"],"emittingConcepts":[]}
+{"concept":"Persiana","rel":"NotUsedFor","receivingConcepts":["Fechar","Não Uzar"],"emittingConcepts":[]}
+{"concept":"Peso De Papel","rel":"NotUsedFor","receivingConcepts":["Atirar Pela Janela","Atrapalhar","Enfeitar a Mesa","Jogar Em Alguém"],"emittingConcepts":[]}
+{"concept":"Pesquisador","rel":"NotUsedFor","receivingConcepts":["Contar Estórias","Não Descobrir Coisas Novas"],"emittingConcepts":[]}
+{"concept":"Pessoa","rel":"NotUsedFor","receivingConcepts":["Brigar","Importunar","Pedir Conselho"],"emittingConcepts":[]}
+{"concept":"Pessoa Bebendo","rel":"NotUsedFor","receivingConcepts":["Beijar","Pegar Uma Carona"],"emittingConcepts":[]}
+{"concept":"Xingar","rel":"NotUsedFor","emittingConcepts":["Pessoa Comendo","Professor"],"receivingConcepts":[]}
+{"concept":"Ajudar","rel":"NotUsedFor","emittingConcepts":["Pessoa Esperando Onibus","Pessoa Sadia"],"receivingConcepts":[]}
+{"concept":"Peça Para Bicicleta","rel":"NotUsedFor","receivingConcepts":["Consertar","Quebrar"],"emittingConcepts":[]}
+{"concept":"Pia","rel":"NotUsedFor","receivingConcepts":["Chutar","Deixar Entupida","Dormir","Lavar O Cachorro","Tomar Banho","Vomitar"],"emittingConcepts":[]}
+{"concept":"Vomitar","rel":"NotUsedFor","emittingConcepts":["Pia","Vaso Sanitário"],"receivingConcepts":[]}
+{"concept":"Pijama","rel":"NotUsedFor","receivingConcepts":["Ir a Uma Festa","Passear","Sair De Casa","Uma Festa"],"emittingConcepts":[]}
+{"concept":"Pimenta","rel":"NotUsedFor","receivingConcepts":["Comer Sozinha","Se Refrescar","Tomar"],"emittingConcepts":[]}
+{"concept":"Domir","rel":"NotUsedFor","emittingConcepts":["Pintura","Televisão"],"receivingConcepts":[]}
+{"concept":"Piscina","rel":"NotUsedFor","receivingConcepts":["Apenas Olhar","Cagar","Dormir","Estudar Nela","Lavar Roupa","Nadar Durante O Clima Frio"],"emittingConcepts":[]}
+{"concept":"Piscina Coberta","rel":"NotUsedFor","receivingConcepts":["Descobrí La","Nadar"],"emittingConcepts":[]}
+{"concept":"Pista De Pouso E Decolagem","rel":"NotUsedFor","receivingConcepts":["Fazer Uma Caminhada","Passear Com O Carro"],"emittingConcepts":[]}
+{"concept":"Placa De Transito","rel":"NotUsedFor","receivingConcepts":["Desobedecer","Quebrar","Ter Em Casa"],"emittingConcepts":[]}
+{"concept":"Placa Mãe","rel":"NotUsedFor","receivingConcepts":["Diminuir a Capacidade Do Micro","Jogar Agua"],"emittingConcepts":[]}
+{"concept":"Placas","rel":"NotUsedFor","receivingConcepts":["Anotar","Um Churrasco"],"emittingConcepts":[]}
+{"concept":"Planta","rel":"NotUsedFor","receivingConcepts":["Comer","Deixa La Morrer","Tacar Fogo"],"emittingConcepts":[]}
+{"concept":"Plantação De Soja","rel":"NotUsedFor","receivingConcepts":["Queimar","Viver"],"emittingConcepts":[]}
+{"concept":"Pesquisar","rel":"NotUsedFor","emittingConcepts":["Plantação De Trigo","Universitario Estudando Com Afinco"],"receivingConcepts":[]}
+{"concept":"Plástico","rel":"NotUsedFor","receivingConcepts":["Colocar Lixo","Embalar Vidros"],"emittingConcepts":[]}
+{"concept":"Pneu","rel":"NotUsedFor","receivingConcepts":["Andar","Dormir","Saltar De Um Bungee Jump","Ter Mosquitos Da Dengue","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Pneu De Bicicleta","rel":"NotUsedFor","receivingConcepts":["Saltar De Bungee Jump","Usar Como Salva Vidas","Utilizar Como Borracha"],"emittingConcepts":[]}
+{"concept":"Poltrona","rel":"NotUsedFor","receivingConcepts":["Dormir","Lecionar","Obstruir O Corredor","Pôr Na Cozinha","Servir De Apoio","Só Enfeitar a Sala"],"emittingConcepts":[]}
+{"concept":"Polvo","rel":"NotUsedFor","receivingConcepts":["Dirigir","Pôr No Lixo","Ser Um Animalzinho De Estimação"],"emittingConcepts":[]}
+{"concept":"Porca","rel":"NotUsedFor","receivingConcepts":["Fazer Companhia","Pregar Quadros"],"emittingConcepts":[]}
+{"concept":"Porta","rel":"NotUsedFor","receivingConcepts":["Bater","Chutar","Correr","Deixar Aberta","Deixar Fechada","Deixá La Trancada","Enfeitar","Impedir Entrada","Prender a Mão","Servir De Barco"],"emittingConcepts":[]}
+{"concept":"Porta Guardanapos","rel":"NotUsedFor","receivingConcepts":["Guardar Dinheiro","Usar"],"emittingConcepts":[]}
+{"concept":"Portão","rel":"NotUsedFor","receivingConcepts":["Bater Seu Carro","Carregar","Ficar Preso"],"emittingConcepts":[]}
+{"concept":"Poster De Mulher","rel":"NotUsedFor","receivingConcepts":["Ler","Oferecer À Namorada"],"emittingConcepts":[]}
+{"concept":"Tomar Café","rel":"NotUsedFor","emittingConcepts":["Posto De Gasolina","Saleiro"],"receivingConcepts":[]}
+{"concept":"Pote De Comida","rel":"NotUsedFor","receivingConcepts":["Desperdiçar","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Pote De Vinagrete","rel":"NotUsedFor","receivingConcepts":["Colocar Vinagre","Comer Pois Odeio Cebola","Comer Sozinho","Estragar"],"emittingConcepts":[]}
+{"concept":"Praia","rel":"NotUsedFor","receivingConcepts":["Ficar Na Chuva","Tomar Banho Na Chuva"],"emittingConcepts":[]}
+{"concept":"Surfar","rel":"NotUsedFor","emittingConcepts":["Prancha De Surf","Sofá","Vendedor"],"receivingConcepts":[]}
+{"concept":"Prateleira","rel":"NotUsedFor","receivingConcepts":["Colocar Bagunça","Colocar O Gato","Colocar Toalha","Comer","Dormir Nela","Pegar Uma Onda","Sentar Nela"],"emittingConcepts":[]}
+{"concept":"Dormir Nela","rel":"NotUsedFor","emittingConcepts":["Prateleira","Sala De Aula","Sala De Espera"],"receivingConcepts":[]}
+{"concept":"Prato","rel":"NotUsedFor","receivingConcepts":["Atirar","Dormir","Escrever","Fazer","Pintar","Quebrar"],"emittingConcepts":[]}
+{"concept":"Prato De Comida","rel":"NotUsedFor","receivingConcepts":["5555555555555555555555","Beber Agua","Jogar Fora","Saciar a Sede"],"emittingConcepts":[]}
+{"concept":"Praça De Alimentação","rel":"NotUsedFor","receivingConcepts":["Comer Lanches","Descansar","Ficar Olhando as Pessoas Comer","Nao Comer Nada","Passar Fome"],"emittingConcepts":[]}
+{"concept":"Prego","rel":"NotUsedFor","receivingConcepts":["Martelar","Pregar O Dedo"],"emittingConcepts":[]}
+{"concept":"Presente","rel":"NotUsedFor","receivingConcepts":["Deixar Guardado","Jogar Fora","Mim"],"emittingConcepts":[]}
+{"concept":"Privada","rel":"NotUsedFor","receivingConcepts":["Beber Água","Conversar","Defecar","Lavar as Mãos","Limpar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Defecar","rel":"NotUsedFor","emittingConcepts":["Privada","Sanitário Público"],"receivingConcepts":[]}
+{"concept":"Produto","rel":"NotUsedFor","receivingConcepts":["Deixar Estragar","Jogar Fora","Melhorar O Cabelo","Não Uza Lo"],"emittingConcepts":[]}
+{"concept":"Professor","rel":"NotUsedFor","receivingConcepts":["Bater Papo","Brincar","Ensina Lo","Fumar","Jogar Damas","Limpar a Bunda","Namorar","O Fim De Semana","Te Dar Um Sermão","Xingar"],"emittingConcepts":[]}
+{"concept":"Professor A","rel":"NotUsedFor","receivingConcepts":["Dançar","Dar Bronca"],"emittingConcepts":[]}
+{"concept":"Professora","rel":"NotUsedFor","receivingConcepts":["Aplicar Prova","Maltrata La","Me Impor as Coisas"],"emittingConcepts":[]}
+{"concept":"Projetor","rel":"NotUsedFor","receivingConcepts":["Apoio De Papéis","Clarear O Ambiente","Derrubar","Projetar Imagens"],"emittingConcepts":[]}
+{"concept":"Derrubar","rel":"NotUsedFor","emittingConcepts":["Projetor","Vidro De Esmalte"],"receivingConcepts":[]}
+{"concept":"Projetor De Cinema","rel":"NotUsedFor","receivingConcepts":["Arrumar","Escovar Os Dentes"],"emittingConcepts":[]}
+{"concept":"Promoção","rel":"NotUsedFor","receivingConcepts":["Assitir Novelas","Gastar Muito Dinheirp","Pisar Nas Pessoas"],"emittingConcepts":[]}
+{"concept":"Prova","rel":"NotUsedFor","receivingConcepts":["Reprovar","Tirar Nota Baixa"],"emittingConcepts":[]}
+{"concept":"Prédio","rel":"NotUsedFor","receivingConcepts":["Comprar","Demolir","Escalar"],"emittingConcepts":[]}
+{"concept":"Pássaro","rel":"NotUsedFor","receivingConcepts":["Empinar Pipas","Matá Lo"],"emittingConcepts":[]}
+{"concept":"Pátio","rel":"NotUsedFor","receivingConcepts":["Fazer Bagunça","Ficar Vazio","Limpar","Morar Nele"],"emittingConcepts":[]}
+{"concept":"Fazer Bagunça","rel":"NotUsedFor","emittingConcepts":["Pátio","Quarto","Sala"],"receivingConcepts":[]}
+{"concept":"Pão","rel":"NotUsedFor","receivingConcepts":["Apodrecer","Deixar Endurecer","Deixar Mofar","Jogar Fora","Limpar","Não Come Lo"],"emittingConcepts":[]}
+{"concept":"Não Come Lo","rel":"NotUsedFor","emittingConcepts":["Pão","Queijo","Salgado"],"receivingConcepts":[]}
+{"concept":"Pão De Hamburguer","rel":"NotUsedFor","receivingConcepts":["Escovar Os Dentes","Limpar O Chão","Passar Manteiga"],"emittingConcepts":[]}
+{"concept":"Pão Fresquinho","rel":"NotUsedFor","receivingConcepts":["Fazer Torradas","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Pé De Alface","rel":"NotUsedFor","receivingConcepts":["Comer Cozido","Decorar","Deixar Estragar","Fazer Uma Sopa","Jogar Fora","Nada","Plantar Na Sua Casa","Vestir"],"emittingConcepts":[]}
+{"concept":"Pé De Rabanetes","rel":"NotUsedFor","receivingConcepts":["Brincar","Cuidar","Fazer Suco","Molhar"],"emittingConcepts":[]}
+{"concept":"Molhar","rel":"NotUsedFor","emittingConcepts":["Pé De Rabanetes","Samambaia","Secador De Cabelo","Vaso Com Uma Palmeira"],"receivingConcepts":[]}
+{"concept":"Pêra","rel":"NotUsedFor","receivingConcepts":["Destruir","Fazer Doce","Jogar Fora","Jogar No Irmão","Jogar No Lixo"],"emittingConcepts":[]}
+{"concept":"Pêssego","rel":"NotUsedFor","receivingConcepts":["Chutar","Comer","Fazer Suco","Lavar O Cabelo","Matar","Munição"],"emittingConcepts":[]}
+{"concept":"Quadra","rel":"NotUsedFor","receivingConcepts":["Fazer Um Lual","Tomar Sol"],"emittingConcepts":[]}
+{"concept":"Quadro","rel":"NotUsedFor","receivingConcepts":["Chorar","Coloca Lo No Lixo","Deixa Lo No Chão","Deixar Escondido","Guardar No Armário","Jogar No Lixo","Pendurar No Teto","Rasgar","Sujar","Usar Como Prato","Vende Lo"],"emittingConcepts":[]}
+{"concept":"Deixar Escondido","rel":"NotUsedFor","emittingConcepts":["Quadro","Quadro De Picasso"],"receivingConcepts":[]}
+{"concept":"Quadro De Picasso","rel":"NotUsedFor","receivingConcepts":["Deixar Escondido","Guardar"],"emittingConcepts":[]}
+{"concept":"Quadro Na Parede","rel":"NotUsedFor","receivingConcepts":["Assistir Tv","Estragar","Tapar Buracos"],"emittingConcepts":[]}
+{"concept":"Quadro Negro","rel":"NotUsedFor","receivingConcepts":["Apagar","Bater","Pintar","Servir De Mesa"],"emittingConcepts":[]}
+{"concept":"Quati","rel":"NotUsedFor","receivingConcepts":["Conversar","Estragar a Maionese","Me Alimentar"],"emittingConcepts":[]}
+{"concept":"Queijo","rel":"NotUsedFor","receivingConcepts":["Esfregar No Pe","Não Come Lo"],"emittingConcepts":[]}
+{"concept":"Quintal","rel":"NotUsedFor","receivingConcepts":["Cimentar Todo","Deitar","Lavar"],"emittingConcepts":[]}
+{"concept":"Rack","rel":"NotUsedFor","receivingConcepts":["Apoiar","Colocar Copos","Derrubar Agua","Dormir","Guardar","Juntar Poeira"],"emittingConcepts":[]}
+{"concept":"Ralo","rel":"NotUsedFor","receivingConcepts":["Deixar Entupir","Dormir","Escoar a Agua","Escoar Os Líquidos Que Estão Sobre Um Piso De Um Cômodo Qualquer","Sujar","Tampa Lo"],"emittingConcepts":[]}
+{"concept":"Ratasana","rel":"NotUsedFor","receivingConcepts":["Alimenta La","Brincar","Comer"],"emittingConcepts":[]}
+{"concept":"Ratinho","rel":"NotUsedFor","receivingConcepts":["Animal De Criação","Comer","Hy54y4y","Servir De Isca"],"emittingConcepts":[]}
+{"concept":"Rato","rel":"NotUsedFor","receivingConcepts":["A Janta","Admirar","Almoço","Amigo","Animal De Estimação","Beijar","Comer","Criar","Dar Pro Gato","Dar Pro Gato Comer","Fazer Estrago Na Dispensa","Ficar Dentro De Casa","Roer","Ter Ao Seu Lado"],"emittingConcepts":[]}
+{"concept":"Admirar","rel":"NotUsedFor","emittingConcepts":["Rato","Veleiro"],"receivingConcepts":[]}
+{"concept":"Rede","rel":"NotUsedFor","receivingConcepts":["Deixar Guardada","Dormir"],"emittingConcepts":[]}
+{"concept":"Rede De Computadores","rel":"NotUsedFor","receivingConcepts":["Brincar","Ler Emails","Montar"],"emittingConcepts":[]}
+{"concept":"Ler Emails","rel":"NotUsedFor","emittingConcepts":["Rede De Computadores","Telefone"],"receivingConcepts":[]}
+{"concept":"Refeição","rel":"NotUsedFor","receivingConcepts":["Estragar","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Refrigerante","rel":"NotUsedFor","receivingConcepts":["Abrir","Nao Engordar","Tomar Ele Quente","Urinar"],"emittingConcepts":[]}
+{"concept":"Registro","rel":"NotUsedFor","receivingConcepts":["Anotar","Caçar Elefantes"],"emittingConcepts":[]}
+{"concept":"Relatório","rel":"NotUsedFor","receivingConcepts":["Corrigir","Se Organizar"],"emittingConcepts":[]}
+{"concept":"Relógio","rel":"NotUsedFor","receivingConcepts":["Durmir","Ficar Parado","Marcar Hora Errada","Perder O Horário","Ver Se Vai Chover"],"emittingConcepts":[]}
+{"concept":"Responsável","rel":"NotUsedFor","receivingConcepts":["Cuidar Da Sala","Mandar"],"emittingConcepts":[]}
+{"concept":"Restaurante","rel":"NotUsedFor","receivingConcepts":["Dormir","Não Gastar","Passar Comprar Selos Postais"],"emittingConcepts":[]}
+{"concept":"Retro Projetor","rel":"NotUsedFor","receivingConcepts":["Não Ter Nada Que Projetar","Servir Como Porta Copos"],"emittingConcepts":[]}
+{"concept":"Revista","rel":"NotUsedFor","receivingConcepts":["Rasgar","Resgar"],"emittingConcepts":[]}
+{"concept":"Revista De Automóveis","rel":"NotUsedFor","receivingConcepts":["Estragar","Rasgar"],"emittingConcepts":[]}
+{"concept":"Riacho","rel":"NotUsedFor","receivingConcepts":["Lavar a Roupa","Salgar O Couro"],"emittingConcepts":[]}
+{"concept":"Rocha","rel":"NotUsedFor","receivingConcepts":["Comer","Deitar","Jogar Em Alguem","Presentear"],"emittingConcepts":[]}
+{"concept":"Roda","rel":"NotUsedFor","receivingConcepts":["Escrever","Furar","Guardar","Snetar"],"emittingConcepts":[]}
+{"concept":"Rodízio De Carne","rel":"NotUsedFor","receivingConcepts":["Comer Pizza","Emagrecer"],"emittingConcepts":[]}
+{"concept":"Rosa","rel":"NotUsedFor","receivingConcepts":["Comer","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Rosa Dos Ventos","rel":"NotUsedFor","receivingConcepts":["Desorientar","Utilizar"],"emittingConcepts":[]}
+{"concept":"Rotulo","rel":"NotUsedFor","receivingConcepts":["Brincar","Seu Estilo"],"emittingConcepts":[]}
+{"concept":"Roupa","rel":"NotUsedFor","receivingConcepts":["Ficar Pelado","Masturbar Se","Nadar","Pôr No Forno","Transar"],"emittingConcepts":[]}
+{"concept":"Rua","rel":"NotUsedFor","receivingConcepts":["Atravessar Sem Olhar","Deitar Nela"],"emittingConcepts":[]}
+{"concept":"Rua Interditada","rel":"NotUsedFor","receivingConcepts":["Dirigir","Passar"],"emittingConcepts":[]}
+{"concept":"Sabonete","rel":"NotUsedFor","receivingConcepts":["Escovar Os Dentes","Lamber","Lavar a Roupa","Lavar Louça"],"emittingConcepts":[]}
+{"concept":"Lavar Louça","rel":"NotUsedFor","emittingConcepts":["Sabonete","Tomada"],"receivingConcepts":[]}
+{"concept":"Saco De Farinha","rel":"NotUsedFor","receivingConcepts":["Carregar","Toalha De Banho"],"emittingConcepts":[]}
+{"concept":"Sal","rel":"NotUsedFor","receivingConcepts":["Engolir Sozinho","Jogar Fora","Por Em Um Doce"],"emittingConcepts":[]}
+{"concept":"Sala","rel":"NotUsedFor","receivingConcepts":["Fazer Bagunça","Fazer Comida","Sentar"],"emittingConcepts":[]}
+{"concept":"Fazer Comida","rel":"NotUsedFor","emittingConcepts":["Sala","Vaso Sanitário"],"receivingConcepts":[]}
+{"concept":"Sala De Aula","rel":"NotUsedFor","receivingConcepts":["Brigar","Dormir Nela"],"emittingConcepts":[]}
+{"concept":"Sala De Espera","rel":"NotUsedFor","receivingConcepts":["Aguardar a Ser Clinicado","Dormir Nela","Jogar Bola","Uma Lanchonete"],"emittingConcepts":[]}
+{"concept":"Sala De Jantar","rel":"NotUsedFor","receivingConcepts":["Dormir","Ler"],"emittingConcepts":[]}
+{"concept":"Sala Dos Professores","rel":"NotUsedFor","receivingConcepts":["Conversar","Dormir","Fazer Festa","Jogar Truco","Levar Pito"],"emittingConcepts":[]}
+{"concept":"Salada","rel":"NotUsedFor","receivingConcepts":["Comer Com Sorvete","Olhar","Trabalhos De Arte"],"emittingConcepts":[]}
+{"concept":"Saleiro","rel":"NotUsedFor","receivingConcepts":["Colocar Asçucar Nele","Colocar Açucar","Cuspir","Doce","Guardar Açucar","Sobremesa","Tomar Café"],"emittingConcepts":[]}
+{"concept":"Cuspir","rel":"NotUsedFor","emittingConcepts":["Saleiro","Suco","Vaso Sanitário"],"receivingConcepts":[]}
+{"concept":"Salgadinho","rel":"NotUsedFor","receivingConcepts":["Jogar No Lixo","Matar a Sede"],"emittingConcepts":[]}
+{"concept":"Salgadinhos","rel":"NotUsedFor","receivingConcepts":["Dar Sede","Jogar Fora"],"emittingConcepts":[]}
+{"concept":"Salgado","rel":"NotUsedFor","receivingConcepts":["Comer Com Doce","Misturar Com Doce","Não Come Lo"],"emittingConcepts":[]}
+{"concept":"Samambaia","rel":"NotUsedFor","receivingConcepts":["Brincar","Colocar Na Cabeça","Comer","Deixar Morer","Molhar","Pendurar Na Varanda"],"emittingConcepts":[]}
+{"concept":"Sanduiche Natural","rel":"NotUsedFor","receivingConcepts":["Fritar","Vender Na Lanchonete"],"emittingConcepts":[]}
+{"concept":"Sanitário Público","rel":"NotUsedFor","receivingConcepts":["Defecar","Uza Lo Geralmente São Muito Sujos"],"emittingConcepts":[]}
+{"concept":"Sapato","rel":"NotUsedFor","receivingConcepts":["Atirar Em Alguém","Ir À Praia","Jogar Futebol","Pisar Em Meleca","Tomar Banho","Usar"],"emittingConcepts":[]}
+{"concept":"Sapo","rel":"NotUsedFor","receivingConcepts":["Beijar","Brincar","Comer","Correr De Medo","Guardar","Maltrata Lo"],"emittingConcepts":[]}
+{"concept":"Secador De Cabelo","rel":"NotUsedFor","receivingConcepts":["Jogar Na Banheira","Molhar","Queimar O Cabelo","Se Queimar","Secar O Cachorro","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Secretária","rel":"NotUsedFor","receivingConcepts":["Assinar Cheques","Contratar","Ir Ao Cinema"],"emittingConcepts":[]}
+{"concept":"Segurança","rel":"NotUsedFor","receivingConcepts":["Deixar Em Casa","Fins De Semana","Mamorar","Te Acompanhar"],"emittingConcepts":[]}
+{"concept":"Selim","rel":"NotUsedFor","receivingConcepts":["Deitar","Ficar De Pé","Viajar"],"emittingConcepts":[]}
+{"concept":"Semáfaro","rel":"NotUsedFor","receivingConcepts":["Parar O Carro","Ser Assaltado"],"emittingConcepts":[]}
+{"concept":"Seção De Pronto Atendimento","rel":"NotUsedFor","receivingConcepts":["Comparecer","Receber Informação"],"emittingConcepts":[]}
+{"concept":"Shampo","rel":"NotUsedFor","receivingConcepts":["Cabelos Oleosos","Lavar a Roupa"],"emittingConcepts":[]}
+{"concept":"Shampoo","rel":"NotUsedFor","receivingConcepts":["Beber","Jogar Nas Plantas","Lavar a Pia","Lavar Os Pratos","Limpar O Chao","Tomar Banho","Usar Como Gasolina"],"emittingConcepts":[]}
+{"concept":"Siri","rel":"NotUsedFor","receivingConcepts":["Comer","Jogar Fora","Mata Lo","Ser Mordido Por Ele"],"emittingConcepts":[]}
+{"concept":"Sofa Confortável","rel":"NotUsedFor","receivingConcepts":["Colocar Na Cozinha","Dormir","Jantar"],"emittingConcepts":[]}
+{"concept":"Sofá","rel":"NotUsedFor","receivingConcepts":["Almoçar","Assistir Televisão","Colocar Um Vaso Em Cima","Comer","Estudar","Fazer Exercícios Físicos","Jogar","Morder","Perder Tempo","Pular","Pular Em Cima","Pôr Fogo","Surfar","Urinar"],"emittingConcepts":[]}
+{"concept":"Som","rel":"NotUsedFor","receivingConcepts":["Dormir","Ouvir Muito Alto","Pôr No Banheiro"],"emittingConcepts":[]}
+{"concept":"Sopa","rel":"NotUsedFor","receivingConcepts":["Dormir","Passar O Frio","Tomar De Canudinho"],"emittingConcepts":[]}
+{"concept":"Submarino","rel":"NotUsedFor","receivingConcepts":["Consertar","Enfeitar a Minha Sala","Ir Ao Deserto","Navegar Sobre a Água","Passear"],"emittingConcepts":[]}
+{"concept":"Suco","rel":"NotUsedFor","receivingConcepts":["Cuspir","Matar a Fome"],"emittingConcepts":[]}
+{"concept":"Sujeira","rel":"NotUsedFor","receivingConcepts":["Entupir a Pia","Minha Roupa"],"emittingConcepts":[]}
+{"concept":"Sujeito Mal Encarado","rel":"NotUsedFor","receivingConcepts":["Conversar","Enfrentar"],"emittingConcepts":[]}
+{"concept":"Tabela","rel":"NotUsedFor","receivingConcepts":["Calcular","Conferir Os Dados"],"emittingConcepts":[]}
+{"concept":"Talher","rel":"NotUsedFor","receivingConcepts":["Cavocar O Canteiro","Ficar Olhando","Nao Tra","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Talheres","rel":"NotUsedFor","receivingConcepts":["Jogar Nos Outros","Pentear O Cabelo"],"emittingConcepts":[]}
+{"concept":"Tangerina","rel":"NotUsedFor","receivingConcepts":["Fazer Salada","Jogar Bola"],"emittingConcepts":[]}
+{"concept":"Tapete","rel":"NotUsedFor","receivingConcepts":["Colocar Na Cozinha","Comer","Emebelezar a Sala","Escorregar E Cair","Nao Sujar","Pôr No Quintal","Rasgá Lo","Se Esconder Sobre Ele","Vestir","Voar"],"emittingConcepts":[]}
+{"concept":"Escorregar E Cair","rel":"NotUsedFor","emittingConcepts":["Tapete","Óleo"],"receivingConcepts":[]}
+{"concept":"Tartaruga","rel":"NotUsedFor","receivingConcepts":["Atravessar a Rua","Comer","Correr","Dormir Com Ela"],"emittingConcepts":[]}
+{"concept":"Teclado Sujo","rel":"NotUsedFor","receivingConcepts":["Bater Nas Pessoas","Usar"],"emittingConcepts":[]}
+{"concept":"Telefone","rel":"NotUsedFor","receivingConcepts":["Bater","Enfeite","Ficar Mudo","Ler Emails","Tocar a Noite"],"emittingConcepts":[]}
+{"concept":"Telefone Celular","rel":"NotUsedFor","receivingConcepts":["Esnobar","Me Achar"],"emittingConcepts":[]}
+{"concept":"Televisor Exibindo Programas Chatos","rel":"NotUsedFor","receivingConcepts":["Assistir Aos Domingos","Passar O Dia"],"emittingConcepts":[]}
+{"concept":"Televisão","rel":"NotUsedFor","receivingConcepts":["Assitir","Atrapalhar Minha Vida","Chutar","Domir","Escutar Musica","Ouvir Música"],"emittingConcepts":[]}
+{"concept":"Telhado","rel":"NotUsedFor","receivingConcepts":["Careca","Cobrir a Piscina","Morara","Pular"],"emittingConcepts":[]}
+{"concept":"Telão","rel":"NotUsedFor","receivingConcepts":["Assistir Filmes Chatos","Assistir Horario Eleitoral","Dormir","Quebrar"],"emittingConcepts":[]}
+{"concept":"Tenda","rel":"NotUsedFor","receivingConcepts":["Ficar Ao Sol","Morar Nela"],"emittingConcepts":[]}
+{"concept":"Terminal De Computador","rel":"NotUsedFor","receivingConcepts":["Jogar","Ler Um Livro"],"emittingConcepts":[]}
+{"concept":"Terno","rel":"NotUsedFor","receivingConcepts":["Ir Ao Circo","Limpar O Chão"],"emittingConcepts":[]}
+{"concept":"Tesoura","rel":"NotUsedFor","receivingConcepts":["Agredir Alguém","Cortar Chapas De Aço","Cozinhar","Machucar","Matar"],"emittingConcepts":[]}
+{"concept":"Teto","rel":"NotUsedFor","receivingConcepts":["Acampar","Cair Na Sua Cabeça","Cobrir O Sol","Pisar","Voar"],"emittingConcepts":[]}
+{"concept":"Tijolo","rel":"NotUsedFor","receivingConcepts":["Comer","Jogar","Usar Como Travesseiro"],"emittingConcepts":[]}
+{"concept":"Toalha","rel":"NotUsedFor","receivingConcepts":["Enchugar O Chão","Jogar Na Piscina","Limpara Os Sapatos","Se Molhar"],"emittingConcepts":[]}
+{"concept":"Toalha De Mesa","rel":"NotUsedFor","receivingConcepts":["Derrubar Vinho","Se Enxugar","Usa La Como Guardanapo"],"emittingConcepts":[]}
+{"concept":"Tomada","rel":"NotUsedFor","receivingConcepts":["Falar No Celular","Lavar Louça","Ligar O Meu Laptop Acer","Tomar Choque"],"emittingConcepts":[]}
+{"concept":"Torneira","rel":"NotUsedFor","receivingConcepts":["Cozinhar","Secar Coisas","Sujar a Pia"],"emittingConcepts":[]}
+{"concept":"Touro Bravo","rel":"NotUsedFor","receivingConcepts":["Correr Atras De Mim","Dar Olá","Montar","Nunca Eu Quereria Um Touro Bravo"],"emittingConcepts":[]}
+{"concept":"Trabalhador","rel":"NotUsedFor","receivingConcepts":["Descansar","Ficar Brincando No Serviço","Nada","Pegar Férias"],"emittingConcepts":[]}
+{"concept":"Travesseiro","rel":"NotUsedFor","receivingConcepts":["555","Andar De Bicicleta","Brigar","Colocar No Fogão","Jogar No Chão","Jogar No Outro","Lamber","Trabalhar","Transar"],"emittingConcepts":[]}
+{"concept":"Travesti","rel":"NotUsedFor","receivingConcepts":["Amigo","Companhia Noturna","Passear Comigo"],"emittingConcepts":[]}
+{"concept":"Tubarao","rel":"NotUsedFor","receivingConcepts":["Nadar Ao Meu Lado Hehehe","Ser Um Animal De Estimação"],"emittingConcepts":[]}
+{"concept":"Tubarão","rel":"NotUsedFor","receivingConcepts":["Ser Seu Bicho De Estimação","Ver","Ver De Perto"],"emittingConcepts":[]}
+{"concept":"Turista","rel":"NotUsedFor","receivingConcepts":["Destruir Minha Cidade","Mostrar a Cidade"],"emittingConcepts":[]}
+{"concept":"Turma De Amigos","rel":"NotUsedFor","receivingConcepts":["Fazer Sexo","Po Los Numa Fria"],"emittingConcepts":[]}
+{"concept":"Táxi Com O Pneu Furado","rel":"NotUsedFor","receivingConcepts":["Levar Me a Algum Lugar","Levar Me No Aeroporto"],"emittingConcepts":[]}
+{"concept":"Técnico De Informática","rel":"NotUsedFor","receivingConcepts":["Arrumar a Tv","Ensinar Como Se Cozinha","Preparar O Almoço"],"emittingConcepts":[]}
+{"concept":"Tênis","rel":"NotUsedFor","receivingConcepts":["Guardar","Sujar"],"emittingConcepts":[]}
+{"concept":"Um Box","rel":"NotUsedFor","receivingConcepts":["Arrumar Um Fórmula 1","Fazer a Barba","Levar a Moto Trocar O Pneu"],"emittingConcepts":[]}
+{"concept":"Um Quadro","rel":"NotUsedFor","receivingConcepts":["Deixar No Chão","Ficar No Chão","Nadar"],"emittingConcepts":[]}
+{"concept":"Utensílio","rel":"NotUsedFor","receivingConcepts":["Pintar","Utilizar","Vestir"],"emittingConcepts":[]}
+{"concept":"Vaca","rel":"NotUsedFor","receivingConcepts":["Acariciar","Brincar","Brincar De Futebol","Cavalgar","Coloca La No Quintal","Conversar","Pegar O Leite","Pôr No Quintal","Servir De Montaria","Ter Em Casa"],"emittingConcepts":[]}
+{"concept":"Vaga Na Garagem","rel":"NotUsedFor","receivingConcepts":["Armazenar Móveis","Colocar Uma Bicicleta","Estacionar Uma Bicicleta"],"emittingConcepts":[]}
+{"concept":"Vaso","rel":"NotUsedFor","receivingConcepts":["Colocar Leite","Fazer Um Aquario Nele","Frutas","Jogá Lo No Chão E Quebrá Lo","Pôr Lixo","Quebrar"],"emittingConcepts":[]}
+{"concept":"Vaso Com Samambaia","rel":"NotUsedFor","receivingConcepts":["Colocar Dentro Da Piscina","Colocar Fogo","Enfeiar"],"emittingConcepts":[]}
+{"concept":"Vaso Com Uma Palmeira","rel":"NotUsedFor","receivingConcepts":["Jogar Na Cabea De Alguém","Molhar"],"emittingConcepts":[]}
+{"concept":"Vaso De Flor","rel":"NotUsedFor","receivingConcepts":["Jogar Pela Janela","Usar Como Cinzeiro"],"emittingConcepts":[]}
+{"concept":"Vaso Sanitário","rel":"NotUsedFor","receivingConcepts":["Colocar Flores","Cuspir","Escovar Os Dentes","Fazer Comida","Limpa Lo","Vomitar"],"emittingConcepts":[]}
+{"concept":"Vassoura","rel":"NotUsedFor","receivingConcepts":["125919 8","Bater Em Alguém","Voar"],"emittingConcepts":[]}
+{"concept":"Veiculo Atolado Na Areia","rel":"NotUsedFor","receivingConcepts":["Andar","Não Dar Trabalho"],"emittingConcepts":[]}
+{"concept":"Vendedor","rel":"NotUsedFor","receivingConcepts":["Arrancar Um Dente","Encher O Saco","Perguntar Se Você Quer Uma Ajuda","Pertubar","Surfar"],"emittingConcepts":[]}
+{"concept":"Vendedora Bonita","rel":"NotUsedFor","receivingConcepts":["Conversar","Flertar"],"emittingConcepts":[]}
+{"concept":"Ventilador","rel":"NotUsedFor","receivingConcepts":["Espantar Mosquito","Esquentar","Ficar Falando E Fazendo Eco","Ligar No Inverno","O Frio","Os Dias Frios","Se Aquecer","Se Resfriar","Usar No Frio"],"emittingConcepts":[]}
+{"concept":"Verdura","rel":"NotUsedFor","receivingConcepts":["Jogar Futebol","O Café Da Manhã"],"emittingConcepts":[]}
+{"concept":"Video Cassete","rel":"NotUsedFor","receivingConcepts":["Assistir Dvds","Cozinhar","Ver Dvd"],"emittingConcepts":[]}
+{"concept":"Vidro De Esmalte","rel":"NotUsedFor","receivingConcepts":["Beber","Derrubar","Derrubar Na Roupa"],"emittingConcepts":[]}
+{"concept":"Violão","rel":"NotUsedFor","receivingConcepts":["Bater Na Cabeça De Alguem","Dar Na Cabeça Da Irmã","Desafinar"],"emittingConcepts":[]}
+{"concept":"Vitrine","rel":"NotUsedFor","receivingConcepts":["Arrumar","Comprar","Não Olhar O Que Ela Espoem","Quebrar","Querer E Não Ter"],"emittingConcepts":[]}
+{"concept":"Vitrô","rel":"NotUsedFor","receivingConcepts":["Comer","Vitar"],"emittingConcepts":[]}
+{"concept":"Webcam","rel":"NotUsedFor","receivingConcepts":["Deixar Guardada","Filmar O Micro"],"emittingConcepts":[]}
+{"concept":"Zebra","rel":"NotUsedFor","receivingConcepts":["Bater","Ficar Na Sua Casa","Guardar a Minha Casa","Passear No Paque","Ter Como Bicho De Estimação"],"emittingConcepts":[]}
+{"concept":"Ziper","rel":"NotUsedFor","receivingConcepts":["Colocar No Casaco Estragado","Consertar"],"emittingConcepts":[]}
+{"concept":"Água","rel":"NotUsedFor","receivingConcepts":["Jogar Fora","Molhar O Tapete Da Sala"],"emittingConcepts":[]}
+{"concept":"Área De Serviço","rel":"NotUsedFor","receivingConcepts":["Assistir Tv","Colocar Um Chuveiro","Jantar","Tomar Banho"],"emittingConcepts":[]}
+{"concept":"Árvore","rel":"NotUsedFor","receivingConcepts":["Cortar","Dentro De Casa","Fazer Sombra","Podar","Subir Em Cima Dela"],"emittingConcepts":[]}
+{"concept":"Óleo","rel":"NotUsedFor","receivingConcepts":["Beber","Beber Puro","Escorregar E Cair","Passar Na Cabeça"],"emittingConcepts":[]}

@@ -1,0 +1,770 @@
+{"concept":"Act in Play","rel":"HasLastSubevent","receivingConcepts":["Exit Stage","Take Bow"],"emittingConcepts":[]}
+{"concept":"Take Bow","rel":"HasLastSubevent","emittingConcepts":["Act in Play","Fiddle","Perform","Play Violin"],"receivingConcepts":[]}
+{"concept":"Add Up Column of Numbers","rel":"HasLastSubevent","receivingConcepts":["Double Check Figures","Get Result","Get Total","Make Error","Write Down Sum"],"emittingConcepts":[]}
+{"concept":"Make Error","rel":"HasLastSubevent","emittingConcepts":["Add Up Column of Numbers","Calculate Things Quickly"],"receivingConcepts":[]}
+{"concept":"Add Up Numbers","rel":"HasLastSubevent","receivingConcepts":["Arrive at Sum","Get Out Calculator","Write Down Total"],"emittingConcepts":[]}
+{"concept":"Write Down Total","rel":"HasLastSubevent","emittingConcepts":["Add Up Numbers","Compute Sum"],"receivingConcepts":[]}
+{"concept":"Advance Into Battle","rel":"HasLastSubevent","receivingConcepts":["Fight Enemy","Pray","Prepared","Retreat"],"emittingConcepts":[]}
+{"concept":"Fight Enemy","rel":"HasLastSubevent","emittingConcepts":["Advance Into Battle"],"receivingConcepts":["Brag","Cease Fighting","Destroy Enemy","Determine Who Won Fight","Finish Enemy","Vanquish"]}
+{"concept":"Pray","rel":"HasLastSubevent","emittingConcepts":["Advance Into Battle","Build Cathedral","Hang Out at Bar","Jump Out of Window","Take Examination","Take Midterm"],"receivingConcepts":["Do Sign of Cross","End Prayer With Amen","Get Off Knees","Say Amen"]}
+{"concept":"Agree With","rel":"HasLastSubevent","receivingConcepts":["Admit","Come to Mutual Understanding","Feel Consensus","Nod","Reach Concensus","Smile"],"emittingConcepts":[]}
+{"concept":"Smile","rel":"HasLastSubevent","emittingConcepts":["Agree With","Buy Hamburger","Clean House","Copulate","Entertain","Flirt","Give Assistance","Kiss","Listen to Radio","Look Better","Read Letter","Satisfy Appetites With Minimum Effort","See Favorite Show"],"receivingConcepts":[]}
+{"concept":"Analyse","rel":"HasLastSubevent","receivingConcepts":["Come to Conclusion","Conclude Analysis","Make Conclusion"],"emittingConcepts":["Listen"]}
+{"concept":"Make Conclusion","rel":"HasLastSubevent","emittingConcepts":["Analyse","Illustrate Point"],"receivingConcepts":[]}
+{"concept":"Hang Up","rel":"HasLastSubevent","emittingConcepts":["Answer Phone","Clean Clothing","Make Phone Call","Paint Picture","Talk on Phone"],"receivingConcepts":[]}
+{"concept":"Answer Questions","rel":"HasLastSubevent","receivingConcepts":["Ask Questions Back","Consider Answer Carefully","Go Away","Stop Talking","Stop Talking or Writing"],"emittingConcepts":["Take Stand"]}
+{"concept":"Go Away","rel":"HasLastSubevent","emittingConcepts":["Answer Questions","Comfort Friend","See Band"],"receivingConcepts":[]}
+{"concept":"Stop Talking","rel":"HasLastSubevent","emittingConcepts":["Answer Questions","Express Yourself","Have Conversation","Tell Story"],"receivingConcepts":[]}
+{"concept":"Apply for Job","rel":"HasLastSubevent","receivingConcepts":["Give Application to Employer","Go to Interview","Hand in Application","Interview","Send to Company","Turn in Application"],"emittingConcepts":[]}
+{"concept":"Attend Class","rel":"HasLastSubevent","receivingConcepts":["Leave","Leave Class","Sit at Desk","Take Notes"],"emittingConcepts":[]}
+{"concept":"Leave","rel":"HasLastSubevent","emittingConcepts":["Attend Class","Attend Lecture","Attend Meeting","Chat With Friends","Enjoy Film","Go to Film","Go to Mall","Go to Movie","Go to Restaurant","Go to Zoo","See Movie","Visit Art Gallery","Visit Museum"],"receivingConcepts":[]}
+{"concept":"Sit at Desk","rel":"HasLastSubevent","emittingConcepts":["Attend Class","Study"],"receivingConcepts":[]}
+{"concept":"Attend Classical Concert","rel":"HasLastSubevent","receivingConcepts":["Applaud","Applaud Players","Applaude","Clap","Cry","Get Otu From There","Get Out From There","Walk Out"],"emittingConcepts":[]}
+{"concept":"Applaud","rel":"HasLastSubevent","emittingConcepts":["Attend Classical Concert","Enjoy Film","Go See Play","Go to Performance","Hear Music","Hear Singing","Watch Musician Perform"],"receivingConcepts":[]}
+{"concept":"Clap","rel":"HasLastSubevent","emittingConcepts":["Attend Classical Concert","Go to Performance"],"receivingConcepts":[]}
+{"concept":"Cry","rel":"HasLastSubevent","emittingConcepts":["Attend Classical Concert","Bury Cat","Get Divorce","Know How Stock Market Performed","Laugh at Joke","Lie","Pay Bills","Read Book","Watch Movie"],"receivingConcepts":["Wipe Tears From Face"]}
+{"concept":"Attend Lecture","rel":"HasLastSubevent","receivingConcepts":["Applaud Speaker","Clap Hands","Close Note Book","Gather Belongings","Leave","Leave Lecture Hall"],"emittingConcepts":[]}
+{"concept":"Clap Hands","rel":"HasLastSubevent","emittingConcepts":["Attend Lecture","Conquer Opponent","Hear Singing","See Exciting Story"],"receivingConcepts":[]}
+{"concept":"Attend Meeting","rel":"HasLastSubevent","receivingConcepts":["Bad Mouth Everyone There","Go Home","Have Refreshments","Leave","Leave Meeting","Say Farewell to Participants","Stand Up","Thank Speaker"],"emittingConcepts":[]}
+{"concept":"Go Home","rel":"HasLastSubevent","emittingConcepts":["Attend Meeting","Fish","Fly Kite","Go for Jog","Go for Walk","Go Jogging","Go on Strike","Go on Vacation","Go See Film","Go to Mall","Go to Opera","Go to Pub","Go to Sporting Event","Hang Out at Bar","Holiday Shop","Play Ball","Receive Degree","Serve Justice","Take Walk","Travel","Visit Other Countries","Wait on Line","Walk Around Lake","Work Box Office"],"receivingConcepts":[]}
+{"concept":"Stand Up","rel":"HasLastSubevent","emittingConcepts":["Attend Meeting","Eat","Sit Down","Stay in Bed","Tie Shoelace"],"receivingConcepts":["Keep Balance","Sit Down","Straighten Back"]}
+{"concept":"Attend School","rel":"HasLastSubevent","receivingConcepts":["Graduate or Drop Out","Leaving Building","Take Test"],"emittingConcepts":[]}
+{"concept":"Take Test","rel":"HasLastSubevent","emittingConcepts":["Attend School","Learn About Subject"],"receivingConcepts":["Give Test to Tester","Hand in Test","Turn In"]}
+{"concept":"Awake","rel":"HasLastSubevent","receivingConcepts":["Get Out of Bed","Open Eyes"],"emittingConcepts":[]}
+{"concept":"Get Out of Bed","rel":"HasLastSubevent","emittingConcepts":["Awake","Stay in Bed"],"receivingConcepts":[]}
+{"concept":"Open Eyes","rel":"HasLastSubevent","emittingConcepts":["Awake","Go Into Trance","Hear Music"],"receivingConcepts":[]}
+{"concept":"Bake Cake","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Eat Cake","Make Sure Oven Off","Pre Heat Oven","Put Icing On","Putting in Oven","Remove From Oven"],"emittingConcepts":[]}
+{"concept":"Clean Up","rel":"HasLastSubevent","emittingConcepts":["Bake Cake","Celebrate","Cook Dinner","Copulate","Eat","Eat Breakfast in Bed","Eat Dinner","Finish Job","Follow Recipe","Have Food","Have Friends Over","Paint","Paint House"],"receivingConcepts":[]}
+{"concept":"Bathe","rel":"HasLastSubevent","receivingConcepts":["Dry Body","Dry Off","Dry Off and Powder Yourself","Dry With Towel","Get Dressed","Get Dressed in Clean Clothing","Pull Plug","Towel Off","Wash Soap Off"],"emittingConcepts":[]}
+{"concept":"Dry Off","rel":"HasLastSubevent","emittingConcepts":["Bathe","Become More Clean","Get Clean","Get Wet","Go for Swim","Have Bath","Scuba Dive","Soak in Hotspring","Swim","Take Shower"],"receivingConcepts":[]}
+{"concept":"Get Dressed","rel":"HasLastSubevent","emittingConcepts":["Bathe","Have Bath","Have Checkup"],"receivingConcepts":[]}
+{"concept":"Towel Off","rel":"HasLastSubevent","emittingConcepts":["Bathe","Go for Swim","Shower"],"receivingConcepts":[]}
+{"concept":"Become Inebriated","rel":"HasLastSubevent","receivingConcepts":["Leave Bar","Often Embarrasing","Puke"],"emittingConcepts":[]}
+{"concept":"Puke","rel":"HasLastSubevent","emittingConcepts":["Become Inebriated","Get Drunk","Run Marathon"],"receivingConcepts":[]}
+{"concept":"Become More Clean","rel":"HasLastSubevent","receivingConcepts":["Dry Off","Dry Off With Towel"],"emittingConcepts":[]}
+{"concept":"Dry Off With Towel","rel":"HasLastSubevent","emittingConcepts":["Become More Clean","Get Clean","Have Bath","Have Shower"],"receivingConcepts":[]}
+{"concept":"Become Scuba Diver","rel":"HasLastSubevent","receivingConcepts":["Get Licence","Pass Test"],"emittingConcepts":[]}
+{"concept":"Begin Work","rel":"HasLastSubevent","receivingConcepts":["Focus","Get Distracted"],"emittingConcepts":[]}
+{"concept":"Focus","rel":"HasLastSubevent","emittingConcepts":["Begin Work","Look Through Telescope"],"receivingConcepts":[]}
+{"concept":"Say Excuse","rel":"HasLastSubevent","emittingConcepts":["Belch","Sneeze"],"receivingConcepts":[]}
+{"concept":"Die","rel":"HasLastSubevent","emittingConcepts":["Breath Last","Die","Have Asthma Attack","Have Heart Attack","Learn About World","Live","Love Else","Procreate","Reproduce","Rest","Smoke","Stay Fit","Stay Healthy","Work"],"receivingConcepts":["Breathe Last Breath","Die","Exhale","Go on to Summerlands","Live","Rot","Stop Breathing","Stop Thinking"]}
+{"concept":"Breathe","rel":"HasLastSubevent","receivingConcepts":["Exhale","Exhale Air From Lungs","Expire","Finish Prior Breath","Relaxing"],"emittingConcepts":[]}
+{"concept":"Exhale","rel":"HasLastSubevent","emittingConcepts":["Breathe","Die","Snore","Talk"],"receivingConcepts":[]}
+{"concept":"Relaxing","rel":"HasLastSubevent","emittingConcepts":["Breathe","Punish"],"receivingConcepts":[]}
+{"concept":"Breathe Fresh Air","rel":"HasLastSubevent","receivingConcepts":["Breathe Out","Cough"],"emittingConcepts":[]}
+{"concept":"Cough","rel":"HasLastSubevent","emittingConcepts":["Breathe Fresh Air","Spit"],"receivingConcepts":[]}
+{"concept":"Eat","rel":"HasLastSubevent","emittingConcepts":["Bring Home Fish","Buy Food","Buy Fresh Fruits and Vegetables","Cook","Cook Dinner","Cook Meal","Diminish Own Hunger","Follow Recipe","Get in Shape","Go to Play","Grow Vegetables","Have Food","Hungry","Love Animal","Make Bread","Play Violin","Urinate"],"receivingConcepts":["Add Items to Grocery List","Ask for Check","Ask for Container","Ask for Doggie Bag","Bag Trash","Breathe Deep","Brush Off Crumbs","Brush Teeth","Burp","Carry Dishes to Kitchen","Carry Tray Back","Check Clothes","Check Teeth in Mirror","Chew","Clean Up","Clear Table","Clear Throat","Consider Seconds","Consume Food","Converse","Digest","Dry Dishes","Eat Last Bite","Enjoy Fine Wine","Enjoy Satisfied Feeling","Feed Leftovers to Animals","Feel Sated","Finish Last Bite","Get Acid Indigestion","Get Ready for Entertainment","Gnaw On","Go Back to Work","Go for Little Stroll","Go to Restroom","Have Cup of Coffee","Have Dessert","Have Last Course","Have Mint","Have Tums","Lean Back","Leave Tip","Light Cigar","Light Cigarette","Light Pipe","Load Dishwasher","Look for Waiter","Loosen Belt","Make Mess","Make Noises","Make Notes for Restaurant Review","Masticate","Move to Comfortable Seat","Offer Help in Cleaning Up","Package Remaining Food to Go","Pay Check","Pick Teeth With Toothpick","Play With Remaining Food","Play With Straw","Pour Cognac","Pour Postprandial","Pour Sherry","Put Away Dishes","Put Elbows on Table","Put Napkin on Plate","Refrigerate Leftovers","Repackage Leftovers","Rinse Dishes","Run Dishwasher","Savor Taste","Scrape Plate","Separate Into Conversational Groups","Set Down Fork","Set Down Spoon","Sit Back and Relax","Stand Up","Stretch Out","Swallow","Swallow Food","Take Nap","Take Napkin Off Lap","Take Off Bib","Talk","Thank Host and Hostess","Throw Containers Away","Throw Trash Out","Toss Bone Over Shoulder","Turn on Dishwasher","Use Bathroom","Use Napkin","Wash Dishes","Wash Hands","Wipe Hand Across Mouth","Wipe Hands","Wipe Mouth","Work in Kitchen","Yawn"]}
+{"concept":"Bring in Verdict","rel":"HasLastSubevent","receivingConcepts":["Read to Court","Read Verdict Aloud","Vote"],"emittingConcepts":[]}
+{"concept":"Bring Suit","rel":"HasLastSubevent","receivingConcepts":["File Documents With Court","Leave Courthouse","Pay"],"emittingConcepts":[]}
+{"concept":"Pay","rel":"HasLastSubevent","emittingConcepts":["Bring Suit","Buy","Buy Food","Buy Presents","Buy Small","Christmas Shop","Have Haircut","Have Physical Examination"],"receivingConcepts":[]}
+{"concept":"Brush Teeth","rel":"HasLastSubevent","receivingConcepts":["Replace Toothbrush","Rinse Mouth","Rinse Mouth and Brush","Rinse Out Mouth"],"emittingConcepts":["Eat","Eat Breakfast","Eat Healthily","Go to Bed"]}
+{"concept":"Build Cathedral","rel":"HasLastSubevent","receivingConcepts":["Arrange Opening Ceremony","Bless","Complete Landscaping","Dig Foundations","Open Doors","Open to Public","Pray","Sanctify"],"emittingConcepts":[]}
+{"concept":"Bungee Jump From High Bridge","rel":"HasLastSubevent","receivingConcepts":["Check Gear","Jump","Say Prayer","Scream"],"emittingConcepts":[]}
+{"concept":"Bury Cat","rel":"HasLastSubevent","receivingConcepts":["Cover Cat's Body With Dirt","Cry","Fuck","Place Flower on Grave","Put Dirt in Grave","Say Little Prayer","Shovel Dirt"],"emittingConcepts":[]}
+{"concept":"Fuck","rel":"HasLastSubevent","emittingConcepts":["Bury Cat","Print on Printer"],"receivingConcepts":[]}
+{"concept":"Buy","rel":"HasLastSubevent","receivingConcepts":["Count Change","Give Money to Clerk","Pay","Pay For","Pick Up Bag","Take Home","Walk Away"],"emittingConcepts":["Christmas Shop"]}
+{"concept":"Count Change","rel":"HasLastSubevent","emittingConcepts":["Buy","Leave Line"],"receivingConcepts":[]}
+{"concept":"Pay For","rel":"HasLastSubevent","emittingConcepts":["Buy","Buy Christmas Presents","Buy Food","Buy for Loved One","Buy Fresh Fruits and Vegetables","Buy Presents for Others","Buy Products","Buy Small","Cut Hair","Gain More Land"],"receivingConcepts":[]}
+{"concept":"Take Home","rel":"HasLastSubevent","emittingConcepts":["Buy","Buy Presents"],"receivingConcepts":[]}
+{"concept":"Walk Away","rel":"HasLastSubevent","emittingConcepts":["Buy","Go for Swim","Leave Line","See Art","Stand in Line"],"receivingConcepts":[]}
+{"concept":"Buy Beer","rel":"HasLastSubevent","receivingConcepts":["Accept Beer","Drink","Having Sex","Take Beer"],"emittingConcepts":[]}
+{"concept":"Drink","rel":"HasLastSubevent","emittingConcepts":["Buy Beer","Hang Out at Bar","Jump Up and Down","Play Basketball","Set Cup on Table","Take Midterm"],"receivingConcepts":["Put Down Glass","Put Glas Back","Set Down Cup","Stop Drinking","Swallow","Urinate"]}
+{"concept":"Drive Home","rel":"HasLastSubevent","emittingConcepts":["Buy Car","Christmas Shop","Go to Zoo","Watch Film"],"receivingConcepts":[]}
+{"concept":"Buy Christmas Presents","rel":"HasLastSubevent","receivingConcepts":["Give to People","Pay For","Pay Off Credit Cards","Wrap Presents"],"emittingConcepts":[]}
+{"concept":"Wrap Presents","rel":"HasLastSubevent","emittingConcepts":["Buy Christmas Presents","Buy Presents","Holiday Shop"],"receivingConcepts":[]}
+{"concept":"Buy Food","rel":"HasLastSubevent","receivingConcepts":["Carry Grocery Bags Home","Eat","Pay","Pay Checkout Clerk","Pay For","Receive Food"],"emittingConcepts":[]}
+{"concept":"Buy for Loved One","rel":"HasLastSubevent","receivingConcepts":["Pay For","Put on Bow","Wrap"],"emittingConcepts":[]}
+{"concept":"Wrap","rel":"HasLastSubevent","emittingConcepts":["Buy for Loved One","Buy Presents"],"receivingConcepts":[]}
+{"concept":"Buy Fresh Fruits and Vegetables","rel":"HasLastSubevent","receivingConcepts":["Bring Home","Eat","Leave Store","Pay For","Smell","Wash Off"],"emittingConcepts":[]}
+{"concept":"Smell","rel":"HasLastSubevent","emittingConcepts":["Buy Fresh Fruits and Vegetables","Cook Meal","Fart","Go Fishing"],"receivingConcepts":[]}
+{"concept":"Buy Hamburger","rel":"HasLastSubevent","receivingConcepts":["Add Catsup","Add Mayonnaise","Add Pepper","Add Salt","Add Trimmings","Carry Away","Drive Away","Dump Change in Purse","Gobble Down","Pay Money","Return Tray","Smile","Take to Seat","Thank Cashier","Throw Away Trash","Unwrap","Wipe Mouth With Napkin"],"emittingConcepts":[]}
+{"concept":"Add Salt","rel":"HasLastSubevent","emittingConcepts":["Buy Hamburger","Cook Meal"],"receivingConcepts":[]}
+{"concept":"Throw Away Trash","rel":"HasLastSubevent","emittingConcepts":["Buy Hamburger","Eat Hamburger","Eat in Fast Food Restaurant","Have Lunch"],"receivingConcepts":[]}
+{"concept":"Wipe Mouth With Napkin","rel":"HasLastSubevent","emittingConcepts":["Buy Hamburger","Eat Apple","Eat Breakfast","Eat Hamburger"],"receivingConcepts":[]}
+{"concept":"Buy House","rel":"HasLastSubevent","receivingConcepts":["Get Key","Sign Documents","Sign Papers"],"emittingConcepts":[]}
+{"concept":"Sign Documents","rel":"HasLastSubevent","emittingConcepts":["Buy House","Get Divorce"],"receivingConcepts":[]}
+{"concept":"Buy Presents","rel":"HasLastSubevent","receivingConcepts":["Giftwrap","Give","Give Away","Give To","Pay","Take Home","Wrap","Wrap Presents"],"emittingConcepts":[]}
+{"concept":"Give","rel":"HasLastSubevent","emittingConcepts":["Buy Presents","Buy Presents for Others"],"receivingConcepts":[]}
+{"concept":"Give To","rel":"HasLastSubevent","emittingConcepts":["Buy Presents","Buy Presents for Others","Create to Help Other People"],"receivingConcepts":[]}
+{"concept":"Buy Presents for Others","rel":"HasLastSubevent","receivingConcepts":["Give","Give To","Keep","Pay For","Put Bow On","Wrap in Wrapping Paper"],"emittingConcepts":[]}
+{"concept":"Buy Products","rel":"HasLastSubevent","receivingConcepts":["Get Receit","Have Money","Pay For","Use Products"],"emittingConcepts":[]}
+{"concept":"Buy Shirt","rel":"HasLastSubevent","receivingConcepts":["Pay for Shirt","Putting Shirt Into Bag","Take Out Pins","Try On"],"emittingConcepts":[]}
+{"concept":"Buy Small","rel":"HasLastSubevent","receivingConcepts":["Carry Home","Open","Pay","Pay For","Put in Bag"],"emittingConcepts":[]}
+{"concept":"Open","rel":"HasLastSubevent","emittingConcepts":["Buy Small","Hit Bottle"],"receivingConcepts":[]}
+{"concept":"Calculate Things Quickly","rel":"HasLastSubevent","receivingConcepts":["Check Answer","Come Up With Answer","Double Check","Make Error","Recheck"],"emittingConcepts":[]}
+{"concept":"Cash In","rel":"HasLastSubevent","receivingConcepts":["Close Wallet","Count Chips","Go Broke","Put Money in Wallet","Receive Money","Take Last Breath"],"emittingConcepts":[]}
+{"concept":"Catch Mumps","rel":"HasLastSubevent","receivingConcepts":["Get Better","Get Healthy","Get Swollen Glands","Go Out and Run Marathon","Go to Bed","Recover","Recuperate"],"emittingConcepts":[]}
+{"concept":"Go to Bed","rel":"HasLastSubevent","emittingConcepts":["Catch Mumps","Have Party"],"receivingConcepts":["Brush Teeth","Close Eyes","Get Laid","Pull Up Covers","Read Book","Turn Off Light","Turn Off Light S","Turn Shutdown Computer"]}
+{"concept":"Recover","rel":"HasLastSubevent","emittingConcepts":["Catch Mumps","Have Nervous Breakdown"],"receivingConcepts":[]}
+{"concept":"Celebrate","rel":"HasLastSubevent","receivingConcepts":["Clean Up"],"emittingConcepts":["Destroy Enemy","Get Contract","Get Good Grade","Pass Class","Pass Course","Pass University Exams","Win Baseball Game"]}
+{"concept":"Change Appearance","rel":"HasLastSubevent","receivingConcepts":["Gain Weight","Look in Mirror"],"emittingConcepts":[]}
+{"concept":"Look in Mirror","rel":"HasLastSubevent","emittingConcepts":["Change Appearance","Cut Hair"],"receivingConcepts":[]}
+{"concept":"Change Society","rel":"HasLastSubevent","receivingConcepts":["Become Martyr","Change Way Behave","Write Book About"],"emittingConcepts":[]}
+{"concept":"Chat With Friends","rel":"HasLastSubevent","receivingConcepts":["Going Away","Leave","Say Goodbye","Tell Good Bye"],"emittingConcepts":[]}
+{"concept":"Say Goodbye","rel":"HasLastSubevent","emittingConcepts":["Chat With Friends","Communicate","Enjoy Company of Friends","Entertain","Flirt","Go to Play","Have Friends Over","Have Party","Leave Party","Love Another","Meet Girls","Meet People","Socialize","Talk","Talk To","Talk With Far Away","Visit Friends"],"receivingConcepts":[]}
+{"concept":"Check Vital Signs","rel":"HasLastSubevent","receivingConcepts":["Assess Signs","Bye","Determine Life or Death","Drive"],"emittingConcepts":[]}
+{"concept":"Drive","rel":"HasLastSubevent","emittingConcepts":["Check Vital Signs"],"receivingConcepts":["Buckle Up","Come to Stop"]}
+{"concept":"Chew Food","rel":"HasLastSubevent","receivingConcepts":["Gulp Food","Moisten Food for Swallowing","Swallow","Talking"],"emittingConcepts":[]}
+{"concept":"Swallow","rel":"HasLastSubevent","emittingConcepts":["Chew Food","Diminish Own Hunger","Drink","Drink Alcohol","Eat","Eat Apple","Eat Breakfast","Eat Vegetables","Have Food","Have Lunch","Satisfy Appetites With Minimum Effort","Spit","Taste Sweet"],"receivingConcepts":[]}
+{"concept":"Chop Firewood","rel":"HasLastSubevent","receivingConcepts":["Burn","Carry Inside for Tonight","Eating Firewood","Gather Wood","Put Axe Away","Splitting","Stack Firewood"],"emittingConcepts":[]}
+{"concept":"Burn","rel":"HasLastSubevent","emittingConcepts":["Chop Firewood","Take Bath"],"receivingConcepts":[]}
+{"concept":"Christmas Shop","rel":"HasLastSubevent","receivingConcepts":["Buy","Buy Items","Drive Home","Pay","Pay for Gifts","Wrap Gifts"],"emittingConcepts":[]}
+{"concept":"Clean","rel":"HasLastSubevent","receivingConcepts":["Put Away Cleaning Supplies","Relax","Take Out Trash","Throw Away Garbage","Throw Dirt on Floor","Wipe Off Residue"],"emittingConcepts":[]}
+{"concept":"Relax","rel":"HasLastSubevent","emittingConcepts":["Clean","Cool Off","Drink Alcohol","Listen","Sleep at Night"],"receivingConcepts":["Feel Better","Feel Relaxed","Read Book"]}
+{"concept":"Take Out Trash","rel":"HasLastSubevent","emittingConcepts":["Clean","Do Housework","Keep Things Orderly and Tidy"],"receivingConcepts":[]}
+{"concept":"Clean Clothes","rel":"HasLastSubevent","receivingConcepts":["Fold and Put Away","Fold Up","Hang in Closet","Iron","Load Machine","Put Away","Remove Clothes From Dryer","Use Detergent"],"emittingConcepts":[]}
+{"concept":"Fold and Put Away","rel":"HasLastSubevent","emittingConcepts":["Clean Clothes","Wash Clothes"],"receivingConcepts":[]}
+{"concept":"Fold Up","rel":"HasLastSubevent","emittingConcepts":["Clean Clothes","Read Newspaper"],"receivingConcepts":[]}
+{"concept":"Hang in Closet","rel":"HasLastSubevent","emittingConcepts":["Clean Clothes","Clean Clothing"],"receivingConcepts":[]}
+{"concept":"Put Away","rel":"HasLastSubevent","emittingConcepts":["Clean Clothes","Clean Clothing","Play Harp","Read Letter","Read Newspaper","See Old Things","View Film at Home","Wash Clothes"],"receivingConcepts":[]}
+{"concept":"Clean Clothing","rel":"HasLastSubevent","receivingConcepts":["Dry","Fold","Fold Clothing","Hang in Closet","Hang Up","Press","Put Away","Put Clothes on Hanger","Put in Drawers","Take Out of Drier","Take Out of Dryer"],"emittingConcepts":[]}
+{"concept":"Dry","rel":"HasLastSubevent","emittingConcepts":["Clean Clothing","Have Shower","Wash Dirt From Between Toes","Wash Hands"],"receivingConcepts":[]}
+{"concept":"Clean House","rel":"HasLastSubevent","receivingConcepts":["Carry Out Trash","Clean Floor","Put Away Cleaning Items","Put Away Tools","Put Cleaning Supplies Away","Smile","Wipe Off Brow"],"emittingConcepts":["Have Friends Over"]}
+{"concept":"Clean Floor","rel":"HasLastSubevent","emittingConcepts":["Clean House","Paint House"],"receivingConcepts":[]}
+{"concept":"Put Cleaning Supplies Away","rel":"HasLastSubevent","emittingConcepts":["Clean House","Do Housework"],"receivingConcepts":[]}
+{"concept":"Clean Room","rel":"HasLastSubevent","receivingConcepts":["Admire Work","Find Keys","Rest","Stop Cleaning","Vomit"],"emittingConcepts":[]}
+{"concept":"Rest","rel":"HasLastSubevent","emittingConcepts":["Clean Room","Get Physical Activity","Make Better World","Play","Play Sport","Run","Run Twenty Six Miles"],"receivingConcepts":["Die"]}
+{"concept":"Vomit","rel":"HasLastSubevent","emittingConcepts":["Clean Room","Get Drunk","Hit Bottle"],"receivingConcepts":[]}
+{"concept":"Climb","rel":"HasLastSubevent","receivingConcepts":["Climb Down","Get to Top","Reach Top","Stepping"],"emittingConcepts":[]}
+{"concept":"Reach Top","rel":"HasLastSubevent","emittingConcepts":["Climb","Climb Mountain"],"receivingConcepts":[]}
+{"concept":"Climb Mountain","rel":"HasLastSubevent","receivingConcepts":["Check Everything Again for Safety","Climb Down Foothills","Go Back Down","Head Back Down","Look Up at Mountain","Reach Summit","Reach Top"],"emittingConcepts":[]}
+{"concept":"Cogitate","rel":"HasLastSubevent","receivingConcepts":["Arrive at Conclusion","Come to Decision"],"emittingConcepts":[]}
+{"concept":"Comfort Friend","rel":"HasLastSubevent","receivingConcepts":["Give Hug","Go Away","Hold","Just Listen Listen Listen","Listen","Tell Fucked Girlfriend","Tell Love"],"emittingConcepts":[]}
+{"concept":"Listen","rel":"HasLastSubevent","emittingConcepts":["Comfort Friend","Communicate","Hear Crowd Go Mad","Hear Music","Hear Testimony","Talk To"],"receivingConcepts":["Analyse","Answer","Relax","Reply","Respond","Respond to What Have Heard","Stop Listening","Talk","Tell Funny Stories","Understand"]}
+{"concept":"Tell Love","rel":"HasLastSubevent","emittingConcepts":["Comfort Friend","Love Another","Please Parents","Send Kids Off to School"],"receivingConcepts":[]}
+{"concept":"Commit Murder","rel":"HasLastSubevent","receivingConcepts":["Confess","Dispose of Body","Hide Body","Hide Evidence","Plant False Evidence","Run Away","Try and Cover Up Crime"],"emittingConcepts":[]}
+{"concept":"Hide Body","rel":"HasLastSubevent","emittingConcepts":["Commit Murder","Kill","Stab to Death"],"receivingConcepts":[]}
+{"concept":"Hide Evidence","rel":"HasLastSubevent","emittingConcepts":["Commit Murder","Kill","Start Fire"],"receivingConcepts":[]}
+{"concept":"Run Away","rel":"HasLastSubevent","emittingConcepts":["Commit Murder","Start Family"],"receivingConcepts":[]}
+{"concept":"Commit Perjury","rel":"HasLastSubevent","receivingConcepts":["Gossip","Lie","Not Tell Truth"],"emittingConcepts":[]}
+{"concept":"Lie","rel":"HasLastSubevent","emittingConcepts":["Commit Perjury","Get Away With Crime"],"receivingConcepts":["Blush","Cheaat","Cover Up","Cry","Determine Effect of Lie","Hope Listener Will Believe","Worry"]}
+{"concept":"Commit Suicide","rel":"HasLastSubevent","receivingConcepts":["Cease to Exist","Change Mind","Commit Suicide","Kill Yourself","Say Goodbye Cruel World"],"emittingConcepts":["Commit Suicide"]}
+{"concept":"Change Mind","rel":"HasLastSubevent","emittingConcepts":["Commit Suicide","Go to Opera"],"receivingConcepts":[]}
+{"concept":"Kill Yourself","rel":"HasLastSubevent","emittingConcepts":["Commit Suicide","Have Nervous Breakdown","Know if You're Healthy","Want to Live"],"receivingConcepts":[]}
+{"concept":"Commit to Memory","rel":"HasLastSubevent","receivingConcepts":["Practice","Repeat Information to Yourself","Think"],"emittingConcepts":[]}
+{"concept":"Practice","rel":"HasLastSubevent","emittingConcepts":["Commit to Memory","Learn","Learn Language"],"receivingConcepts":[]}
+{"concept":"Think","rel":"HasLastSubevent","emittingConcepts":["Commit to Memory","Make Phone Call"],"receivingConcepts":["Say Hmmm","Say Oops","Speak or Achknoledge"]}
+{"concept":"Communicate","rel":"HasLastSubevent","receivingConcepts":["Conclude","Listen","Respond","Say Goodbye","Speak","Understand Conversation","Wait for Response"],"emittingConcepts":[]}
+{"concept":"Respond","rel":"HasLastSubevent","emittingConcepts":["Communicate","Listen"],"receivingConcepts":[]}
+{"concept":"Speak","rel":"HasLastSubevent","emittingConcepts":["Communicate","Learn Language","Sit Quietly"],"receivingConcepts":[]}
+{"concept":"Wait for Response","rel":"HasLastSubevent","emittingConcepts":["Communicate","Tell Many People About"],"receivingConcepts":[]}
+{"concept":"Compete","rel":"HasLastSubevent","receivingConcepts":["Lose","Win"],"emittingConcepts":["Play Sports"]}
+{"concept":"Win","rel":"HasLastSubevent","emittingConcepts":["Compete","Destroy Enemy","Fight War","Play Chess","Play Hockey"],"receivingConcepts":[]}
+{"concept":"Compete Against","rel":"HasLastSubevent","receivingConcepts":["Determine Who Won","Gloat","Say Good Game","Say Won","Wish Better Luck Next Time"],"emittingConcepts":[]}
+{"concept":"Determine Who Won","rel":"HasLastSubevent","emittingConcepts":["Compete Against","Play Lacrosse"],"receivingConcepts":[]}
+{"concept":"Gloat","rel":"HasLastSubevent","emittingConcepts":["Compete Against","Conquer Opponent","Find Information","Play Game","Play Game With Friends"],"receivingConcepts":[]}
+{"concept":"Compute Sum","rel":"HasLastSubevent","receivingConcepts":["Does Again Again","Double Check Math","Hit Equal Sign","Print Sum","Produce Sum","Sanity Check Answer","Write Down","Write Down Total"],"emittingConcepts":[]}
+{"concept":"Write Down","rel":"HasLastSubevent","emittingConcepts":["Compute Sum","Create Idea","Remember"],"receivingConcepts":[]}
+{"concept":"Conduct Trial","rel":"HasLastSubevent","receivingConcepts":["Dress Like Clown","Get Verdict","Pronounce Sentence","Render Verdict"],"emittingConcepts":[]}
+{"concept":"Conquer Nation","rel":"HasLastSubevent","receivingConcepts":["Instal New Government","Raise Flag","Raise Taxes","Unconditionally Surrender"],"emittingConcepts":[]}
+{"concept":"Conquer Opponent","rel":"HasLastSubevent","receivingConcepts":["Ask to Concede","Clap Hands","Gloat","Kill","Name Terms","Shake Hand","Thank for Good Fight"],"emittingConcepts":[]}
+{"concept":"Kill","rel":"HasLastSubevent","emittingConcepts":["Conquer Opponent"],"receivingConcepts":["Clean Up Mess","Establish Alibi","Go to Jail","Hide Body","Hide Evidence","Laugh Maniacally","Leaving Scene of Crime","Make Audience Laugh","Reconsider Action","Run","Throw Knife in River"]}
+{"concept":"Contemplate","rel":"HasLastSubevent","receivingConcepts":["Make Decision","Make Up Mind","Socialize"],"emittingConcepts":["Read"]}
+{"concept":"Make Decision","rel":"HasLastSubevent","emittingConcepts":["Contemplate","Handle Proposals"],"receivingConcepts":[]}
+{"concept":"Socialize","rel":"HasLastSubevent","emittingConcepts":["Contemplate"],"receivingConcepts":["Say Goodbye","Take Clothes Off"]}
+{"concept":"Convict Suspect for Crime","rel":"HasLastSubevent","receivingConcepts":["Arrest","Decide on Punishment"],"emittingConcepts":[]}
+{"concept":"Cook","rel":"HasLastSubevent","receivingConcepts":["Clean Up Kitchen","Clean Up Mess","Eat","Serve Food","Stir","Wash Up"],"emittingConcepts":[]}
+{"concept":"Clean Up Mess","rel":"HasLastSubevent","emittingConcepts":["Cook","Have Party","Kill","Paint","Throw Party"],"receivingConcepts":[]}
+{"concept":"Serve Food","rel":"HasLastSubevent","emittingConcepts":["Cook","Cook Meal","Follow Recipe"],"receivingConcepts":[]}
+{"concept":"Stir","rel":"HasLastSubevent","emittingConcepts":["Cook","Cook Meal"],"receivingConcepts":[]}
+{"concept":"Cook Curry","rel":"HasLastSubevent","receivingConcepts":["Close Cookbook","Serve","Serve Guests"],"emittingConcepts":[]}
+{"concept":"Serve","rel":"HasLastSubevent","emittingConcepts":["Cook Curry","Cook Meal"],"receivingConcepts":[]}
+{"concept":"Cook Dinner","rel":"HasLastSubevent","receivingConcepts":["Clean Dishes","Clean Pots","Clean Up","Eat","Set Food on Table","Turn Off Stove or Oven"],"emittingConcepts":[]}
+{"concept":"Clean Dishes","rel":"HasLastSubevent","emittingConcepts":["Cook Dinner","Cook Meal"],"receivingConcepts":[]}
+{"concept":"Cook Meal","rel":"HasLastSubevent","receivingConcepts":["Add Salt","Call Everyone","Clean Cooking Pots","Clean Dishes","Dip Out","Eat","Get Other Dishes Out of Refrigerator","Grab Pot Holder","Grab Potholder","Heat Buns","Prepare Drinks","Put in Serving Dishes","Put on Plates","Remove From Heat","Ring Bell","Season","Serve","Serve Food","Serve Meal","Set Table","Smell","Stir","Take Off Heat","Take Out of Microwave","Take Out of Oven","Taste","Turn Off Heat","Turn Off Oven","Turn Off Stove","Uncover","Warm Needs","Wash Dishes","Wash Hands Again"],"emittingConcepts":[]}
+{"concept":"Take Out of Oven","rel":"HasLastSubevent","emittingConcepts":["Cook Meal","Make Bread"],"receivingConcepts":[]}
+{"concept":"Wash Dishes","rel":"HasLastSubevent","emittingConcepts":["Cook Meal","Eat","Eat Breakfast","Eat Dinner","Eat Lunch","Eat Meal","Have Party"],"receivingConcepts":[]}
+{"concept":"Cool Off","rel":"HasLastSubevent","receivingConcepts":["Cease Being Warm","Dry Myself","Look for Else to Do","Mop Off Sweat","Put Clothes Back On","Relax"],"emittingConcepts":["Exercise","Go for Run"]}
+{"concept":"Put Clothes Back On","rel":"HasLastSubevent","emittingConcepts":["Cool Off","Dance","Have Examination"],"receivingConcepts":[]}
+{"concept":"Copulate","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Ejaculate","Fall Asleep","Have Orgasm","Sleep","Smile"],"emittingConcepts":[]}
+{"concept":"Ejaculate","rel":"HasLastSubevent","emittingConcepts":["Copulate","Know How Stock Market Performed","Make Love","Reproduce"],"receivingConcepts":[]}
+{"concept":"Fall Asleep","rel":"HasLastSubevent","emittingConcepts":["Copulate","Drink Too Much","Drive Car","Get Drunk","Go to Sleep","Listen to Music","Stay in Bed"],"receivingConcepts":[]}
+{"concept":"Sleep","rel":"HasLastSubevent","emittingConcepts":["Copulate","Enjoy Day","Examine Thing","Gather Energy for Tomorrow","Go for Walk","Go Off Strike","Go to Concert","Go to Opera","Go to Performance","Run Twenty Six Miles","Snore","Watch Evening News"],"receivingConcepts":["Awaken","Aware of Dream","Close Eyes","Get Into Bed","Lost Conscience","Rest Mind and Body","Take Deep Breath and Relax","Take Feet Off Floor","Wake Up"]}
+{"concept":"Create Art","rel":"HasLastSubevent","receivingConcepts":["Admire","Establish Price for Selling","Put Away Art Supplies","Put Price On","Recognize Yourself as Artist","Review Art","Sign","Sign Name To"],"emittingConcepts":[]}
+{"concept":"Sign","rel":"HasLastSubevent","emittingConcepts":["Create Art","Get Contract","Paint Picture","Pay by Check","Write Letter","Write Poem"],"receivingConcepts":[]}
+{"concept":"Create Idea","rel":"HasLastSubevent","receivingConcepts":["Implement","Put in Writing","Say Ah Ha","Say Eureka","Sell","Write Down"],"emittingConcepts":[]}
+{"concept":"Sell","rel":"HasLastSubevent","emittingConcepts":["Create Idea","Design Software"],"receivingConcepts":[]}
+{"concept":"Create to Help Other People","rel":"HasLastSubevent","receivingConcepts":["Distribute","Except Thankyou","Give To","Give to Other People","Share"],"emittingConcepts":[]}
+{"concept":"Cross Street","rel":"HasLastSubevent","receivingConcepts":["Reach Other End","Reach Other Side","Spy Where Going Next","Step on Other Pavement","Step Onto Kerb"],"emittingConcepts":[]}
+{"concept":"Cut Hair","rel":"HasLastSubevent","receivingConcepts":["Look in Mirror","Pay Barber","Pay For","Pay Stylist"],"emittingConcepts":[]}
+{"concept":"Pay Barber","rel":"HasLastSubevent","emittingConcepts":["Cut Hair","Have Haircut"],"receivingConcepts":[]}
+{"concept":"Dance","rel":"HasLastSubevent","receivingConcepts":["Bow","Breathe More Deeply","Put Clothes Back On","Sit Down","Stop","Stretch","Twirl"],"emittingConcepts":["Listen to Music"]}
+{"concept":"Bow","rel":"HasLastSubevent","emittingConcepts":["Dance","Dance Samba","Entertain People","Hear Crowd Go Mad","Perform","Play Piano","Sing"],"receivingConcepts":[]}
+{"concept":"Sit Down","rel":"HasLastSubevent","emittingConcepts":["Dance","Go See Film","Stand Up"],"receivingConcepts":["Let Go","Sigh","Stand Up"]}
+{"concept":"Stop","rel":"HasLastSubevent","emittingConcepts":["Dance","Jump Up and Down","Play","Reach Impasse","Run","Sing","Travel"],"receivingConcepts":[]}
+{"concept":"Stretch","rel":"HasLastSubevent","emittingConcepts":["Dance","Go for Jog","Go for Run","Go Jogging"],"receivingConcepts":[]}
+{"concept":"Dance Samba","rel":"HasLastSubevent","receivingConcepts":["Bow","Laugh","Let Go of Partner"],"emittingConcepts":[]}
+{"concept":"Laugh","rel":"HasLastSubevent","emittingConcepts":["Dance Samba","Enjoy Company of Friends","Express How Funny","Play Game With Friends","Pretend","Tickle"],"receivingConcepts":[]}
+{"concept":"Debate Politics","rel":"HasLastSubevent","receivingConcepts":["Get Frustrated","Offensive Language","Shake Hands"],"emittingConcepts":[]}
+{"concept":"Decide Criminal's Fate","rel":"HasLastSubevent","receivingConcepts":["Feel Bad","Give Sentence","Pass Judgement"],"emittingConcepts":[]}
+{"concept":"Design Software","rel":"HasLastSubevent","receivingConcepts":["Check Design","Present","Sell"],"emittingConcepts":[]}
+{"concept":"Destroy Enemy","rel":"HasLastSubevent","receivingConcepts":["Celebrate","Claim Victory","Win"],"emittingConcepts":["Fight Enemy"]}
+{"concept":"Determine Truth","rel":"HasLastSubevent","receivingConcepts":["Come to Compromise","Decide","Make Judgement","Test Assumptions"],"emittingConcepts":[]}
+{"concept":"Make Judgement","rel":"HasLastSubevent","emittingConcepts":["Determine Truth","Hear Testimony"],"receivingConcepts":[]}
+{"concept":"Breathe Last Breath","rel":"HasLastSubevent","emittingConcepts":["Die","Live"],"receivingConcepts":[]}
+{"concept":"Live","rel":"HasLastSubevent","emittingConcepts":["Die"],"receivingConcepts":["Accept Impending Death","Breathe Last Breath","Die","Die Happy"]}
+{"concept":"Stop Breathing","rel":"HasLastSubevent","emittingConcepts":["Die","Have Heart Attack"],"receivingConcepts":[]}
+{"concept":"Diminish Own Hunger","rel":"HasLastSubevent","receivingConcepts":["Clean Up After Eating","Eat","Stop Eating","Swallow"],"emittingConcepts":[]}
+{"concept":"Stop Eating","rel":"HasLastSubevent","emittingConcepts":["Diminish Own Hunger","Eat Breakfast in Bed"],"receivingConcepts":[]}
+{"concept":"Leave Tip","rel":"HasLastSubevent","emittingConcepts":["Dine Out","Eat"],"receivingConcepts":[]}
+{"concept":"Discover Truth","rel":"HasLastSubevent","receivingConcepts":["Am Happy","Tell Others"],"emittingConcepts":[]}
+{"concept":"Dive","rel":"HasLastSubevent","receivingConcepts":["Decompress","Hit Water","Hold Breath","Look Before Do","Resurface","Swim"],"emittingConcepts":[]}
+{"concept":"Swim","rel":"HasLastSubevent","emittingConcepts":["Dive"],"receivingConcepts":["Dry Off","Dry Yourself Off","Get in Water","Get Out","Get Out of Water"]}
+{"concept":"Do Crossword Puzzle","rel":"HasLastSubevent","receivingConcepts":["Breath Sigh of Relief","Position Last Tile","Smile to Yourself","Solve Last Word"],"emittingConcepts":[]}
+{"concept":"Do Exercises","rel":"HasLastSubevent","receivingConcepts":["Do Cool Down","E Xercise","Regulate Breathing","Shower Yes"],"emittingConcepts":[]}
+{"concept":"Do Housework","rel":"HasLastSubevent","receivingConcepts":["Look Over Work","Play","Put Cleaning Equipment Away","Put Cleaning Supplies Away","Put Equipment Away","Put Everything Away","Put Mop Away","Put Tools Away","Take Off Apron","Take Out Trash","Wipe Forehead"],"emittingConcepts":[]}
+{"concept":"Play","rel":"HasLastSubevent","emittingConcepts":["Do Housework"],"receivingConcepts":["Put Away Toys","Rest","Stop","Win or Loose"]}
+{"concept":"Put Equipment Away","rel":"HasLastSubevent","emittingConcepts":["Do Housework","Play Ball"],"receivingConcepts":[]}
+{"concept":"Wake Up","rel":"HasLastSubevent","emittingConcepts":["Dream","Have Rest","Lucid Dream","Sleep","Sleep at Night"],"receivingConcepts":[]}
+{"concept":"Dress Nice","rel":"HasLastSubevent","receivingConcepts":["Check in Mirror","Look at Yourself in Mirror","Put on Finishing Touches","Put on Perfume","Tie Shoes"],"emittingConcepts":[]}
+{"concept":"Tie Shoes","rel":"HasLastSubevent","emittingConcepts":["Dress Nice","Go for Jog"],"receivingConcepts":[]}
+{"concept":"Drill Hole","rel":"HasLastSubevent","receivingConcepts":["Clean Hole","Know What Looking For","Look Through Hole","Peer Through Hole","Remove Drill Bit","Remove Dust Formed","Say Oops"],"emittingConcepts":[]}
+{"concept":"Say Oops","rel":"HasLastSubevent","emittingConcepts":["Drill Hole","Think"],"receivingConcepts":[]}
+{"concept":"Urinate","rel":"HasLastSubevent","emittingConcepts":["Drink"],"receivingConcepts":["Eat","Fasten Clothes","Flush","Flush Toilet","Heave Sigh of Relief","Wash Hands","Zip Pants"]}
+{"concept":"Drink Alcohol","rel":"HasLastSubevent","receivingConcepts":["Fall Over","Get Drunk","Pass Out","Relax","Swallow"],"emittingConcepts":[]}
+{"concept":"Get Drunk","rel":"HasLastSubevent","emittingConcepts":["Drink Alcohol","Take Finals"],"receivingConcepts":["Fall Asleep","Pass Out","Puke","Quit Drinking","Throw Up","Vomit"]}
+{"concept":"Pass Out","rel":"HasLastSubevent","emittingConcepts":["Drink Alcohol","Get Drunk","Have Epileptic Fit","Hit Bottle","Lose Consciousness","Run in Marathon"],"receivingConcepts":[]}
+{"concept":"Drive Car","rel":"HasLastSubevent","receivingConcepts":["Check Tires","Fall Asleep","Lock","Park","Park Car","Park in Garage","Pay Attention","Turn of Engine","Turn Off","Turn Off Engine","Turn Off Ignition","Watch Road and Other Traffic"],"emittingConcepts":[]}
+{"concept":"Lock","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Ride Bike"],"receivingConcepts":[]}
+{"concept":"Park","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Take Car for Drive"],"receivingConcepts":["Leave Car"]}
+{"concept":"Park Car","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Go to Market","Go to Restaurant","Move Car"],"receivingConcepts":[]}
+{"concept":"Turn Off","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Use Calculator","Use Vcr","Watch Movie","Watch Television"],"receivingConcepts":[]}
+{"concept":"Turn Off Engine","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Stop Car"],"receivingConcepts":[]}
+{"concept":"Turn Off Ignition","rel":"HasLastSubevent","emittingConcepts":["Drive Car","Go for Drive"],"receivingConcepts":[]}
+{"concept":"Drive to Work","rel":"HasLastSubevent","receivingConcepts":["Remove Keys From Ignition","Shut Off Engine","Turn Vehicle Off","Walk Home Fromwork"],"emittingConcepts":[]}
+{"concept":"Earn Living","rel":"HasLastSubevent","receivingConcepts":["Going Home","Retire","Spend Money"],"emittingConcepts":[]}
+{"concept":"Going Home","rel":"HasLastSubevent","emittingConcepts":["Earn Living","Go to Play"],"receivingConcepts":[]}
+{"concept":"Spend Money","rel":"HasLastSubevent","emittingConcepts":["Earn Living","Get Paid"],"receivingConcepts":["Enter Information in Quicken","Get Out of Rent by Hour Motel","Keep Receipt","Put Wallet Away"]}
+{"concept":"Burp","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Hamburger","Eat in Restaurant","Eat Quickly","Eat Vegetables"],"receivingConcepts":[]}
+{"concept":"Clear Table","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Dinner"],"receivingConcepts":[]}
+{"concept":"Digest","rel":"HasLastSubevent","emittingConcepts":["Eat","Have Food"],"receivingConcepts":[]}
+{"concept":"Go Back to Work","rel":"HasLastSubevent","emittingConcepts":["Eat","Go Off Strike","Take Break"],"receivingConcepts":[]}
+{"concept":"Have Dessert","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Meal"],"receivingConcepts":[]}
+{"concept":"Swallow Food","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Healthily"],"receivingConcepts":[]}
+{"concept":"Take Nap","rel":"HasLastSubevent","emittingConcepts":["Eat","Run Out of Steam"],"receivingConcepts":[]}
+{"concept":"Talk","rel":"HasLastSubevent","emittingConcepts":["Eat","Listen"],"receivingConcepts":["Close Mouth","Exhale","Insert Food","Pick Nose","Say Goodbye"]}
+{"concept":"Wash Hands","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Ice Cream","Eat Lunch","Empty Bladder","Go to Bathroom","Urinate","Weed Garden"],"receivingConcepts":["Dry","Dry Hands","Dry on Towel","Leave Bathroom","Wash"]}
+{"concept":"Wipe Mouth","rel":"HasLastSubevent","emittingConcepts":["Eat","Eat Dinner","Have Epileptic Fit"],"receivingConcepts":[]}
+{"concept":"Eat Apple","rel":"HasLastSubevent","receivingConcepts":["Bite","Swallow","Thow Core Away","Throw Away Core","Toss Core","Wipe Mouth With Napkin"],"emittingConcepts":[]}
+{"concept":"Eat Breakfast","rel":"HasLastSubevent","receivingConcepts":["Bring Plate to Sink","Brush Teeth","Digest Food","Drink Water","Have Drink of Orange Juice","Swallow","Wash Dishes","Wipe Mouth With Napkin"],"emittingConcepts":[]}
+{"concept":"Digest Food","rel":"HasLastSubevent","emittingConcepts":["Eat Breakfast","Eat Lunch"],"receivingConcepts":[]}
+{"concept":"Eat Breakfast in Bed","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Remove Tray","Stop Eating","Vacuum"],"emittingConcepts":[]}
+{"concept":"Vacuum","rel":"HasLastSubevent","emittingConcepts":["Eat Breakfast in Bed","Have Party"],"receivingConcepts":[]}
+{"concept":"Eat Cookie","rel":"HasLastSubevent","receivingConcepts":["Clean Moustache","Clean Up Crumbs"],"emittingConcepts":[]}
+{"concept":"Eat Dinner","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Clear Table","Excuse Yourself From Table","Put Fork on Plate","Wash Dishes","Wipe Mouth"],"emittingConcepts":[]}
+{"concept":"Eat Hamburger","rel":"HasLastSubevent","receivingConcepts":["Burp","Chew and Swallow Hamburger","Have to Drink","Throw Away Trash","Wipe Mouth With Napkin"],"emittingConcepts":[]}
+{"concept":"Eat Healthily","rel":"HasLastSubevent","receivingConcepts":["Brush Teeth","Eat Fruit for Dessert","Enjoy Better Health","Go Get Realy Food","Pig Out","Swallow Food"],"emittingConcepts":[]}
+{"concept":"Eat Ice Cream","rel":"HasLastSubevent","receivingConcepts":["Let Melt in Mouth","Lick Lips","Throw Away Napkin","Wash Bowl","Wash Hands"],"emittingConcepts":[]}
+{"concept":"Lick Lips","rel":"HasLastSubevent","emittingConcepts":["Eat Ice Cream","Taste Sweet"],"receivingConcepts":[]}
+{"concept":"Eat in Fast Food Restaurant","rel":"HasLastSubevent","receivingConcepts":["Ordering","Push Swinging Door","Take Time","Throw Away Trash"],"emittingConcepts":[]}
+{"concept":"Eat in Restaurant","rel":"HasLastSubevent","receivingConcepts":["Burp","Open Door to Leave","Pay Bill","Pay for Food","Stand Up From Table","Tip Waitress"],"emittingConcepts":[]}
+{"concept":"Pay Bill","rel":"HasLastSubevent","emittingConcepts":["Eat in Restaurant","Have Party","Have Physical Examination"],"receivingConcepts":[]}
+{"concept":"Eat Lunch","rel":"HasLastSubevent","receivingConcepts":["Digest Food","Finish Swallowing Food","Thanking for Food","Wash Dishes","Wash Hands"],"emittingConcepts":[]}
+{"concept":"Eat Meal","rel":"HasLastSubevent","receivingConcepts":["Have Dessert","Wash Dishes"],"emittingConcepts":[]}
+{"concept":"Eat Vegetables","rel":"HasLastSubevent","receivingConcepts":["Burp","Put Away Food","Swallow","Throw Away What's Left"],"emittingConcepts":[]}
+{"concept":"Empty Bladder","rel":"HasLastSubevent","receivingConcepts":["Put Seat Down","Sigh","Squeeze","Wash Hands","Zip Fly","Zip Up Trousers"],"emittingConcepts":[]}
+{"concept":"Sigh","rel":"HasLastSubevent","emittingConcepts":["Empty Bladder","Sate Hunger","Sign Contract","Sit Down"],"receivingConcepts":[]}
+{"concept":"Enjoy Company of Friends","rel":"HasLastSubevent","receivingConcepts":["Clean Up Juices","Get Tired Of","Grateful Have","Laugh","Say Good Night","Say Goodby","Say Goodbye"],"emittingConcepts":[]}
+{"concept":"Enjoy Day","rel":"HasLastSubevent","receivingConcepts":["Do Homework","End","Feel Good","Go to Bed Happy","Reflect","Relax Before Going to Bed","Sleep","Smoke After Sex"],"emittingConcepts":[]}
+{"concept":"Feel Good","rel":"HasLastSubevent","emittingConcepts":["Enjoy Day","Have Fun"],"receivingConcepts":[]}
+{"concept":"Enjoy Film","rel":"HasLastSubevent","receivingConcepts":["Applaud","Clap When Film Over","Hoot and Holler","Leave","Leave Theater","Read Credits","Watch Credits"],"emittingConcepts":[]}
+{"concept":"Leave Theater","rel":"HasLastSubevent","emittingConcepts":["Enjoy Film","Go See Play","Go to Performance","Go to Play","See Movie","Watch Film","Watch Movie"],"receivingConcepts":[]}
+{"concept":"Read Credits","rel":"HasLastSubevent","emittingConcepts":["Enjoy Film","Watch Movie"],"receivingConcepts":[]}
+{"concept":"Watch Credits","rel":"HasLastSubevent","emittingConcepts":["Enjoy Film","See Particular Program","View Film at Home","Watch Film"],"receivingConcepts":[]}
+{"concept":"Entertain","rel":"HasLastSubevent","receivingConcepts":["Clean Up After Leave","Say Goodbye","Smile","Take Away Car Keys","Thank"],"emittingConcepts":[]}
+{"concept":"Thank","rel":"HasLastSubevent","emittingConcepts":["Entertain","Get Money From","Serve Customers"],"receivingConcepts":[]}
+{"concept":"Entertain People","rel":"HasLastSubevent","receivingConcepts":["Bow","Thank for Coming"],"emittingConcepts":[]}
+{"concept":"Examine Thing","rel":"HasLastSubevent","receivingConcepts":["Put Down","Sleep","Stop Loking at Thing","Take Notice of Thing"],"emittingConcepts":[]}
+{"concept":"Exercise","rel":"HasLastSubevent","receivingConcepts":["Cool Off","Shower","Shower Please","Work Up Sweat"],"emittingConcepts":[]}
+{"concept":"Shower","rel":"HasLastSubevent","emittingConcepts":["Exercise","Play Basketball","Play Soccer","Play Sport"],"receivingConcepts":["Towel Off"]}
+{"concept":"Express How Funny","rel":"HasLastSubevent","receivingConcepts":["Finally Stop Laughing About","Laugh","Laugh Tooo Much"],"emittingConcepts":[]}
+{"concept":"Express Information","rel":"HasLastSubevent","receivingConcepts":["Close Mouth","Say Really","Summarize Main Points"],"emittingConcepts":[]}
+{"concept":"Close Mouth","rel":"HasLastSubevent","emittingConcepts":["Express Information","Express Yourself","Sing","Spit","Talk","Yawn"],"receivingConcepts":[]}
+{"concept":"Express Yourself","rel":"HasLastSubevent","receivingConcepts":["Close Mouth","Pause","Stop Talking"],"emittingConcepts":[]}
+{"concept":"Fall","rel":"HasLastSubevent","receivingConcepts":["Hit Earth","Hit Ground","Hit Surface","Land","Scream Head Off","Try to Catch Yourself Before Landing"],"emittingConcepts":["Jump Out of Window","Walk in Rain"]}
+{"concept":"Hit Ground","rel":"HasLastSubevent","emittingConcepts":["Fall","Jump Out of Window"],"receivingConcepts":[]}
+{"concept":"Land","rel":"HasLastSubevent","emittingConcepts":["Fall","Fly","Jump Rope","Jump Up and Down"],"receivingConcepts":[]}
+{"concept":"Fart","rel":"HasLastSubevent","receivingConcepts":["Blame Cat","Blush","Excuse Yourself","Light Match","Prat","Smell","Wave Air and Laugh"],"emittingConcepts":["Go Somewhere","Go to Laundromat","Have Friends Over","Kiss"]}
+{"concept":"Blush","rel":"HasLastSubevent","emittingConcepts":["Fart","Have Physical Examination","Lie"],"receivingConcepts":[]}
+{"concept":"Light Match","rel":"HasLastSubevent","emittingConcepts":["Fart"],"receivingConcepts":["Blow Out","Blow Out Flame","Burn Fingers","Hold Steady","Throw Away","Watch Burn"]}
+{"concept":"Fence","rel":"HasLastSubevent","receivingConcepts":["Clean Up Tools","Go Inside","Say Touche","Yell Touche"],"emittingConcepts":["Gain More Land"]}
+{"concept":"Fiddle","rel":"HasLastSubevent","receivingConcepts":["Move Bow","Put Fiddle Away","Put Fiddle Down","Take Bow","Tune Instrument","Turn Off Microphone"],"emittingConcepts":[]}
+{"concept":"Fight Inflation","rel":"HasLastSubevent","receivingConcepts":["Buy More","Buy More Products","Spend Less"],"emittingConcepts":[]}
+{"concept":"Fight War","rel":"HasLastSubevent","receivingConcepts":["Cease Fire","Collect Opposites Weapons","Rebuild","Rebuild Territory","Shoot One of Own","Survive","Win"],"emittingConcepts":[]}
+{"concept":"Find Information","rel":"HasLastSubevent","receivingConcepts":["Gloat","Keep for Self","Understand","Use"],"emittingConcepts":[]}
+{"concept":"Understand","rel":"HasLastSubevent","emittingConcepts":["Find Information","Listen","See Story"],"receivingConcepts":[]}
+{"concept":"Find Lost Item","rel":"HasLastSubevent","receivingConcepts":["Exhale With Relief","Feel Relieved","Find Owner","Give to Owner","Pick Up"],"emittingConcepts":[]}
+{"concept":"Feel Relieved","rel":"HasLastSubevent","emittingConcepts":["Find Lost Item","Know if You're Healthy","Release Energy"],"receivingConcepts":[]}
+{"concept":"Find Truth","rel":"HasLastSubevent","receivingConcepts":["Ask People Questions","Change","Going Crazy","Integrate New Knowledge","Keep to Yourself","Pretend Didn't"],"emittingConcepts":[]}
+{"concept":"Turn In","rel":"HasLastSubevent","emittingConcepts":["Finish Exam","Take Exam","Take Final Exams","Take Finals","Take Test"],"receivingConcepts":[]}
+{"concept":"Frame","rel":"HasLastSubevent","emittingConcepts":["Finish Painting","Receive Degree"],"receivingConcepts":[]}
+{"concept":"Fish","rel":"HasLastSubevent","receivingConcepts":["Clean Fish","Go Home","Paddle Boat Back to Shore","Return Home","Tell Story About Fishing"],"emittingConcepts":[]}
+{"concept":"Return Home","rel":"HasLastSubevent","emittingConcepts":["Fish","Go for Walk","Go on Vacation","Go Outside for Evening","Hike","Travel"],"receivingConcepts":[]}
+{"concept":"Fix Computer","rel":"HasLastSubevent","receivingConcepts":["Check Now Works","Close Case","Cover Case","Make Sure Computer Works","Put Lid On"],"emittingConcepts":[]}
+{"concept":"Flirt","rel":"HasLastSubevent","receivingConcepts":["Make Date","Say Goodbye","Smile"],"emittingConcepts":[]}
+{"concept":"Fly in Airplane","rel":"HasLastSubevent","receivingConcepts":["Arrive","Exit Plane","Get Off","Get Off Airplane","Land on Ground"],"emittingConcepts":[]}
+{"concept":"Arrive","rel":"HasLastSubevent","emittingConcepts":["Fly in Airplane","Go Somewhere"],"receivingConcepts":[]}
+{"concept":"Get Off","rel":"HasLastSubevent","emittingConcepts":["Fly in Airplane","Stop Bicycle"],"receivingConcepts":[]}
+{"concept":"Land on Ground","rel":"HasLastSubevent","emittingConcepts":["Fly in Airplane","Jump Up and Down"],"receivingConcepts":[]}
+{"concept":"Fly Kite","rel":"HasLastSubevent","receivingConcepts":["Check Direction of Wind","Go Home","Ground","Let Go of String","Pull in and Secure","Pull in Kite","Reel In","Wind Up String","Wrap Up String"],"emittingConcepts":[]}
+{"concept":"Follow Recipe","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Cook Food","Eat","Eat Food","Eat Result","Eat Results","Put Food on Table","Serve Food"],"emittingConcepts":[]}
+{"concept":"Gain More Land","rel":"HasLastSubevent","receivingConcepts":["Add More Security","Buy More Land","Fence","Own More Property","Pay For","Pay for Land","Record Deed","Set on Fire","Sign Deed"],"emittingConcepts":[]}
+{"concept":"Spit","rel":"HasLastSubevent","emittingConcepts":["Gargle"],"receivingConcepts":["Close Mouth","Cough","Swallow"]}
+{"concept":"Gather Energy for Tomorrow","rel":"HasLastSubevent","receivingConcepts":["Close Eyes","Eat Chocalate","Go to Sleep","Sleep"],"emittingConcepts":[]}
+{"concept":"Close Eyes","rel":"HasLastSubevent","emittingConcepts":["Gather Energy for Tomorrow","Go Into Trance","Go to Bed","Go to Sleep","Hear Music","Kiss","Sleep"],"receivingConcepts":[]}
+{"concept":"Go to Sleep","rel":"HasLastSubevent","emittingConcepts":["Gather Energy for Tomorrow","Get Warm","Prove Physical Endurance"],"receivingConcepts":["Become Unconscious","Close Eyes","Fall Asleep","Fluff Pillow","Lie Down","Lose Conciousness","Lose Consciousness","Quiet Mind","Stop Hearing Things","Tell Love Goodnight"]}
+{"concept":"Get Away With Crime","rel":"HasLastSubevent","receivingConcepts":["Commit","Don't Get Caught","Lie","Never Tell","Tell About","Tell Cops What Did"],"emittingConcepts":[]}
+{"concept":"Tell About","rel":"HasLastSubevent","emittingConcepts":["Get Away With Crime","See Exciting Story"],"receivingConcepts":[]}
+{"concept":"Get Clean","rel":"HasLastSubevent","receivingConcepts":["Dry Off","Dry Off With Towel","Hang Up Towel","Put on Clean Clothes"],"emittingConcepts":[]}
+{"concept":"Hang Up Towel","rel":"HasLastSubevent","emittingConcepts":["Get Clean","Groom"],"receivingConcepts":[]}
+{"concept":"Get Contract","rel":"HasLastSubevent","receivingConcepts":["Begin to Work","Celebrate","Sign","Sign Contract","Start to Work"],"emittingConcepts":[]}
+{"concept":"Sign Contract","rel":"HasLastSubevent","emittingConcepts":["Get Contract"],"receivingConcepts":["Date Contract","Read Everything Very Carefully","Read Over Again","Sigh","Write Name"]}
+{"concept":"Get Divorce","rel":"HasLastSubevent","receivingConcepts":["Cry","Move Out","Pay Child Support","Recieve Decree Absolute","Sign Documents","Split Common Property"],"emittingConcepts":[]}
+{"concept":"Throw Up","rel":"HasLastSubevent","emittingConcepts":["Get Drunk","Have Party"],"receivingConcepts":[]}
+{"concept":"Get Exercise","rel":"HasLastSubevent","receivingConcepts":["Clean Yourself","Cool Out","Rest Muscles"],"emittingConcepts":[]}
+{"concept":"Cool Out","rel":"HasLastSubevent","emittingConcepts":["Get Exercise","Ride Horse"],"receivingConcepts":[]}
+{"concept":"Get Fit","rel":"HasLastSubevent","receivingConcepts":["Eat Lots of Burgers","Feel Healthy","Get New Clothes","Show Off"],"emittingConcepts":[]}
+{"concept":"Feel Healthy","rel":"HasLastSubevent","emittingConcepts":["Get Fit","Stay Fit"],"receivingConcepts":[]}
+{"concept":"Get Good Grade","rel":"HasLastSubevent","receivingConcepts":["Admit Cheated","Celebrate","Fail","Pay Off Teacher","Tell Family","Tell Mother","Writing"],"emittingConcepts":[]}
+{"concept":"Get in Line","rel":"HasLastSubevent","receivingConcepts":["Entering Place","Walk"],"emittingConcepts":[]}
+{"concept":"Walk","rel":"HasLastSubevent","emittingConcepts":["Get in Line","Go for Run"],"receivingConcepts":["Place Foot Down","Take Off Shoes"]}
+{"concept":"Get in Shape","rel":"HasLastSubevent","receivingConcepts":["Eat","Eat Fast Food","Establish Regular Exercise Routine","Feel Proud of Yourself","Start","Working Out"],"emittingConcepts":[]}
+{"concept":"Get Job","rel":"HasLastSubevent","receivingConcepts":["Find Out When to Start","Sign Employment Contract","Start Working"],"emittingConcepts":[]}
+{"concept":"Get Money From","rel":"HasLastSubevent","receivingConcepts":["Pay Back","Run Away and Hide Gun","Say Thanks to Or","Sd","Spend","Thank"],"emittingConcepts":[]}
+{"concept":"Log Off","rel":"HasLastSubevent","emittingConcepts":["Get Onto Web","Go on Internet","Surf Net","Surf Web"],"receivingConcepts":[]}
+{"concept":"Get Out of Car","rel":"HasLastSubevent","receivingConcepts":["Lock Car"],"emittingConcepts":["Go for Drive","Test Car"]}
+{"concept":"Lock Car","rel":"HasLastSubevent","emittingConcepts":["Get Out of Car","Take Car for Drive"],"receivingConcepts":[]}
+{"concept":"Get Paid","rel":"HasLastSubevent","receivingConcepts":["Deposit Check","Deposit Paycheck","Go to Bank","Put Check in Pocket","Spend Money"],"emittingConcepts":["Work"]}
+{"concept":"Get Physical Activity","rel":"HasLastSubevent","receivingConcepts":["Rest","Shower Hopefully","Take Shower","Warm Down"],"emittingConcepts":[]}
+{"concept":"Take Shower","rel":"HasLastSubevent","emittingConcepts":["Get Physical Activity","Place Basketball","Play Basketball","Play Frisbee","Play Lacrosse","Play Sport","Play Sports","Play Tennis","Run in Marathon","Stay Fit"],"receivingConcepts":["Dry Off","Dry Yourself Off","Put Clothes On","Towel Yourself Off","Turn Off Water"]}
+{"concept":"Warm Down","rel":"HasLastSubevent","emittingConcepts":["Get Physical Activity","Go for Jog"],"receivingConcepts":[]}
+{"concept":"Get Up Early","rel":"HasLastSubevent","receivingConcepts":["Getting Straight Up","Stretch Muscles","Turn Off Alarm Clock"],"emittingConcepts":[]}
+{"concept":"Get Warm","rel":"HasLastSubevent","receivingConcepts":["Become Warm","Feel Cozy","Give One Last Shudder","Go to Sleep","Loosen Clothing","Putting on More Clothes","Sit Near Fire","Stop Shivering"],"emittingConcepts":[]}
+{"concept":"Get Wet","rel":"HasLastSubevent","receivingConcepts":["Dry Off","Dry Yourself","Feel Wet"],"emittingConcepts":[]}
+{"concept":"Dry Yourself","rel":"HasLastSubevent","emittingConcepts":["Get Wet","Have Shower","Scuba Dive"],"receivingConcepts":[]}
+{"concept":"Give Assistance","rel":"HasLastSubevent","receivingConcepts":["Ask Questions","Expect Thanks","Generous","Smile"],"emittingConcepts":[]}
+{"concept":"Give Clue","rel":"HasLastSubevent","receivingConcepts":["Hint","Signifing","Smile Mysteriously"],"emittingConcepts":[]}
+{"concept":"Give Gift","rel":"HasLastSubevent","receivingConcepts":["Accept Thanks From Recipient","Follow Up","Say Welcome","Watch Recipient Open"],"emittingConcepts":[]}
+{"concept":"Say Welcome","rel":"HasLastSubevent","emittingConcepts":["Give Gift","Help"],"receivingConcepts":[]}
+{"concept":"Give Plug","rel":"HasLastSubevent","receivingConcepts":["Collect Small Bribe","Go to Comercial","Say Name"],"emittingConcepts":[]}
+{"concept":"Go Fishing","rel":"HasLastSubevent","receivingConcepts":["Go Back Home","Put Away Fishing Gear","Smell","Tie Up Boat"],"emittingConcepts":[]}
+{"concept":"Go Back Home","rel":"HasLastSubevent","emittingConcepts":["Go Fishing","Travel"],"receivingConcepts":[]}
+{"concept":"Go for Drive","rel":"HasLastSubevent","receivingConcepts":["Get Out of Car","Make Sure Have Enough Petrol","Park Automobile","Speed","Turn Off Ignition"],"emittingConcepts":["Have Nervous Breakdown"]}
+{"concept":"Go for Haircut","rel":"HasLastSubevent","receivingConcepts":["Pay Hairdresser","Tip Stylist","Walk Out of Shop"],"emittingConcepts":[]}
+{"concept":"Pay Hairdresser","rel":"HasLastSubevent","emittingConcepts":["Go for Haircut","Go to Hairdresser"],"receivingConcepts":[]}
+{"concept":"Tip Stylist","rel":"HasLastSubevent","emittingConcepts":["Go for Haircut","Go to Hairdresser"],"receivingConcepts":[]}
+{"concept":"Go for Jog","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Go Home","Note Time","Put on Sneakers","Stretch","Take Rest","Take Water With","Tie Shoes","Warm Down"],"emittingConcepts":[]}
+{"concept":"Cool Down","rel":"HasLastSubevent","emittingConcepts":["Go for Jog","Go for Run","Go Jogging","Maintain Muscle Strength","Prove Physical Endurance","Run Marathon"],"receivingConcepts":[]}
+{"concept":"Take Rest","rel":"HasLastSubevent","emittingConcepts":["Go for Jog","Walk Around Lake"],"receivingConcepts":[]}
+{"concept":"Go for Run","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Cool Off","Have Shower","Lean Forward to Start Running","Pull to Stop","Stretch","Walk"],"emittingConcepts":[]}
+{"concept":"Have Shower","rel":"HasLastSubevent","emittingConcepts":["Go for Run"],"receivingConcepts":["Dry","Dry Off With Towel","Dry Yourself"]}
+{"concept":"Go for Swim","rel":"HasLastSubevent","receivingConcepts":["Climb Out","Come to Surface","Dry Off","Dry Yourself With Towel","Drying Yourself","Get Out of Pool","Leave Pool","Put on Flippers","Reach for Towel","Sit in Sun","Sweep Water Out of Face","Take Off All Clothes","Towel Off","Walk Away"],"emittingConcepts":["Walk Around Lake"]}
+{"concept":"Go for Walk","rel":"HasLastSubevent","receivingConcepts":["Come Back Home","Enter Destination","Go Home","Return","Return Home","Shut Door","Sleep"],"emittingConcepts":[]}
+{"concept":"Come Back Home","rel":"HasLastSubevent","emittingConcepts":["Go for Walk","Going Out at Night"],"receivingConcepts":[]}
+{"concept":"Go Into Coma","rel":"HasLastSubevent","receivingConcepts":["Dancing","Have Brain Injury","Lose Consciousness"],"emittingConcepts":[]}
+{"concept":"Lose Consciousness","rel":"HasLastSubevent","emittingConcepts":["Go Into Coma","Go Into Trance","Go to Sleep"],"receivingConcepts":["Fall to Ground","Pass Out"]}
+{"concept":"Go Into Trance","rel":"HasLastSubevent","receivingConcepts":["Become Hypnotized","Close Eyes","Lose Consciousness","Lose Touch With World","Meditate","Open Eyes"],"emittingConcepts":[]}
+{"concept":"Meditate","rel":"HasLastSubevent","emittingConcepts":["Go Into Trance","Watch Television Show"],"receivingConcepts":[]}
+{"concept":"Go Jogging","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Go Home","Put on Tennis Shoes Fit","Stretch","Take Shower and Change Clothes"],"emittingConcepts":[]}
+{"concept":"Go Off Strike","rel":"HasLastSubevent","receivingConcepts":["Go Back to Work","Sleep","Throw Away Picket Signs","Vote for Contract"],"emittingConcepts":[]}
+{"concept":"Go on Internet","rel":"HasLastSubevent","receivingConcepts":["Click on Link","Connect","Disconnect","Enter Address","Log Off","Logoff","Logoff Computer","Turn Off Computer","Use Microsoft Internet Explorer"],"emittingConcepts":[]}
+{"concept":"Turn Off Computer","rel":"HasLastSubevent","emittingConcepts":["Go on Internet","Surf Net","Surf Web","Type"],"receivingConcepts":[]}
+{"concept":"Go on Stage","rel":"HasLastSubevent","receivingConcepts":["Appear Before Audience","Bow to Audience","Perform","Speak Into Microphone","Start to Perform"],"emittingConcepts":[]}
+{"concept":"Perform","rel":"HasLastSubevent","emittingConcepts":["Go on Stage"],"receivingConcepts":["Bow","Take Bow","Thank Audience"]}
+{"concept":"Go on Strike","rel":"HasLastSubevent","receivingConcepts":["Get Pink Slip","Go Home","Put Down Tools"],"emittingConcepts":[]}
+{"concept":"Go on Vacation","rel":"HasLastSubevent","receivingConcepts":["Come Home","Get in Car to Return","Go Home","Pack","Return Home","Travel Home"],"emittingConcepts":[]}
+{"concept":"Come Home","rel":"HasLastSubevent","emittingConcepts":["Go on Vacation","Go Somewhere","Go to Pub","Go to Work"],"receivingConcepts":[]}
+{"concept":"Go Outside for Evening","rel":"HasLastSubevent","receivingConcepts":["Get Blunted","Get Jacket","Lock Door","Lock Front Door","Return Home"],"emittingConcepts":[]}
+{"concept":"Lock Door","rel":"HasLastSubevent","emittingConcepts":["Go Outside for Evening","Go to Work","Leave Home","Leave House"],"receivingConcepts":[]}
+{"concept":"Go Public","rel":"HasLastSubevent","receivingConcepts":["File for Bankruptcy","Give One Last Look Privatly","Pay Down Debt","Tell","Thanking for Attention"],"emittingConcepts":[]}
+{"concept":"Go See Film","rel":"HasLastSubevent","receivingConcepts":["Discuss Movie","Exit Room","Exit Theater","Find Seat","Get Up and Leave Theater","Go Home","Sit Down","Walk Out Exit"],"emittingConcepts":[]}
+{"concept":"Walk Out Exit","rel":"HasLastSubevent","emittingConcepts":["Go See Film","Go to Mall"],"receivingConcepts":[]}
+{"concept":"Go See Play","rel":"HasLastSubevent","receivingConcepts":["Applaud","Applaud Actors","Leave Theater","Sit in Seat"],"emittingConcepts":[]}
+{"concept":"Go Somewhere","rel":"HasLastSubevent","receivingConcepts":["Arrive","Arrive at Destination","Arrive There","Come Home","Fart","Get Back Home","Get There","Go Back","Prepare to Go Somewhere Else","Reach Aim"],"emittingConcepts":[]}
+{"concept":"Arrive at Destination","rel":"HasLastSubevent","emittingConcepts":["Go Somewhere","Travel"],"receivingConcepts":[]}
+{"concept":"Go to Baseball Game","rel":"HasLastSubevent","receivingConcepts":["Ask Yourself Why","Leave Stadium"],"emittingConcepts":[]}
+{"concept":"Leave Stadium","rel":"HasLastSubevent","emittingConcepts":["Go to Baseball Game","Go to Sporting Event"],"receivingConcepts":[]}
+{"concept":"Go to Bathroom","rel":"HasLastSubevent","receivingConcepts":["Wash Hands"],"emittingConcepts":["Go to Film","Go to Movie"]}
+{"concept":"Get Laid","rel":"HasLastSubevent","emittingConcepts":["Go to Bed","Serve Justice"],"receivingConcepts":[]}
+{"concept":"Read Book","rel":"HasLastSubevent","emittingConcepts":["Go to Bed","Relax"],"receivingConcepts":["Close","Close Cover","Cry","Read Last Page","Stare Off Into Space"]}
+{"concept":"Turn Off Light","rel":"HasLastSubevent","emittingConcepts":["Go to Bed","Groom"],"receivingConcepts":[]}
+{"concept":"Go to Concert","rel":"HasLastSubevent","receivingConcepts":["Flick Bic","Leave Concert","Leave Concert Hall","Sleep"],"emittingConcepts":[]}
+{"concept":"Go to Film","rel":"HasLastSubevent","receivingConcepts":["Go to Bathroom","Leave","Watch Ending Credits"],"emittingConcepts":[]}
+{"concept":"Go to Get Haircut","rel":"HasLastSubevent","receivingConcepts":["Brush Off Newly Cut Hair","Drive to Supercut"],"emittingConcepts":[]}
+{"concept":"Go to Hairdresser","rel":"HasLastSubevent","receivingConcepts":["Pay Account","Pay for Services Rendered","Pay Hairdresser","Tip Stylist"],"emittingConcepts":[]}
+{"concept":"Go to Laundromat","rel":"HasLastSubevent","receivingConcepts":["Collect Dirty Clothes","Fart","Fold Laundry","Leave Laundromat"],"emittingConcepts":[]}
+{"concept":"Go to Mall","rel":"HasLastSubevent","receivingConcepts":["Exit","Find Car in Lot","Go Home","Leave","Leave in Car","Purchase Items at Checkout","Walk Out Exit"],"emittingConcepts":[]}
+{"concept":"Go to Market","rel":"HasLastSubevent","receivingConcepts":["Enter Store","Leave Market","Load Food Into Car","Load Items in Car","Park Car","Pay Cashier","Pay Clerk","Put Purchases Away","R"],"emittingConcepts":[]}
+{"concept":"Enter Store","rel":"HasLastSubevent","emittingConcepts":["Go to Market","Go to Store","Run Errands"],"receivingConcepts":[]}
+{"concept":"Go to Movie","rel":"HasLastSubevent","receivingConcepts":["Go Home Afterwards","Go to Bathroom","Leave","Leave Movie Theater","Walk Out of Theater"],"emittingConcepts":[]}
+{"concept":"Go to Opera","rel":"HasLastSubevent","receivingConcepts":["Change Mind","Go Home","Leave Auditorium","Leave Before Fat Lady Sings","Leave Opera House","Sleep","Take Seat","Talk During Performance"],"emittingConcepts":[]}
+{"concept":"Leave Auditorium","rel":"HasLastSubevent","emittingConcepts":["Go to Opera","Watch Musician Perform"],"receivingConcepts":[]}
+{"concept":"Go to Performance","rel":"HasLastSubevent","receivingConcepts":["Applaud","Applaud When Show Over","Clap","Leave Theater","Make Sure Have Tickets","Sleep"],"emittingConcepts":[]}
+{"concept":"Go to Play","rel":"HasLastSubevent","receivingConcepts":["Check Tickets","Eat","Going Home","Leave Theater","Say Goodbye"],"emittingConcepts":[]}
+{"concept":"Go to Pub","rel":"HasLastSubevent","receivingConcepts":["Come Home","Go Home","Pay Tab","Repack Cue Stick","Vomit on Shoes"],"emittingConcepts":[]}
+{"concept":"Pay Tab","rel":"HasLastSubevent","emittingConcepts":["Go to Pub","Hang Out at Bar"],"receivingConcepts":[]}
+{"concept":"Go to Restaurant","rel":"HasLastSubevent","receivingConcepts":["Close Door","Compliment Chef","Leave","Park Car","Pick Up After Dinner Mint","Take Mint From Jar"],"emittingConcepts":[]}
+{"concept":"Go to School","rel":"HasLastSubevent","receivingConcepts":["Get Degree","Sit Down at Desk","Take Exam"],"emittingConcepts":[]}
+{"concept":"Take Exam","rel":"HasLastSubevent","emittingConcepts":["Go to School","Take Course"],"receivingConcepts":["Cheat","Check All Answers","Leave Room","Pray for Good Grade","Turn Exam In","Turn In"]}
+{"concept":"Go to Sporting Event","rel":"HasLastSubevent","receivingConcepts":["Congratulate Team","Find Car","Go Home","Head for Exit","Kiss Cheer Leaders Good Bye","Leave Sporting Event","Leave Stadium","Stand Up and Leave","Tear Down Goal Posts"],"emittingConcepts":[]}
+{"concept":"Go to Store","rel":"HasLastSubevent","receivingConcepts":["Check Out","Collect Receipt","Enter Store","Pay for Goods","Pay for Groceries","Pay for Items","Say Goodbya to Salesperson","Take Groceries to Car","Take Off New Shoes"],"emittingConcepts":["Make Shopping List"]}
+{"concept":"Check Out","rel":"HasLastSubevent","emittingConcepts":["Go to Store","Travel"],"receivingConcepts":[]}
+{"concept":"Pay for Groceries","rel":"HasLastSubevent","emittingConcepts":["Go to Store","Grocery Shop"],"receivingConcepts":[]}
+{"concept":"Pay for Items","rel":"HasLastSubevent","emittingConcepts":["Go to Store","Shop"],"receivingConcepts":[]}
+{"concept":"Take Groceries to Car","rel":"HasLastSubevent","emittingConcepts":["Go to Store","Grocery Shop"],"receivingConcepts":[]}
+{"concept":"Go to Work","rel":"HasLastSubevent","receivingConcepts":["Arrive at Work","Clock In","Clock Out","Come Home","Enter Work Place","Lock Door","Lock House","Shut Down Pc","Turn Off Lights","Walk Into Office"],"emittingConcepts":[]}
+{"concept":"Clock Out","rel":"HasLastSubevent","emittingConcepts":["Go to Work","Work"],"receivingConcepts":[]}
+{"concept":"Turn Off Lights","rel":"HasLastSubevent","emittingConcepts":["Go to Work","Have Party","Leave Room"],"receivingConcepts":[]}
+{"concept":"Go to Zoo","rel":"HasLastSubevent","receivingConcepts":["Drive Home","Leave","Leave Zoo","Open Cages","Throw Trash in Trash Can","Walk Through Gate"],"emittingConcepts":[]}
+{"concept":"Going Out at Night","rel":"HasLastSubevent","receivingConcepts":["Come Back Home","Put on Porch Light"],"emittingConcepts":[]}
+{"concept":"Grocery Shop","rel":"HasLastSubevent","receivingConcepts":["Pay for Groceries","Put Groceries in Pantry","Put Groceries Into Vehicle","Take Groceries to Car","Take Purchases Home"],"emittingConcepts":[]}
+{"concept":"Groom","rel":"HasLastSubevent","receivingConcepts":["Check Yourself in Mirror","Clean Up Materials","Comb Hair","Eyebrows","Hang Up Mirror","Hang Up Towel","Have Sex","Nose Hairs","Put Away Brush","Turn Off Light"],"emittingConcepts":["Take Bath"]}
+{"concept":"Check Yourself in Mirror","rel":"HasLastSubevent","emittingConcepts":["Groom","Improve Image"],"receivingConcepts":[]}
+{"concept":"Have Sex","rel":"HasLastSubevent","emittingConcepts":["Groom","Soak in Hotspring"],"receivingConcepts":[]}
+{"concept":"Grow Vegetables","rel":"HasLastSubevent","receivingConcepts":["Eat","Eat Vegetables Have Grown","Harvest","Harvest to Eat","Harvest Vegetables"],"emittingConcepts":[]}
+{"concept":"Harvest","rel":"HasLastSubevent","emittingConcepts":["Grow Vegetables","Make Grow"],"receivingConcepts":[]}
+{"concept":"Handle Proposals","rel":"HasLastSubevent","receivingConcepts":["Accept or Reject Proposal","Make Decision","Submit to Customer"],"emittingConcepts":[]}
+{"concept":"Hang Out at Bar","rel":"HasLastSubevent","receivingConcepts":["Drink","Fall Off Stool","Go Home","Pay for Drinks","Pay Tab","Pray"],"emittingConcepts":[]}
+{"concept":"Have Asthma Attack","rel":"HasLastSubevent","receivingConcepts":["Begin Running","Call 911","Choke","Die","Notify Doctor","Reach for Inhaler","Smoke Cigarrette","Start Breathing Normally Again"],"emittingConcepts":[]}
+{"concept":"Call 911","rel":"HasLastSubevent","emittingConcepts":["Have Asthma Attack","Kill People"],"receivingConcepts":[]}
+{"concept":"Have Bath","rel":"HasLastSubevent","receivingConcepts":["Dry Off","Dry Off With Towel","Empty Tub","Get Dressed"],"emittingConcepts":[]}
+{"concept":"Have Checkup","rel":"HasLastSubevent","receivingConcepts":["Ask Doctor Questions","Brush","Get Dressed","Get Naked"],"emittingConcepts":[]}
+{"concept":"Have Conversation","rel":"HasLastSubevent","receivingConcepts":["End Conversation","Finish Conversation","Say Good By","Stop Talking"],"emittingConcepts":[]}
+{"concept":"End Conversation","rel":"HasLastSubevent","emittingConcepts":["Have Conversation","Talk To"],"receivingConcepts":[]}
+{"concept":"Have Epileptic Fit","rel":"HasLastSubevent","receivingConcepts":["Find Tongue","Pass Out","Recover Consciousness","Wipe Mouth"],"emittingConcepts":[]}
+{"concept":"Have Examination","rel":"HasLastSubevent","receivingConcepts":["Hand in to Examiner","Leave Building","Put Clothes Back On","Put Pencil Down","Revision","Study Hard","Turn in Exam Papers"],"emittingConcepts":[]}
+{"concept":"Leave Building","rel":"HasLastSubevent","emittingConcepts":["Have Examination","Visit Museum"],"receivingConcepts":[]}
+{"concept":"Put Pencil Down","rel":"HasLastSubevent","emittingConcepts":["Have Examination","Take Examination"],"receivingConcepts":[]}
+{"concept":"Study Hard","rel":"HasLastSubevent","emittingConcepts":["Have Examination","Take Finals"],"receivingConcepts":[]}
+{"concept":"Have Food","rel":"HasLastSubevent","receivingConcepts":["Clean Up","Digest","Eat","Swallow"],"emittingConcepts":[]}
+{"concept":"Have Friends Over","rel":"HasLastSubevent","receivingConcepts":["Clean House","Clean Up","Collapse on Couch","Fart","Put Up for Night","Say Bye To","Say Goodbey","Say Goodbye","Say Goodnight","Send Home"],"emittingConcepts":[]}
+{"concept":"Have Fun","rel":"HasLastSubevent","receivingConcepts":["Feel Good","Feel Happier for Having Done","Stop Having Fun"],"emittingConcepts":[]}
+{"concept":"Have Haircut","rel":"HasLastSubevent","receivingConcepts":["Pay","Pay Barber","Pay for Haircut","Tip Barber"],"emittingConcepts":[]}
+{"concept":"Have Heart Attack","rel":"HasLastSubevent","receivingConcepts":["Call for Help","Die","Either Recover or Die","Stop Breathing"],"emittingConcepts":[]}
+{"concept":"Have Lunch","rel":"HasLastSubevent","receivingConcepts":["Leave Table","Swallow","Throw Away Trash"],"emittingConcepts":[]}
+{"concept":"Have Nervous Breakdown","rel":"HasLastSubevent","receivingConcepts":["Check Yourself in to Facility","Cry Hysterically","Fall Apart","Go for Drive","Go to Psychiatrist","Go to Psychyiatrist","Kill Yourself","Leave Hospital","Recover"],"emittingConcepts":[]}
+{"concept":"Have Party","rel":"HasLastSubevent","receivingConcepts":["Accept Congratulations","Account for Cost","Assist Departures","Begin New Life","Cherish Moments of Evening","Clean Everything Up","Clean Up Confetti","Clean Up Mess","Clean Up Place","Cleaning Room","Close Front Door","Collect Remembrances","Create Scrapbook","Distribute Goodies","Dump Detritus","Eat Leftovers","Eat Perishables","Express Relief","Find Out if Everyone Enjoyed Themselves","Get Film Developed","Give Big Cheer","Give Hug Goodbye","Give Out Souvenirs","Give Thanks","Go to Bed","Grumpy","Have Reunion","Help Guests Get Wraps","Housework","Hug Spouse","Inquire About Travel Concerns","Invite Mon and Dad","Kiss Goodbye","Make Sure Drinkers Don't Drive","Make Sure Guests Have Directions","Package Up Unfinished Food","Pay Bill","Pay Caterer","Pick Up Dishes","Pick Up Pieces","Pick Up Tab","Plop Down","Pray Together","Read Thank Notes","Receive Departing Guests at Door","Reflect on Memories","Refrigerate Food","Retrieve Coats","Say Goodbye","See Guests Off","Send Copies of Pictures","Sigh in Relief","Sing Last Song","Stand at Front Door","Take Aspirin","Take Baby Sitter Home","Talk About Next Time","Talk About Old Times","Thank Band","Thank Help","Thank Party Goers for Coming","Think About Safe Travel Home","Throw Away Used Gift Wrappings","Throw Up","Tip Help","Turn Off Lights","Vacuum","Wash Dishes","Wave Goodbye","Wipe Off Lipstick","Wonder Why Didn't Come"],"emittingConcepts":[]}
+{"concept":"Have Physical Examination","rel":"HasLastSubevent","receivingConcepts":["Blush","Make Co Payment","Pay","Pay Bill","Put Clothing Back On"],"emittingConcepts":[]}
+{"concept":"Have Rest","rel":"HasLastSubevent","receivingConcepts":["Get Up","Relax and Sleep","Resume Previous Activity","Wake Up"],"emittingConcepts":[]}
+{"concept":"Get Up","rel":"HasLastSubevent","emittingConcepts":["Have Rest","Stay in Bed"],"receivingConcepts":[]}
+{"concept":"Hear Crowd Go Mad","rel":"HasLastSubevent","receivingConcepts":["Bow","Listen","Run","Wave to Crowd"],"emittingConcepts":[]}
+{"concept":"Run","rel":"HasLastSubevent","emittingConcepts":["Hear Crowd Go Mad","Kill","Write Program"],"receivingConcepts":["Bathe Sweat Off Body","Reach Destination","Rest","Slow Down","Stop"]}
+{"concept":"Hear Music","rel":"HasLastSubevent","receivingConcepts":["Applaud","Close Eyes","Hum Tune","Listen","Making Noise","Open Eyes","Remember Tune","Turn Off Radio"],"emittingConcepts":[]}
+{"concept":"Turn Off Radio","rel":"HasLastSubevent","emittingConcepts":["Hear Music","Listen to Radio"],"receivingConcepts":[]}
+{"concept":"Hear News","rel":"HasLastSubevent","receivingConcepts":["Call Freinds","Declare Old News","Got Surpised","Panic","Process Information","Replace With Newer News"],"emittingConcepts":[]}
+{"concept":"Panic","rel":"HasLastSubevent","emittingConcepts":["Hear News","Run Out of Steam"],"receivingConcepts":[]}
+{"concept":"Hear Singing","rel":"HasLastSubevent","receivingConcepts":["Applaud","Appreciate Music","Clap Hands","Tell to Shut Up"],"emittingConcepts":[]}
+{"concept":"Hear Testimony","rel":"HasLastSubevent","receivingConcepts":["Consider What Was Said","Decide if Witness Was Lying","Evaluate Credibility of Witness","Evaluate Testimony's Credibility","Listen","Lough","Make Judgement"],"emittingConcepts":[]}
+{"concept":"Help","rel":"HasLastSubevent","receivingConcepts":["Accept Thanks","Make Sure Alright","Say Welcome"],"emittingConcepts":[]}
+{"concept":"Hike","rel":"HasLastSubevent","receivingConcepts":["Return Home","Take Off Shoes"],"emittingConcepts":[]}
+{"concept":"Take Off Shoes","rel":"HasLastSubevent","emittingConcepts":["Hike","Play Soccer","Walk"],"receivingConcepts":[]}
+{"concept":"Hit Bottle","rel":"HasLastSubevent","receivingConcepts":["Finish Drinking","Open","Pass Out","Think About What Doing","Vomit"],"emittingConcepts":[]}
+{"concept":"Holiday Shop","rel":"HasLastSubevent","receivingConcepts":["Go Home","Go Home and Soak Feet","Go Postal","Pay for Purchases","Wrap Presents"],"emittingConcepts":[]}
+{"concept":"Pay for Purchases","rel":"HasLastSubevent","emittingConcepts":["Holiday Shop","Shop"],"receivingConcepts":[]}
+{"concept":"Howl With Laughter","rel":"HasLastSubevent","receivingConcepts":["Catch Breath","Get Breath Back","Hold Stomach","Take Deep Breath"],"emittingConcepts":[]}
+{"concept":"Hurt Else","rel":"HasLastSubevent","receivingConcepts":["Apologize","Feel Guilty","Living","Rethink Own Motives and Reconsider"],"emittingConcepts":[]}
+{"concept":"Illustrate Point","rel":"HasLastSubevent","receivingConcepts":["Ask for Questions","Make Conclusion","Observe Audience's Response","Pound Table","Reinforce","Say Thank","Show Example","Summarize"],"emittingConcepts":[]}
+{"concept":"Say Thank","rel":"HasLastSubevent","emittingConcepts":["Illustrate Point","Open Gift"],"receivingConcepts":[]}
+{"concept":"Summarize","rel":"HasLastSubevent","emittingConcepts":["Illustrate Point","Know How Stock Market Performed","Tell Many People About"],"receivingConcepts":[]}
+{"concept":"Impanel Jury","rel":"HasLastSubevent","receivingConcepts":["Administer Oath","Give Verdict","Know Facts","Sequester Jury"],"emittingConcepts":[]}
+{"concept":"Improve Image","rel":"HasLastSubevent","receivingConcepts":["Check Mirror","Check Yourself in Mirror","Show Yourself","Speak More Clearly","Straighten Tie"],"emittingConcepts":[]}
+{"concept":"Improve Yourself","rel":"HasLastSubevent","receivingConcepts":["Decide When to Stop","Gain Self Esteem"],"emittingConcepts":[]}
+{"concept":"In Charge of Project","rel":"HasLastSubevent","receivingConcepts":["Complete","Declare Project Shippable","Make Sure All Done"],"emittingConcepts":[]}
+{"concept":"Institute Civil Action","rel":"HasLastSubevent","receivingConcepts":["File Civil Action in Court","File Papers"],"emittingConcepts":[]}
+{"concept":"Invest Money or Energy","rel":"HasLastSubevent","receivingConcepts":["Feel Exhausted","Give Up","Pray Investment Was Worthwhile","Reap Benefits","Think of Goal"],"emittingConcepts":[]}
+{"concept":"Give Up","rel":"HasLastSubevent","emittingConcepts":["Invest Money or Energy","Reach Impasse"],"receivingConcepts":[]}
+{"concept":"Jog","rel":"HasLastSubevent","receivingConcepts":["Care for Blisters","Drinks Tons of Water","Put Ointment on Chaffing","Slow Down to Walk","Slow to Walk","Stop Jogging","Stop Running","Walk Lap"],"emittingConcepts":[]}
+{"concept":"Stop Running","rel":"HasLastSubevent","emittingConcepts":["Jog","Run Twenty Six Miles"],"receivingConcepts":[]}
+{"concept":"Join Army","rel":"HasLastSubevent","receivingConcepts":["Get Hair Cut","Get Uniform","Leave Home","Regret","Salute","Tell Everyone You're Gay"],"emittingConcepts":[]}
+{"concept":"Judge","rel":"HasLastSubevent","receivingConcepts":["Make Feel Bad","Read Verdict","Rendera Judgement"],"emittingConcepts":[]}
+{"concept":"Read Verdict","rel":"HasLastSubevent","emittingConcepts":["Judge","Pass Sentence"],"receivingConcepts":[]}
+{"concept":"Jump at Chance","rel":"HasLastSubevent","receivingConcepts":["Do","Think Before Jump"],"emittingConcepts":[]}
+{"concept":"Jump Out of Window","rel":"HasLastSubevent","receivingConcepts":["Decide to Turn Back","Fall","Hit Ground","Land Uncomfortably","Pray"],"emittingConcepts":[]}
+{"concept":"Jump Rope","rel":"HasLastSubevent","receivingConcepts":["Breathe Hard","Land","Put Away Rope","Stop Jumping"],"emittingConcepts":[]}
+{"concept":"Jump Up and Down","rel":"HasLastSubevent","receivingConcepts":["Drink","Land","Land on Ground","Stop"],"emittingConcepts":[]}
+{"concept":"Keep Things Orderly and Tidy","rel":"HasLastSubevent","receivingConcepts":["Change Name to Dwight","Draw Attention to Unusual Event","Make Commitment to Regular Cleaning","Take Out Trash"],"emittingConcepts":[]}
+{"concept":"Go to Jail","rel":"HasLastSubevent","emittingConcepts":["Kill","Stab to Death"],"receivingConcepts":[]}
+{"concept":"Kill People","rel":"HasLastSubevent","receivingConcepts":["Call 911","Conceal Evidence","Try to Forget About"],"emittingConcepts":[]}
+{"concept":"Kiss","rel":"HasLastSubevent","receivingConcepts":["Back Away","Bend Forwards","Close Eyes","Eat Garlic First","Fart","Have Eyes Open","Part Lips","Pucker","Seperate","Smile","Unlock Lips","Wipe Mouth Off"],"emittingConcepts":["Propose to Woman"]}
+{"concept":"Knit","rel":"HasLastSubevent","receivingConcepts":["Block","Block Item"],"emittingConcepts":[]}
+{"concept":"Know How Stock Market Performed","rel":"HasLastSubevent","receivingConcepts":["Buy Sell Shares","Cry","Ejaculate","Read Ticker","Record Results","Summarize"],"emittingConcepts":[]}
+{"concept":"Know if You're Healthy","rel":"HasLastSubevent","receivingConcepts":["Cancel Doctor Appointment","Continue to Excersize","Feel Relieved","Kill Yourself","Worry About Health"],"emittingConcepts":[]}
+{"concept":"Laugh at Joke","rel":"HasLastSubevent","receivingConcepts":["Cry","Pee in Pants","Remember to Tell Others","Wipe Laughter Tears From Eyes"],"emittingConcepts":[]}
+{"concept":"Learn","rel":"HasLastSubevent","receivingConcepts":["Achnoledge","Apply Knowledge You've Learned","Know","Practice","Retain Information","Try to Remember Well"],"emittingConcepts":["See New"]}
+{"concept":"Learn About World","rel":"HasLastSubevent","receivingConcepts":["Die","Volunteer"],"emittingConcepts":[]}
+{"concept":"Learn Language","rel":"HasLastSubevent","receivingConcepts":["Communicate Easily in New Language","Go Out and Use","Practice","Speak","Speak Fluently"],"emittingConcepts":[]}
+{"concept":"Learn New","rel":"HasLastSubevent","receivingConcepts":["Forget","Try Out"],"emittingConcepts":[]}
+{"concept":"Forget","rel":"HasLastSubevent","emittingConcepts":["Learn New","Remember Phone Number","Understand Better"],"receivingConcepts":[]}
+{"concept":"Leave House","rel":"HasLastSubevent","receivingConcepts":["Close Door Behind","Lock Door"],"emittingConcepts":[]}
+{"concept":"Leave Line","rel":"HasLastSubevent","receivingConcepts":["Check Wallet","Count Change","Put Change in Pocket","Walk Away"],"emittingConcepts":["Stand in Line","Wait on Line"]}
+{"concept":"Leave Room","rel":"HasLastSubevent","receivingConcepts":["Switch Off Light","Turn Off Lights"],"emittingConcepts":["Take Exam","Take Examination"]}
+{"concept":"Light Fire","rel":"HasLastSubevent","receivingConcepts":["Blow Out Match","Feel Heat","Get Match Out","Have Water Ready","Move Away From Flames","Pour Water On","Step Back"],"emittingConcepts":[]}
+{"concept":"Blow Out Match","rel":"HasLastSubevent","emittingConcepts":["Light Fire","Start Fire","Start Flame or Fire"],"receivingConcepts":[]}
+{"concept":"Throw","rel":"HasLastSubevent","emittingConcepts":["Light Firecracker","Play Frisbee"],"receivingConcepts":[]}
+{"concept":"Blow Out","rel":"HasLastSubevent","emittingConcepts":["Light Match","Start Flame or Fire","Strike Match"],"receivingConcepts":[]}
+{"concept":"Throw Away","rel":"HasLastSubevent","emittingConcepts":["Light Match","Read Newspaper"],"receivingConcepts":[]}
+{"concept":"Listen to Music","rel":"HasLastSubevent","receivingConcepts":["Dance","Fall Asleep","Stop Music"],"emittingConcepts":[]}
+{"concept":"Listen to Radio","rel":"HasLastSubevent","receivingConcepts":["Smile","Turn Off Radio","Turn Radio Off","Turn Radio On","Turning Off Radio"],"emittingConcepts":[]}
+{"concept":"Live Life","rel":"HasLastSubevent","receivingConcepts":["Get Cremated","Leave Will"],"emittingConcepts":[]}
+{"concept":"Leave Will","rel":"HasLastSubevent","emittingConcepts":["Live Life","Procreate"],"receivingConcepts":[]}
+{"concept":"Look Better","rel":"HasLastSubevent","receivingConcepts":["Dunno","Feel Better","Smile"],"emittingConcepts":[]}
+{"concept":"Feel Better","rel":"HasLastSubevent","emittingConcepts":["Look Better","Relax"],"receivingConcepts":[]}
+{"concept":"Look Through Telescope","rel":"HasLastSubevent","receivingConcepts":["Focus","Look","Record Findings","Set Focus","Stare at Sun"],"emittingConcepts":[]}
+{"concept":"Lose Weight","rel":"HasLastSubevent","receivingConcepts":["Buy New Clothes","Buy New Clothing","Buy Smaller Clothes","Have Candy","Maintain","Work Out"],"emittingConcepts":[]}
+{"concept":"Love Another","rel":"HasLastSubevent","receivingConcepts":["Hurt","Say Goodbye","Tell Love"],"emittingConcepts":[]}
+{"concept":"Hurt","rel":"HasLastSubevent","emittingConcepts":["Love Another","Love Else"],"receivingConcepts":[]}
+{"concept":"Love Else","rel":"HasLastSubevent","receivingConcepts":["Belittle","Die","Grieve When Die","Hurt","Put Yourself First"],"emittingConcepts":[]}
+{"concept":"Lucid Dream","rel":"HasLastSubevent","receivingConcepts":["Remember","Think About","Wake Up"],"emittingConcepts":[]}
+{"concept":"Remember","rel":"HasLastSubevent","emittingConcepts":["Lucid Dream","Memorize","Travel"],"receivingConcepts":["Aah Forgot","Act on Memory","Become Conscious Of","Connect One Image to Another","Describe to Else","Getting Mental Image","Recall Event or Information","Say Oh Yeah","Stop Trying to Remember","Tell To","Think Abou Tit","Write Down"]}
+{"concept":"Think About","rel":"HasLastSubevent","emittingConcepts":["Lucid Dream","See Old Things"],"receivingConcepts":[]}
+{"concept":"Mail Letter","rel":"HasLastSubevent","receivingConcepts":["Drop in Mailbox","Hope Gets There","Leaving","Lick and Stick","Make Sure It's Got Stamp","Put in Mail Slot","Put in Mailbox","Put Letter in Mailbox"],"emittingConcepts":[]}
+{"concept":"Maintain Muscle Strength","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Cool Down After Exercise","Lift Weights","Obtain Larger Muscles","Stop Exercising"],"emittingConcepts":[]}
+{"concept":"Make Better World","rel":"HasLastSubevent","receivingConcepts":["Build Healthy Lives","Hurt People","Leave World","Rest"],"emittingConcepts":[]}
+{"concept":"Make Bread","rel":"HasLastSubevent","receivingConcepts":["Eat","Eating","Let Cool After Ba","Let Cool Down","Take Out of Oven"],"emittingConcepts":[]}
+{"concept":"Make Friends","rel":"HasLastSubevent","receivingConcepts":["Borrowing","Continue Friendship","Keep in Touch With","Plan to Spend Time Together"],"emittingConcepts":[]}
+{"concept":"Make Grow","rel":"HasLastSubevent","receivingConcepts":["Consider Alternative","Harvest"],"emittingConcepts":[]}
+{"concept":"Make Patchwork Quilt","rel":"HasLastSubevent","receivingConcepts":["Finish Edges","Sew Binding Round","Snip Off Loose Threads","Tie Knot","Tie Off Last Thread","Wash"],"emittingConcepts":[]}
+{"concept":"Tie Knot","rel":"HasLastSubevent","emittingConcepts":["Make Patchwork Quilt","Sew"],"receivingConcepts":[]}
+{"concept":"Wash","rel":"HasLastSubevent","emittingConcepts":["Make Patchwork Quilt","Wash Hands"],"receivingConcepts":[]}
+{"concept":"Make People Laugh","rel":"HasLastSubevent","receivingConcepts":["Determine Why Laughing","Tie Back to First Joke"],"emittingConcepts":[]}
+{"concept":"Make Phone Call","rel":"HasLastSubevent","receivingConcepts":["Disconnect Line","End Connection","Hang Up","Hang Up Phone","Say Farewell","Think"],"emittingConcepts":[]}
+{"concept":"Make Shopping List","rel":"HasLastSubevent","receivingConcepts":["Check","Check With Spouse","Go to Store","Put in Pocket","Put Writing Implement Away"],"emittingConcepts":[]}
+{"concept":"Make Sure You're Healthy","rel":"HasLastSubevent","receivingConcepts":["Hear Docotr's Diagnosis","Leave Doctor's Office"],"emittingConcepts":[]}
+{"concept":"Meet Girls","rel":"HasLastSubevent","receivingConcepts":["Have Orgy","Say Goodbye"],"emittingConcepts":[]}
+{"concept":"Meet Interesting People","rel":"HasLastSubevent","receivingConcepts":["Arrange Another Meeting","Ask for Phone Number","Feel Stimulated","Get Contact Information","Say Good Bye To","Tell By","Telling to Go to Hell","Write Down Phone Number"],"emittingConcepts":[]}
+{"concept":"Telling to Go to Hell","rel":"HasLastSubevent","emittingConcepts":["Meet Interesting People","Meet People"],"receivingConcepts":[]}
+{"concept":"Meet People","rel":"HasLastSubevent","receivingConcepts":["Bid Farewell","Exchange Phone Numbers and or Email","Good Bye Kiss","Remember Person's Name","Say Bye","Say Goodbye","Telling to Go to Hell"],"emittingConcepts":[]}
+{"concept":"Memorize","rel":"HasLastSubevent","receivingConcepts":["Remember","Sleeping"],"emittingConcepts":[]}
+{"concept":"Sleeping","rel":"HasLastSubevent","emittingConcepts":["Memorize","Read"],"receivingConcepts":[]}
+{"concept":"Move Car","rel":"HasLastSubevent","receivingConcepts":["Check All Posotion","Park Car","Take Keys","Turn Car Off","Turn Engine Off","Turn Off Car Engine"],"emittingConcepts":[]}
+{"concept":"Turn Car Off","rel":"HasLastSubevent","emittingConcepts":["Move Car","Stop Car","Test Car"],"receivingConcepts":[]}
+{"concept":"Open Bag of Chips","rel":"HasLastSubevent","receivingConcepts":["Buy Bag of Chips","Close Bag","Let Go of Tabs","Pull Both Sides Simultaneously"],"emittingConcepts":[]}
+{"concept":"Open Business","rel":"HasLastSubevent","receivingConcepts":["Change Sign on Door","Close Business","Do Promotions","Have Grand Opening","Have Grand Opening Celebration","Make Profit","Open for Customers","Unlock Doo","Unlock Door"],"emittingConcepts":[]}
+{"concept":"Open Gift","rel":"HasLastSubevent","receivingConcepts":["Find Out What Gift","Remove From Box","Say Thank","Say Thankyou"],"emittingConcepts":[]}
+{"concept":"Paint","rel":"HasLastSubevent","receivingConcepts":["Clean Brushes","Clean Paintbrush","Clean Up","Clean Up Mess","Clean Up Painting Supplies","Let Dry","Let Paint Dry","Set Brush Down"],"emittingConcepts":[]}
+{"concept":"Clean Brushes","rel":"HasLastSubevent","emittingConcepts":["Paint","Paint Picture"],"receivingConcepts":[]}
+{"concept":"Paint House","rel":"HasLastSubevent","receivingConcepts":["Clean Floor","Clean Paintbrushes","Clean Up","Put Away Paint"],"emittingConcepts":[]}
+{"concept":"Paint Picture","rel":"HasLastSubevent","receivingConcepts":["Clean Brushes","Hang on Wall","Hang Up","Let Cry","Sign"],"emittingConcepts":[]}
+{"concept":"Pass Class","rel":"HasLastSubevent","receivingConcepts":["Celebrate","Get Passing Grade","Move Up to Next Grade","Put Class Notes Away","Receive Grade"],"emittingConcepts":[]}
+{"concept":"Pass Course","rel":"HasLastSubevent","receivingConcepts":["Celebrate","Gets News of Final Grade","Thank Instructor","Thank Teacher"],"emittingConcepts":[]}
+{"concept":"Pass Sentence","rel":"HasLastSubevent","receivingConcepts":["Announce Penalty","Decide on Criminal's Punishment","Read Verdict","Send Criminal to Prison"],"emittingConcepts":[]}
+{"concept":"Send Criminal to Prison","rel":"HasLastSubevent","emittingConcepts":["Pass Sentence"],"receivingConcepts":["Lock Cell","Pass Sentance","Take Into Custody"]}
+{"concept":"Pass University Exams","rel":"HasLastSubevent","receivingConcepts":["Celebrate","Graduate","Party","Receive Diploma"],"emittingConcepts":[]}
+{"concept":"Graduate","rel":"HasLastSubevent","emittingConcepts":["Pass University Exams","Receive Degree","Study"],"receivingConcepts":[]}
+{"concept":"Pay Bills","rel":"HasLastSubevent","receivingConcepts":["Address Envelopes","Cry","Mail Envelope"],"emittingConcepts":[]}
+{"concept":"Pay by Check","rel":"HasLastSubevent","receivingConcepts":["Put Checkbook Away","Show Cashier Drivers Licence","Sign","Sign Name"],"emittingConcepts":[]}
+{"concept":"Sign Name","rel":"HasLastSubevent","emittingConcepts":["Pay by Check","Write Letter","Write Poem"],"receivingConcepts":[]}
+{"concept":"Pay by Credit Card","rel":"HasLastSubevent","receivingConcepts":["Sign Receipt","Take Receipt"],"emittingConcepts":[]}
+{"concept":"Pay Cash","rel":"HasLastSubevent","receivingConcepts":["Get Change From Clerk","Get Receipt","Hand Clerk Money","Put Change in Wallet","Putting Money on Table","Receive","Receive Change"],"emittingConcepts":[]}
+{"concept":"Win or Loose","rel":"HasLastSubevent","emittingConcepts":["Play","Play Cards","Play Game of Chess"],"receivingConcepts":[]}
+{"concept":"Play Ball","rel":"HasLastSubevent","receivingConcepts":["Cease Playing Ball","Congratulate Other Team","Go Home","Join Team","Put Ball Away","Put Equipment Away"],"emittingConcepts":[]}
+{"concept":"Play Baseball","rel":"HasLastSubevent","receivingConcepts":["Rub Bat","Walk Off Field","Win or Lose"],"emittingConcepts":[]}
+{"concept":"Walk Off Field","rel":"HasLastSubevent","emittingConcepts":["Play Baseball","Play Soccer"],"receivingConcepts":[]}
+{"concept":"Win or Lose","rel":"HasLastSubevent","emittingConcepts":["Play Baseball","Play Game","Play Lacrosse","Wage War","Wrestle"],"receivingConcepts":[]}
+{"concept":"Play Basketball","rel":"HasLastSubevent","receivingConcepts":["Bag Balls","Drink","Hear Buzzer","Hurt Yourself","Shake Hands With Other Players","Shower","Stop Playing With Ball","Take Shower"],"emittingConcepts":[]}
+{"concept":"Play Cards","rel":"HasLastSubevent","receivingConcepts":["Collect All Cards","Count Score","Gather Up Cards","Put Back in Deck","Put Cards Away","Put Deck Away","Total Up Score","Win or Loose"],"emittingConcepts":[]}
+{"concept":"Play Chess","rel":"HasLastSubevent","receivingConcepts":["Checkmate","Pack Away Chessboard","Put Away Pieces","Put Opponent's King in Checkmate","Put Set Away","Say Checkmate","Win","Win or Lose Game"],"emittingConcepts":[]}
+{"concept":"Checkmate","rel":"HasLastSubevent","emittingConcepts":["Play Chess","Play Game of Chess"],"receivingConcepts":[]}
+{"concept":"Play Frisbee","rel":"HasLastSubevent","receivingConcepts":["Catch Frisbee","Find Partner","Pick Up Frisbee","Take Shower","Throw","Wipe Sweat Off Face"],"emittingConcepts":[]}
+{"concept":"Play Game","rel":"HasLastSubevent","receivingConcepts":["Beat Up Opponent S","Gloat","Hug Loser","Kill Bastard Who Beat","Mark Down Win","Put Away Game","Put Back Pieces","Put Things Back in Box","Reset Pieces for Another Game","Win or Lose"],"emittingConcepts":[]}
+{"concept":"Play Game of Chess","rel":"HasLastSubevent","receivingConcepts":["Checkmate","Knock Over Loser's King","Put Away Board","Throw Pieces at Opponent","Win or Loose"],"emittingConcepts":[]}
+{"concept":"Play Game With Friends","rel":"HasLastSubevent","receivingConcepts":["Gloat","Laugh"],"emittingConcepts":[]}
+{"concept":"Play Games","rel":"HasLastSubevent","receivingConcepts":["Argue Over Who Wins","Clean Mess","Put Away Games","Put Pieces Away","Tally Score","Tidy Up"],"emittingConcepts":[]}
+{"concept":"Play Guitar","rel":"HasLastSubevent","receivingConcepts":["Pack Away","Put Guitar Down","Strum Guitar Strings","Strum Strings"],"emittingConcepts":[]}
+{"concept":"Play Harp","rel":"HasLastSubevent","receivingConcepts":["Cover","Move Away From Harp","Pluck Strings","Put Away","Put Down Harp","Put Hands On"],"emittingConcepts":[]}
+{"concept":"Play Hockey","rel":"HasLastSubevent","receivingConcepts":["Change Back Into Everyday Clothing","Leave Ice","Running Towards Ball","Win","Win Game"],"emittingConcepts":[]}
+{"concept":"Leave Ice","rel":"HasLastSubevent","emittingConcepts":["Play Hockey","Skate"],"receivingConcepts":[]}
+{"concept":"Play Lacrosse","rel":"HasLastSubevent","receivingConcepts":["Determine Who Won","Put Away Equipment","Take Shower","Win or Lose"],"emittingConcepts":[]}
+{"concept":"Play Piano","rel":"HasLastSubevent","receivingConcepts":["Bow","Close Keyboard Cover","Lift Fingers Off Keys","Stand Up and Take Bow"],"emittingConcepts":[]}
+{"concept":"Play Poker","rel":"HasLastSubevent","receivingConcepts":["Cash in Chips","Cash Out Chips","Collect or Distribute Money Owed","Collect Winnings","Keep Poker Face","Show Anybody Cards","Show Cards"],"emittingConcepts":[]}
+{"concept":"Play Soccer","rel":"HasLastSubevent","receivingConcepts":["Congradulate Other Team","Leave Field","Put Away Ball","Shower","Swap Shirts","Take Off Shoes","Walk Off Field"],"emittingConcepts":[]}
+{"concept":"Play Sport","rel":"HasLastSubevent","receivingConcepts":["Congratulate Winner","Decide Who Won","Determine Winner","Rest","Shower","Take Shower"],"emittingConcepts":[]}
+{"concept":"Play Sports","rel":"HasLastSubevent","receivingConcepts":["Compete","Strech Muscles","Take Off Uniform","Take Shower"],"emittingConcepts":[]}
+{"concept":"Play Tennis","rel":"HasLastSubevent","receivingConcepts":["Google at Skirts","Leave Court","Take Shower","Win Match"],"emittingConcepts":[]}
+{"concept":"Play Violin","rel":"HasLastSubevent","receivingConcepts":["Eat","Put Away Violin","Put Down Instrument","Take Bow"],"emittingConcepts":[]}
+{"concept":"Please Parents","rel":"HasLastSubevent","receivingConcepts":["Feel Smug","Hug","See Therapist","Succeed","Tell Love"],"emittingConcepts":[]}
+{"concept":"Post Message","rel":"HasLastSubevent","receivingConcepts":["Press Post Button","Put Period"],"emittingConcepts":[]}
+{"concept":"Prepare for Vote","rel":"HasLastSubevent","receivingConcepts":["Cast Vote","List Candidates","Remember Republican"],"emittingConcepts":[]}
+{"concept":"Pretend","rel":"HasLastSubevent","receivingConcepts":["Forget Reality","Laugh","Use Imagination"],"emittingConcepts":[]}
+{"concept":"Print on Printer","rel":"HasLastSubevent","receivingConcepts":["Click on Print Button","Click Print","Fuck","Pick Up Output","Take Printed Paper","Turn Off Printer","View Print"],"emittingConcepts":[]}
+{"concept":"Procreate","rel":"HasLastSubevent","receivingConcepts":["Climax","Cut Umbilical Cord","Die","Leave Will","Produce New Life","Raise Offspring","Sex"],"emittingConcepts":[]}
+{"concept":"Program","rel":"HasLastSubevent","receivingConcepts":["Compile Program","Debug","Look in Project Plan","See if Program Works","Test","Test and Debug Code","Test Program","Test Program Works"],"emittingConcepts":[]}
+{"concept":"Compile Program","rel":"HasLastSubevent","emittingConcepts":["Program","Program Computer"],"receivingConcepts":[]}
+{"concept":"Debug","rel":"HasLastSubevent","emittingConcepts":["Program","Write Program"],"receivingConcepts":[]}
+{"concept":"Test","rel":"HasLastSubevent","emittingConcepts":["Program","Repair Umbrella","Write Program"],"receivingConcepts":[]}
+{"concept":"Test Program","rel":"HasLastSubevent","emittingConcepts":["Program","Program Computer","Write Program"],"receivingConcepts":[]}
+{"concept":"Program Computer","rel":"HasLastSubevent","receivingConcepts":["Beta Test","Call to Reprogram","Compile Program","Proofread Program for Errors","Run Program","Test Program"],"emittingConcepts":[]}
+{"concept":"Propose to Woman","rel":"HasLastSubevent","receivingConcepts":["Buy Engagement Ring","Give Ring","Kiss","Pop Big Question","Put Ring on Finger","Whatever Wants"],"emittingConcepts":[]}
+{"concept":"Prove Physical Endurance","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Go to Sleep","Rest in Peace"],"emittingConcepts":[]}
+{"concept":"Punch","rel":"HasLastSubevent","receivingConcepts":["Get in Trouble","Watch Fall Down and Bleed"],"emittingConcepts":[]}
+{"concept":"Punish","rel":"HasLastSubevent","receivingConcepts":["Relaxing","Sorry","Untie"],"emittingConcepts":[]}
+{"concept":"Purchase Cellular Phone","rel":"HasLastSubevent","receivingConcepts":["Activate Cellular Account","Check Works","E","Pay for Puchase","See Model"],"emittingConcepts":[]}
+{"concept":"Put on Stand","rel":"HasLastSubevent","receivingConcepts":["Dismiss Person","Give Testimony","Testify"],"emittingConcepts":[]}
+{"concept":"Give Testimony","rel":"HasLastSubevent","emittingConcepts":["Put on Stand","Take Stand"],"receivingConcepts":[]}
+{"concept":"Reach Advantage","rel":"HasLastSubevent","receivingConcepts":["Feel Grateful for Advantage","Prepare to Take Advantage","Stop Working","Surrender"],"emittingConcepts":[]}
+{"concept":"Reach Impasse","rel":"HasLastSubevent","receivingConcepts":["Give Up","Go Another Way","Start Over","Stop","Stop Whatever Doing"],"emittingConcepts":[]}
+{"concept":"Read","rel":"HasLastSubevent","receivingConcepts":["Close Book","Contemplate","Put Away Book","Put Book Down","Sleeping"],"emittingConcepts":[]}
+{"concept":"Close Book","rel":"HasLastSubevent","emittingConcepts":["Read","Read to Children","Study"],"receivingConcepts":[]}
+{"concept":"Put Book Down","rel":"HasLastSubevent","emittingConcepts":["Read","Study"],"receivingConcepts":[]}
+{"concept":"Close","rel":"HasLastSubevent","emittingConcepts":["Read Book","Read Newspaper","Repair Umbrella"],"receivingConcepts":[]}
+{"concept":"Read Letter","rel":"HasLastSubevent","receivingConcepts":["Put Away","Smile"],"emittingConcepts":[]}
+{"concept":"Read Magazine","rel":"HasLastSubevent","receivingConcepts":["Close Covers","Close Magazine","Masturbation","Put Magazine Down","Throw Magazine Away","Turn Pages"],"emittingConcepts":[]}
+{"concept":"Read News","rel":"HasLastSubevent","receivingConcepts":["Feel Sad","Recycle Paper"],"emittingConcepts":[]}
+{"concept":"Read Newspaper","rel":"HasLastSubevent","receivingConcepts":["Close","Fold Back Up","Fold Up","Pile Up","Put Away","Read Editorials","Throw Away","Throw Waay"],"emittingConcepts":[]}
+{"concept":"Read to Children","rel":"HasLastSubevent","receivingConcepts":["Close Book","Say End"],"emittingConcepts":[]}
+{"concept":"Say End","rel":"HasLastSubevent","emittingConcepts":["Read to Children","Tell Story"],"receivingConcepts":[]}
+{"concept":"Receive Degree","rel":"HasLastSubevent","receivingConcepts":["Accept Diploma","Eat Human Flesh","Find Job","Frame","Go Home","Graduate","Hug Friends and Family","Look for Job","Proceed Onto Next Task","Walk Off Stage"],"emittingConcepts":[]}
+{"concept":"Record Somethign","rel":"HasLastSubevent","receivingConcepts":["Decide How Will Record","Hit Stop","Play Back Tape","Press Stop"],"emittingConcepts":[]}
+{"concept":"Release Energy","rel":"HasLastSubevent","receivingConcepts":["Exhaust Waste Products","Explode","Feel Drained","Feel Relieved","Feel Tired"],"emittingConcepts":[]}
+{"concept":"Remember Phone Number","rel":"HasLastSubevent","receivingConcepts":["Dial","Forget","Think of Food"],"emittingConcepts":[]}
+{"concept":"Repair Umbrella","rel":"HasLastSubevent","receivingConcepts":["Close","Test"],"emittingConcepts":[]}
+{"concept":"Reproduce","rel":"HasLastSubevent","receivingConcepts":["Care for Young","Determine Whether Reproduction Viable","Die","Ejaculate","Turn Over and Snore"],"emittingConcepts":[]}
+{"concept":"Return to Work","rel":"HasLastSubevent","receivingConcepts":["Enjoy","Turn on Computer"],"emittingConcepts":["Take Break"]}
+{"concept":"Ride Bicycle","rel":"HasLastSubevent","receivingConcepts":["Brake","Put Kickstand Down","Take Off Helmet"],"emittingConcepts":[]}
+{"concept":"Put Kickstand Down","rel":"HasLastSubevent","emittingConcepts":["Ride Bicycle","Stop Bicycle"],"receivingConcepts":[]}
+{"concept":"Ride Bike","rel":"HasLastSubevent","receivingConcepts":["Lock","Press Break Handle"],"emittingConcepts":[]}
+{"concept":"Ride Horse","rel":"HasLastSubevent","receivingConcepts":["Clean Tack","Cool Out","Get Off Horse"],"emittingConcepts":[]}
+{"concept":"Run After Ball","rel":"HasLastSubevent","receivingConcepts":["Catch","Fall Down","Grab"],"emittingConcepts":[]}
+{"concept":"Fall Down","rel":"HasLastSubevent","emittingConcepts":["Run After Ball","Run Out of Steam","Skateboard"],"receivingConcepts":[]}
+{"concept":"Run Errands","rel":"HasLastSubevent","receivingConcepts":["Arrive Back at Starting Point","Browse","Check Errand Off List","Enter Store","Make List"],"emittingConcepts":[]}
+{"concept":"Run in Marathon","rel":"HasLastSubevent","receivingConcepts":["Drink Liquid","Pass Out","Reaching Finish Line","Recover Energy","Stand at Starting Line","Take Shower"],"emittingConcepts":[]}
+{"concept":"Run Marathon","rel":"HasLastSubevent","receivingConcepts":["Cool Down","Falling Asleep","Finish","Puke"],"emittingConcepts":[]}
+{"concept":"Finish","rel":"HasLastSubevent","emittingConcepts":["Run Marathon","Sew"],"receivingConcepts":[]}
+{"concept":"Run Out of Steam","rel":"HasLastSubevent","receivingConcepts":["Collapse","Fall Down","Panic","Pour on More Coals","Slow","Take Nap"],"emittingConcepts":[]}
+{"concept":"Run Twenty Six Miles","rel":"HasLastSubevent","receivingConcepts":["Rest","Run More","Sleep","Stop Running"],"emittingConcepts":[]}
+{"concept":"Satisfy Appetites With Minimum Effort","rel":"HasLastSubevent","receivingConcepts":["Belch","Cook Tv Dinner","Hire Caterer","Smile","Swallow"],"emittingConcepts":[]}
+{"concept":"Score Home Run","rel":"HasLastSubevent","receivingConcepts":["Run by Homeplate","Show Excitment","Touch Home Base","Touch Home Plate"],"emittingConcepts":[]}
+{"concept":"Touch Home Plate","rel":"HasLastSubevent","emittingConcepts":["Score Home Run","Score Homer"],"receivingConcepts":[]}
+{"concept":"Score Homer","rel":"HasLastSubevent","receivingConcepts":["Cheer","Little Dance to Dugout","Touch Home Plate","Walk Across Home Plate"],"emittingConcepts":[]}
+{"concept":"Cheer","rel":"HasLastSubevent","emittingConcepts":["Score Homer","See Idea Become Reality","Win Baseball Game"],"receivingConcepts":[]}
+{"concept":"Scuba Dive","rel":"HasLastSubevent","receivingConcepts":["Come Up for Air","Dry Off","Dry Yourself","Take Off Scuba Gear","Take Off Wet Suit"],"emittingConcepts":[]}
+{"concept":"See Art","rel":"HasLastSubevent","receivingConcepts":["Feel Sensorially Attached","Form Opinion","Leave Museum","Look Away","Read About Artist","Think About It's Meaning","Walk Away"],"emittingConcepts":[]}
+{"concept":"Leave Museum","rel":"HasLastSubevent","emittingConcepts":["See Art","See Artifacts","See Exhibits","Visit Museum"],"receivingConcepts":[]}
+{"concept":"See Artifacts","rel":"HasLastSubevent","receivingConcepts":["Learn About","Leave Museum","Record Where Lie","Respond To"],"emittingConcepts":[]}
+{"concept":"Learn About","rel":"HasLastSubevent","emittingConcepts":["See Artifacts","Study for Subject"],"receivingConcepts":[]}
+{"concept":"See Band","rel":"HasLastSubevent","receivingConcepts":["Go Away","Shout for Encore"],"emittingConcepts":[]}
+{"concept":"See Exciting Story","rel":"HasLastSubevent","receivingConcepts":["Clap Hands","Tell About","Tell Else About"],"emittingConcepts":[]}
+{"concept":"See Exhibits","rel":"HasLastSubevent","receivingConcepts":["Interperet Art","Leave Museum"],"emittingConcepts":[]}
+{"concept":"See Favorite Show","rel":"HasLastSubevent","receivingConcepts":["Focus Attention on Show","Smile","Turn Off t.v","Turn Off Television","View Credits at End","Wait to Watch Again"],"emittingConcepts":[]}
+{"concept":"Turn Off Television","rel":"HasLastSubevent","emittingConcepts":["See Favorite Show","See Particular Program","Watch Television Show","Watch Tv Show"],"receivingConcepts":[]}
+{"concept":"See Idea Become Reality","rel":"HasLastSubevent","receivingConcepts":["Cheer","Collect Royalty","Feel Happy","Feel Pride","Feel Sense of Accomplishment","Laugh Victoriously","Shout Eureka","Tell Family and Friends"],"emittingConcepts":[]}
+{"concept":"See Movie","rel":"HasLastSubevent","receivingConcepts":["Leave","Leave Theater","Watch"],"emittingConcepts":[]}
+{"concept":"Watch","rel":"HasLastSubevent","emittingConcepts":["See Movie","Tape Television Show"],"receivingConcepts":[]}
+{"concept":"See Old Things","rel":"HasLastSubevent","receivingConcepts":["Bid Adieu","Put Away","Think About"],"emittingConcepts":[]}
+{"concept":"See Particular Program","rel":"HasLastSubevent","receivingConcepts":["Hire Director for Project","Press Alt F4","See What on Next","Turn Off Television","Turn Off Tv","Watch Credits","Watch Previews for Next Week"],"emittingConcepts":[]}
+{"concept":"Turn Off Tv","rel":"HasLastSubevent","emittingConcepts":["See Particular Program","Watch Evening News","Watch Movie","Watch Television","Watch Television Show"],"receivingConcepts":[]}
+{"concept":"See People Play Game","rel":"HasLastSubevent","receivingConcepts":["Avert Eyes","Cheer Players","Find Next Game to Kibitz"],"emittingConcepts":[]}
+{"concept":"See Story","rel":"HasLastSubevent","receivingConcepts":["Read Last Word","Turn Page","Understand"],"emittingConcepts":[]}
+{"concept":"Sell New Book","rel":"HasLastSubevent","receivingConcepts":["Collect Money","Give to Buyer","Give to New Owner","Take Money"],"emittingConcepts":[]}
+{"concept":"Serve Customers","rel":"HasLastSubevent","receivingConcepts":["Bus Table","Call Names","Collect Tip","Say Have Nice Day","Thank","Verify Satisfied"],"emittingConcepts":[]}
+{"concept":"Collect Tip","rel":"HasLastSubevent","emittingConcepts":["Serve Customers","Wait on Tables"],"receivingConcepts":[]}
+{"concept":"Serve Justice","rel":"HasLastSubevent","receivingConcepts":["Get Laid","Give Decision","Go Home","Kill Another Human Being"],"emittingConcepts":[]}
+{"concept":"Set Cup on Table","rel":"HasLastSubevent","receivingConcepts":["Announce Presence","Drink","Get Cup From Shelf","Let Go of Cup","Look at on Table","Look at Table","Release From Hand","Release Handle","Set","Take Hand Off Cup","Turn Handle Toward Person"],"emittingConcepts":[]}
+{"concept":"Sew","rel":"HasLastSubevent","receivingConcepts":["Finish","Put Away Needle and Thread","Tie Knot","Tie Off Thread"],"emittingConcepts":[]}
+{"concept":"Shop","rel":"HasLastSubevent","receivingConcepts":["Pay for Items","Pay for Purchases","Pay for Things Bought","Paying","Take Shopping Home","Try on Clothes"],"emittingConcepts":[]}
+{"concept":"Sing","rel":"HasLastSubevent","receivingConcepts":["Bow","Close Mouth","Quiet","Sober Up","Stop"],"emittingConcepts":[]}
+{"concept":"Sit on Chair","rel":"HasLastSubevent","receivingConcepts":["Bend Knees","Cross Legs"],"emittingConcepts":[]}
+{"concept":"Sit Quietly","rel":"HasLastSubevent","receivingConcepts":["Do Not Talk","Make Loud Noise","Not Move","Screanm","Shut Mouth","Sitting Unquietly","Speak"],"emittingConcepts":[]}
+{"concept":"Skate","rel":"HasLastSubevent","receivingConcepts":["Leave Ice","Remove Skates","Sit Down to Remove Skates","Step on or Off Ice","Take Off Skates","Take Skates Off"],"emittingConcepts":[]}
+{"concept":"Skateboard","rel":"HasLastSubevent","receivingConcepts":["Fall Down","Fall Off","Get Tired","Jump Off Board","Take Feet Off Board"],"emittingConcepts":[]}
+{"concept":"Ski","rel":"HasLastSubevent","receivingConcepts":["Remove Ski's From Feet","Ride in Ambulance","Take Off Equipment","Take Off Ski Boots","Take Off Skis"],"emittingConcepts":[]}
+{"concept":"Sleep at Night","rel":"HasLastSubevent","receivingConcepts":["Get in Bed","Paint Wall","Relax","Wake Up","Wakeup"],"emittingConcepts":[]}
+{"concept":"Smoke","rel":"HasLastSubevent","receivingConcepts":["Die","Extinguish Cigarette","Put Out Cigarette","Reconsider Stupid Habit","Stub Out Cigarette"],"emittingConcepts":[]}
+{"concept":"Snore","rel":"HasLastSubevent","receivingConcepts":["Exhale","Sleep","Sleep Well"],"emittingConcepts":[]}
+{"concept":"Soak in Hotspring","rel":"HasLastSubevent","receivingConcepts":["Dry Off","Get Out and Dry Off","Have Sex"],"emittingConcepts":[]}
+{"concept":"Stab to Death","rel":"HasLastSubevent","receivingConcepts":["Go to Jail","Hide Body","Make Sure Person Dead","Run Away Like Coward"],"emittingConcepts":[]}
+{"concept":"Stand in Line","rel":"HasLastSubevent","receivingConcepts":["Get to End","Leave Line","Reach Front of Line","Walk Away"],"emittingConcepts":[]}
+{"concept":"Start Family","rel":"HasLastSubevent","receivingConcepts":["Get Married","Run Away","Watch Grow Old"],"emittingConcepts":[]}
+{"concept":"Start Fire","rel":"HasLastSubevent","receivingConcepts":["Blow Out Match","Burn Down Forest","Create Flame","Dispose of Evidence","Hide Evidence","Move Away From Fire","Pour Gas On","Put Out","Sit Down to Admire"],"emittingConcepts":[]}
+{"concept":"Start Flame or Fire","rel":"HasLastSubevent","receivingConcepts":["Blow Out","Blow Out Match","Touch Fire"],"emittingConcepts":[]}
+{"concept":"Stay Fit","rel":"HasLastSubevent","receivingConcepts":["Die","Feel Healthy","Get Massage","Strech","Take Shower"],"emittingConcepts":[]}
+{"concept":"Stay Healthy","rel":"HasLastSubevent","receivingConcepts":["Avoid Extremes","Die","Die Anyway","Eat 15 Pounds of Bacon","Get Sick","Go Visit Contagious People","Live Long Life","Live Longer"],"emittingConcepts":[]}
+{"concept":"Stay in Bed","rel":"HasLastSubevent","receivingConcepts":["Fall Asleep","Get Out of Bed","Get Up","Snuggle Up Under Covers","Stand Up"],"emittingConcepts":[]}
+{"concept":"Stop Being Married To","rel":"HasLastSubevent","receivingConcepts":["Finalize Divorce","Get Divorce Certificate","Make Final Alimony Payment"],"emittingConcepts":[]}
+{"concept":"Stop Bicycle","rel":"HasLastSubevent","receivingConcepts":["Get Off","Hop Off","Put Kickstand Down","Put on Brakes"],"emittingConcepts":[]}
+{"concept":"Stop Car","rel":"HasLastSubevent","receivingConcepts":["Breathe Sigh of Relief","Fly Through Windshield","Take Out Key","Turn Car Off","Turn Off Engine"],"emittingConcepts":[]}
+{"concept":"Stop Standing In","rel":"HasLastSubevent","receivingConcepts":["Get Out Of","Move","Move On","Shake Off Feet"],"emittingConcepts":[]}
+{"concept":"Strike Match","rel":"HasLastSubevent","receivingConcepts":["Blow Out","Make Sure Lit","Put Flame Out","See Flame"],"emittingConcepts":[]}
+{"concept":"Study","rel":"HasLastSubevent","receivingConcepts":["Close Book","Forget Everything","Graduate","Put Book Down","Review Notes","Sit at Desk","Watch Tv at Same Time"],"emittingConcepts":[]}
+{"concept":"Review Notes","rel":"HasLastSubevent","emittingConcepts":["Study","Study for Subject"],"receivingConcepts":[]}
+{"concept":"Study for Subject","rel":"HasLastSubevent","receivingConcepts":["Clsoe Book","Learn About","Review Material","Review Notes","Revise"],"emittingConcepts":[]}
+{"concept":"Surf","rel":"HasLastSubevent","receivingConcepts":["Drown","Get Out of Water","Leave Beach"],"emittingConcepts":[]}
+{"concept":"Get Out of Water","rel":"HasLastSubevent","emittingConcepts":["Surf","Swim"],"receivingConcepts":[]}
+{"concept":"Surf Net","rel":"HasLastSubevent","receivingConcepts":["Add to Favorites","Check Stock Prices","Disconnect From Internet","Get Offline","Log Off","Log Out or Close Program","Make Copy","Send Copy","Turn Off Computer"],"emittingConcepts":[]}
+{"concept":"Surf Web","rel":"HasLastSubevent","receivingConcepts":["Log Off","Turn Off Computer"],"emittingConcepts":[]}
+{"concept":"Surprise","rel":"HasLastSubevent","receivingConcepts":["Happy","Shut Lights Off"],"emittingConcepts":[]}
+{"concept":"Dry Yourself Off","rel":"HasLastSubevent","emittingConcepts":["Swim","Take Bath","Take Shower"],"receivingConcepts":[]}
+{"concept":"Take Bath","rel":"HasLastSubevent","receivingConcepts":["Burn","Drain Bathtub","Drain Tub","Dry Yourself Off","Enjoy Peace and Quiet","Get Out of Bathtub","Groom","Put on Pajamas","Rinse","Rinse Off","Squeegy Walls"],"emittingConcepts":[]}
+{"concept":"Take Break","rel":"HasLastSubevent","receivingConcepts":["Get Back to Work","Go Back to Work","Return to Work"],"emittingConcepts":[]}
+{"concept":"Take Bus","rel":"HasLastSubevent","receivingConcepts":["Alou","Get Off Bus","Walk Onto Bus","Wave to New Friends"],"emittingConcepts":[]}
+{"concept":"Take Car for Drive","rel":"HasLastSubevent","receivingConcepts":["Lock Car","Park","Watch for Other Cars"],"emittingConcepts":[]}
+{"concept":"Take Course","rel":"HasLastSubevent","receivingConcepts":["Take Exam","Take Exame"],"emittingConcepts":[]}
+{"concept":"Cheat","rel":"HasLastSubevent","emittingConcepts":["Take Exam","Take Final Exams"],"receivingConcepts":[]}
+{"concept":"Take Examination","rel":"HasLastSubevent","receivingConcepts":["Leave Room","Pray","Put Pencil Down"],"emittingConcepts":[]}
+{"concept":"Take Final Exams","rel":"HasLastSubevent","receivingConcepts":["Cheat","Turn In","Turn in Exam"],"emittingConcepts":[]}
+{"concept":"Turn in Exam","rel":"HasLastSubevent","emittingConcepts":["Take Final Exams","Take Finals","Take Midterm"],"receivingConcepts":[]}
+{"concept":"Take Finals","rel":"HasLastSubevent","receivingConcepts":["Get Drunk","Study Hard","Turn In","Turn in Exam","Turn in to Teacher"],"emittingConcepts":[]}
+{"concept":"Take in Film","rel":"HasLastSubevent","receivingConcepts":["Discuss With Friends","Get Up to Leave Theater","Receive Receipt"],"emittingConcepts":[]}
+{"concept":"Take Midterm","rel":"HasLastSubevent","receivingConcepts":["Drink","Hand to Teacher","Pray","Prepare for Exam Stress","Turn in Exam"],"emittingConcepts":[]}
+{"concept":"Take Stand","rel":"HasLastSubevent","receivingConcepts":["Answer Questions","Change World","Give Testimony","Runaway","State Name","Tell Truth","Testify in Courtroom Trial"],"emittingConcepts":[]}
+{"concept":"Take Walk","rel":"HasLastSubevent","receivingConcepts":["Go Home","Taking Off Shoes"],"emittingConcepts":[]}
+{"concept":"Talk To","rel":"HasLastSubevent","receivingConcepts":["Confirm All Topics Understood","End Conversation","Listen","Say Good Bye","Say Goodbye"],"emittingConcepts":[]}
+{"concept":"Say Good Bye","rel":"HasLastSubevent","emittingConcepts":["Talk To","Talk With Far Away"],"receivingConcepts":[]}
+{"concept":"Talk With Far Away","rel":"HasLastSubevent","receivingConcepts":["Say Good Bye","Say Goodbye"],"emittingConcepts":[]}
+{"concept":"Tape Television Show","rel":"HasLastSubevent","receivingConcepts":["File Away","Label Tape","Press Record","Set to Record","Watch","Watch Show"],"emittingConcepts":[]}
+{"concept":"Taste Sweet","rel":"HasLastSubevent","receivingConcepts":["Lick Lips","Say Yummy","Spit Out","Swallow"],"emittingConcepts":[]}
+{"concept":"Teach Other People","rel":"HasLastSubevent","receivingConcepts":["Check Understand","Check What Have Learned","Test Knowledge","Thank for Experience"],"emittingConcepts":[]}
+{"concept":"Tell Many People About","rel":"HasLastSubevent","receivingConcepts":["Ask for Feedback","Create Gossip","Draw Conclusion","Go Home and Rest","Listen to Responses","Make Sure Understand","Summarize","Tell Last Person","Wait for Response"],"emittingConcepts":[]}
+{"concept":"Tell Story","rel":"HasLastSubevent","receivingConcepts":["Cross Fingers","Finish Story","Say End","Stop Talking"],"emittingConcepts":[]}
+{"concept":"Test Car","rel":"HasLastSubevent","receivingConcepts":["Get Out of Car","Put Bonnet Back Down","Shut Down","Slam on Brakes","Start Engine","Turn Car Off"],"emittingConcepts":[]}
+{"concept":"Test Strength","rel":"HasLastSubevent","receivingConcepts":["Continue to Improve","Relax Muscle"],"emittingConcepts":[]}
+{"concept":"Tickle","rel":"HasLastSubevent","receivingConcepts":["Laugh","Run Away Fast"],"emittingConcepts":[]}
+{"concept":"Tie Shoelace","rel":"HasLastSubevent","receivingConcepts":["Clean Hands","Make Bow","Pull Tight","Pulling Ties","Stand Up","Tighten"],"emittingConcepts":[]}
+{"concept":"Travel","rel":"HasLastSubevent","receivingConcepts":["Add Up Mileage","Arrive at Destination","Buy Return Tickets","Buy Souvenirs","Capture Moment on Film","Catalog Events","Check Out","Compute Costs","Create Album for Souvenirs","Disembark","Flop on Couch","Gather Receipts","Get in Car for Home","Get on Bus for Home","Get on Plane for Home","Get on Ship for Home","Get on Train for Home","Go Back Home","Go Home","Hug Hosts","Kiss Aunt Goodbye","Let People Know Back","Look for Greeting Party","Loose Ticket","Open Luggage","Pack Up to Go Home","Remember","Return Home","Send Post Cards","Setlle Back Into One Spot","Stand in Front of Home","Start Return Trip","Step Back Over Threshhold","Stop","Take Picture","Think About Home","Unload","Watch Videos of Trip","Wave Goodbye to Hosts","Wave Goodbye to New Friends","Wave Hello","Write Thank Letters"],"emittingConcepts":[]}
+{"concept":"Type","rel":"HasLastSubevent","receivingConcepts":["Finish Document","Finish Thought","Hit Return Key","Press Enter","Turn Off Computer"],"emittingConcepts":[]}
+{"concept":"Understand Better","rel":"HasLastSubevent","receivingConcepts":["Associate With Other Ideas","Forget","Say Aha"],"emittingConcepts":[]}
+{"concept":"Flush","rel":"HasLastSubevent","emittingConcepts":["Urinate","Use Toilet"],"receivingConcepts":[]}
+{"concept":"Use Calculator","rel":"HasLastSubevent","receivingConcepts":["Hit Clear Button","Turn Calculator Off","Turn Off","Yesterday"],"emittingConcepts":[]}
+{"concept":"Use Computer","rel":"HasLastSubevent","receivingConcepts":["Shut Down Computer","Shut Off"],"emittingConcepts":[]}
+{"concept":"Use Television","rel":"HasLastSubevent","receivingConcepts":["Switch Off","Turn Television Off"],"emittingConcepts":[]}
+{"concept":"Turn Television Off","rel":"HasLastSubevent","emittingConcepts":["Use Television","Watch Television Show"],"receivingConcepts":[]}
+{"concept":"Use Vcr","rel":"HasLastSubevent","receivingConcepts":["Hit Play Button","Press Eject","Push Play Button","Turn Off","Turning Off"],"emittingConcepts":[]}
+{"concept":"View Film at Home","rel":"HasLastSubevent","receivingConcepts":["Pressing Button","Put Away","Rewind","Rewind Film","Watch Credits"],"emittingConcepts":[]}
+{"concept":"Rewind","rel":"HasLastSubevent","emittingConcepts":["View Film at Home","Watch Movie"],"receivingConcepts":[]}
+{"concept":"View Video","rel":"HasLastSubevent","receivingConcepts":["Hit Eject","Put Video Away","Rewind Ready for Next Time","Rewind Tape","Rewind Video"],"emittingConcepts":[]}
+{"concept":"Visit Art Gallery","rel":"HasLastSubevent","receivingConcepts":["Buy Gifts","Exit Art Gallery","Get Coat","Leave","Leave Art Gallery"],"emittingConcepts":[]}
+{"concept":"Visit Museum","rel":"HasLastSubevent","receivingConcepts":["Go Through Exit","Leave","Leave Building","Leave Museum","Use Restroom","Walk Out Exit Door"],"emittingConcepts":[]}
+{"concept":"Visit Other Countries","rel":"HasLastSubevent","receivingConcepts":["Go Home","Go Through Customs","Insult Natives","Return to Own Country"],"emittingConcepts":[]}
+{"concept":"Wage War","rel":"HasLastSubevent","receivingConcepts":["Negotiate Peace","Stop Fighting","Win or Lose"],"emittingConcepts":[]}
+{"concept":"Wait For","rel":"HasLastSubevent","receivingConcepts":["1000nd","Greet When Arrive","Meet"],"emittingConcepts":[]}
+{"concept":"Wait in Line","rel":"HasLastSubevent","receivingConcepts":["Become First in Line","Being Next to Helped","Budge","Purchase Ticket","Robbery"],"emittingConcepts":[]}
+{"concept":"Wait on Line","rel":"HasLastSubevent","receivingConcepts":["Go Home","Hear Next","Leave Line"],"emittingConcepts":[]}
+{"concept":"Wait on Tables","rel":"HasLastSubevent","receivingConcepts":["Clear of Table","Collect Tip","Get Tip","Give Patrons Bill","Insult Customer","Pocket Tips","Wipe Table Clean"],"emittingConcepts":[]}
+{"concept":"Wait Tables","rel":"HasLastSubevent","receivingConcepts":["Pick Up Tip","Pick Up Tips"],"emittingConcepts":[]}
+{"concept":"Wait Turn","rel":"HasLastSubevent","receivingConcepts":["Cut in Line","Get Turn","Take Turn"],"emittingConcepts":[]}
+{"concept":"Wake Up in Morning","rel":"HasLastSubevent","receivingConcepts":["Get Ready for Work","Give Yourself Time to Wake Up","Put on Clothes","Remember Dreams","Wash Sheets"],"emittingConcepts":[]}
+{"concept":"Walk Around Lake","rel":"HasLastSubevent","receivingConcepts":["Go for Swim","Go Home","Take Rest"],"emittingConcepts":[]}
+{"concept":"Walk Dog","rel":"HasLastSubevent","receivingConcepts":["Bring Back Home","Take Dog Off Leash","Take Off Leash","Unleash"],"emittingConcepts":[]}
+{"concept":"Walk in Rain","rel":"HasLastSubevent","receivingConcepts":["Enter Roofed Place","Fall","Put Up Umbrella","Take Off Wet Clothes"],"emittingConcepts":[]}
+{"concept":"Wash Car","rel":"HasLastSubevent","receivingConcepts":["Buff With Chamois","Change Clothes","Dry Car","Dry Chrome","Wax and Buff","Wipe Down"],"emittingConcepts":[]}
+{"concept":"Wash Clothes","rel":"HasLastSubevent","receivingConcepts":["Fold and Put Away","Put Away","Put in Closet","Take Out of Washer"],"emittingConcepts":[]}
+{"concept":"Wash Dirt From Between Toes","rel":"HasLastSubevent","receivingConcepts":["Dry","Dry Toes","Talc Dry"],"emittingConcepts":[]}
+{"concept":"Watch Evening News","rel":"HasLastSubevent","receivingConcepts":["Fall Sleep","Sleep","Swearing","Turn Off Tv"],"emittingConcepts":[]}
+{"concept":"Watch Film","rel":"HasLastSubevent","receivingConcepts":["Discuss","Drive Home","Leave Movie House","Leave Theater","Leave Theatre","See End","Watch Credits"],"emittingConcepts":[]}
+{"concept":"Watch Movie","rel":"HasLastSubevent","receivingConcepts":["Cry","Leave Movie","Leave Theater","Look for Purse","Press Play","Read Credits","Rewind","Turn Off","Turn Off Tv","Walk Out and Go Home"],"emittingConcepts":[]}
+{"concept":"Watch Musician Perform","rel":"HasLastSubevent","receivingConcepts":["Applaud","Exit Concert Hall","Leave Auditorium","Put Away Playbill"],"emittingConcepts":[]}
+{"concept":"Watch Television","rel":"HasLastSubevent","receivingConcepts":["Get Ready for Bed","Turn Off","Turn Off Tv"],"emittingConcepts":[]}
+{"concept":"Watch Television Show","rel":"HasLastSubevent","receivingConcepts":["Change Channel","Meditate","Switch Off Tv","Turn of Television","Turn Off Television","Turn Off Tv","Turn Television Off"],"emittingConcepts":[]}
+{"concept":"Watch Tv","rel":"HasLastSubevent","receivingConcepts":["Turn Off Set","Turn Tv Off"],"emittingConcepts":[]}
+{"concept":"Water Plant","rel":"HasLastSubevent","receivingConcepts":["Clean Up Spills","Put Away Can","Zip Back Up"],"emittingConcepts":[]}
+{"concept":"Weed Garden","rel":"HasLastSubevent","receivingConcepts":["Discard Weeds","Dispose of Weeds","Throw Away Weeds","Wash Hands"],"emittingConcepts":[]}
+{"concept":"Win Baseball Game","rel":"HasLastSubevent","receivingConcepts":["Celebrate","Cheer","Eat Hot Dog","Go to Locker Room","Leave Baseball Field","Receive Trophy","Shake Hands With Opposing Team"],"emittingConcepts":[]}
+{"concept":"Work","rel":"HasLastSubevent","receivingConcepts":["Clock Out","Clock Out and Go Home","Complete Project","Die","Don't Turn Off Lights","Get Paid"],"emittingConcepts":[]}
+{"concept":"Work Box Office","rel":"HasLastSubevent","receivingConcepts":["Close Window","Count Money","Give Change","Give Customer Ticket","Go Home","Leave Office","Lock Up","Zero Out Cash Register"],"emittingConcepts":[]}
+{"concept":"Wrestle","rel":"HasLastSubevent","receivingConcepts":["Grunt","Kick Opponent in Ribs","Try to Pin Opponent","Win or Lose"],"emittingConcepts":[]}
+{"concept":"Write","rel":"HasLastSubevent","receivingConcepts":["Put Down Pen","Put Full Stop","Stop Writing"],"emittingConcepts":[]}
+{"concept":"Write Letter","rel":"HasLastSubevent","receivingConcepts":["Find Pen and Paper","Mail","Put in Envelope","Seal Envelope","Seal Flap","Sign","Sign Letter","Sign Name"],"emittingConcepts":[]}
+{"concept":"Write Poem","rel":"HasLastSubevent","receivingConcepts":["Copy Out","Lift Pen or Pencil","Re Read","Review for Mistakes","Show to Else","Sign","Sign Name"],"emittingConcepts":[]}
+{"concept":"Write Program","rel":"HasLastSubevent","receivingConcepts":["Check for Bugs","Debug","Have Good Design in Mind","Run","Save","Test","Test Program","Troubleshoot"],"emittingConcepts":[]}
+{"concept":"Write Sentence","rel":"HasLastSubevent","receivingConcepts":["Type Period","Write Period"],"emittingConcepts":[]}
+{"concept":"Write Term Paper","rel":"HasLastSubevent","receivingConcepts":["Hand In","Print Out","Submit to Professor"],"emittingConcepts":[]}

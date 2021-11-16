@@ -37,7 +37,7 @@ app.set('view engine', 'jade');
 //app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
+//app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
@@ -50,19 +50,17 @@ app.use("/api/markovblendhexcodes", markovBlendHexcodesRouter, cors(corsOptions)
 app.use("/api/variety", varietyRouter, cors(corsOptions));
 //app.use("/api/emojiblends", emojiblendsRouter, cors(corsOptions));
 
-const deleted = findRemoveSync(path.join(__dirname + '/public/blends'), {extensions: '.png' });
-if(Object.keys(deleted).length < 0){
-  console.log('The following files have been deleted: ' + deleted);
-}
+// const deleted = findRemoveSync(path.join(__dirname + '/public/blends'), {extensions: '.png' });
+// if(Object.keys(deleted).length < 0){
+//   console.log('The following files have been deleted: ' + deleted);
+// }
 
 /*
-Practice with wordnet.
+Practice with conceptnet.
 */
-emojiGen.wordnetBlends(2, '1F415', function (blends) {
-  console.log('Wordnet blend:');
-  console.log(blends);
-});
-
+// emojiGen.cohyponymEmojis(10, '1F415', function (emojisss) {
+//     console.log('Wordnet blend:' + emojisss);
+//   });
 /*
 Delete all emoji blends older than 30 mins, this operation occurs every 5 minutes.
 */

@@ -1,0 +1,92 @@
+{"concept":"Conceive","rel":"Entails","emittingConcepts":["Abort","Give Birth","Have Bun in Oven"],"receivingConcepts":["Copulate"]}
+{"concept":"Judge","rel":"Entails","emittingConcepts":["Acquit","Condemn","Convict","Knock"],"receivingConcepts":[]}
+{"concept":"Use","rel":"Entails","emittingConcepts":["Addict","Delight"],"receivingConcepts":["Consume"]}
+{"concept":"Administer","rel":"Entails","receivingConcepts":["Give","Execute"],"emittingConcepts":[]}
+{"concept":"Give","rel":"Entails","emittingConcepts":["Administer","Sell"],"receivingConcepts":[]}
+{"concept":"Sew","rel":"Entails","emittingConcepts":["Alter","Applique","Button","Darn","Embroider","Knit","Pipe","Quilt"],"receivingConcepts":["Join"]}
+{"concept":"Cut","rel":"Entails","emittingConcepts":["Amputate","Butcher","Circumcise","Cleave","Cut Out","Pierce"],"receivingConcepts":[]}
+{"concept":"Approve","rel":"Entails","emittingConcepts":["Applaud","Initial","License","Like","Subscribe"],"receivingConcepts":[]}
+{"concept":"Arraign","rel":"Entails","receivingConcepts":["Charge","Indict"],"emittingConcepts":[]}
+{"concept":"Charge","rel":"Entails","emittingConcepts":["Arraign","Overcharge"],"receivingConcepts":[]}
+{"concept":"Cook","rel":"Entails","emittingConcepts":["Baste","Cook","Mask"],"receivingConcepts":["Cook"]}
+{"concept":"Move","rel":"Entails","emittingConcepts":["Bear","Check","Exercise","Kick","Push","Settle","Transfer","Transplant"],"receivingConcepts":["Play"]}
+{"concept":"Beat","rel":"Entails","receivingConcepts":["Win","Hit","Tread"],"emittingConcepts":[]}
+{"concept":"Hit","rel":"Entails","emittingConcepts":["Beat","Indent"],"receivingConcepts":["Aim"]}
+{"concept":"Board","rel":"Entails","receivingConcepts":["Consume","Feed"],"emittingConcepts":[]}
+{"concept":"Consume","rel":"Entails","emittingConcepts":["Board","Digest","Fritter","Quench","Use"],"receivingConcepts":[]}
+{"concept":"Feed","rel":"Entails","emittingConcepts":["Board","Fatten"],"receivingConcepts":[]}
+{"concept":"Breathe","rel":"Entails","receivingConcepts":["Exhale","Inhale"],"emittingConcepts":[]}
+{"concept":"Exhale","rel":"Entails","emittingConcepts":["Breathe","Smoke","Sneeze"],"receivingConcepts":[]}
+{"concept":"Inhale","rel":"Entails","emittingConcepts":["Breathe","Smoke"],"receivingConcepts":[]}
+{"concept":"Sit Down","rel":"Entails","emittingConcepts":["Brood","Sit"],"receivingConcepts":[]}
+{"concept":"Cover","rel":"Entails","emittingConcepts":["Bury","Smother","Tar and Feather","Veil"],"receivingConcepts":[]}
+{"concept":"Rush","rel":"Entails","emittingConcepts":["Bustle","Stampede"],"receivingConcepts":[]}
+{"concept":"Buy","rel":"Entails","receivingConcepts":["Choose","Pay"],"emittingConcepts":["Check Out","Save","Shop","Trade"]}
+{"concept":"Call","rel":"Entails","receivingConcepts":["Square Dance","Dial"],"emittingConcepts":["Hang On"]}
+{"concept":"Heat","rel":"Entails","emittingConcepts":["Carbonize","Demist","Fuse","Iron","Smelt"],"receivingConcepts":[]}
+{"concept":"Cast","rel":"Entails","receivingConcepts":["Film","Perform","Stage"],"emittingConcepts":[]}
+{"concept":"Compare","rel":"Entails","emittingConcepts":["Categorize","Choose","Classify","Distinguish"],"receivingConcepts":[]}
+{"concept":"Trace","rel":"Entails","emittingConcepts":["Chalk","Charcoal","Doodle","Pencil"],"receivingConcepts":[]}
+{"concept":"Challenge","rel":"Entails","receivingConcepts":["Question","Stop"],"emittingConcepts":[]}
+{"concept":"Protect","rel":"Entails","emittingConcepts":["Chaperone","Convoy"],"receivingConcepts":[]}
+{"concept":"Compress","rel":"Entails","receivingConcepts":["Press"],"emittingConcepts":["Strangle","Wring Out"]}
+{"concept":"Press","rel":"Entails","emittingConcepts":["Compress","Impress","Push"],"receivingConcepts":[]}
+{"concept":"Roll in Hay","rel":"Entails","emittingConcepts":["Consummate","Seduce"],"receivingConcepts":[]}
+{"concept":"Step","rel":"Entails","emittingConcepts":["Dance","Walk"],"receivingConcepts":[]}
+{"concept":"Talk","rel":"Entails","emittingConcepts":["Declaim","Pronounce"],"receivingConcepts":[]}
+{"concept":"Dig","rel":"Entails","receivingConcepts":["Remove"],"emittingConcepts":["Hoe","Mine","Plow","Quarry"]}
+{"concept":"Remove","rel":"Entails","emittingConcepts":["Dig","Dust"],"receivingConcepts":[]}
+{"concept":"Perceive","rel":"Entails","emittingConcepts":["Discover","Experience","Note","Notice","Recognize","Record"],"receivingConcepts":[]}
+{"concept":"Disappoint","rel":"Entails","emittingConcepts":["Dissatisfy","Tease"],"receivingConcepts":[]}
+{"concept":"Fold","rel":"Entails","emittingConcepts":["Drape","Ripple"],"receivingConcepts":[]}
+{"concept":"Sleep","rel":"Entails","emittingConcepts":["Dream","Oversleep","Snore","Wake Up"],"receivingConcepts":[]}
+{"concept":"Eat","rel":"Entails","receivingConcepts":["Chew","Swallow"],"emittingConcepts":["Tuck In","Wine and Dine"]}
+{"concept":"Swallow","rel":"Entails","emittingConcepts":["Eat","Gulp"],"receivingConcepts":[]}
+{"concept":"Leave","rel":"Entails","emittingConcepts":["Emigrate","Leave Behind","Take Away"],"receivingConcepts":["Die"]}
+{"concept":"Fire","rel":"Entails","emittingConcepts":["Enamel","Trigger"],"receivingConcepts":[]}
+{"concept":"Like","rel":"Entails","emittingConcepts":["Enjoy","Fancy"],"receivingConcepts":["Approve"]}
+{"concept":"Rub","rel":"Entails","emittingConcepts":["Erase","File","Gloss","Grate","Massage","Polish","Rasp","Smooth"],"receivingConcepts":["Touch"]}
+{"concept":"Look","rel":"Entails","emittingConcepts":["Examine","Survey","Watch"],"receivingConcepts":["See"]}
+{"concept":"Touch","rel":"Entails","emittingConcepts":["Feel","Paw","Rub"],"receivingConcepts":[]}
+{"concept":"Compete","rel":"Entails","emittingConcepts":["Fight","Keep Up","Lead","Lose","Meet","Overtake","Score","Win"],"receivingConcepts":[]}
+{"concept":"Fly","rel":"Entails","receivingConcepts":["Fly"],"emittingConcepts":["Fly","Sailplane"]}
+{"concept":"Give Birth","rel":"Entails","receivingConcepts":["Conceive"],"emittingConcepts":["Labor","Lie In"]}
+{"concept":"Resent","rel":"Entails","emittingConcepts":["Grudge","Sulk"],"receivingConcepts":[]}
+{"concept":"Glide","rel":"Entails","emittingConcepts":["Hang Glide","Hydroplane","Parachute"],"receivingConcepts":[]}
+{"concept":"Aim","rel":"Entails","emittingConcepts":["Hit","Overshoot"],"receivingConcepts":[]}
+{"concept":"Fasten","rel":"Entails","emittingConcepts":["Lace","Seal","Tie Down"],"receivingConcepts":[]}
+{"concept":"Rise","rel":"Entails","emittingConcepts":["Levitate","Top Out"],"receivingConcepts":[]}
+{"concept":"Smoke","rel":"Entails","emittingConcepts":["Light Up","Puff"],"receivingConcepts":["Exhale","Inhale"]}
+{"concept":"See","rel":"Entails","emittingConcepts":["Look","See Double","Watch"],"receivingConcepts":[]}
+{"concept":"Shoot","rel":"Entails","emittingConcepts":["Machine Gun","Undershoot"],"receivingConcepts":[]}
+{"concept":"Master","rel":"Entails","receivingConcepts":["Drill","Learn","Understand"],"emittingConcepts":[]}
+{"concept":"Maul","rel":"Entails","receivingConcepts":["Injure","Mutilate"],"emittingConcepts":[]}
+{"concept":"Injure","rel":"Entails","emittingConcepts":["Maul","Spur"],"receivingConcepts":[]}
+{"concept":"Miss","rel":"Entails","receivingConcepts":["Repent","Travel"],"emittingConcepts":[]}
+{"concept":"Travel","rel":"Entails","emittingConcepts":["Miss","Reach","Steer"],"receivingConcepts":[]}
+{"concept":"Play","rel":"Entails","emittingConcepts":["Move","Pedal","Tie"],"receivingConcepts":[]}
+{"concept":"Be","rel":"Entails","emittingConcepts":["Outlive","Survive"],"receivingConcepts":[]}
+{"concept":"Run","rel":"Entails","emittingConcepts":["Overflow","Stampede"],"receivingConcepts":[]}
+{"concept":"Parachute","rel":"Entails","receivingConcepts":["Descend","Glide"],"emittingConcepts":[]}
+{"concept":"Join","rel":"Entails","emittingConcepts":["Plug In","Sew"],"receivingConcepts":[]}
+{"concept":"Postpone","rel":"Entails","receivingConcepts":["Cancel","Reschedule"],"emittingConcepts":[]}
+{"concept":"Condense","rel":"Entails","emittingConcepts":["Precipitate","Sublime"],"receivingConcepts":[]}
+{"concept":"Read","rel":"Entails","emittingConcepts":["Proofread","Study"],"receivingConcepts":[]}
+{"concept":"Push","rel":"Entails","emittingConcepts":["Punt"],"receivingConcepts":["Move","Press"]}
+{"concept":"Smell","rel":"Entails","emittingConcepts":["Putrefy","Reach One's Nostrils","Sniff Out"],"receivingConcepts":[]}
+{"concept":"Quilt","rel":"Entails","receivingConcepts":["Pad","Sew"],"emittingConcepts":[]}
+{"concept":"Recognize","rel":"Entails","receivingConcepts":["Know","Perceive"],"emittingConcepts":[]}
+{"concept":"Sell","rel":"Entails","receivingConcepts":["Give"],"emittingConcepts":["Sell Out","Trade"]}
+{"concept":"Settle","rel":"Entails","receivingConcepts":["Migrate","Move"],"emittingConcepts":[]}
+{"concept":"Separate","rel":"Entails","emittingConcepts":["Share","Unravel"],"receivingConcepts":[]}
+{"concept":"Drink","rel":"Entails","emittingConcepts":["Sober Up","Suckle","Toast","Wine and Dine"],"receivingConcepts":[]}
+{"concept":"Stampede","rel":"Entails","receivingConcepts":["Run","Rush"],"emittingConcepts":[]}
+{"concept":"Sublime","rel":"Entails","receivingConcepts":["Condense","Evaporate"],"emittingConcepts":[]}
+{"concept":"Survey","rel":"Entails","receivingConcepts":["Quantify","Look"],"emittingConcepts":[]}
+{"concept":"Survive","rel":"Entails","receivingConcepts":["Be","Recuperate"],"emittingConcepts":[]}
+{"concept":"Tease","rel":"Entails","receivingConcepts":["Brush","Arouse","Disappoint"],"emittingConcepts":[]}
+{"concept":"Trade","rel":"Entails","receivingConcepts":["Buy","Sell"],"emittingConcepts":[]}
+{"concept":"Undo","rel":"Entails","emittingConcepts":["Unbar","Unbolt"],"receivingConcepts":[]}
+{"concept":"Watch","rel":"Entails","receivingConcepts":["Look","See"],"emittingConcepts":[]}
+{"concept":"Turn","rel":"Entails","emittingConcepts":["Wind","Zigzag"],"receivingConcepts":[]}
+{"concept":"Wine and Dine","rel":"Entails","receivingConcepts":["Drink","Eat"],"emittingConcepts":[]}

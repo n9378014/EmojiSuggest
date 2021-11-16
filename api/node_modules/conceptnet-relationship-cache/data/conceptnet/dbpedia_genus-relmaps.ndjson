@@ -1,0 +1,573 @@
+{"concept":"Duiker","rel":"dbpedia/genus","emittingConcepts":["Abbott's Duiker","Black Duiker","Black Fronted Duiker","Blue Duiker","Harvey's Duiker","Jentink's Duiker","Maxwell's Duiker","Ogilby's Duiker","Peters's Duiker","Red Flanked Duiker","Red Forest Duiker","Ruwenzori Duiker","Weyns's Duiker","White Bellied Duiker","Yellow Backed Duiker","Zebra Duiker"],"receivingConcepts":[]}
+{"concept":"Sciurus","rel":"dbpedia/genus","emittingConcepts":["Abert's Squirrel","Eastern Gray Squirrel","Fox Squirrel","Red Squirrel"],"receivingConcepts":[]}
+{"concept":"Fir","rel":"dbpedia/genus","emittingConcepts":["Abies Alba","Abies Amabilis","Abies Balsamea","Abies Concolor","Abies Grandis","Abies Lasiocarpa"],"receivingConcepts":[]}
+{"concept":"Acacia","rel":"dbpedia/genus","emittingConcepts":["Acacia Concinna","Acacia Dealbata","Acacia Heterophylla","Acacia Kingiana","Acacia Ligulata","Acacia Maidenii","Acacia Mathuataensis","Acacia Mearnsii","Acacia Melanoxylon","Acacia Pycnantha","Acacia Saligna","Acacia Tetragonophylla"],"receivingConcepts":[]}
+{"concept":"Maple","rel":"dbpedia/genus","emittingConcepts":["Acer Campestre","Acer Circinatum","Acer Glabrum","Acer Japonicum","Acer Macrophyllum","Acer Negundo","Acer Palmatum","Acer Platanoides","Acer Pseudoplatanus","Acer Rubrum","Acer Saccharinum","Acer Saccharum","Acer Spicatum"],"receivingConcepts":[]}
+{"concept":"Gracilinanus","rel":"dbpedia/genus","emittingConcepts":["Aceramarca Gracile Opossum","Agile Gracile Opossum","Brazilian Gracile Opossum","Emilia's Gracile Opossum","Northern Gracile Opossum","Wood Sprite Gracile Opossum"],"receivingConcepts":[]}
+{"concept":"Aconitum","rel":"dbpedia/genus","emittingConcepts":["Aconitum Lycoctonum","Aconitum Napellus"],"receivingConcepts":[]}
+{"concept":"Melanerpes","rel":"dbpedia/genus","emittingConcepts":["Acorn Woodpecker","Black Cheeked Woodpecker","Gila Woodpecker","Golden Fronted Woodpecker","Golden Naped Woodpecker","Hoffmann's Woodpecker","Lewis's Woodpecker","Red Bellied Woodpecker","Red Crowned Woodpecker","Red Headed Woodpecker","West Indian Woodpecker","White Fronted Woodpecker","White Woodpecker","Yellow Fronted Woodpecker","Yellow Tufted Woodpecker"],"receivingConcepts":[]}
+{"concept":"Actinidia","rel":"dbpedia/genus","emittingConcepts":["Actinidia Arguta","Actinidia Chinensis","Actinidia Deliciosa"],"receivingConcepts":[]}
+{"concept":"Adansonia","rel":"dbpedia/genus","emittingConcepts":["Adansonia Digitata","Adansonia Gregorii"],"receivingConcepts":[]}
+{"concept":"Vigna","rel":"dbpedia/genus","emittingConcepts":["Adzuki Bean","Cowpea","Mung Bean","Vigna Aconitifolia"],"receivingConcepts":[]}
+{"concept":"Pygoscelis","rel":"dbpedia/genus","emittingConcepts":["Adélie Penguin","Chinstrap Penguin","Gentoo Penguin"],"receivingConcepts":[]}
+{"concept":"Anas","rel":"dbpedia/genus","emittingConcepts":["African Black Duck","American Black Duck","American Wigeon","Australasian Shoveler","Bernier's Teal","Blue Winged Teal","Brown Teal","Cape Teal","Chestnut Teal","Cinnamon Teal","Domestic Duck","Eaton's Pintail","Eurasian Wigeon","Falcated Duck","Gadwall","Garganey","Green Winged Teal","Grey Teal","Hawaiian Duck","Hottentot Teal","Laysan Duck","Mariana Mallard","Meller's Duck","Mexican Duck","Northern Pintail","Northern Shoveler","Pacific Black Duck","Philippine Duck","Puna Teal","Red Shoveler","Silver Teal","Sunda Teal","White Cheeked Pintail","Yellow Billed Duck","Yellow Billed Pintail"],"receivingConcepts":[]}
+{"concept":"Aviceda","rel":"dbpedia/genus","emittingConcepts":["African Cuckoo Hawk","Black Baza","Jerdon's Baza","Pacific Baza"],"receivingConcepts":[]}
+{"concept":"Sea Eagle","rel":"dbpedia/genus","emittingConcepts":["African Fish Eagle","Madagascan Fish Eagle","White Tailed Eagle"],"receivingConcepts":[]}
+{"concept":"Panthera","rel":"dbpedia/genus","emittingConcepts":["African Leopard","American Lion","Amur Leopard","Anatolian Leopard","Arabian Leopard","Asiatic Lion","Bali Tiger","Barbary Leopard","Barbary Lion","Bengal Tiger","Cape Lion","Caspian Tiger","Indian Leopard","Indochinese Tiger","Jaguar","Javan Tiger","Leopard","Leopon","Liger","Lion","Malayan Tiger","Panthera Leo Fossilis","Persian Leopard","Siberian Tiger","Snow Leopard","South China Tiger","Sri Lanka Lion","Sumatran Tiger","Tiger","Zanzibar Leopard"],"receivingConcepts":[]}
+{"concept":"Banded Penguin","rel":"dbpedia/genus","emittingConcepts":["African Penguin","Galapagos Penguin","Humboldt Penguin","Magellanic Penguin"],"receivingConcepts":[]}
+{"concept":"Pygmy Goose","rel":"dbpedia/genus","emittingConcepts":["African Pygmy Goose","Cotton Pygmy Goose","Green Pygmy Goose"],"receivingConcepts":[]}
+{"concept":"Threskiornis","rel":"dbpedia/genus","emittingConcepts":["African Sacred Ibis","Australian White Ibis"],"receivingConcepts":[]}
+{"concept":"Skimmer","rel":"dbpedia/genus","emittingConcepts":["African Skimmer","Black Skimmer"],"receivingConcepts":[]}
+{"concept":"Equus","rel":"dbpedia/genus","emittingConcepts":["African Wild Ass","Donkey","European Ass","Grévy's Zebra","Hinny","Horse","Kiang","Mountain Zebra","Mule","Onager","Plains Zebra","Przewalski's Horse","Quagga","Somali Wild Ass","Syrian Wild Ass","Tarpan","Wild Horse","Zebra","Zebroid"],"receivingConcepts":[]}
+{"concept":"Felis","rel":"dbpedia/genus","emittingConcepts":["African Wildcat","Asiatic Wildcat","Black Footed Cat","Cat","Chinese Mountain Cat","European Wildcat","Jungle Cat","Sand Cat","Wildcat"],"receivingConcepts":[]}
+{"concept":"Honey Bee","rel":"dbpedia/genus","emittingConcepts":["Africanized Bee","Apis Andreniformis","Apis Cerana","Apis Dorsata","Apis Florea","Apis Koschevnikovi","Apis Nigrocincta","European Dark Bee","Italian Bee"],"receivingConcepts":[]}
+{"concept":"Gerbillus","rel":"dbpedia/genus","emittingConcepts":["Agag Gerbil","Anderson's Gerbil","Brockman's Gerbil","Burton's Gerbil","Cushioned Gerbil","Dipodillus","Flower's Gerbil","Greater Egyptian Gerbil","Khartoum Gerbil","Least Gerbil","Lesser Short Tailed Gerbil","Occidental Gerbil","Pleasant Gerbil","Pygmy Gerbil","Rosalinda Gerbil","Somalia Gerbil","Sudan Gerbil","Swarthy Gerbil","Tarabul's Gerbil","Waters's Gerbil","Western Gerbil"],"receivingConcepts":[]}
+{"concept":"Agaricus","rel":"dbpedia/genus","emittingConcepts":["Agaricus Arvensis","Agaricus Campestris"],"receivingConcepts":[]}
+{"concept":"Agathis","rel":"dbpedia/genus","emittingConcepts":["Agathis Australis","Agathis Dammara","Agathis Robusta"],"receivingConcepts":[]}
+{"concept":"Hylobates","rel":"dbpedia/genus","emittingConcepts":["Agile Gibbon","Kloss's Gibbon","Lar Gibbon","Pileated Gibbon","Silvery Gibbon"],"receivingConcepts":[]}
+{"concept":"Macropus","rel":"dbpedia/genus","emittingConcepts":["Agile Wallaby","Antilopine Kangaroo","Black Striped Wallaby","Eastern Grey Kangaroo","Parma Wallaby","Red Kangaroo","Red Necked Wallaby","Tammar Wallaby","Toolache Wallaby","Western Brush Wallaby","Western Grey Kangaroo"],"receivingConcepts":[]}
+{"concept":"Agrostis","rel":"dbpedia/genus","emittingConcepts":["Agrostis Canina","Agrostis Stolonifera"],"receivingConcepts":[]}
+{"concept":"Ajuga","rel":"dbpedia/genus","emittingConcepts":["Ajuga Chamaepitys","Ajuga Genevensis","Ajuga Pyramidalis","Ajuga Reptans"],"receivingConcepts":[]}
+{"concept":"Gadus","rel":"dbpedia/genus","emittingConcepts":["Alaska Pollock","Atlantic Cod","Pacific Cod"],"receivingConcepts":[]}
+{"concept":"Hare","rel":"dbpedia/genus","emittingConcepts":["Alaskan Hare","Black Tailed Jackrabbit","Desert Hare","European Hare","Granada Hare","Mountain Hare","Snowshoe Hare","White Tailed Jackrabbit"],"receivingConcepts":[]}
+{"concept":"Albizia","rel":"dbpedia/genus","emittingConcepts":["Albizia Julibrissin","Albizia Saman"],"receivingConcepts":[]}
+{"concept":"Alosa","rel":"dbpedia/genus","emittingConcepts":["Alewife","Allis Shad","Twait Shad"],"receivingConcepts":[]}
+{"concept":"Psittacula","rel":"dbpedia/genus","emittingConcepts":["Alexandrine Parakeet","Grey Headed Parakeet","Layard's Parakeet","Newton's Parakeet","Plum Headed Parakeet","Red Breasted Parakeet","Rose Ringed Parakeet","Seychelles Parakeet"],"receivingConcepts":[]}
+{"concept":"Medicago","rel":"dbpedia/genus","emittingConcepts":["Alfalfa","Medicago Falcata","Medicago Lupulina","Medicago Truncatula"],"receivingConcepts":[]}
+{"concept":"Bufo","rel":"dbpedia/genus","emittingConcepts":["Almirante Trail Toad","Black Toad","Colorado River Toad","Common Toad","European Green Toad","Holdridge's Toad","Houston Toad","Red Spotted Toad"],"receivingConcepts":[]}
+{"concept":"Prunus","rel":"dbpedia/genus","emittingConcepts":["Almond","Cherry Plum","Damson","Mirabelle Plum","Peach","Prunus Americana","Prunus Armeniaca","Prunus Avium","Prunus Caroliniana","Prunus Cerasoides","Prunus Cerasus","Prunus Domestica","Prunus Emarginata","Prunus Fruticosa","Prunus Glandulosa","Prunus Laurocerasus","Prunus Mume","Prunus Padus","Prunus Sargentii","Prunus Serotina","Prunus Serrulata","Prunus Spinosa","Prunus Subhirtella","Prunus Tenella","Prunus Tomentosa","Prunus Virginiana"],"receivingConcepts":[]}
+{"concept":"Alder","rel":"dbpedia/genus","emittingConcepts":["Alnus Glutinosa","Alnus Incana","Alnus Viridis"],"receivingConcepts":[]}
+{"concept":"Alopecurus","rel":"dbpedia/genus","emittingConcepts":["Alopecurus Myosuroides","Alopecurus Pratensis"],"receivingConcepts":[]}
+{"concept":"Cottus","rel":"dbpedia/genus","emittingConcepts":["Alpine Bullhead","European Bullhead","Klamath Lake Sculpin","Pygmy Sculpin"],"receivingConcepts":[]}
+{"concept":"Capra","rel":"dbpedia/genus","emittingConcepts":["Alpine Ibex","Bezoar Ibex","East Caucasian Tur","Goat","Kri Kri","Markhor","Spanish Ibex","West Caucasian Tur","Wild Goat"],"receivingConcepts":[]}
+{"concept":"Marmot","rel":"dbpedia/genus","emittingConcepts":["Alpine Marmot","Groundhog","Himalayan Marmot","Hoary Marmot","Vancouver Island Marmot","Yellow Bellied Marmot"],"receivingConcepts":[]}
+{"concept":"Salamandra","rel":"dbpedia/genus","emittingConcepts":["Alpine Salamander","Corsican Fire Salamander","Fire Salamander"],"receivingConcepts":[]}
+{"concept":"Alpinia","rel":"dbpedia/genus","emittingConcepts":["Alpinia Galanga","Alpinia Purpurata"],"receivingConcepts":[]}
+{"concept":"Marmosa","rel":"dbpedia/genus","emittingConcepts":["Alston's Mouse Opossum","Guajira Mouse Opossum","Linnaeus's Mouse Opossum","Mexican Mouse Opossum","Red Mouse Opossum","Robinson's Mouse Opossum","Rufous Mouse Opossum"],"receivingConcepts":[]}
+{"concept":"Woodcock","rel":"dbpedia/genus","emittingConcepts":["Amami Woodcock","American Woodcock","Eurasian Woodcock","Javan Woodcock","Moluccan Woodcock","Sulawesi Woodcock"],"receivingConcepts":[]}
+{"concept":"Amanita","rel":"dbpedia/genus","emittingConcepts":["Amanita Caesarea","Amanita Phalloides","Amanita Verna","Blusher"],"receivingConcepts":[]}
+{"concept":"Amaranth","rel":"dbpedia/genus","emittingConcepts":["Amaranthus Albus","Amaranthus Caudatus","Amaranthus Cruentus","Amaranthus Graecizans","Amaranthus Hypochondriacus"],"receivingConcepts":[]}
+{"concept":"Amelanchier","rel":"dbpedia/genus","emittingConcepts":["Amelanchier Alnifolia","Amelanchier Bartramiana"],"receivingConcepts":[]}
+{"concept":"Avocet","rel":"dbpedia/genus","emittingConcepts":["American Avocet","Pied Avocet"],"receivingConcepts":[]}
+{"concept":"Bison","rel":"dbpedia/genus","emittingConcepts":["American Bison","Beefalo","European Bison"],"receivingConcepts":[]}
+{"concept":"Ursus","rel":"dbpedia/genus","emittingConcepts":["American Black Bear","Asian Black Bear","Atlas Bear","Bergman's Bear","Brown Bear","Cave Bear","Formosan Black Bear","Grizzly Bear","Himalayan Brown Bear","Kamchatka Brown Bear","Kermode Bear","Kodiak Bear","Polar Bear","Syrian Brown Bear"],"receivingConcepts":[]}
+{"concept":"Chestnut","rel":"dbpedia/genus","emittingConcepts":["American Chestnut","Castanea Crenata","Castanea Mollissima","Castanea Sativa"],"receivingConcepts":[]}
+{"concept":"Periplaneta","rel":"dbpedia/genus","emittingConcepts":["American Cockroach","Australian Cockroach"],"receivingConcepts":[]}
+{"concept":"Coot","rel":"dbpedia/genus","emittingConcepts":["American Coot","Mascarene Coot"],"receivingConcepts":[]}
+{"concept":"Corvus","rel":"dbpedia/genus","emittingConcepts":["American Crow","Banggai Crow","Bismarck Crow","Carrion Crow","Common Raven","Daurian Jackdaw","Flores Crow","Hawaiian Crow","Hooded Crow","House Crow","Jungle Crow","Long Billed Crow","Mesopotamian Crow","New Caledonian Crow","Northwestern Crow","Pied Crow","Rook","Slender Billed Crow","Tamaulipas Crow","Western Jackdaw","White Billed Crow"],"receivingConcepts":[]}
+{"concept":"Anguillidae","rel":"dbpedia/genus","emittingConcepts":["American Eel","European Eel"],"receivingConcepts":[]}
+{"concept":"Falcon","rel":"dbpedia/genus","emittingConcepts":["American Kestrel","Amur Falcon","Aplomado Falcon","Australian Hobby","Barbary Falcon","Bat Falcon","Black Falcon","Brown Falcon","Common Kestrel","Eleonora's Falcon","Eurasian Hobby","Gyrfalcon","Laggar Falcon","Lanner Falcon","Lesser Kestrel","Merlin","Nankeen Kestrel","New Zealand Falcon","Orange Breasted Falcon","Peregrine Falcon","Prairie Falcon","Red Footed Falcon","Red Necked Falcon","Saker Falcon","Sooty Falcon"],"receivingConcepts":[]}
+{"concept":"Marten","rel":"dbpedia/genus","emittingConcepts":["American Marten","Beech Marten","Fisher","Sable","Yellow Throated Marten"],"receivingConcepts":[]}
+{"concept":"Oystercatcher","rel":"dbpedia/genus","emittingConcepts":["American Oystercatcher","Eurasian Oystercatcher"],"receivingConcepts":[]}
+{"concept":"Vulpes","rel":"dbpedia/genus","emittingConcepts":["American Red Fox","Arctic Fox","Bengal Fox","Blanford's Fox","Cape Fox","Corsac Fox","Fennec Fox","Kit Fox","Pale Fox","Red Fox","Swift Fox"],"receivingConcepts":[]}
+{"concept":"Setophaga","rel":"dbpedia/genus","emittingConcepts":["American Redstart","Golden Cheeked Warbler","Hermit Warbler","Hooded Warbler","Magnolia Warbler","Northern Parula","Yellow Throated Warbler"],"receivingConcepts":[]}
+{"concept":"True Thrush","rel":"dbpedia/genus","emittingConcepts":["American Robin","Black Throated Thrush","Clay Colored Thrush","Common Blackbird","Fieldfare","Kurrichane Thrush","Mistle Thrush","Redwing","Ring Ouzel","Song Thrush"],"receivingConcepts":[]}
+{"concept":"Pelican","rel":"dbpedia/genus","emittingConcepts":["American White Pelican","Australian Pelican","Brown Pelican"],"receivingConcepts":[]}
+{"concept":"Amorphophallus","rel":"dbpedia/genus","emittingConcepts":["Amorphophallus Titanum","Konjac"],"receivingConcepts":[]}
+{"concept":"Anagallis","rel":"dbpedia/genus","emittingConcepts":["Anagallis Arvensis","Anagallis Tenella"],"receivingConcepts":[]}
+{"concept":"Estrilda","rel":"dbpedia/genus","emittingConcepts":["Anambra Waxbill","Black Cheeked Waxbill","Black Crowned Waxbill","Black Headed Waxbill","Black Rumped Waxbill","Cinderella Waxbill","Common Waxbill","Crimson Rumped Waxbill","Lavender Waxbill"],"receivingConcepts":[]}
+{"concept":"Colaptes","rel":"dbpedia/genus","emittingConcepts":["Andean Flicker","Fernandina's Flicker","Gilded Flicker","Golden Olive Woodpecker","Grey Crowned Woodpecker","Northern Flicker"],"receivingConcepts":[]}
+{"concept":"Leopardus","rel":"dbpedia/genus","emittingConcepts":["Andean Mountain Cat","Colocolo","Geoffroy's Cat","Kodkod","Margay","Ocelot","Oncilla","Pampas Cat","Pantanal Cat"],"receivingConcepts":[]}
+{"concept":"Didelphis","rel":"dbpedia/genus","emittingConcepts":["Andean White Eared Opossum","Big Eared Opossum","Common Opossum","Guianan White Eared Opossum","Virginia Opossum","White Eared Opossum"],"receivingConcepts":[]}
+{"concept":"Artibeus","rel":"dbpedia/genus","emittingConcepts":["Andersen's Fruit Eating Bat","Jamaican Fruit Bat"],"receivingConcepts":[]}
+{"concept":"Anemone","rel":"dbpedia/genus","emittingConcepts":["Anemone Nemorosa","Anemone Sylvestris"],"receivingConcepts":[]}
+{"concept":"Angelica","rel":"dbpedia/genus","emittingConcepts":["Angelica Archangelica","Angelica Sylvestris"],"receivingConcepts":[]}
+{"concept":"Crossarchus","rel":"dbpedia/genus","emittingConcepts":["Angolan Kusimanse","Common Kusimanse"],"receivingConcepts":[]}
+{"concept":"Darter","rel":"dbpedia/genus","emittingConcepts":["Anhinga","Oriental Darter"],"receivingConcepts":[]}
+{"concept":"Annona","rel":"dbpedia/genus","emittingConcepts":["Annona Cherimola","Annona Reticulata","Annona Squamosa","Atemoya"],"receivingConcepts":[]}
+{"concept":"Anthemis","rel":"dbpedia/genus","emittingConcepts":["Anthemis Arvensis","Anthemis Cotula"],"receivingConcepts":[]}
+{"concept":"Anthriscus","rel":"dbpedia/genus","emittingConcepts":["Anthriscus Sylvestris","Chervil"],"receivingConcepts":[]}
+{"concept":"Malus","rel":"dbpedia/genus","emittingConcepts":["Apple","Malus Sylvestris"],"receivingConcepts":[]}
+{"concept":"Acrocephalus","rel":"dbpedia/genus","emittingConcepts":["Aquatic Warbler","Marsh Warbler","Millerbird","Moustached Warbler","Nightingale Reed Warbler","Sedge Warbler"],"receivingConcepts":[]}
+{"concept":"Oryx","rel":"dbpedia/genus","emittingConcepts":["Arabian Oryx","Gemsbok"],"receivingConcepts":[]}
+{"concept":"Aralia","rel":"dbpedia/genus","emittingConcepts":["Aralia Elata","Aralia Stipulata"],"receivingConcepts":[]}
+{"concept":"Araucaria","rel":"dbpedia/genus","emittingConcepts":["Araucaria Araucana","Araucaria Bidwillii","Araucaria Columnaris","Araucaria Heterophylla"],"receivingConcepts":[]}
+{"concept":"Arbutus","rel":"dbpedia/genus","emittingConcepts":["Arbutus Menziesii","Arbutus Unedo"],"receivingConcepts":[]}
+{"concept":"Salvelinus","rel":"dbpedia/genus","emittingConcepts":["Arctic Char","Brook Trout","Lake Trout","Silver Trout"],"receivingConcepts":[]}
+{"concept":"Sterna","rel":"dbpedia/genus","emittingConcepts":["Arctic Tern","Common Tern","Roseate Tern"],"receivingConcepts":[]}
+{"concept":"Canis","rel":"dbpedia/genus","emittingConcepts":["Arctic Wolf","Black Backed Jackal","Coyote","Dingo","Dire Wolf","Dog","Eastern Wolf","Ethiopian Wolf","Gray Wolf","Hokkaido Wolf","Indian Wolf","Jackal","Mexican Wolf","Red Wolf","Side Striped Jackal","Tibetan Wolf","Tundra Wolf","Vancouver Island Wolf","Yukon Wolf"],"receivingConcepts":[]}
+{"concept":"Arctium","rel":"dbpedia/genus","emittingConcepts":["Arctium Lappa","Arctium Minus"],"receivingConcepts":[]}
+{"concept":"Arctostaphylos","rel":"dbpedia/genus","emittingConcepts":["Arctostaphylos Alpina","Arctostaphylos Uva Ursi"],"receivingConcepts":[]}
+{"concept":"Ovis","rel":"dbpedia/genus","emittingConcepts":["Argali","Bighorn Sheep","Dall Sheep","Mouflon","Sheep","Snow Sheep","Urial"],"receivingConcepts":[]}
+{"concept":"Extinction","rel":"dbpedia/genus","emittingConcepts":["Argentavis","Deinotherium","Desert Rat Kangaroo","Dinornis","Diprotodon","Eomanis","Glyptodon","Haast's Eagle","Hyracotherium","Icadyptes Salasi","Liopleurodon","Megalonyx","Mylodon","Sahelanthropus","Short Faced Bear","Smilodon","Toxodon","Upland Moa","Woolly Rhinoceros"],"receivingConcepts":[]}
+{"concept":"Aristolochia","rel":"dbpedia/genus","emittingConcepts":["Aristolochia Clematitis","Aristolochia Macrophylla"],"receivingConcepts":[]}
+{"concept":"Artemisia","rel":"dbpedia/genus","emittingConcepts":["Artemisia Abrotanum","Artemisia Absinthium","Artemisia Campestris","Artemisia Cana","Artemisia Filifolia","Artemisia Frigida","Artemisia Maritima","Artemisia Vulgaris","Tarragon"],"receivingConcepts":[]}
+{"concept":"Nycticorax","rel":"dbpedia/genus","emittingConcepts":["Ascension Night Heron","Black Crowned Night Heron","Mauritius Night Heron","Nankeen Night Heron"],"receivingConcepts":[]}
+{"concept":"Asclepias","rel":"dbpedia/genus","emittingConcepts":["Asclepias Curassavica","Asclepias Meadii","Asclepias Purpurascens","Asclepias Speciosa","Asclepias Tuberosa","Asclepias Verticillata"],"receivingConcepts":[]}
+{"concept":"Sheldgoose","rel":"dbpedia/genus","emittingConcepts":["Ashy Headed Goose","Kelp Goose","Ruddy Headed Goose"],"receivingConcepts":[]}
+{"concept":"Astragalus","rel":"dbpedia/genus","emittingConcepts":["Astragalus Alpinus","Astragalus Glycyphyllos"],"receivingConcepts":[]}
+{"concept":"Gadfly Petrel","rel":"dbpedia/genus","emittingConcepts":["Atlantic Petrel","Barau's Petrel","Bermuda Petrel","Chatham Petrel","Cook's Petrel","Great Winged Petrel","Hawaiian Petrel","Murphy's Petrel","Phoenix Petrel","Pycroft's Petrel","White Headed Petrel","White Necked Petrel"],"receivingConcepts":[]}
+{"concept":"Salmo","rel":"dbpedia/genus","emittingConcepts":["Atlantic Salmon","Gillaroo"],"receivingConcepts":[]}
+{"concept":"Mergus","rel":"dbpedia/genus","emittingConcepts":["Auckland Merganser","Brazilian Merganser","Common Merganser","Red Breasted Merganser","Scaly Sided Merganser"],"receivingConcepts":[]}
+{"concept":"Bos","rel":"dbpedia/genus","emittingConcepts":["Aurochs","Banteng","Beefalo","Cattle","Gaur","Gayal","Kouprey","Yak","Zebu"],"receivingConcepts":[]}
+{"concept":"Avena","rel":"dbpedia/genus","emittingConcepts":["Avena Fatua","Avena Nuda","Avena Strigosa","Oat"],"receivingConcepts":[]}
+{"concept":"Avicennia","rel":"dbpedia/genus","emittingConcepts":["Avicennia Marina","Avicennia Officinalis"],"receivingConcepts":[]}
+{"concept":"Bacillus","rel":"dbpedia/genus","emittingConcepts":["Bacillus Anthracis","Bacillus Cereus","Bacillus Megaterium","Bacillus Subtilis","Bacillus Thuringiensis"],"receivingConcepts":[]}
+{"concept":"Cervus","rel":"dbpedia/genus","emittingConcepts":["Bactrian Deer","Barbary Stag","Caspian Red Deer","Eastern Elk","Elk","Red Deer","Sika Deer","Thorold's Deer","Yarkand Deer"],"receivingConcepts":[]}
+{"concept":"Pusa","rel":"dbpedia/genus","emittingConcepts":["Baikal Seal","Caspian Seal","Ringed Seal"],"receivingConcepts":[]}
+{"concept":"Calidrid","rel":"dbpedia/genus","emittingConcepts":["Baird's Sandpiper","Curlew Sandpiper","Dunlin","Least Sandpiper","Little Stint","Pectoral Sandpiper","Purple Sandpiper","Red Knot","Rock Sandpiper","Sanderling","Semipalmated Sandpiper","Spoon Billed Sandpiper","Western Sandpiper","White Rumped Sandpiper"],"receivingConcepts":[]}
+{"concept":"Tapir","rel":"dbpedia/genus","emittingConcepts":["Baird's Tapir","Malayan Tapir"],"receivingConcepts":[]}
+{"concept":"Puffinus","rel":"dbpedia/genus","emittingConcepts":["Balearic Shearwater","Manx Shearwater"],"receivingConcepts":[]}
+{"concept":"Drongo","rel":"dbpedia/genus","emittingConcepts":["Balicassiao","Crested Drongo","Hair Crested Drongo"],"receivingConcepts":[]}
+{"concept":"Perch","rel":"dbpedia/genus","emittingConcepts":["Balkhash Perch","European Perch","Yellow Perch"],"receivingConcepts":[]}
+{"concept":"Bungarus","rel":"dbpedia/genus","emittingConcepts":["Banded Krait","Many Banded Krait"],"receivingConcepts":[]}
+{"concept":"Ficus","rel":"dbpedia/genus","emittingConcepts":["Banyan","Common Fig","Ficus Deltoidea","Ficus Elastica","Ficus Sycomorus"],"receivingConcepts":[]}
+{"concept":"Anser","rel":"dbpedia/genus","emittingConcepts":["Bar Headed Goose","Bean Goose","Domestic Goose","Greater White Fronted Goose","Greylag Goose","Lesser White Fronted Goose","Pink Footed Goose","Swan Goose"],"receivingConcepts":[]}
+{"concept":"Godwit","rel":"dbpedia/genus","emittingConcepts":["Bar Tailed Godwit","Black Tailed Godwit","Hudsonian Godwit","Marbled Godwit"],"receivingConcepts":[]}
+{"concept":"Barbarea","rel":"dbpedia/genus","emittingConcepts":["Barbarea Verna","Barbarea Vulgaris"],"receivingConcepts":[]}
+{"concept":"Streptopelia","rel":"dbpedia/genus","emittingConcepts":["Barbary Dove","Eurasian Collared Dove","European Turtle Dove","Oriental Turtle Dove","Red Turtle Dove"],"receivingConcepts":[]}
+{"concept":"Macaque","rel":"dbpedia/genus","emittingConcepts":["Barbary Macaque","Bonnet Macaque","Celebes Crested Macaque","Crab Eating Macaque","Japanese Macaque","Moor Macaque","Rhesus Macaque","Southern Pig Tailed Macaque"],"receivingConcepts":[]}
+{"concept":"Hordeum","rel":"dbpedia/genus","emittingConcepts":["Barley","Hordeum Jubatum","Hordeum Murinum"],"receivingConcepts":[]}
+{"concept":"Hirundo","rel":"dbpedia/genus","emittingConcepts":["Barn Swallow","Welcome Swallow"],"receivingConcepts":[]}
+{"concept":"Branta","rel":"dbpedia/genus","emittingConcepts":["Barnacle Goose","Brant Goose","Cackling Goose","Canada Goose","Nene","Red Breasted Goose"],"receivingConcepts":[]}
+{"concept":"Lates","rel":"dbpedia/genus","emittingConcepts":["Barramundi","Nile Perch"],"receivingConcepts":[]}
+{"concept":"Thamnophilus","rel":"dbpedia/genus","emittingConcepts":["Barred Antshrike","Black Antshrike","Black Hooded Antshrike","Chestnut Backed Antshrike","Cocha Antshrike","Rufous Capped Antshrike","Uniform Antshrike","White Shouldered Antshrike"],"receivingConcepts":[]}
+{"concept":"Strix","rel":"dbpedia/genus","emittingConcepts":["Barred Owl","Great Grey Owl","Rusty Barred Owl","Spotted Owl","Tawny Owl","Ural Owl"],"receivingConcepts":[]}
+{"concept":"Goldeneye","rel":"dbpedia/genus","emittingConcepts":["Barrow's Goldeneye","Bufflehead","Common Goldeneye"],"receivingConcepts":[]}
+{"concept":"Heloderma","rel":"dbpedia/genus","emittingConcepts":["Beaded Lizard","Gila Monster"],"receivingConcepts":[]}
+{"concept":"Beefalo","rel":"dbpedia/genus","receivingConcepts":["Bison","Bos"],"emittingConcepts":[]}
+{"concept":"Begonia","rel":"dbpedia/genus","emittingConcepts":["Begonia Eiromischa","Begonia Salaziensis"],"receivingConcepts":[]}
+{"concept":"Melidectes","rel":"dbpedia/genus","emittingConcepts":["Belford's Melidectes","Cinnamon Browed Melidectes","Ornate Melidectes","Sooty Melidectes","Yellow Browed Melidectes"],"receivingConcepts":[]}
+{"concept":"Huso","rel":"dbpedia/genus","emittingConcepts":["Beluga","Kaluga"],"receivingConcepts":[]}
+{"concept":"Berberis","rel":"dbpedia/genus","emittingConcepts":["Berberis Thunbergii","Berberis Vulgaris"],"receivingConcepts":[]}
+{"concept":"Citrus","rel":"dbpedia/genus","emittingConcepts":["Bergamot Orange","Bitter Orange","Citron","Grapefruit","Iyokan","Kabosu","Kaffir Lime","Key Lime","Kumquat","Lemon","Mandarin Orange","Pomelo","Tangelo","Tangerine","Yuzu"],"receivingConcepts":[]}
+{"concept":"Amazilia","rel":"dbpedia/genus","emittingConcepts":["Berylline Hummingbird","Copper Rumped Hummingbird"],"receivingConcepts":[]}
+{"concept":"Piper","rel":"dbpedia/genus","emittingConcepts":["Betel","Black Pepper","Cubeb","Kava","Long Pepper"],"receivingConcepts":[]}
+{"concept":"Birch","rel":"dbpedia/genus","emittingConcepts":["Betula Glandulosa","Betula Lenta","Betula Nana","Betula Papyrifera","Betula Pendula","Betula Pubescens","Betula Pumila"],"receivingConcepts":[]}
+{"concept":"Gambusia","rel":"dbpedia/genus","emittingConcepts":["Big Bend Gambusia","Clear Creek Gambusia","Mosquitofish","Pecos Gambusia"],"receivingConcepts":[]}
+{"concept":"Eptesicus","rel":"dbpedia/genus","emittingConcepts":["Big Brown Bat","Kobayashi's Bat","Northern Bat"],"receivingConcepts":[]}
+{"concept":"Ictiobus","rel":"dbpedia/genus","emittingConcepts":["Bigmouth Buffalo","Black Buffalo"],"receivingConcepts":[]}
+{"concept":"Pine","rel":"dbpedia/genus","emittingConcepts":["Bishop Pine","Bristlecone Pine","Jack Pine","Jeffrey Pine","Pinus Albicaulis","Pinus Aristata","Pinus Cembra","Pinus Contorta","Pinus Edulis","Pinus Flexilis","Pinus Glabra","Pinus Monophylla","Pinus Mugo","Pinus Nigra","Pinus Palustris","Pinus Ponderosa","Pinus Radiata","Pinus Rigida","Pinus Strobus","Pinus Taeda","Pinus Thunbergii","Scots Pine","Stone Pine","Western White Pine"],"receivingConcepts":[]}
+{"concept":"Bitis","rel":"dbpedia/genus","emittingConcepts":["Bitis Arietans","Gaboon Viper"],"receivingConcepts":[]}
+{"concept":"Oncorhynchus","rel":"dbpedia/genus","emittingConcepts":["Biwa Trout","Chinook Salmon","Chum Salmon","Coho Salmon","Rainbow Trout","Sockeye Salmon"],"receivingConcepts":[]}
+{"concept":"Tetrao","rel":"dbpedia/genus","emittingConcepts":["Black Billed Capercaillie","Black Grouse","Western Capercaillie"],"receivingConcepts":[]}
+{"concept":"Pica","rel":"dbpedia/genus","emittingConcepts":["Black Billed Magpie","Eurasian Magpie"],"receivingConcepts":[]}
+{"concept":"Eumops","rel":"dbpedia/genus","emittingConcepts":["Black Bonneted Bat","Western Mastiff Bat"],"receivingConcepts":[]}
+{"concept":"Vireo","rel":"dbpedia/genus","emittingConcepts":["Black Capped Vireo","Red Eyed Vireo","Yellow Throated Vireo"],"receivingConcepts":[]}
+{"concept":"Lovebird","rel":"dbpedia/genus","emittingConcepts":["Black Cheeked Lovebird","Black Winged Lovebird","Fischer's Lovebird","Grey Headed Lovebird","Red Headed Lovebird","Rosy Faced Lovebird","Yellow Collared Lovebird"],"receivingConcepts":[]}
+{"concept":"Nomascus","rel":"dbpedia/genus","emittingConcepts":["Black Crested Gibbon","Hainan Black Crested Gibbon","Yellow Cheeked Gibbon"],"receivingConcepts":[]}
+{"concept":"Dacnis","rel":"dbpedia/genus","emittingConcepts":["Black Faced Dacnis","Blue Dacnis","Scarlet Thighed Dacnis","Turquoise Dacnis"],"receivingConcepts":[]}
+{"concept":"Weasel","rel":"dbpedia/genus","emittingConcepts":["Black Footed Ferret","European Mink","European Polecat","Ferret","Indonesian Mountain Weasel","Least Weasel","Long Tailed Weasel","Malayan Weasel","Mink","Mountain Weasel","Siberian Weasel","Steppe Polecat","Stoat","Yellow Bellied Weasel"],"receivingConcepts":[]}
+{"concept":"Cepphus","rel":"dbpedia/genus","emittingConcepts":["Black Guillemot","Pigeon Guillemot"],"receivingConcepts":[]}
+{"concept":"Ardea","rel":"dbpedia/genus","emittingConcepts":["Black Headed Heron","Goliath Heron","Great Billed Heron","Great Blue Heron","Great Egret","Grey Heron","Purple Heron","White Bellied Heron"],"receivingConcepts":[]}
+{"concept":"Picus","rel":"dbpedia/genus","emittingConcepts":["Black Headed Woodpecker","Grey Headed Woodpecker","Levaillant's Woodpecker","Scaly Bellied Woodpecker","Streak Breasted Woodpecker"],"receivingConcepts":[]}
+{"concept":"Milvus","rel":"dbpedia/genus","emittingConcepts":["Black Kite","Red Kite","Yellow Billed Kite"],"receivingConcepts":[]}
+{"concept":"Ramphastos","rel":"dbpedia/genus","emittingConcepts":["Black Mandibled Toucan","Channel Billed Toucan","Keel Billed Toucan","Toco Toucan","White Throated Toucan"],"receivingConcepts":[]}
+{"concept":"Fruit Dove","rel":"dbpedia/genus","emittingConcepts":["Black Naped Fruit Dove","Blue Capped Fruit Dove","Coroneted Fruit Dove","Cream Breasted Fruit Dove","Crimson Crowned Fruit Dove","Dwarf Fruit Dove","Flame Breasted Fruit Dove","Grey Headed Fruit Dove","Jambu Fruit Dove","Many Coloured Fruit Dove","Negros Fruit Dove","Ornate Fruit Dove","Pink Headed Fruit Dove","Red Eared Fruit Dove","Scarlet Breasted Fruit Dove","Superb Fruit Dove","Wompoo Fruit Dove"],"receivingConcepts":[]}
+{"concept":"Stilt","rel":"dbpedia/genus","emittingConcepts":["Black Necked Stilt","Black Winged Stilt","White Headed Stilt"],"receivingConcepts":[]}
+{"concept":"Swan","rel":"dbpedia/genus","emittingConcepts":["Black Necked Swan","Black Swan","Mute Swan","New Zealand Swan","Trumpeter Swan","Tundra Swan","Whooper Swan"],"receivingConcepts":[]}
+{"concept":"Rat","rel":"dbpedia/genus","emittingConcepts":["Black Rat","Brown Rat","Bulldog Rat","Bush Rat","Maclear's Rat","Polynesian Rat"],"receivingConcepts":[]}
+{"concept":"Phoenicurus","rel":"dbpedia/genus","emittingConcepts":["Black Redstart","Common Redstart"],"receivingConcepts":[]}
+{"concept":"Scoter","rel":"dbpedia/genus","emittingConcepts":["Black Scoter","Common Scoter","Surf Scoter","Velvet Scoter"],"receivingConcepts":[]}
+{"concept":"Ribes","rel":"dbpedia/genus","emittingConcepts":["Blackcurrant","Gooseberry","Redcurrant","Ribes Sanguineum"],"receivingConcepts":[]}
+{"concept":"Carcharhinus","rel":"dbpedia/genus","emittingConcepts":["Blacktip Shark","Bull Shark","Copper Shark","Dusky Shark","Oceanic Whitetip Shark","Sandbar Shark","Silky Shark"],"receivingConcepts":[]}
+{"concept":"Ara","rel":"dbpedia/genus","emittingConcepts":["Blue and Yellow Macaw","Blue Throated Macaw","Chestnut Fronted Macaw","Great Green Macaw","Military Macaw","Red Fronted Macaw","Saint Croix Macaw","Scarlet Macaw"],"receivingConcepts":[]}
+{"concept":"Booby","rel":"dbpedia/genus","emittingConcepts":["Blue Footed Booby","Brown Booby","Masked Booby","Nazca Booby","Peruvian Booby","Red Footed Booby"],"receivingConcepts":[]}
+{"concept":"Cyanocitta","rel":"dbpedia/genus","emittingConcepts":["Blue Jay","Steller's Jay"],"receivingConcepts":[]}
+{"concept":"Leafbird","rel":"dbpedia/genus","emittingConcepts":["Blue Masked Leafbird","Blue Winged Leafbird","Golden Fronted Leafbird","Greater Green Leafbird","Orange Bellied Leafbird","Yellow Throated Leafbird"],"receivingConcepts":[]}
+{"concept":"Guenon","rel":"dbpedia/genus","emittingConcepts":["Blue Monkey","Crested Mona Monkey","Diana Monkey","Lesula"],"receivingConcepts":[]}
+{"concept":"Sander","rel":"dbpedia/genus","emittingConcepts":["Blue Walleye","Volga Pikeperch","Zander"],"receivingConcepts":[]}
+{"concept":"Balaenoptera","rel":"dbpedia/genus","emittingConcepts":["Blue Whale","Bryde's Whale","Fin Whale","Pygmy Blue Whale","Sei Whale"],"receivingConcepts":[]}
+{"concept":"Kookaburra","rel":"dbpedia/genus","emittingConcepts":["Blue Winged Kookaburra","Laughing Kookaburra","Rufous Bellied Kookaburra","Spangled Kookaburra"],"receivingConcepts":[]}
+{"concept":"Hippotragus","rel":"dbpedia/genus","emittingConcepts":["Bluebuck","Roan Antelope","Sable Antelope"],"receivingConcepts":[]}
+{"concept":"Luscinia","rel":"dbpedia/genus","emittingConcepts":["Bluethroat","Common Nightingale","Thrush Nightingale"],"receivingConcepts":[]}
+{"concept":"Tragopan","rel":"dbpedia/genus","emittingConcepts":["Blyth's Tragopan","Cabot's Tragopan","Satyr Tragopan","Temminck's Tragopan","Western Tragopan"],"receivingConcepts":[]}
+{"concept":"Lynx","rel":"dbpedia/genus","emittingConcepts":["Bobcat","Canada Lynx","Eurasian Lynx"],"receivingConcepts":[]}
+{"concept":"Glyptemys","rel":"dbpedia/genus","emittingConcepts":["Bog Turtle","Wood Turtle"],"receivingConcepts":[]}
+{"concept":"Waxwing","rel":"dbpedia/genus","emittingConcepts":["Bohemian Waxwing","Cedar Waxwing","Japanese Waxwing"],"receivingConcepts":[]}
+{"concept":"Bumblebee","rel":"dbpedia/genus","emittingConcepts":["Bombus Terrestris","Early Bumblebee","Psithyrus","Short Haired Bumblebee"],"receivingConcepts":[]}
+{"concept":"Tragelaphus","rel":"dbpedia/genus","emittingConcepts":["Bongo","Bushbuck","Greater Kudu","Lesser Kudu","Mountain Nyala","Sitatunga"],"receivingConcepts":[]}
+{"concept":"Sphyrna","rel":"dbpedia/genus","emittingConcepts":["Bonnethead","Great Hammerhead","Scalloped Hammerhead","Smooth Hammerhead"],"receivingConcepts":[]}
+{"concept":"Bettong","rel":"dbpedia/genus","emittingConcepts":["Boodie","Northern Bettong","Woylie"],"receivingConcepts":[]}
+{"concept":"Bordetella","rel":"dbpedia/genus","emittingConcepts":["Bordetella Parapertussis","Bordetella Pertussis"],"receivingConcepts":[]}
+{"concept":"Orangutan","rel":"dbpedia/genus","emittingConcepts":["Bornean Orangutan","Sumatran Orangutan"],"receivingConcepts":[]}
+{"concept":"Elephas","rel":"dbpedia/genus","emittingConcepts":["Borneo Elephant","Indian Elephant","Sri Lankan Elephant"],"receivingConcepts":[]}
+{"concept":"Dipodillus","rel":"dbpedia/genus","emittingConcepts":["Botta's Gerbil","Greater Short Tailed Gerbil","Harwood's Gerbil","James's Gerbil","Lesser Short Tailed Gerbil","Lowe's Gerbil","Somalian Gerbil","Wagner's Gerbil"],"receivingConcepts":["Gerbillus"]}
+{"concept":"Rubus","rel":"dbpedia/genus","emittingConcepts":["Boysenberry","Rubus Chamaemorus","Rubus Odoratus","Rubus Saxatilis","Rubus Spectabilis","Rubus Strigosus","Swamp Dewberry"],"receivingConcepts":[]}
+{"concept":"Brachychiton","rel":"dbpedia/genus","emittingConcepts":["Brachychiton Acerifolius","Brachychiton Populneus"],"receivingConcepts":[]}
+{"concept":"Brachypelma","rel":"dbpedia/genus","emittingConcepts":["Brachypelma Albopilosum","Brachypelma Klaasi","Brachypelma Vagans","Mexican Redknee Tarantula"],"receivingConcepts":[]}
+{"concept":"Fringilla","rel":"dbpedia/genus","emittingConcepts":["Brambling","Common Chaffinch"],"receivingConcepts":[]}
+{"concept":"Brassica","rel":"dbpedia/genus","emittingConcepts":["Brassica Juncea","Brassica Nigra","Brassica Oleracea","Brassica Rapa","Rapeseed","Red Cabbage"],"receivingConcepts":[]}
+{"concept":"Artocarpus","rel":"dbpedia/genus","emittingConcepts":["Breadfruit","Jackfruit"],"receivingConcepts":[]}
+{"concept":"Quail Dove","rel":"dbpedia/genus","emittingConcepts":["Bridled Quail Dove","Crested Quail Dove","Key West Quail Dove","Lined Quail Dove","Ruddy Quail Dove","White Throated Quail Dove"],"receivingConcepts":[]}
+{"concept":"Curlew","rel":"dbpedia/genus","emittingConcepts":["Bristle Thighed Curlew","Eskimo Curlew","Eurasian Curlew","Little Curlew","Long Billed Curlew","Slender Billed Curlew","Whimbrel"],"receivingConcepts":[]}
+{"concept":"Briza","rel":"dbpedia/genus","emittingConcepts":["Briza Maxima","Briza Media"],"receivingConcepts":[]}
+{"concept":"Grus","rel":"dbpedia/genus","emittingConcepts":["Brolga","Common Crane","Hooded Crane","Sandhill Crane","Sarus Crane","Siberian Crane","Whooping Crane"],"receivingConcepts":[]}
+{"concept":"Bromus","rel":"dbpedia/genus","emittingConcepts":["Bromus Arvensis","Bromus Inermis","Bromus Secalinus","Bromus Tectorum"],"receivingConcepts":[]}
+{"concept":"Ameiurus","rel":"dbpedia/genus","emittingConcepts":["Brown Bullhead","Yellow Bullhead"],"receivingConcepts":[]}
+{"concept":"Accipiter","rel":"dbpedia/genus","emittingConcepts":["Brown Goshawk","Collared Sparrowhawk","Cooper's Hawk","Crested Goshawk","Eurasian Sparrowhawk","Frances's Sparrowhawk","Grey Goshawk","Grey Headed Goshawk","Japanese Sparrowhawk","Levant Sparrowhawk","Rufous Breasted Sparrowhawk","Sharp Shinned Hawk","Shikra","Tiny Hawk"],"receivingConcepts":[]}
+{"concept":"Toxostoma","rel":"dbpedia/genus","emittingConcepts":["Brown Thrasher","Curve Billed Thrasher"],"receivingConcepts":[]}
+{"concept":"Violetear","rel":"dbpedia/genus","emittingConcepts":["Brown Violetear","Sparkling Violetear","White Vented Violetear"],"receivingConcepts":[]}
+{"concept":"Horned Owl","rel":"dbpedia/genus","emittingConcepts":["Buffy Fish Owl","Eurasian Eagle Owl","Great Horned Owl","Snowy Owl"],"receivingConcepts":[]}
+{"concept":"Cursorius","rel":"dbpedia/genus","emittingConcepts":["Burchell's Courser","Cream Coloured Courser","Indian Courser"],"receivingConcepts":[]}
+{"concept":"Phocoena","rel":"dbpedia/genus","emittingConcepts":["Burmeister's Porpoise","Harbour Porpoise","Spectacled Porpoise","Vaquita"],"receivingConcepts":[]}
+{"concept":"Geochelone","rel":"dbpedia/genus","emittingConcepts":["Burmese Star Tortoise","Indian Star Tortoise"],"receivingConcepts":[]}
+{"concept":"Athene","rel":"dbpedia/genus","emittingConcepts":["Burrowing Owl","Little Owl"],"receivingConcepts":[]}
+{"concept":"Bassariscus","rel":"dbpedia/genus","emittingConcepts":["Cacomistle","Ring Tailed Cat"],"receivingConcepts":[]}
+{"concept":"Gallirallus","rel":"dbpedia/genus","emittingConcepts":["Calayan Rail","Dieffenbach's Rail","Guam Rail","Lord Howe Woodhen","Weka"],"receivingConcepts":[]}
+{"concept":"Zalophus","rel":"dbpedia/genus","emittingConcepts":["California Sea Lion","Galápagos Sea Lion","Japanese Sea Lion"],"receivingConcepts":[]}
+{"concept":"Camellia","rel":"dbpedia/genus","emittingConcepts":["Camellia Japonica","Camellia Sinensis"],"receivingConcepts":[]}
+{"concept":"Campanula","rel":"dbpedia/genus","emittingConcepts":["Campanula Carpatica","Campanula Glomerata","Campanula Medium","Campanula Persicifolia","Campanula Rapunculoides","Campanula Rapunculus","Campanula Rotundifolia","Campanula Trachelium"],"receivingConcepts":[]}
+{"concept":"Candida","rel":"dbpedia/genus","emittingConcepts":["Candida Albicans","Candida Glabrata","Candida Krusei","Candida Parapsilosis","Candida Tropicalis"],"receivingConcepts":[]}
+{"concept":"Cucumis","rel":"dbpedia/genus","emittingConcepts":["Cantaloupe","Cucumber","Muskmelon"],"receivingConcepts":[]}
+{"concept":"Aythya","rel":"dbpedia/genus","emittingConcepts":["Canvasback","Common Pochard","Ferruginous Duck","Greater Scaup","Hardhead","Lesser Scaup","New Zealand Scaup","Redhead","Ring Necked Duck","Tufted Duck"],"receivingConcepts":[]}
+{"concept":"Hystrix","rel":"dbpedia/genus","emittingConcepts":["Cape Porcupine","Crested Porcupine"],"receivingConcepts":[]}
+{"concept":"Capsicum","rel":"dbpedia/genus","emittingConcepts":["Capsicum Baccatum","Capsicum Frutescens"],"receivingConcepts":[]}
+{"concept":"Paracheirodon","rel":"dbpedia/genus","emittingConcepts":["Cardinal Tetra","Neon Tetra"],"receivingConcepts":[]}
+{"concept":"Carex","rel":"dbpedia/genus","emittingConcepts":["Carex Arenaria","Carex Pseudocyperus"],"receivingConcepts":[]}
+{"concept":"Monachus","rel":"dbpedia/genus","emittingConcepts":["Caribbean Monk Seal","Mediterranean Monk Seal"],"receivingConcepts":[]}
+{"concept":"Lissotriton","rel":"dbpedia/genus","emittingConcepts":["Carpathian Newt","Palmate Newt","Smooth Newt"],"receivingConcepts":[]}
+{"concept":"Hornbeam","rel":"dbpedia/genus","emittingConcepts":["Carpinus Betulus","Carpinus Caroliniana"],"receivingConcepts":[]}
+{"concept":"Hickory","rel":"dbpedia/genus","emittingConcepts":["Carya Cordiformis","Pecan"],"receivingConcepts":[]}
+{"concept":"Rana","rel":"dbpedia/genus","emittingConcepts":["Cascades Frog","Common Frog"],"receivingConcepts":[]}
+{"concept":"Cassia","rel":"dbpedia/genus","emittingConcepts":["Cassia Fistula","Cassia Grandis"],"receivingConcepts":[]}
+{"concept":"Cedrus","rel":"dbpedia/genus","emittingConcepts":["Cedrus Atlantica","Cedrus Deodara","Cedrus Libani"],"receivingConcepts":[]}
+{"concept":"Celastrus","rel":"dbpedia/genus","emittingConcepts":["Celastrus Orbiculatus","Celastrus Scandens"],"receivingConcepts":[]}
+{"concept":"Celtis","rel":"dbpedia/genus","emittingConcepts":["Celtis Australis","Celtis Occidentalis"],"receivingConcepts":[]}
+{"concept":"Centaurea","rel":"dbpedia/genus","emittingConcepts":["Centaurea Americana","Centaurea Cyanus"],"receivingConcepts":[]}
+{"concept":"Cerastium","rel":"dbpedia/genus","emittingConcepts":["Cerastium Alpinum","Cerastium Tomentosum"],"receivingConcepts":[]}
+{"concept":"Baboon","rel":"dbpedia/genus","emittingConcepts":["Chacma Baboon","Olive Baboon"],"receivingConcepts":[]}
+{"concept":"Chaenomeles","rel":"dbpedia/genus","emittingConcepts":["Chaenomeles Japonica","Chaenomeles Speciosa"],"receivingConcepts":[]}
+{"concept":"Esox","rel":"dbpedia/genus","emittingConcepts":["Chain Pickerel","Muskellunge","Northern Pike"],"receivingConcepts":[]}
+{"concept":"Chenopodium","rel":"dbpedia/genus","emittingConcepts":["Chenopodium Album","Quinoa"],"receivingConcepts":[]}
+{"concept":"Flufftail","rel":"dbpedia/genus","emittingConcepts":["Chestnut Headed Flufftail","Striped Flufftail","White Winged Flufftail"],"receivingConcepts":[]}
+{"concept":"Junglefowl","rel":"dbpedia/genus","emittingConcepts":["Chicken","Green Junglefowl","Grey Junglefowl","Red Junglefowl","Sri Lankan Junglefowl"],"receivingConcepts":[]}
+{"concept":"Grammostola","rel":"dbpedia/genus","emittingConcepts":["Chilean Rose Tarantula","Grammostola Pulchra"],"receivingConcepts":[]}
+{"concept":"Egretta","rel":"dbpedia/genus","emittingConcepts":["Chinese Egret","Little Blue Heron","Little Egret","Snowy Egret"],"receivingConcepts":[]}
+{"concept":"Andrias","rel":"dbpedia/genus","emittingConcepts":["Chinese Giant Salamander","Japanese Giant Salamander"],"receivingConcepts":[]}
+{"concept":"Gazelle","rel":"dbpedia/genus","emittingConcepts":["Chinkara","Dorcas Gazelle","Goitered Gazelle","Speke's Gazelle"],"receivingConcepts":[]}
+{"concept":"Spizella","rel":"dbpedia/genus","emittingConcepts":["Chipping Sparrow","Field Sparrow"],"receivingConcepts":[]}
+{"concept":"Alectoris","rel":"dbpedia/genus","emittingConcepts":["Chukar Partridge","Red Legged Partridge","Rock Partridge"],"receivingConcepts":[]}
+{"concept":"Cinnamomum","rel":"dbpedia/genus","emittingConcepts":["Cinnamomum Camphora","Cinnamomum Cassia"],"receivingConcepts":[]}
+{"concept":"Emberiza","rel":"dbpedia/genus","emittingConcepts":["Cirl Bunting","Corn Bunting","Ortolan Bunting","Rustic Bunting","Yellow Breasted Bunting","Yellowhammer"],"receivingConcepts":[]}
+{"concept":"Cleistocactus","rel":"dbpedia/genus","emittingConcepts":["Cleistocactus Hyalacanthus","Cleistocactus Strausii","Cleistocactus Winteri"],"receivingConcepts":[]}
+{"concept":"Clintonia","rel":"dbpedia/genus","emittingConcepts":["Clintonia Borealis","Clintonia Uniflora"],"receivingConcepts":[]}
+{"concept":"Clostridium","rel":"dbpedia/genus","emittingConcepts":["Clostridium Acetobutylicum","Clostridium Botulinum","Clostridium Difficile","Clostridium Perfringens","Clostridium Tyrobutyricum"],"receivingConcepts":[]}
+{"concept":"Neofelis","rel":"dbpedia/genus","emittingConcepts":["Clouded Leopard","Formosan Clouded Leopard"],"receivingConcepts":[]}
+{"concept":"Coffea","rel":"dbpedia/genus","emittingConcepts":["Coffea Arabica","Coffea Canephora","Coffea Liberica"],"receivingConcepts":[]}
+{"concept":"Forest Falcon","rel":"dbpedia/genus","emittingConcepts":["Collared Forest Falcon","Lined Forest Falcon","Plumbeous Forest Falcon","Slaty Backed Forest Falcon"],"receivingConcepts":[]}
+{"concept":"Buteo","rel":"dbpedia/genus","emittingConcepts":["Common Buzzard","Long Legged Buzzard","Madagascar Buzzard","Mountain Buzzard","Red Tailed Hawk","Rough Legged Buzzard","Short Tailed Hawk","Swainson's Hawk","Zone Tailed Hawk"],"receivingConcepts":[]}
+{"concept":"Cyprinus","rel":"dbpedia/genus","emittingConcepts":["Common Carp","Koi"],"receivingConcepts":[]}
+{"concept":"Eider","rel":"dbpedia/genus","emittingConcepts":["Common Eider","King Eider","Spectacled Eider"],"receivingConcepts":[]}
+{"concept":"Taurotragus","rel":"dbpedia/genus","emittingConcepts":["Common Eland","Giant Eland"],"receivingConcepts":[]}
+{"concept":"Uria","rel":"dbpedia/genus","emittingConcepts":["Common Murre","Thick Billed Murre"],"receivingConcepts":[]}
+{"concept":"Shelduck","rel":"dbpedia/genus","emittingConcepts":["Common Shelduck","Crested Shelduck","Ruddy Shelduck"],"receivingConcepts":[]}
+{"concept":"Gallinago","rel":"dbpedia/genus","emittingConcepts":["Common Snipe","Great Snipe","Latham's Snipe","Pin Tailed Snipe","Swinhoe's Snipe","Wilson's Snipe"],"receivingConcepts":[]}
+{"concept":"Sturnus","rel":"dbpedia/genus","emittingConcepts":["Common Starling","Spotless Starling"],"receivingConcepts":[]}
+{"concept":"Apus","rel":"dbpedia/genus","emittingConcepts":["Common Swift","White Rumped Swift"],"receivingConcepts":[]}
+{"concept":"Microtus","rel":"dbpedia/genus","emittingConcepts":["Common Vole","Field Vole","Southern Vole","Tundra Vole"],"receivingConcepts":[]}
+{"concept":"Wheat","rel":"dbpedia/genus","emittingConcepts":["Common Wheat","Durum","Einkorn Wheat","Emmer","Spelt"],"receivingConcepts":[]}
+{"concept":"Columba","rel":"dbpedia/genus","emittingConcepts":["Common Wood Pigeon","Domestic Pigeon","Rock Dove","Silvery Pigeon","Snow Pigeon","Stock Dove","White Collared Pigeon"],"receivingConcepts":[]}
+{"concept":"Convolvulus","rel":"dbpedia/genus","emittingConcepts":["Convolvulus Arvensis","Convolvulus Scammonia"],"receivingConcepts":[]}
+{"concept":"Cornus","rel":"dbpedia/genus","emittingConcepts":["Cornus Florida","Cornus Mas","Cornus Sanguinea"],"receivingConcepts":[]}
+{"concept":"Hazel","rel":"dbpedia/genus","emittingConcepts":["Corylus Americana","Corylus Avellana","Corylus Cornuta"],"receivingConcepts":[]}
+{"concept":"Cotoneaster","rel":"dbpedia/genus","emittingConcepts":["Cotoneaster Dammeri","Cotoneaster Horizontalis"],"receivingConcepts":[]}
+{"concept":"Herpestes","rel":"dbpedia/genus","emittingConcepts":["Crab Eating Mongoose","Egyptian Mongoose","Short Tailed Mongoose","Small Asian Mongoose","Stripe Necked Mongoose"],"receivingConcepts":[]}
+{"concept":"Procyon","rel":"dbpedia/genus","emittingConcepts":["Crab Eating Raccoon","Raccoon"],"receivingConcepts":[]}
+{"concept":"Crataegus","rel":"dbpedia/genus","emittingConcepts":["Crataegus Aestivalis","Crataegus Crus Galli","Crataegus Laevigata","Crataegus Monogyna"],"receivingConcepts":[]}
+{"concept":"Colinus","rel":"dbpedia/genus","emittingConcepts":["Crested Bobwhite","Northern Bobwhite","Yucatan Bobwhite"],"receivingConcepts":[]}
+{"concept":"Gallopheasant","rel":"dbpedia/genus","emittingConcepts":["Crested Fireback","Crestless Fireback","Siamese Fireback","Silver Pheasant"],"receivingConcepts":[]}
+{"concept":"Hornero","rel":"dbpedia/genus","emittingConcepts":["Crested Hornero","Rufous Hornero"],"receivingConcepts":[]}
+{"concept":"Hipposideros","rel":"dbpedia/genus","emittingConcepts":["Crested Roundleaf Bat","Lamotte's Roundleaf Bat"],"receivingConcepts":[]}
+{"concept":"Genet","rel":"dbpedia/genus","emittingConcepts":["Crested Servaline Genet","Giant Forest Genet"],"receivingConcepts":[]}
+{"concept":"Gorilla","rel":"dbpedia/genus","emittingConcepts":["Cross River Gorilla","Eastern Gorilla","Eastern Lowland Gorilla","Mountain Gorilla","Western Gorilla","Western Lowland Gorilla"],"receivingConcepts":[]}
+{"concept":"Crotalus","rel":"dbpedia/genus","emittingConcepts":["Crotalus Lepidus","Crotalus Scutulatus","Crotalus Tigris","Western Diamondback Rattlesnake"],"receivingConcepts":[]}
+{"concept":"Carassius","rel":"dbpedia/genus","emittingConcepts":["Crucian Carp","Goldfish","Prussian Carp"],"receivingConcepts":[]}
+{"concept":"Crocodylus","rel":"dbpedia/genus","emittingConcepts":["Cuban Crocodile","Freshwater Crocodile","Morelet's Crocodile","Mugger Crocodile","New Guinea Crocodile","Orinoco Crocodile","Philippine Crocodile","Saltwater Crocodile","Siamese Crocodile"],"receivingConcepts":[]}
+{"concept":"Solenodon","rel":"dbpedia/genus","emittingConcepts":["Cuban Solenodon","Hispaniolan Solenodon"],"receivingConcepts":[]}
+{"concept":"Cupressus","rel":"dbpedia/genus","emittingConcepts":["Cupressus Arizonica","Cupressus Goveniana","Cupressus Sempervirens"],"receivingConcepts":[]}
+{"concept":"Cycas","rel":"dbpedia/genus","emittingConcepts":["Cycas Circinalis","Cycas Revoluta"],"receivingConcepts":[]}
+{"concept":"Cylindropuntia","rel":"dbpedia/genus","emittingConcepts":["Cylindropuntia Acanthocarpa","Cylindropuntia Bigelovii","Cylindropuntia Imbricata","Cylindropuntia Rosea"],"receivingConcepts":[]}
+{"concept":"Cyperus","rel":"dbpedia/genus","emittingConcepts":["Cyperus Alternifolius","Cyperus Papyrus"],"receivingConcepts":[]}
+{"concept":"Cypripedium","rel":"dbpedia/genus","emittingConcepts":["Cypripedium Acaule","Cypripedium Calceolus","Cypripedium Montanum","Cypripedium Reginae"],"receivingConcepts":[]}
+{"concept":"Cystopteris","rel":"dbpedia/genus","emittingConcepts":["Cystopteris Fragilis","Cystopteris Montana"],"receivingConcepts":[]}
+{"concept":"Cytisus","rel":"dbpedia/genus","emittingConcepts":["Cytisus Multiflorus","Cytisus Scoparius"],"receivingConcepts":[]}
+{"concept":"Triturus","rel":"dbpedia/genus","emittingConcepts":["Danube Crested Newt","Italian Crested Newt","Marbled Newt","Southern Crested Newt"],"receivingConcepts":[]}
+{"concept":"Daphne","rel":"dbpedia/genus","emittingConcepts":["Daphne Cneorum","Daphne Laureola","Daphne Mezereum"],"receivingConcepts":[]}
+{"concept":"Argynnis","rel":"dbpedia/genus","emittingConcepts":["Dark Green Fritillary","Silver Washed Fritillary"],"receivingConcepts":[]}
+{"concept":"Rosefinch","rel":"dbpedia/genus","emittingConcepts":["Dark Rumped Rosefinch","Pink Rumped Rosefinch"],"receivingConcepts":[]}
+{"concept":"Diospyros","rel":"dbpedia/genus","emittingConcepts":["Date Plum","Diospyros Kaki","Diospyros Virginiana","Persimmon"],"receivingConcepts":[]}
+{"concept":"Mouse Eared Bat","rel":"dbpedia/genus","emittingConcepts":["Daubenton's Bat","Far Eastern Myotis","Geoffroy's Bat","Greater Mouse Eared Bat","Hodgson's Bat","Indiana Bat","Little Brown Bat","Natterer's Bat","Northern Long Eared Bat"],"receivingConcepts":[]}
+{"concept":"Cottontail Rabbit","rel":"dbpedia/genus","emittingConcepts":["Desert Cottontail","Eastern Cottontail","Swamp Rabbit","Tapeti"],"receivingConcepts":[]}
+{"concept":"Dianthus","rel":"dbpedia/genus","emittingConcepts":["Dianthus Barbatus","Dianthus Caryophyllus","Dianthus Chinensis","Dianthus Deltoides"],"receivingConcepts":[]}
+{"concept":"Natrix","rel":"dbpedia/genus","emittingConcepts":["Dice Snake","Grass Snake"],"receivingConcepts":[]}
+{"concept":"Digitalis","rel":"dbpedia/genus","emittingConcepts":["Digitalis Lutea","Digitalis Purpurea"],"receivingConcepts":[]}
+{"concept":"Digitaria","rel":"dbpedia/genus","emittingConcepts":["Digitaria Ischaemum","Digitaria Sanguinalis"],"receivingConcepts":[]}
+{"concept":"Diplotaxis","rel":"dbpedia/genus","emittingConcepts":["Diplotaxis Muralis","Diplotaxis Tenuifolia"],"receivingConcepts":[]}
+{"concept":"Disocactus","rel":"dbpedia/genus","emittingConcepts":["Disocactus Ackermannii","Disocactus Flagelliformis","Disocactus Martianus","Disocactus Phyllanthoides"],"receivingConcepts":[]}
+{"concept":"Domestic Duck","rel":"dbpedia/genus","receivingConcepts":["Anas","Cairina"],"emittingConcepts":[]}
+{"concept":"Cairina","rel":"dbpedia/genus","emittingConcepts":["Domestic Duck","Muscovy Duck"],"receivingConcepts":[]}
+{"concept":"Burhinus","rel":"dbpedia/genus","emittingConcepts":["Double Striped Thick Knee","Senegal Thick Knee","Water Thick Knee"],"receivingConcepts":[]}
+{"concept":"Mandrillus","rel":"dbpedia/genus","emittingConcepts":["Drill","Mandrill"],"receivingConcepts":[]}
+{"concept":"Drosophila","rel":"dbpedia/genus","emittingConcepts":["Drosophila Lanaiensis","Drosophila Melanogaster","Drosophila Simulans"],"receivingConcepts":[]}
+{"concept":"Chipmunk","rel":"dbpedia/genus","emittingConcepts":["Eastern Chipmunk","Sonoma Chipmunk"],"receivingConcepts":[]}
+{"concept":"Hoolock Gibbon","rel":"dbpedia/genus","emittingConcepts":["Eastern Hoolock Gibbon","Western Hoolock Gibbon"],"receivingConcepts":[]}
+{"concept":"Long Beaked Echidna","rel":"dbpedia/genus","emittingConcepts":["Eastern Long Beaked Echidna","Sir David's Long Beaked Echidna","Western Long Beaked Echidna"],"receivingConcepts":[]}
+{"concept":"Lasiurus","rel":"dbpedia/genus","emittingConcepts":["Eastern Red Bat","Hoary Bat"],"receivingConcepts":[]}
+{"concept":"Echinocereus","rel":"dbpedia/genus","emittingConcepts":["Echinocereus Engelmannii","Echinocereus Reichenbachii"],"receivingConcepts":[]}
+{"concept":"Echinopsis","rel":"dbpedia/genus","emittingConcepts":["Echinopsis Lageniformis","Echinopsis Macrogona","Echinopsis Oxygona","Echinopsis Pachanoi","Echinopsis Peruviana","Echinopsis Scopulicola","Echinopsis Spachiana"],"receivingConcepts":[]}
+{"concept":"Solanum","rel":"dbpedia/genus","emittingConcepts":["Eggplant","Lycopersicon","Potato","Solanum Crispum","Solanum Dulcamara","Solanum Nigrum","Solanum Quitoense","Tamarillo","Tomato"],"receivingConcepts":[]}
+{"concept":"Naja","rel":"dbpedia/genus","emittingConcepts":["Egyptian Cobra","Monocled Cobra"],"receivingConcepts":[]}
+{"concept":"Eleocharis","rel":"dbpedia/genus","emittingConcepts":["Eleocharis Acicularis","Eleocharis Dulcis","Eleocharis Palustris"],"receivingConcepts":[]}
+{"concept":"Chen","rel":"dbpedia/genus","emittingConcepts":["Emperor Goose","Ross's Goose","Snow Goose"],"receivingConcepts":[]}
+{"concept":"Aptenodytes","rel":"dbpedia/genus","emittingConcepts":["Emperor Penguin","King Penguin"],"receivingConcepts":[]}
+{"concept":"Dromaius","rel":"dbpedia/genus","emittingConcepts":["Emu","Kangaroo Island Emu","Tasmanian Emu"],"receivingConcepts":[]}
+{"concept":"Epiphyllum","rel":"dbpedia/genus","emittingConcepts":["Epiphyllum Anguliger","Epiphyllum Crenatum","Epiphyllum Laui","Epiphyllum Oxypetalum","Epiphyllum Pumilum"],"receivingConcepts":[]}
+{"concept":"Equisetum","rel":"dbpedia/genus","emittingConcepts":["Equisetum Arvense","Equisetum Fluviatile","Equisetum Hyemale","Equisetum Palustre","Equisetum Variegatum"],"receivingConcepts":[]}
+{"concept":"Crested Penguin","rel":"dbpedia/genus","emittingConcepts":["Erect Crested Penguin","Fiordland Penguin","Macaroni Penguin","Royal Penguin","Snares Penguin","Southern Rockhopper Penguin"],"receivingConcepts":[]}
+{"concept":"Erica","rel":"dbpedia/genus","emittingConcepts":["Erica Arborea","Erica Carnea"],"receivingConcepts":[]}
+{"concept":"Eriophorum","rel":"dbpedia/genus","emittingConcepts":["Eriophorum Angustifolium","Eriophorum Vaginatum"],"receivingConcepts":[]}
+{"concept":"Erodium","rel":"dbpedia/genus","emittingConcepts":["Erodium Cicutarium","Erodium Moschatum","Erodium Texanum"],"receivingConcepts":[]}
+{"concept":"Erysimum","rel":"dbpedia/genus","emittingConcepts":["Erysimum Cheiranthoides","Erysimum Cheiri"],"receivingConcepts":[]}
+{"concept":"Erythronium","rel":"dbpedia/genus","emittingConcepts":["Erythronium Albidum","Erythronium Americanum","Erythronium Californicum","Erythronium Dens Canis","Erythronium Montanum"],"receivingConcepts":[]}
+{"concept":"Escobaria","rel":"dbpedia/genus","emittingConcepts":["Escobaria Missouriensis","Escobaria Vivipara"],"receivingConcepts":[]}
+{"concept":"Eucalyptus","rel":"dbpedia/genus","emittingConcepts":["Eucalyptus Camaldulensis","Eucalyptus Globulus"],"receivingConcepts":[]}
+{"concept":"Eugenia","rel":"dbpedia/genus","emittingConcepts":["Eugenia Uniflora","Grumichama"],"receivingConcepts":[]}
+{"concept":"Euphorbia","rel":"dbpedia/genus","emittingConcepts":["Euphorbia Amygdaloides","Euphorbia Antisyphilitica","Euphorbia Cyparissias","Euphorbia Dentata","Euphorbia Esula","Euphorbia Helioscopia","Euphorbia Lathyris","Euphorbia Milii","Euphorbia Peplus","Poinsettia"],"receivingConcepts":[]}
+{"concept":"Charadrius","rel":"dbpedia/genus","emittingConcepts":["Eurasian Dotterel","Kentish Plover","Killdeer","Semipalmated Plover","Wilson's Plover"],"receivingConcepts":[]}
+{"concept":"Nuthatch","rel":"dbpedia/genus","emittingConcepts":["Eurasian Nuthatch","Red Breasted Nuthatch","White Breasted Nuthatch"],"receivingConcepts":[]}
+{"concept":"Merops","rel":"dbpedia/genus","emittingConcepts":["European Bee Eater","Green Bee Eater"],"receivingConcepts":[]}
+{"concept":"Tadarida","rel":"dbpedia/genus","emittingConcepts":["European Free Tailed Bat","Mexican Free Tailed Bat"],"receivingConcepts":[]}
+{"concept":"Lutra","rel":"dbpedia/genus","emittingConcepts":["European Otter","Hairy Nosed Otter"],"receivingConcepts":[]}
+{"concept":"Acipenser","rel":"dbpedia/genus","emittingConcepts":["European Sea Sturgeon","Russian Sturgeon","Starry Sturgeon","Sterlet","White Sturgeon"],"receivingConcepts":[]}
+{"concept":"Beech","rel":"dbpedia/genus","emittingConcepts":["Fagus Grandifolia","Fagus Sylvatica"],"receivingConcepts":[]}
+{"concept":"Ferocactus","rel":"dbpedia/genus","emittingConcepts":["Ferocactus Echidne","Ferocactus Glaucescens"],"receivingConcepts":[]}
+{"concept":"Ficus Elastica","rel":"dbpedia/genus","receivingConcepts":["Banyan","Ficus"],"emittingConcepts":[]}
+{"concept":"Prionailurus","rel":"dbpedia/genus","emittingConcepts":["Fishing Cat","Flat Headed Cat","Iriomote Cat","Leopard Cat","Rusty Spotted Cat"],"receivingConcepts":[]}
+{"concept":"Fouquieria","rel":"dbpedia/genus","emittingConcepts":["Fouquieria Columnaris","Fouquieria Splendens"],"receivingConcepts":[]}
+{"concept":"Setaria","rel":"dbpedia/genus","emittingConcepts":["Foxtail Millet","Setaria Viridis"],"receivingConcepts":[]}
+{"concept":"Fragaria","rel":"dbpedia/genus","emittingConcepts":["Fragaria Chiloensis","Fragaria Vesca","Strawberry","Virginia Strawberry"],"receivingConcepts":[]}
+{"concept":"Fraxinus","rel":"dbpedia/genus","emittingConcepts":["Fraxinus Excelsior","Fraxinus Ornus","Fraxinus Pennsylvanica","Fraxinus Quadrangulata","Fraxinus Velutina"],"receivingConcepts":[]}
+{"concept":"Kangaroo Rat","rel":"dbpedia/genus","emittingConcepts":["Fresno Kangaroo Rat","Giant Kangaroo Rat","Stephens Kangaroo Rat"],"receivingConcepts":[]}
+{"concept":"Fritillaria","rel":"dbpedia/genus","emittingConcepts":["Fritillaria Imperialis","Fritillaria Meleagris"],"receivingConcepts":[]}
+{"concept":"Dendrocopos","rel":"dbpedia/genus","emittingConcepts":["Fulvous Breasted Woodpecker","Great Spotted Woodpecker","Syrian Woodpecker","White Backed Woodpecker"],"receivingConcepts":[]}
+{"concept":"Momordica","rel":"dbpedia/genus","emittingConcepts":["Gac","Momordica Charantia"],"receivingConcepts":[]}
+{"concept":"Galium","rel":"dbpedia/genus","emittingConcepts":["Galium Aparine","Galium Boreale","Galium Mollugo","Galium Odoratum","Galium Verum"],"receivingConcepts":[]}
+{"concept":"Zenaida Doves","rel":"dbpedia/genus","emittingConcepts":["Galápagos Dove","Mourning Dove","Zenaida Dove"],"receivingConcepts":[]}
+{"concept":"Genista","rel":"dbpedia/genus","emittingConcepts":["Genista Anglica","Genista Tinctoria"],"receivingConcepts":[]}
+{"concept":"Gentiana","rel":"dbpedia/genus","emittingConcepts":["Gentiana Acaulis","Gentiana Lutea","Gentiana Pneumonanthe"],"receivingConcepts":[]}
+{"concept":"Geranium","rel":"dbpedia/genus","emittingConcepts":["Geranium Molle","Geranium Pratense","Geranium Robertianum"],"receivingConcepts":[]}
+{"concept":"Geum","rel":"dbpedia/genus","emittingConcepts":["Geum Rivale","Geum Urbanum"],"receivingConcepts":[]}
+{"concept":"Passiflora","rel":"dbpedia/genus","emittingConcepts":["Giant Granadilla","Passiflora Caerulea","Passiflora Edulis","Passiflora Incarnata","Passiflora Laurifolia","Passiflora Ligularis"],"receivingConcepts":[]}
+{"concept":"Giraffa","rel":"dbpedia/genus","emittingConcepts":["Giraffe","Masai Giraffe"],"receivingConcepts":[]}
+{"concept":"Gleditsia","rel":"dbpedia/genus","emittingConcepts":["Gleditsia Aquatica","Honey Locust"],"receivingConcepts":[]}
+{"concept":"Manucode","rel":"dbpedia/genus","emittingConcepts":["Glossy Mantled Manucode","Jobi Manucode"],"receivingConcepts":[]}
+{"concept":"Glycyrrhiza","rel":"dbpedia/genus","emittingConcepts":["Glycyrrhiza Lepidota","Liquorice"],"receivingConcepts":[]}
+{"concept":"Kinglet","rel":"dbpedia/genus","emittingConcepts":["Goldcrest","Ruby Crowned Kinglet"],"receivingConcepts":[]}
+{"concept":"Aquila","rel":"dbpedia/genus","emittingConcepts":["Golden Eagle","Tawny Eagle","Wedge Tailed Eagle"],"receivingConcepts":[]}
+{"concept":"Gekko","rel":"dbpedia/genus","emittingConcepts":["Golden Gecko","Tokay Gecko"],"receivingConcepts":[]}
+{"concept":"Mesocricetus","rel":"dbpedia/genus","emittingConcepts":["Golden Hamster","Turkish Hamster"],"receivingConcepts":[]}
+{"concept":"Chrysolophus","rel":"dbpedia/genus","emittingConcepts":["Golden Pheasant","Lady Amherst's Pheasant"],"receivingConcepts":[]}
+{"concept":"Gossypium","rel":"dbpedia/genus","emittingConcepts":["Gossypium Arboreum","Gossypium Barbadense","Gossypium Herbaceum","Gossypium Hirsutum"],"receivingConcepts":[]}
+{"concept":"Urocyon","rel":"dbpedia/genus","emittingConcepts":["Gray Fox","Island Fox"],"receivingConcepts":[]}
+{"concept":"Perisoreus","rel":"dbpedia/genus","emittingConcepts":["Gray Jay","Siberian Jay"],"receivingConcepts":[]}
+{"concept":"Kingbird","rel":"dbpedia/genus","emittingConcepts":["Gray Kingbird","Western Kingbird"],"receivingConcepts":[]}
+{"concept":"Lanius","rel":"dbpedia/genus","emittingConcepts":["Great Grey Shrike","Loggerhead Shrike","Red Backed Shrike"],"receivingConcepts":[]}
+{"concept":"Skua","rel":"dbpedia/genus","emittingConcepts":["Great Skua","Long Tailed Jaeger","Parasitic Jaeger","Pomarine Skua"],"receivingConcepts":[]}
+{"concept":"Kiwi","rel":"dbpedia/genus","emittingConcepts":["Great Spotted Kiwi","Little Spotted Kiwi","North Island Brown Kiwi"],"receivingConcepts":[]}
+{"concept":"Macrotis","rel":"dbpedia/genus","emittingConcepts":["Greater Bilby","Lesser Bilby"],"receivingConcepts":[]}
+{"concept":"Horseshoe Bat","rel":"dbpedia/genus","emittingConcepts":["Greater Horseshoe Bat","Lesser Horseshoe Bat"],"receivingConcepts":[]}
+{"concept":"Tringa","rel":"dbpedia/genus","emittingConcepts":["Greater Yellowlegs","Green Sandpiper","Lesser Yellowlegs","Solitary Sandpiper","Spotted Redshank","Willet","Wood Sandpiper"],"receivingConcepts":[]}
+{"concept":"Butorides","rel":"dbpedia/genus","emittingConcepts":["Green Heron","Striated Heron"],"receivingConcepts":[]}
+{"concept":"Pieris","rel":"dbpedia/genus","emittingConcepts":["Green Veined White","Pieris Brassicae","Pieris Rapae"],"receivingConcepts":[]}
+{"concept":"Go Away Bird","rel":"dbpedia/genus","emittingConcepts":["Grey Go Away Bird","White Bellied Go Away Bird"],"receivingConcepts":[]}
+{"concept":"Lama","rel":"dbpedia/genus","emittingConcepts":["Guanaco","Huarizo","Llama"],"receivingConcepts":[]}
+{"concept":"Prairie Dog","rel":"dbpedia/genus","emittingConcepts":["Gunnison's Prairie Dog","Utah Prairie Dog"],"receivingConcepts":[]}
+{"concept":"Gymnadenia","rel":"dbpedia/genus","emittingConcepts":["Gymnadenia Conopsea","Gymnadenia Odoratissima"],"receivingConcepts":[]}
+{"concept":"Gyromitra","rel":"dbpedia/genus","emittingConcepts":["Gyromitra Esculenta","Gyromitra Fastigiata"],"receivingConcepts":[]}
+{"concept":"Dasypus","rel":"dbpedia/genus","emittingConcepts":["Hairy Long Nosed Armadillo","Nine Banded Armadillo"],"receivingConcepts":[]}
+{"concept":"Helianthus","rel":"dbpedia/genus","emittingConcepts":["Helianthus Annuus","Jerusalem Artichoke"],"receivingConcepts":[]}
+{"concept":"Hellebore","rel":"dbpedia/genus","emittingConcepts":["Helleborus Foetidus","Helleborus Niger","Helleborus Orientalis","Helleborus Viridis"],"receivingConcepts":[]}
+{"concept":"Hemidactylus","rel":"dbpedia/genus","emittingConcepts":["Hemidactylus Giganteus","Hemidactylus Scabriceps"],"receivingConcepts":[]}
+{"concept":"Hibiscus","rel":"dbpedia/genus","emittingConcepts":["Hibiscus Moscheutos","Hibiscus Mutabilis","Hibiscus Rosa Sinensis","Hibiscus Syriacus","Hibiscus Trionum","Roselle"],"receivingConcepts":[]}
+{"concept":"Holcus","rel":"dbpedia/genus","emittingConcepts":["Holcus Lanatus","Holcus Mollis"],"receivingConcepts":[]}
+{"concept":"Homo","rel":"dbpedia/genus","emittingConcepts":["Homo Erectus","Homo Habilis","Homo Heidelbergensis","Homo Rhodesiensis","Java Man","Neanderthal","Peking Man"],"receivingConcepts":[]}
+{"concept":"Puffin","rel":"dbpedia/genus","emittingConcepts":["Horned Puffin","Tufted Puffin"],"receivingConcepts":[]}
+{"concept":"Coregonus","rel":"dbpedia/genus","emittingConcepts":["Houting","Lake Whitefish","Omul","Peled","Schelly","Shortnose Cisco"],"receivingConcepts":[]}
+{"concept":"Leaf Warbler","rel":"dbpedia/genus","emittingConcepts":["Hume's Leaf Warbler","Mountain Leaf Warbler","Pallas's Leaf Warbler","Willow Warbler","Wood Warbler"],"receivingConcepts":[]}
+{"concept":"Humulus","rel":"dbpedia/genus","emittingConcepts":["Humulus Japonicus","Humulus Lupulus"],"receivingConcepts":[]}
+{"concept":"Hydrangea","rel":"dbpedia/genus","emittingConcepts":["Hydrangea Anomala","Hydrangea Arborescens","Hydrangea Paniculata","Hydrangea Petiolaris"],"receivingConcepts":[]}
+{"concept":"Hygrophorus","rel":"dbpedia/genus","emittingConcepts":["Hygrophorus Marzuolus","Hygrophorus Purpurascens"],"receivingConcepts":[]}
+{"concept":"Hypericum","rel":"dbpedia/genus","emittingConcepts":["Hypericum Androsaemum","Hypericum Calycinum","Hypericum Maculatum","Hypericum Perforatum","Hypericum Tetrapterum"],"receivingConcepts":[]}
+{"concept":"Holly","rel":"dbpedia/genus","emittingConcepts":["Ilex Aquifolium","Ilex Integra","Yerba Mate"],"receivingConcepts":[]}
+{"concept":"Campephilus","rel":"dbpedia/genus","emittingConcepts":["Imperial Woodpecker","Ivory Billed Woodpecker","Magellanic Woodpecker","Robust Woodpecker"],"receivingConcepts":[]}
+{"concept":"Rhinoceros","rel":"dbpedia/genus","emittingConcepts":["Indian Rhinoceros","Javan Rhinoceros"],"receivingConcepts":[]}
+{"concept":"Ipomoea","rel":"dbpedia/genus","emittingConcepts":["Ipomoea Alba","Ipomoea Nil","Ipomoea Pes Caprae","Ipomoea Quamoclit","Ipomoea Tricolor","Sweet Potato"],"receivingConcepts":[]}
+{"concept":"Iris","rel":"dbpedia/genus","emittingConcepts":["Iris Germanica","Iris Latifolia","Iris Orjenii","Iris Pallida","Iris Pseudacorus","Iris Sibirica","Iris Spuria","Iris Versicolor"],"receivingConcepts":[]}
+{"concept":"Hyla","rel":"dbpedia/genus","emittingConcepts":["Italian Tree Frog","Japanese Tree Frog","Pine Barrens Tree Frog","Sardinian Tree Frog"],"receivingConcepts":[]}
+{"concept":"Myrmecia","rel":"dbpedia/genus","emittingConcepts":["Jack Jumper Ant","Myrmecia Gulosa"],"receivingConcepts":[]}
+{"concept":"Jasmine","rel":"dbpedia/genus","emittingConcepts":["Jasminum Nudiflorum","Jasminum Officinale"],"receivingConcepts":[]}
+{"concept":"Sorghum","rel":"dbpedia/genus","emittingConcepts":["Johnson Grass","Sorghum Bicolor"],"receivingConcepts":[]}
+{"concept":"Ziziphus","rel":"dbpedia/genus","emittingConcepts":["Jujube","Ziziphus Lotus"],"receivingConcepts":[]}
+{"concept":"Juncus","rel":"dbpedia/genus","emittingConcepts":["Juncus Articulatus","Juncus Bufonius","Juncus Effusus","Juncus Tenuis"],"receivingConcepts":[]}
+{"concept":"Juniper","rel":"dbpedia/genus","emittingConcepts":["Juniperus Angosturana","Juniperus Ashei","Juniperus Bermudiana","Juniperus Blancoi","Juniperus Chinensis","Juniperus Comitana","Juniperus Communis","Juniperus Durangensis","Juniperus Excelsa","Juniperus Flaccida","Juniperus Gracilior","Juniperus Horizontalis","Juniperus Indica","Juniperus Komarovii","Juniperus Macrocarpa","Juniperus Monticola","Juniperus Oxycedrus","Juniperus Phoenicea","Juniperus Pinchotii","Juniperus Pingii","Juniperus Procera","Juniperus Procumbens","Juniperus Recurva","Juniperus Sabina","Juniperus Scopulorum","Juniperus Taxifolia","Juniperus Tibetica","Juniperus Virginiana"],"receivingConcepts":[]}
+{"concept":"Latrodectus","rel":"dbpedia/genus","emittingConcepts":["Katipo","Latrodectus Mactans"],"receivingConcepts":[]}
+{"concept":"Ridley Sea Turtle","rel":"dbpedia/genus","emittingConcepts":["Kemp's Ridley Sea Turtle","Olive Ridley Sea Turtle"],"receivingConcepts":[]}
+{"concept":"Klebsiella","rel":"dbpedia/genus","emittingConcepts":["Klebsiella Granulomatis","Klebsiella Pneumoniae"],"receivingConcepts":[]}
+{"concept":"Testudo","rel":"dbpedia/genus","emittingConcepts":["Kleinmann's Tortoise","Marginated Tortoise","Spur Thighed Tortoise"],"receivingConcepts":[]}
+{"concept":"Kobus","rel":"dbpedia/genus","emittingConcepts":["Kob","Lechwe","Puku","Waterbuck"],"receivingConcepts":[]}
+{"concept":"Koeleria","rel":"dbpedia/genus","emittingConcepts":["Koeleria Glauca","Koeleria Pyramidata"],"receivingConcepts":[]}
+{"concept":"Lactuca","rel":"dbpedia/genus","emittingConcepts":["Lactuca Serriola","Lettuce"],"receivingConcepts":[]}
+{"concept":"Stiff Tailed Duck","rel":"dbpedia/genus","emittingConcepts":["Lake Duck","Ruddy Duck","White Headed Duck"],"receivingConcepts":[]}
+{"concept":"Lamium","rel":"dbpedia/genus","emittingConcepts":["Lamium Album","Lamium Amplexicaule","Lamium Maculatum"],"receivingConcepts":[]}
+{"concept":"Nymphalis","rel":"dbpedia/genus","emittingConcepts":["Large Tortoiseshell","Nymphalis Antiopa"],"receivingConcepts":[]}
+{"concept":"Micropterus","rel":"dbpedia/genus","emittingConcepts":["Largemouth Bass","Smallmouth Bass"],"receivingConcepts":[]}
+{"concept":"Larch","rel":"dbpedia/genus","emittingConcepts":["Larix Decidua","Larix Laricina","Larix Occidentalis"],"receivingConcepts":[]}
+{"concept":"Lathyrus","rel":"dbpedia/genus","emittingConcepts":["Lathyrus Hirsutus","Lathyrus Japonicus","Lathyrus Latifolius","Lathyrus Niger","Lathyrus Nissolia","Lathyrus Palustris","Lathyrus Pratensis","Lathyrus Sativus","Lathyrus Sylvestris","Lathyrus Tuberosus","Lathyrus Vernus","Sweet Pea"],"receivingConcepts":[]}
+{"concept":"Lavandula","rel":"dbpedia/genus","emittingConcepts":["Lavandula Angustifolia","Lavandula Latifolia"],"receivingConcepts":[]}
+{"concept":"Ixobrychus","rel":"dbpedia/genus","emittingConcepts":["Least Bittern","Little Bittern","Yellow Bittern"],"receivingConcepts":[]}
+{"concept":"Lemna","rel":"dbpedia/genus","emittingConcepts":["Lemna Minor","Lemna Trisulca"],"receivingConcepts":[]}
+{"concept":"Negaprion","rel":"dbpedia/genus","emittingConcepts":["Lemon Shark","Sicklefin Lemon Shark"],"receivingConcepts":[]}
+{"concept":"Ranunculus","rel":"dbpedia/genus","emittingConcepts":["Lesser Celandine","Ranunculus Acris","Ranunculus Aquatilis","Ranunculus Bulbosus","Ranunculus Flammula","Ranunculus Repens"],"receivingConcepts":[]}
+{"concept":"Lesser Short Tailed Gerbil","rel":"dbpedia/genus","receivingConcepts":["Dipodillus","Gerbillus"],"emittingConcepts":[]}
+{"concept":"Liquidambar","rel":"dbpedia/genus","emittingConcepts":["Liquidambar Formosana","Liquidambar Styraciflua"],"receivingConcepts":[]}
+{"concept":"Cacatua","rel":"dbpedia/genus","emittingConcepts":["Little Corella","Sulphur Crested Cockatoo","Tanimbar Corella"],"receivingConcepts":[]}
+{"concept":"Common Dolphin","rel":"dbpedia/genus","emittingConcepts":["Long Beaked Common Dolphin","Short Beaked Common Dolphin"],"receivingConcepts":[]}
+{"concept":"Dowitcher","rel":"dbpedia/genus","emittingConcepts":["Long Billed Dowitcher","Short Billed Dowitcher"],"receivingConcepts":[]}
+{"concept":"Asio","rel":"dbpedia/genus","emittingConcepts":["Long Eared Owl","Short Eared Owl"],"receivingConcepts":[]}
+{"concept":"Dasyatis","rel":"dbpedia/genus","emittingConcepts":["Longtail Stingray","Roughtail Stingray"],"receivingConcepts":[]}
+{"concept":"Honeysuckle","rel":"dbpedia/genus","emittingConcepts":["Lonicera Caprifolium","Lonicera Involucrata","Lonicera Japonica","Lonicera Periclymenum","Lonicera Sempervirens","Lonicera Tatarica","Lonicera Xylosteum"],"receivingConcepts":[]}
+{"concept":"Selene","rel":"dbpedia/genus","emittingConcepts":["Lookdown","Selene Setapinnis"],"receivingConcepts":[]}
+{"concept":"Lupinus","rel":"dbpedia/genus","emittingConcepts":["Lupinus Albus","Lupinus Luteus"],"receivingConcepts":[]}
+{"concept":"Lysimachia","rel":"dbpedia/genus","emittingConcepts":["Lysimachia Nemorum","Lysimachia Nummularia","Lysimachia Vulgaris"],"receivingConcepts":[]}
+{"concept":"Lythrum","rel":"dbpedia/genus","emittingConcepts":["Lythrum Hyssopifolia","Lythrum Salicaria"],"receivingConcepts":[]}
+{"concept":"Macadamia","rel":"dbpedia/genus","emittingConcepts":["Macadamia Integrifolia","Macadamia Tetraphylla"],"receivingConcepts":[]}
+{"concept":"Magnolia","rel":"dbpedia/genus","emittingConcepts":["Magnolia Fraseri","Magnolia Grandiflora","Magnolia Stellata","Magnolia Tripetala"],"receivingConcepts":[]}
+{"concept":"Mahonia","rel":"dbpedia/genus","emittingConcepts":["Mahonia Aquifolium","Mahonia Nervosa"],"receivingConcepts":[]}
+{"concept":"Zea","rel":"dbpedia/genus","emittingConcepts":["Maize","Popcorn"],"receivingConcepts":[]}
+{"concept":"Malva","rel":"dbpedia/genus","emittingConcepts":["Malva Moschata","Malva Neglecta","Malva Sylvestris"],"receivingConcepts":[]}
+{"concept":"Aix","rel":"dbpedia/genus","emittingConcepts":["Mandarin Duck","Wood Duck"],"receivingConcepts":[]}
+{"concept":"Manilkara","rel":"dbpedia/genus","emittingConcepts":["Manilkara Bidentata","Manilkara Zapota"],"receivingConcepts":[]}
+{"concept":"Origanum","rel":"dbpedia/genus","emittingConcepts":["Marjoram","Oregano"],"receivingConcepts":[]}
+{"concept":"Tricholoma","rel":"dbpedia/genus","emittingConcepts":["Matsutake","Tricholoma Aurantium"],"receivingConcepts":[]}
+{"concept":"Pipit","rel":"dbpedia/genus","emittingConcepts":["Meadow Pipit","Red Throated Pipit","Tawny Pipit","Tree Pipit","Water Pipit"],"receivingConcepts":[]}
+{"concept":"Scrubfowl","rel":"dbpedia/genus","emittingConcepts":["Melanesian Megapode","Micronesian Megapode","Philippine Megapode","Sula Megapode","Tanimbar Megapode","Tongan Megapode"],"receivingConcepts":[]}
+{"concept":"Mentha","rel":"dbpedia/genus","emittingConcepts":["Mentha Aquatica","Mentha Arvensis","Mentha Longifolia","Mentha Pulegium","Mentha Suaveolens","Peppermint","Spearmint"],"receivingConcepts":[]}
+{"concept":"Mercurialis","rel":"dbpedia/genus","emittingConcepts":["Mercurialis Annua","Mercurialis Perennis"],"receivingConcepts":[]}
+{"concept":"Staphylococcus","rel":"dbpedia/genus","emittingConcepts":["Methicillin Resistant Staphylococcus Aureus","Staphylococcus Aureus","Staphylococcus Epidermidis"],"receivingConcepts":[]}
+{"concept":"Danaus","rel":"dbpedia/genus","emittingConcepts":["Monarch Butterfly","Queen"],"receivingConcepts":[]}
+{"concept":"Monarda","rel":"dbpedia/genus","emittingConcepts":["Monarda Citriodora","Monarda Didyma"],"receivingConcepts":[]}
+{"concept":"Meriones","rel":"dbpedia/genus","emittingConcepts":["Mongolian Gerbil","Persian Jird","Tristram's Jird"],"receivingConcepts":[]}
+{"concept":"Morus","rel":"dbpedia/genus","emittingConcepts":["Morus Alba","Morus Nigra"],"receivingConcepts":[]}
+{"concept":"Mountain Zebra","rel":"dbpedia/genus","receivingConcepts":["Equus","Zebra"],"emittingConcepts":[]}
+{"concept":"Zebra","rel":"dbpedia/genus","emittingConcepts":["Mountain Zebra","Plains Zebra","Quagga"],"receivingConcepts":["Equus","Grévy's Zebra"]}
+{"concept":"Mycobacterium","rel":"dbpedia/genus","emittingConcepts":["Mycobacterium Leprae","Mycobacterium Tuberculosis"],"receivingConcepts":[]}
+{"concept":"Mycoplasma","rel":"dbpedia/genus","emittingConcepts":["Mycoplasma Gallisepticum","Mycoplasma Pneumoniae"],"receivingConcepts":[]}
+{"concept":"Neisseria","rel":"dbpedia/genus","emittingConcepts":["Neisseria Gonorrhoeae","Neisseria Meningitidis"],"receivingConcepts":[]}
+{"concept":"Nelumbo","rel":"dbpedia/genus","emittingConcepts":["Nelumbo Lutea","Nelumbo Nucifera"],"receivingConcepts":[]}
+{"concept":"Nicotiana","rel":"dbpedia/genus","emittingConcepts":["Nicotiana Alata","Nicotiana Glauca","Nicotiana Longiflora","Nicotiana Rustica","Nicotiana Tabacum"],"receivingConcepts":[]}
+{"concept":"Nigella","rel":"dbpedia/genus","emittingConcepts":["Nigella Damascena","Nigella Sativa"],"receivingConcepts":[]}
+{"concept":"Elephant Seal","rel":"dbpedia/genus","emittingConcepts":["Northern Elephant Seal","Southern Elephant Seal"],"receivingConcepts":[]}
+{"concept":"Fulmar","rel":"dbpedia/genus","emittingConcepts":["Northern Fulmar","Southern Fulmar"],"receivingConcepts":[]}
+{"concept":"Giant Petrel","rel":"dbpedia/genus","emittingConcepts":["Northern Giant Petrel","Southern Giant Petrel"],"receivingConcepts":[]}
+{"concept":"Nymphaea","rel":"dbpedia/genus","emittingConcepts":["Nymphaea Alba","Nymphaea Caerulea","Nymphaea Lotus","Nymphaea Odorata"],"receivingConcepts":[]}
+{"concept":"Zoarces","rel":"dbpedia/genus","emittingConcepts":["Ocean Pout","Viviparous Eelpout"],"receivingConcepts":[]}
+{"concept":"Turkey","rel":"dbpedia/genus","emittingConcepts":["Ocellated Turkey","Wild Turkey"],"receivingConcepts":[]}
+{"concept":"Ochna","rel":"dbpedia/genus","emittingConcepts":["Ochna Integerrima","Ochna Serrulata"],"receivingConcepts":[]}
+{"concept":"Olea","rel":"dbpedia/genus","emittingConcepts":["Olea Capensis","Olive"],"receivingConcepts":[]}
+{"concept":"Ononis","rel":"dbpedia/genus","emittingConcepts":["Ononis Repens","Ononis Spinosa"],"receivingConcepts":[]}
+{"concept":"Opheodrys","rel":"dbpedia/genus","emittingConcepts":["Opheodrys Aestivus","Smooth Green Snake"],"receivingConcepts":[]}
+{"concept":"Ophrys","rel":"dbpedia/genus","emittingConcepts":["Ophrys Apifera","Ophrys Insectifera","Ophrys Sphegodes"],"receivingConcepts":[]}
+{"concept":"Opuntia","rel":"dbpedia/genus","emittingConcepts":["Opuntia Basilaris","Opuntia Engelmannii","Opuntia Ficus Indica","Opuntia Gosseliniana","Opuntia Microdasys","Opuntia Phaeacantha","Opuntia Stricta"],"receivingConcepts":[]}
+{"concept":"Amazon Parrot","rel":"dbpedia/genus","emittingConcepts":["Orange Winged Amazon","Yellow Shouldered Amazon"],"receivingConcepts":[]}
+{"concept":"Oxalis","rel":"dbpedia/genus","emittingConcepts":["Oxalis Acetosella","Oxalis Corniculata"],"receivingConcepts":[]}
+{"concept":"Pachysandra","rel":"dbpedia/genus","emittingConcepts":["Pachysandra Procumbens","Pachysandra Terminalis"],"receivingConcepts":[]}
+{"concept":"Panicum","rel":"dbpedia/genus","emittingConcepts":["Panicum Capillare","Proso Millet"],"receivingConcepts":[]}
+{"concept":"Viola","rel":"dbpedia/genus","emittingConcepts":["Pansy","Viola Arvensis","Viola Cornuta","Viola Odorata","Viola Reichenbachiana","Viola Tricolor"],"receivingConcepts":[]}
+{"concept":"Papaver","rel":"dbpedia/genus","emittingConcepts":["Papaver Alpinum","Papaver Argemone","Papaver Bracteatum","Papaver Nudicaule","Papaver Orientale","Papaver Radicatum","Papaver Rhoeas","Papaver Somniferum"],"receivingConcepts":[]}
+{"concept":"Parthenocissus","rel":"dbpedia/genus","emittingConcepts":["Parthenocissus Quinquefolia","Parthenocissus Tricuspidata"],"receivingConcepts":[]}
+{"concept":"Pelargonium","rel":"dbpedia/genus","emittingConcepts":["Pelargonium Graveolens","Pelargonium Odoratissimum","Pelargonium Peltatum"],"receivingConcepts":[]}
+{"concept":"Monitor Lizard","rel":"dbpedia/genus","emittingConcepts":["Perentie","Savannah Monitor"],"receivingConcepts":[]}
+{"concept":"Pereskia","rel":"dbpedia/genus","emittingConcepts":["Pereskia Aculeata","Pereskia Grandifolia"],"receivingConcepts":[]}
+{"concept":"Phacelia","rel":"dbpedia/genus","emittingConcepts":["Phacelia Campanularia","Phacelia Minor","Phacelia Tanacetifolia"],"receivingConcepts":[]}
+{"concept":"Phaseolus","rel":"dbpedia/genus","emittingConcepts":["Phaseolus Coccineus","Phaseolus Vulgaris"],"receivingConcepts":[]}
+{"concept":"Physalis","rel":"dbpedia/genus","emittingConcepts":["Physalis Alkekengi","Physalis Peruviana","Physalis Pubescens","Tomatillo"],"receivingConcepts":[]}
+{"concept":"Phytolacca","rel":"dbpedia/genus","emittingConcepts":["Phytolacca Americana","Phytolacca Dioica"],"receivingConcepts":[]}
+{"concept":"Spruce","rel":"dbpedia/genus","emittingConcepts":["Picea Abies","Picea Breweriana","Picea Engelmannii","Picea Glauca","Picea Mariana","Picea Rubens","Picea Sitchensis"],"receivingConcepts":[]}
+{"concept":"Pistacia","rel":"dbpedia/genus","emittingConcepts":["Pistachio","Pistacia Lentiscus","Pistacia Terebinthus"],"receivingConcepts":[]}
+{"concept":"Plains Zebra","rel":"dbpedia/genus","receivingConcepts":["Equus","Zebra"],"emittingConcepts":[]}
+{"concept":"Plantago","rel":"dbpedia/genus","emittingConcepts":["Plantago Lanceolata","Plantago Major","Plantago Media"],"receivingConcepts":[]}
+{"concept":"Plasmodium","rel":"dbpedia/genus","emittingConcepts":["Plasmodium Falciparum","Plasmodium Vivax"],"receivingConcepts":[]}
+{"concept":"Platanthera","rel":"dbpedia/genus","emittingConcepts":["Platanthera Bifolia","Platanthera Chlorantha"],"receivingConcepts":[]}
+{"concept":"Platanus","rel":"dbpedia/genus","emittingConcepts":["Platanus Acerifolia","Platanus Occidentalis","Platanus Orientalis","Platanus Racemosa"],"receivingConcepts":[]}
+{"concept":"Poa","rel":"dbpedia/genus","emittingConcepts":["Poa Nemoralis","Poa Pratensis"],"receivingConcepts":[]}
+{"concept":"Podocarpus","rel":"dbpedia/genus","emittingConcepts":["Podocarpus Latifolius","Podocarpus Totara"],"receivingConcepts":[]}
+{"concept":"Polemonium","rel":"dbpedia/genus","emittingConcepts":["Polemonium Caeruleum","Polemonium Reptans","Polemonium Viscosum"],"receivingConcepts":[]}
+{"concept":"Enterovirus","rel":"dbpedia/genus","emittingConcepts":["Poliovirus","Swine Vesicular Disease"],"receivingConcepts":[]}
+{"concept":"Polystichum","rel":"dbpedia/genus","emittingConcepts":["Polystichum Aculeatum","Polystichum Lonchitis"],"receivingConcepts":[]}
+{"concept":"Trachemys","rel":"dbpedia/genus","emittingConcepts":["Pond Slider","Red Eared Slider","Yellow Bellied Slider"],"receivingConcepts":[]}
+{"concept":"Populus","rel":"dbpedia/genus","emittingConcepts":["Populus Alba","Populus Balsamifera","Populus Deltoides","Populus Nigra","Populus Tremula","Populus Tremuloides","Populus Trichocarpa"],"receivingConcepts":[]}
+{"concept":"Lamna","rel":"dbpedia/genus","emittingConcepts":["Porbeagle","Salmon Shark"],"receivingConcepts":[]}
+{"concept":"Portulaca","rel":"dbpedia/genus","emittingConcepts":["Portulaca Grandiflora","Portulaca Oleracea"],"receivingConcepts":[]}
+{"concept":"Primula","rel":"dbpedia/genus","emittingConcepts":["Primula Auricula","Primula Elatior","Primula Veris","Primula Vulgaris"],"receivingConcepts":[]}
+{"concept":"Prumnopitys","rel":"dbpedia/genus","emittingConcepts":["Prumnopitys Andina","Prumnopitys Ferruginea"],"receivingConcepts":[]}
+{"concept":"Prunella","rel":"dbpedia/genus","emittingConcepts":["Prunella Grandiflora","Prunella Vulgaris"],"receivingConcepts":[]}
+{"concept":"Prunus Avium","rel":"dbpedia/genus","receivingConcepts":["Cherry","Prunus"],"emittingConcepts":[]}
+{"concept":"Pseudomonas","rel":"dbpedia/genus","emittingConcepts":["Pseudomonas Aeruginosa","Pseudomonas Fluorescens","Pseudomonas Savastanoi","Pseudomonas Syringae"],"receivingConcepts":[]}
+{"concept":"Pterocarpus","rel":"dbpedia/genus","emittingConcepts":["Pterocarpus Indicus","Pterocarpus Macrocarpus"],"receivingConcepts":[]}
+{"concept":"Pulsatilla","rel":"dbpedia/genus","emittingConcepts":["Pulsatilla Alpina","Pulsatilla Patens","Pulsatilla Vulgaris"],"receivingConcepts":[]}
+{"concept":"Puya","rel":"dbpedia/genus","emittingConcepts":["Puya Chilensis","Puya Raimondii"],"receivingConcepts":[]}
+{"concept":"Pyrola","rel":"dbpedia/genus","emittingConcepts":["Pyrola Minor","Pyrola Rotundifolia"],"receivingConcepts":[]}
+{"concept":"Pear","rel":"dbpedia/genus","emittingConcepts":["Pyrus Communis","Pyrus Pyrifolia"],"receivingConcepts":[]}
+{"concept":"Python","rel":"dbpedia/genus","emittingConcepts":["Python Anchietae","Python Molurus","Reticulated Python"],"receivingConcepts":[]}
+{"concept":"Quagga","rel":"dbpedia/genus","receivingConcepts":["Equus","Zebra"],"emittingConcepts":[]}
+{"concept":"Oak","rel":"dbpedia/genus","emittingConcepts":["Quercus Agrifolia","Quercus Alba","Quercus Arizonica","Quercus Bicolor","Quercus Cerris","Quercus Chrysolepis","Quercus Coccinea","Quercus Ellipsoidalis","Quercus Ilex","Quercus Imbricaria","Quercus Kelloggii","Quercus Marilandica","Quercus Palustris","Quercus Petraea","Quercus Phellos","Quercus Robur","Quercus Rubra","Quercus Suber","Quercus Variabilis"],"receivingConcepts":[]}
+{"concept":"Netta","rel":"dbpedia/genus","emittingConcepts":["Red Crested Pochard","Southern Pochard"],"receivingConcepts":[]}
+{"concept":"Antpecker","rel":"dbpedia/genus","emittingConcepts":["Red Fronted Antpecker","Woodhouse's Antpecker"],"receivingConcepts":[]}
+{"concept":"Phalarope","rel":"dbpedia/genus","emittingConcepts":["Red Phalarope","Wilson's Phalarope"],"receivingConcepts":[]}
+{"concept":"Wattlebird","rel":"dbpedia/genus","emittingConcepts":["Red Wattlebird","Yellow Wattlebird"],"receivingConcepts":[]}
+{"concept":"Horned Lizard","rel":"dbpedia/genus","emittingConcepts":["Regal Horned Lizard","Texas Horned Lizard"],"receivingConcepts":[]}
+{"concept":"Reseda","rel":"dbpedia/genus","emittingConcepts":["Reseda Luteola","Reseda Odorata"],"receivingConcepts":[]}
+{"concept":"Rhipsalis","rel":"dbpedia/genus","emittingConcepts":["Rhipsalis Baccifera","Rhipsalis Salicornioides"],"receivingConcepts":[]}
+{"concept":"Rhodococcus","rel":"dbpedia/genus","emittingConcepts":["Rhodococcus Equi","Rhodococcus Fascians"],"receivingConcepts":[]}
+{"concept":"Sumac","rel":"dbpedia/genus","emittingConcepts":["Rhus Aromatica","Rhus Typhina"],"receivingConcepts":[]}
+{"concept":"Taterillus","rel":"dbpedia/genus","emittingConcepts":["Robbins's Tateril","Senegal Gerbil"],"receivingConcepts":[]}
+{"concept":"Robinia","rel":"dbpedia/genus","emittingConcepts":["Robinia Hispida","Robinia Pseudoacacia"],"receivingConcepts":[]}
+{"concept":"Lagopus","rel":"dbpedia/genus","emittingConcepts":["Rock Ptarmigan","White Tailed Ptarmigan","Willow Ptarmigan"],"receivingConcepts":[]}
+{"concept":"Rose","rel":"dbpedia/genus","emittingConcepts":["Rosa Arkansana","Rosa Banksiae","Rosa Canina","Rosa Centifolia","Rosa Chinensis","Rosa Damascena","Rosa Dumalis","Rosa Filipes","Rosa Foetida","Rosa Gallica","Rosa Gigantea","Rosa Glauca","Rosa Henryi","Rosa Moschata","Rosa Multiflora","Rosa Omeiensis","Rosa Pimpinellifolia","Rosa Rugosa","Rosa Sericea"],"receivingConcepts":[]}
+{"concept":"Zonotrichia","rel":"dbpedia/genus","emittingConcepts":["Rufous Collared Sparrow","White Crowned Sparrow","White Throated Sparrow"],"receivingConcepts":[]}
+{"concept":"Rumex","rel":"dbpedia/genus","emittingConcepts":["Rumex Acetosella","Rumex Obtusifolius","Sorrel"],"receivingConcepts":[]}
+{"concept":"Willow","rel":"dbpedia/genus","emittingConcepts":["Salix Alba","Salix Arctica","Salix Babylonica","Salix Caprea","Salix Cinerea","Salix Fragilis","Salix Herbacea","Salix Lucida","Salix Nigra","Salix Pentandra","Salix Purpurea","Salix Triandra","Salix Viminalis"],"receivingConcepts":[]}
+{"concept":"Salvia","rel":"dbpedia/genus","emittingConcepts":["Salvia Azurea","Salvia Divinorum","Salvia Farinacea","Salvia Hians","Salvia Leucophylla","Salvia Pratensis","Salvia Sclarea","Salvia Splendens","Salvia Verticillata"],"receivingConcepts":[]}
+{"concept":"Sambucus","rel":"dbpedia/genus","emittingConcepts":["Sambucus Ebulus","Sambucus Nigra","Sambucus Racemosa"],"receivingConcepts":[]}
+{"concept":"Saxifraga","rel":"dbpedia/genus","emittingConcepts":["Saxifraga Aizoides","Saxifraga Granulata","Saxifraga Oppositifolia","Saxifraga Stellaris","Saxifraga Stolonifera"],"receivingConcepts":[]}
+{"concept":"Schinus","rel":"dbpedia/genus","emittingConcepts":["Schinus Molle","Schinus Terebinthifolius"],"receivingConcepts":[]}
+{"concept":"Moonlight Cactus","rel":"dbpedia/genus","emittingConcepts":["Selenicereus Anthonyanus","Selenicereus Grandiflorus","Selenicereus Hamatus","Selenicereus Spinulosus"],"receivingConcepts":[]}
+{"concept":"Senna","rel":"dbpedia/genus","emittingConcepts":["Senna Alata","Senna Alexandrina"],"receivingConcepts":[]}
+{"concept":"Silene","rel":"dbpedia/genus","emittingConcepts":["Silene Dioica","Silene Latifolia","Silene Uniflora","Silene Virginica","Silene Vulgaris"],"receivingConcepts":[]}
+{"concept":"Sinapis","rel":"dbpedia/genus","emittingConcepts":["Sinapis Arvensis","White Mustard"],"receivingConcepts":[]}
+{"concept":"Sium","rel":"dbpedia/genus","emittingConcepts":["Sium Latifolium","Sium Sisarum"],"receivingConcepts":[]}
+{"concept":"Pipistrellus","rel":"dbpedia/genus","emittingConcepts":["Soprano Pipistrelle","Sturdee's Pipistrelle"],"receivingConcepts":[]}
+{"concept":"Porzana","rel":"dbpedia/genus","emittingConcepts":["Sora","Spotted Crake"],"receivingConcepts":[]}
+{"concept":"Sorbus","rel":"dbpedia/genus","emittingConcepts":["Sorbus Americana","Sorbus Aucuparia","Sorbus Domestica","Sorbus Torminalis"],"receivingConcepts":[]}
+{"concept":"Hippocamelus","rel":"dbpedia/genus","emittingConcepts":["South Andean Deer","Taruca"],"receivingConcepts":[]}
+{"concept":"Tillandsia","rel":"dbpedia/genus","emittingConcepts":["Spanish Moss","Tillandsia Cyanea"],"receivingConcepts":[]}
+{"concept":"Spiranthes","rel":"dbpedia/genus","emittingConcepts":["Spiranthes Romanzoffiana","Spiranthes Spiralis"],"receivingConcepts":[]}
+{"concept":"Stachys","rel":"dbpedia/genus","emittingConcepts":["Stachys Officinalis","Stachys Palustris","Stachys Sylvatica"],"receivingConcepts":[]}
+{"concept":"Stellaria","rel":"dbpedia/genus","emittingConcepts":["Stellaria Holostea","Stellaria Media"],"receivingConcepts":[]}
+{"concept":"Strelitzia","rel":"dbpedia/genus","emittingConcepts":["Strelitzia Nicolai","Strelitzia Reginae"],"receivingConcepts":[]}
+{"concept":"Streptococcus","rel":"dbpedia/genus","emittingConcepts":["Streptococcus Anginosus","Streptococcus Pneumoniae","Streptococcus Pyogenes"],"receivingConcepts":[]}
+{"concept":"Apodemus","rel":"dbpedia/genus","emittingConcepts":["Striped Field Mouse","Wood Mouse","Yellow Necked Mouse"],"receivingConcepts":[]}
+{"concept":"Satureja","rel":"dbpedia/genus","emittingConcepts":["Summer Savory","Winter Savory"],"receivingConcepts":[]}
+{"concept":"Syringa","rel":"dbpedia/genus","emittingConcepts":["Syringa Emodi","Syringa Josikaea","Syringa Villosa"],"receivingConcepts":[]}
+{"concept":"Tagetes","rel":"dbpedia/genus","emittingConcepts":["Tagetes Erecta","Tagetes Patula"],"receivingConcepts":[]}
+{"concept":"Bubalus","rel":"dbpedia/genus","emittingConcepts":["Tamaraw","Water Buffalo"],"receivingConcepts":[]}
+{"concept":"Tanacetum","rel":"dbpedia/genus","emittingConcepts":["Tanacetum Parthenium","Tansy"],"receivingConcepts":[]}
+{"concept":"Taxodium","rel":"dbpedia/genus","emittingConcepts":["Taxodium Ascendens","Taxodium Distichum"],"receivingConcepts":[]}
+{"concept":"Teucrium","rel":"dbpedia/genus","emittingConcepts":["Teucrium Chamaedrys","Teucrium Scorodonia"],"receivingConcepts":[]}
+{"concept":"Thuja","rel":"dbpedia/genus","emittingConcepts":["Thuja Occidentalis","Thuja Plicata"],"receivingConcepts":[]}
+{"concept":"Thymus","rel":"dbpedia/genus","emittingConcepts":["Thymus Serpyllum","Thymus Vulgaris"],"receivingConcepts":[]}
+{"concept":"Tilia","rel":"dbpedia/genus","emittingConcepts":["Tilia Americana","Tilia Cordata","Tilia Tomentosa"],"receivingConcepts":[]}
+{"concept":"Clover","rel":"dbpedia/genus","emittingConcepts":["Trifolium Alpinum","Trifolium Dubium","Trifolium Incarnatum","Trifolium Pratense","Trifolium Repens"],"receivingConcepts":[]}
+{"concept":"Tropaeolum","rel":"dbpedia/genus","emittingConcepts":["Tropaeolum Majus","Tropaeolum Minus"],"receivingConcepts":[]}
+{"concept":"Typha","rel":"dbpedia/genus","emittingConcepts":["Typha Angustifolia","Typha Latifolia"],"receivingConcepts":[]}
+{"concept":"Elm","rel":"dbpedia/genus","emittingConcepts":["Ulmus Americana","Ulmus Glabra","Ulmus Laevis"],"receivingConcepts":[]}
+{"concept":"Verbascum","rel":"dbpedia/genus","emittingConcepts":["Verbascum Blattaria","Verbascum Phoeniceum","Verbascum Thapsus"],"receivingConcepts":[]}
+{"concept":"Vibrio","rel":"dbpedia/genus","emittingConcepts":["Vibrio Cholerae","Vibrio Parahaemolyticus","Vibrio Vulnificus"],"receivingConcepts":[]}
+{"concept":"Viburnum","rel":"dbpedia/genus","emittingConcepts":["Viburnum Lantana","Viburnum Opulus","Viburnum Prunifolium","Viburnum Trilobum"],"receivingConcepts":[]}
+{"concept":"Vicia","rel":"dbpedia/genus","emittingConcepts":["Vicia Cracca","Vicia Faba","Vicia Orobus","Vicia Sativa","Vicia Sepium","Vicia Villosa"],"receivingConcepts":[]}
+{"concept":"Vinca","rel":"dbpedia/genus","emittingConcepts":["Vinca Major","Vinca Minor"],"receivingConcepts":[]}
+{"concept":"Vipera","rel":"dbpedia/genus","emittingConcepts":["Vipera Aspis","Vipera Berus"],"receivingConcepts":[]}
+{"concept":"Vitex","rel":"dbpedia/genus","emittingConcepts":["Vitex Agnus Castus","Vitex Trifolia"],"receivingConcepts":[]}
+{"concept":"Vitis","rel":"dbpedia/genus","emittingConcepts":["Vitis Labrusca","Vitis Vinifera"],"receivingConcepts":[]}
+{"concept":"Yersinia","rel":"dbpedia/genus","emittingConcepts":["Yersinia Enterocolitica","Yersinia Pestis"],"receivingConcepts":[]}

@@ -1,0 +1,21 @@
+{"concept":"Elizabeth Ii","rel":"dbpedia/leader","emittingConcepts":["Akrotiri and Dhekelia","Alderney","Anguilla","Antigua and Barbuda","Ascension Island","Australia","Bahamas","Barbados","Belize","Bermuda","British Antarctic Territory","British Indian Ocean Territory","British Overseas Territories","British Virgin Islands","Cayman Islands","Christmas Island","Cocos","Commonwealth of Nations","Cook Islands","Falkland Islands","Gibraltar","Grenada","Guernsey","Herm","Isle of Man","Jamaica","Jersey","Montserrat","National Assembly","Nevis","New Zealand","Niue","Norfolk Island","Papua New Guinea","Pitcairn Islands","Saint Helena","Saint Kitts and Nevis","Saint Lucia","Saint Vincent and Grenadines","Solomon Islands","South Georgia and South Sandwich Islands","Tokelau","Tristan Da Cunha","Turks and Caicos Islands","Tuvalu","United Kingdom"],"receivingConcepts":[]}
+{"concept":"Democratic Party","rel":"dbpedia/leader","emittingConcepts":["Allegany","American Samoa","Guam","United States Minor Outlying Islands","United States Virgin Islands"],"receivingConcepts":[]}
+{"concept":"American Samoa","rel":"dbpedia/leader","receivingConcepts":["Barack Obama","Democratic Party"],"emittingConcepts":[]}
+{"concept":"Barack Obama","rel":"dbpedia/leader","emittingConcepts":["American Samoa","Guam","Northern Mariana Islands","Puerto Rico","United States","United States Minor Outlying Islands","United States Virgin Islands"],"receivingConcepts":[]}
+{"concept":"Anguilla","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"Member of Parliament","rel":"dbpedia/leader","emittingConcepts":["Anguilla","British Antarctic Territory","British Indian Ocean Territory","Cayman Islands","Falkland Islands","Montserrat","Pitcairn Islands","Secret Intelligence Service","South Georgia and South Sandwich Islands"],"receivingConcepts":[]}
+{"concept":"British Antarctic Territory","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"British Indian Ocean Territory","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"Cayman Islands","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"David Cameron","rel":"dbpedia/leader","emittingConcepts":["Conservative Party","United Kingdom"],"receivingConcepts":[]}
+{"concept":"Einsatzgruppen","rel":"dbpedia/leader","receivingConcepts":["Heinrich Himmler","Obergruppenführer"],"emittingConcepts":[]}
+{"concept":"Falkland Islands","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"Vladimir Putin","rel":"dbpedia/leader","emittingConcepts":["Foreign Intelligence Service","Russia"],"receivingConcepts":[]}
+{"concept":"Guam","rel":"dbpedia/leader","receivingConcepts":["Barack Obama","Democratic Party"],"emittingConcepts":[]}
+{"concept":"Montserrat","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"Pitcairn Islands","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"South Georgia and South Sandwich Islands","rel":"dbpedia/leader","receivingConcepts":["Elizabeth Ii","Member of Parliament"],"emittingConcepts":[]}
+{"concept":"United Kingdom","rel":"dbpedia/leader","receivingConcepts":["David Cameron","Elizabeth Ii"],"emittingConcepts":[]}
+{"concept":"United States Minor Outlying Islands","rel":"dbpedia/leader","receivingConcepts":["Barack Obama","Democratic Party"],"emittingConcepts":[]}
+{"concept":"United States Virgin Islands","rel":"dbpedia/leader","receivingConcepts":["Barack Obama","Democratic Party"],"emittingConcepts":[]}
+{"concept":"Whig Party","rel":"dbpedia/leader","receivingConcepts":["Daniel Webster","Henry Clay"],"emittingConcepts":[]}

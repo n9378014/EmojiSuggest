@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.6",
+    "conceptnet-relationship-cache": "^1.0.3",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
@@ -20,7 +21,9 @@
     "morgan": "~1.9.1",
     "mysql": "^2.18.1",
     "natural": "^5.1.1",
+    "ndjson": "^2.0.0",
     "node-fetch": "^3.0.0",
+    "node-gyp": "^8.3.0",
     "node-markov-generator": "^0.4.3",
     "node-pre-gyp": "^0.17.0",
     "node-wordnet": "^0.1.12",

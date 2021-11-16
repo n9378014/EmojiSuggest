@@ -1,0 +1,6 @@
+{"concept":"Chair","rel":"LocatedNear","receivingConcepts":["Desk","Table"],"emittingConcepts":[]}
+{"concept":"Galaxy","rel":"LocatedNear","emittingConcepts":["Dark Matter","Globular Cluster"],"receivingConcepts":[]}
+{"concept":"Mouth","rel":"LocatedNear","emittingConcepts":["Fever Blister","Saliva"],"receivingConcepts":[]}
+{"concept":"Stock","rel":"LocatedNear","emittingConcepts":["Floorplate","Receiver","Triggerguard"],"receivingConcepts":[]}
+{"concept":"Star","rel":"LocatedNear","emittingConcepts":["Helium","Hydrogen"],"receivingConcepts":[]}
+{"concept":"Tree","rel":"LocatedNear","emittingConcepts":["Leaf","Squirrel"],"receivingConcepts":[]}

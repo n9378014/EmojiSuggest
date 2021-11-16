@@ -1,0 +1,356 @@
+{"concept":"Rapping","rel":"dbpedia/occupation","emittingConcepts":["213","Abdominal","Akhenaton","Alchemist","Ali","Apache","Az","Belly","Birdman","Boom","Bow Wow","Busdriver","Bushido","Carman","Casper","Cassidy","Classified","Common","Consequence","Coolio","Cro","Dev","Domino","Eve","Freeway","Gift of Gab","Guru","Haha","Havoc","Hot Rod","Ice Cube","Jel","Johnson","Juvenile","Kano","Key","Loon","Mann","Mase","Mims","Nana","Nas","Necro","Oh No","Outsider","Petter","Plies","Prodigy","Proof","Q Tip","Redman","Roscoe","Sebastian","Shorty","Taboo","Tash","Trina","Verbal","Wale","Young Buck"],"receivingConcepts":[]}
+{"concept":"Navigator","rel":"dbpedia/occupation","emittingConcepts":["Abel Tasman","James Cook","John Davis","Samuel De Champlain"],"receivingConcepts":[]}
+{"concept":"Abigail","rel":"dbpedia/occupation","receivingConcepts":["Dance","Painting","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Dance","rel":"dbpedia/occupation","emittingConcepts":["Abigail","Agnes De Mille","Alvin Ailey","Ashanti","Fred Astaire","Gain","Gene Kelly","Haha","James Brown","James Cagney","Joo","Jr","Key","Lloyd","Melody","Mikhail Baryshnikov","Rain","Tal","Twyla Tharp","Vanity","Vitamin C"],"receivingConcepts":[]}
+{"concept":"Painting","rel":"dbpedia/occupation","emittingConcepts":["Abigail","Evel Knievel","Jack Kerouac","John James Audubon","Samuel Morse","William Hogarth"],"receivingConcepts":[]}
+{"concept":"Singer Songwriter","rel":"dbpedia/occupation","emittingConcepts":["Abigail","Aiko","Alice","Amber","Antoine","Barbara","Basia","Boa","Cham","Chara","D Angelo","Dana","Dolly Parton","Eamon","Enya","Fiona","Fuego","Irma","Iu","J","Janis Joplin","Jasmine","Jewel","Juju","Kenna","Key","Kizzy","Kyla","Lia","Linda","Lloyd","Mase","Melody","Olivia","Pancakes","Pandora","Paul Simon","Raf","Rain","Sade","Sebastian","Taboo","Tank","Tweet","Ua","Vitamin C","Voltaire"],"receivingConcepts":[]}
+{"concept":"Actor","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":["Actor","Aishwarya","Al Jolson","Anthony Hopkins","Arya","Ashanti","Asin","Barbara","Bela Lugosi","Boa","Bob Hope","Bob Mathias","Boom","Bow Wow","Bruce Boxleitner","Camille","Cassidy","Chara","Dana","Divine","Elizabeth Taylor","Erich Von Stroheim","Ethel Waters","Eugene","Eve","Fiona","Flea","George C Scott","Haha","Helen Traubel","Hoagy Carmichael","Hume Cronyn","Indigo","Iu","Jewel","John Wilkes Booth","Joo","Jr","Juvenile","Key","Kizzy","Kyla","Lakshmi","Lee Strasberg","Lionel Hampton","Lizzy","Loretta Young","Lorie","Lucero","Luna","Mack Sennett","Martinez","Melina Mercouri","Mikhail Baryshnikov","Min","Nana","Nas","Natalie Wood","Olivia","Prabhu","Rain","Raphael","Red Wing","Rex Harrison","Rita","Ronald Reagan","Ruby Murray","Sophie Tucker","Sridevi","Stan Laurel","Sunny","Sydney Pollack","Taboo","Tabu","Vanity","Vijay","Vittorio De Sica","Wax","William Shakespeare","Young Buck"]}
+{"concept":"Singing","rel":"dbpedia/occupation","emittingConcepts":["Actor","Al Jolson","Alisha","Anita","Ashanti","Avant","Ben","Bernadette","Bessie Smith","Blacko","Bob Hope","Boom","Carmel","Casper","Charlene","Christopher","Corneille","Cro","Dev","Dina","Divine","Do","Dream","Elisa","Ella","Emmanuel","Ethel Waters","Eugene","Fancy","Gabrielle","Gain","Gala","Haha","Hoagy Carmichael","Hot Rod","James Brown","Jewell","Joo","Jr","Juju","Kan","Kate Smith","Kotoko","Leon","Lin","Lisa","Lizzy","Lorie","Lucero","Luna","Lyn","Magnifico","Martinez","May","Medina","Mei","Melody","Min","Momo","Morena","Muddy Waters","Myco","Nana","Natalia","Nico","Nucha","Phew","Princess","Raphael","Regina","Rhianna","Robin","Rose","Ruby Murray","Sammie","Sarah Vaughan","Sha","Shoo","Sophie Tucker","Sunny","Sweety","Tammy Wynette","Tim","Timbuktu","Tonia","Tony","Vanity","Velvet","Wax","Wing","Yoko Ono","Yuri"],"receivingConcepts":[]}
+{"concept":"Agatha Christie","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Short Story"],"emittingConcepts":[]}
+{"concept":"Playwright","rel":"dbpedia/occupation","emittingConcepts":["Agatha Christie","Alexander Pushkin","Anton Chekhov","Athol Fugard","Bertolt Brecht","Christian Friedrich Hebbel","Christopher Fry","Christopher Marlowe","Clifford Odets","Conrad Aiken","Cyrano De Bergerac","Dorothy L Sayers","Douglas Adams","Edna Ferber","Franz Werfel","George Bernard Shaw","Gotthold Ephraim Lessing","Gustave Flaubert","Heinrich Von Kleist","Jean Anouilh","Jean Genet","Jean Racine","John Dryden","John Osborne","Jules Verne","Lillian Hellman","Lorenz Hart","Miguel De Cervantes","Norman Mailer","Pierre Corneille","Richard Rodgers","Sinclair Lewis","W Somerset Maugham"],"receivingConcepts":[]}
+{"concept":"Short Story","rel":"dbpedia/occupation","emittingConcepts":["Agatha Christie","Arthur Conan Doyle","F Scott Fitzgerald","Herman Melville","J D Salinger","Jack London","John Updike","Joseph Conrad","Louise Erdrich","Sinclair Lewis","Stephen King","W Somerset Maugham"],"receivingConcepts":[]}
+{"concept":"Agnes De Mille","rel":"dbpedia/occupation","receivingConcepts":["Choreography","Dance"],"emittingConcepts":[]}
+{"concept":"Choreography","rel":"dbpedia/occupation","emittingConcepts":["Agnes De Mille","Alvin Ailey","Gene Kelly","Lev Ivanov","Merce Cunningham","Twyla Tharp","Vaslav Nijinsky"],"receivingConcepts":[]}
+{"concept":"Poetry","rel":"dbpedia/occupation","emittingConcepts":["Ai","Franz Werfel","Heinrich Von Kleist"],"receivingConcepts":[]}
+{"concept":"Akhenaton","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Record Producer","rel":"dbpedia/occupation","emittingConcepts":["Akhenaton","Alchemist","Amber","Anastacia","Aphrodite","Arty","Ashanti","Atb","Basia","Biosphere","Blockhead","Breakage","Buccaneer","Burial","Cham","Chara","Chicane","Consequence","Cro","D Angelo","Daniel Jones","Domino","Dream","Emmanuel","Enya","Excision","Fancy","Fiona","Fuego","Gary","Hallucinogen","Havoc","Jack Russell","James Brown","John Cale","Kenna","Kyla","Lorie","Meco","Nas","Oh No","Q Tip","Rain","Redone","Sade","Sasha","Sebastian","Soraya","Tank","Thrillseekers","Verbal"],"receivingConcepts":[]}
+{"concept":"Al Jolson","rel":"dbpedia/occupation","receivingConcepts":["Actor","Comedian","Singing"],"emittingConcepts":[]}
+{"concept":"Comedian","rel":"dbpedia/occupation","emittingConcepts":["Al Jolson","Gracie Allen","Haha","Jimmy Durante","Sophie Tucker"],"receivingConcepts":[]}
+{"concept":"Alan Paton","rel":"dbpedia/occupation","receivingConcepts":["Apartheid","Author"],"emittingConcepts":[]}
+{"concept":"Author","rel":"dbpedia/occupation","emittingConcepts":["Alan Paton","Bob Hope","Che Guevara","Frederick Douglass","Gerard Kuiper","James Boswell","Jane Jacobs","Jewel","John Law","Leonard Bernstein","Pliny Elder","Prodigy","Sojourner Truth","Thomas Wolfe"],"receivingConcepts":[]}
+{"concept":"Test Pilot","rel":"dbpedia/occupation","emittingConcepts":["Alan Shepard","Neil Armstrong"],"receivingConcepts":[]}
+{"concept":"Alchemist","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Disc Jockey","rel":"dbpedia/occupation","emittingConcepts":["Alchemist","Aphrodite","Arty","Atb","Blockhead","Breakage","Excision","Hallucinogen","Jasmine","Q Tip","Sasha","Sebastian","Thrillseekers"],"receivingConcepts":[]}
+{"concept":"Economist","rel":"dbpedia/occupation","emittingConcepts":["Alejandro Toledo","Andrei Gromyko","Goofy","John Law"],"receivingConcepts":[]}
+{"concept":"Poet","rel":"dbpedia/occupation","emittingConcepts":["Alessandro Manzoni","Alexander Pushkin","Amy Lowell","Bertolt Brecht","Christopher Marlowe","Cicero","Conrad Aiken","Dante Alighieri","Dorothy L Sayers","Edgar Lee Masters","Emily Dickinson","Eratosthenes","Erik Axel Karlfeldt","Guillaume Apollinaire","Horace","Jack Kerouac","Jean De La Fontaine","Jewel","John Ciardi","John Dryden","John Milton","Joyce Carol Oates","Jules Verne","Juvenal","Lord Byron","Louise Erdrich","Marianne Moore","Miguel De Cervantes","Ogden Nash","Osip Mandelstam","Paul Verlaine","Petrarch","Robert Herrick","Robinson Jeffers","Stephen Spender","Torquato Tasso","Virgil"],"receivingConcepts":[]}
+{"concept":"Alexander Pushkin","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Alexis Carrel","rel":"dbpedia/occupation","receivingConcepts":["Biologist","Surgeon"],"emittingConcepts":[]}
+{"concept":"Photojournalism","rel":"dbpedia/occupation","emittingConcepts":["Alfred Eisenstaedt","Dorothea Lange"],"receivingConcepts":[]}
+{"concept":"Alfred Korzybski","rel":"dbpedia/occupation","receivingConcepts":["Engineer","Mathematician"],"emittingConcepts":[]}
+{"concept":"Engineer","rel":"dbpedia/occupation","emittingConcepts":["Alfred Korzybski","Gottlieb Daimler","Robert Mills","Rudolf Diesel"],"receivingConcepts":[]}
+{"concept":"Mathematician","rel":"dbpedia/occupation","emittingConcepts":["Alfred Korzybski","Aristarchus of Samos","Charles Proteus Steinmetz","David Rittenhouse","Fibonacci","Hipparchus","Lewis Carroll","Marquis De Condorcet","Ptolemy"],"receivingConcepts":[]}
+{"concept":"Ali","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Songwriter","rel":"dbpedia/occupation","emittingConcepts":["Ali","Amadeus","Ashanti","Avant","Belly","Ben","Camille","Cassidy","Chicane","Consequence","Corneille","Daniel Jones","Dev","Do","Dream","Emmanuel","Eve","Fancy","Fuego","Gabrielle","Gala","Hoagy Carmichael","Jack Russell","Kotoko","Lisa","Lorenz Hart","Lorie","May","Medina","Momo","Muddy Waters","Nas","Ours","Outsider","Princess","Redone","Richard Rodgers","Richard Wright","Roscoe","Sebastian","Soraya","Stephen Foster","Tammy Wynette","Timbuktu","Vanity","Vitalic"],"receivingConcepts":[]}
+{"concept":"Suffragette","rel":"dbpedia/occupation","emittingConcepts":["Alice Paul","Frederick Douglass"],"receivingConcepts":[]}
+{"concept":"Alvin Ailey","rel":"dbpedia/occupation","receivingConcepts":["Activism","Choreography","Dance"],"emittingConcepts":[]}
+{"concept":"Activism","rel":"dbpedia/occupation","emittingConcepts":["Alvin Ailey","Cesar Chavez","Elie Wiesel","Helen Keller","Jean Genet","Lawrence Lessig","Lena Horne","Lowkey","Marlon Brando"],"receivingConcepts":[]}
+{"concept":"Amber","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Amerigo Vespucci","rel":"dbpedia/occupation","receivingConcepts":["Cartography","Merchant"],"emittingConcepts":[]}
+{"concept":"Cartography","rel":"dbpedia/occupation","emittingConcepts":["Amerigo Vespucci","Samuel De Champlain"],"receivingConcepts":[]}
+{"concept":"Merchant","rel":"dbpedia/occupation","emittingConcepts":["Amerigo Vespucci","John Wanamaker","Marco Polo","William Caxton"],"receivingConcepts":[]}
+{"concept":"Anastacia","rel":"dbpedia/occupation","receivingConcepts":["Philanthropy","Record Producer"],"emittingConcepts":[]}
+{"concept":"Philanthropy","rel":"dbpedia/occupation","emittingConcepts":["Anastacia","Andrew Carnegie","George Eastman","John Ruskin","Johns Hopkins","Joseph Pulitzer","Peter Cooper","Vijay"],"receivingConcepts":[]}
+{"concept":"Andrea","rel":"dbpedia/occupation","receivingConcepts":["Clerk","Lawyer"],"emittingConcepts":[]}
+{"concept":"Lawyer","rel":"dbpedia/occupation","emittingConcepts":["Andrea","Andrew Jackson","Benjamin Harrison","Bill Clinton","Calvin Coolidge","Cicero","Clarence Darrow","Cordell Hull","Daniel Webster","Dean Acheson","Erle Stanley Gardner","Gamal Abdel Nasser","George Wallace","James Boswell","James Buchanan","James K Polk","James Monroe","James Wilson","John Smith","Joseph Pulitzer","Kurt Waldheim","Margaret Thatcher","Mark White","Mikhail Gorbachev","Muhammad Ali Jinnah","Otto Von Bismarck","Patrick Henry","Pliny Elder","Richard Nixon","Roger Sherman","Rutherford B Hayes","William Jennings Bryan","Zachary Taylor"],"receivingConcepts":[]}
+{"concept":"Andrei Gromyko","rel":"dbpedia/occupation","receivingConcepts":["Diplomat","Economist"],"emittingConcepts":[]}
+{"concept":"Diplomat","rel":"dbpedia/occupation","emittingConcepts":["Andrei Gromyko","Ferdinand De Lesseps","Frederick Douglass","Golda Meir","James Buchanan","Kurt Waldheim"],"receivingConcepts":[]}
+{"concept":"Composer","rel":"dbpedia/occupation","emittingConcepts":["Andrew Lloyd Webber","Anthony Hopkins","Artie Shaw","Artur Schnabel","Arty","Chicane","Fritz Kreisler","George Gershwin","Irving Berlin","Kan","Kotoko","Kyla","Leonard Bernstein","Lionel Hampton","Lorenz Hart","Lorie","Ludwig Van Beethoven","May","Richard Rodgers","Sade","Sebastian","Sergei Rachmaninoff","Tank","Thelonious Monk"],"receivingConcepts":[]}
+{"concept":"Andrew W Mellon","rel":"dbpedia/occupation","receivingConcepts":["Bank","Politician"],"emittingConcepts":[]}
+{"concept":"Bank","rel":"dbpedia/occupation","emittingConcepts":["Andrew W Mellon","J P Morgan","John Law","John Major","Stephen Girard"],"receivingConcepts":[]}
+{"concept":"Politician","rel":"dbpedia/occupation","emittingConcepts":["Andrew W Mellon","Bill Clinton","Cecil Rhodes","Cicero","Cordell Hull","Dante Alighieri","Davy Crockett","Dick Cheney","Dwight D Eisenhower","George H W Bush","George Marshall","George W Bush","Horace Greeley","James Buchanan","James Watson","James Wilson","John Harvard","John Smith","John Wanamaker","Keying","Leland Stanford","Lord Byron","Margaret Thatcher","Mark White","Muhammad Ali Jinnah","Richard Nixon","Roger Sherman","Ronald Reagan","Vicente Fox"],"receivingConcepts":[]}
+{"concept":"Ballet Dancer","rel":"dbpedia/occupation","emittingConcepts":["Anna Pavlova","Lev Ivanov","Margot Fonteyn","Rudolf Nureyev","Vaslav Nijinsky"],"receivingConcepts":[]}
+{"concept":"Anthony Hopkins","rel":"dbpedia/occupation","receivingConcepts":["Actor","Composer"],"emittingConcepts":[]}
+{"concept":"Aphrodite","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Princess","rel":"dbpedia/occupation","emittingConcepts":["Ariel","Aurora"],"receivingConcepts":["Singing","Songwriter"]}
+{"concept":"Aristarchus of Samos","rel":"dbpedia/occupation","receivingConcepts":["Astronomer","Mathematician"],"emittingConcepts":[]}
+{"concept":"Astronomer","rel":"dbpedia/occupation","emittingConcepts":["Aristarchus of Samos","Clyde Tombaugh","David Rittenhouse","Gerard Kuiper","Hipparchus","Ptolemy"],"receivingConcepts":[]}
+{"concept":"Artie Shaw","rel":"dbpedia/occupation","receivingConcepts":["Bandleader","Composer"],"emittingConcepts":[]}
+{"concept":"Bandleader","rel":"dbpedia/occupation","emittingConcepts":["Artie Shaw","Benny Goodman","Duke Ellington","Glenn Miller","James Brown","King Oliver","Miles Davis","Muddy Waters","Woody Herman"],"receivingConcepts":[]}
+{"concept":"Artur Schnabel","rel":"dbpedia/occupation","receivingConcepts":["Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"Pianist","rel":"dbpedia/occupation","emittingConcepts":["Artur Schnabel","George Gershwin","Jimmy Durante","Leonard Bernstein","Ludwig Van Beethoven","Sergei Rachmaninoff","Solomon","Thelonious Monk"],"receivingConcepts":[]}
+{"concept":"Arty","rel":"dbpedia/occupation","receivingConcepts":["Composer","Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Ashanti","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Record Producer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Atb","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer","Remix"],"emittingConcepts":[]}
+{"concept":"Remix","rel":"dbpedia/occupation","emittingConcepts":["Atb","Chicane","Vitalic"],"receivingConcepts":[]}
+{"concept":"Screenwriter","rel":"dbpedia/occupation","emittingConcepts":["Atom Egoyan","Bernardo Bertolucci","Clifford Odets","Dalton Trumbo","Dorothy Parker","Federico Fellini","Francis Ford Coppola","Frank Capra","Oliver Stone","Rohini","Steno","Stephen King"],"receivingConcepts":[]}
+{"concept":"Aurora","rel":"dbpedia/occupation","receivingConcepts":["Peasant","Princess","Queen Regnant"],"emittingConcepts":[]}
+{"concept":"Avant","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Barbara","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Baron Munchausen","rel":"dbpedia/occupation","receivingConcepts":["Nobility","Officer"],"emittingConcepts":[]}
+{"concept":"Nobility","rel":"dbpedia/occupation","emittingConcepts":["Baron Munchausen","Tycho Brahe"],"receivingConcepts":[]}
+{"concept":"Officer","rel":"dbpedia/occupation","emittingConcepts":["Baron Munchausen","Dwight D Eisenhower","John Hanning Speke","William Henry Harrison"],"receivingConcepts":[]}
+{"concept":"Basia","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Belly","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Ben","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter","Television Presenter"],"emittingConcepts":[]}
+{"concept":"Television Presenter","rel":"dbpedia/occupation","emittingConcepts":["Ben","Chara","Kyla"],"receivingConcepts":[]}
+{"concept":"Bertolt Brecht","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Bill Clinton","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Evangelism","rel":"dbpedia/occupation","emittingConcepts":["Billy Graham","Carman"],"receivingConcepts":[]}
+{"concept":"Blockhead","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Boa","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Bob Hope","rel":"dbpedia/occupation","receivingConcepts":["Actor","Author","Singing","Stand Up Comedy"],"emittingConcepts":[]}
+{"concept":"Bob Mathias","rel":"dbpedia/occupation","receivingConcepts":["Actor","United States House of Representatives","United States Marine Corps"],"emittingConcepts":[]}
+{"concept":"Boom","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping","Singing"],"emittingConcepts":[]}
+{"concept":"Bow Wow","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping"],"emittingConcepts":[]}
+{"concept":"Breakage","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Buffalo Bill","rel":"dbpedia/occupation","receivingConcepts":["Cowboy","Showman"],"emittingConcepts":[]}
+{"concept":"Burial","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer"],"emittingConcepts":[]}
+{"concept":"Musician","rel":"dbpedia/occupation","emittingConcepts":["Burial","Daniel Jones","Elisa","Emmanuel","Enya","Flea","Jack Russell","John Marshall","Kenna","Lowkey","Mase","Meco","Pancakes","Richard Wright","Sebastian","Vitalic"],"receivingConcepts":[]}
+{"concept":"Camille","rel":"dbpedia/occupation","receivingConcepts":["Actor","Songwriter"],"emittingConcepts":[]}
+{"concept":"Libretto","rel":"dbpedia/occupation","emittingConcepts":["Carlo Goldoni","Oscar Hammerstein Ii"],"receivingConcepts":[]}
+{"concept":"Carman","rel":"dbpedia/occupation","receivingConcepts":["Evangelism","Rapping"],"emittingConcepts":[]}
+{"concept":"Casper","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Singing"],"emittingConcepts":[]}
+{"concept":"Cassidy","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Cesar Chavez","rel":"dbpedia/occupation","receivingConcepts":["Activism","Trade Union"],"emittingConcepts":[]}
+{"concept":"Trade Union","rel":"dbpedia/occupation","emittingConcepts":["Cesar Chavez","George Meany"],"receivingConcepts":[]}
+{"concept":"Chemist","rel":"dbpedia/occupation","emittingConcepts":["Chaim Weizmann","Edward Weston","Margaret Thatcher"],"receivingConcepts":[]}
+{"concept":"Cham","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Chara","rel":"dbpedia/occupation","receivingConcepts":["Actor","Record Producer","Singer Songwriter","Television Presenter"],"emittingConcepts":[]}
+{"concept":"Charles Proteus Steinmetz","rel":"dbpedia/occupation","receivingConcepts":["Electrical Engineering","Mathematician"],"emittingConcepts":[]}
+{"concept":"Electrical Engineering","rel":"dbpedia/occupation","emittingConcepts":["Charles Proteus Steinmetz","Edward Weston"],"receivingConcepts":[]}
+{"concept":"Che Guevara","rel":"dbpedia/occupation","receivingConcepts":["Author","Guerrilla Warfare","Physician"],"emittingConcepts":[]}
+{"concept":"Physician","rel":"dbpedia/occupation","emittingConcepts":["Che Guevara","Dr Watson","Hippocrates","Jean Paul Marat","Nostradamus","Thirteen","William Carlos Williams"],"receivingConcepts":[]}
+{"concept":"Chicane","rel":"dbpedia/occupation","receivingConcepts":["Composer","Electronic Music","Record Producer","Remix","Songwriter"],"emittingConcepts":[]}
+{"concept":"Christopher Marlowe","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Cicero","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Poet","Politician"],"emittingConcepts":[]}
+{"concept":"Clifford Odets","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Screenwriter"],"emittingConcepts":[]}
+{"concept":"Invention","rel":"dbpedia/occupation","emittingConcepts":["Clive Sinclair","David Rittenhouse","Edward Weston","Herman Hollerith","Johannes Gutenberg","Lee De Forest","Nellie Bly","Ottmar Mergenthaler","Peter Cooper","Rudolf Diesel","Samuel Morse","Thomas Edison"],"receivingConcepts":[]}
+{"concept":"Conrad Aiken","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Consequence","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Cordell Hull","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Corneille","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Cro","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Record Producer","Singing"],"emittingConcepts":[]}
+{"concept":"Cyrano De Bergerac","rel":"dbpedia/occupation","receivingConcepts":["Duel","Playwright"],"emittingConcepts":[]}
+{"concept":"D Angelo","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Dana","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Teacher","rel":"dbpedia/occupation","emittingConcepts":["Daniel Arap Moi","Ida Tarbell","Jenny Shipley","Thomas Hopkins Gallaudet","Voltaire"],"receivingConcepts":[]}
+{"concept":"Daniel Jones","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Daniel Patrick Moynihan","rel":"dbpedia/occupation","receivingConcepts":["Diplomacy","Sociology"],"emittingConcepts":[]}
+{"concept":"Sociology","rel":"dbpedia/occupation","emittingConcepts":["Daniel Patrick Moynihan","David Riesman"],"receivingConcepts":[]}
+{"concept":"Dante Alighieri","rel":"dbpedia/occupation","receivingConcepts":["Poet","Politician"],"emittingConcepts":[]}
+{"concept":"David Rittenhouse","rel":"dbpedia/occupation","receivingConcepts":["Astronomer","Invention","Mathematician"],"emittingConcepts":[]}
+{"concept":"Dev","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Dick Cheney","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Politician"],"emittingConcepts":[]}
+{"concept":"Businessperson","rel":"dbpedia/occupation","emittingConcepts":["Dick Cheney","Ebenezer Scrooge","George H W Bush","George W Bush","Herbert Hoover","Herman Hollerith","Joe Clark","Thomas Edison","Vicente Fox"],"receivingConcepts":[]}
+{"concept":"Dick Turpin","rel":"dbpedia/occupation","receivingConcepts":["Burglary","Poaching"],"emittingConcepts":[]}
+{"concept":"Divine","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Do","rel":"dbpedia/occupation","receivingConcepts":["Musical Theatre","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Domino","rel":"dbpedia/occupation","receivingConcepts":["Chief Executive Officer","Record Producer","Rapping"],"emittingConcepts":[]}
+{"concept":"Chief Executive Officer","rel":"dbpedia/occupation","emittingConcepts":["Domino","Fuego"],"receivingConcepts":[]}
+{"concept":"Dorothea Lange","rel":"dbpedia/occupation","receivingConcepts":["Photographer","Photojournalism"],"emittingConcepts":[]}
+{"concept":"Photographer","rel":"dbpedia/occupation","emittingConcepts":["Dorothea Lange","Lewis Carroll"],"receivingConcepts":[]}
+{"concept":"Dorothy L Sayers","rel":"dbpedia/occupation","receivingConcepts":["Copywriting","Playwright","Poet","Translation"],"emittingConcepts":[]}
+{"concept":"Translation","rel":"dbpedia/occupation","emittingConcepts":["Dorothy L Sayers","John Ciardi","Kumārajīva","Nostradamus"],"receivingConcepts":[]}
+{"concept":"Dream","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Dwight D Eisenhower","rel":"dbpedia/occupation","receivingConcepts":["Officer","Politician"],"emittingConcepts":[]}
+{"concept":"Magic","rel":"dbpedia/occupation","emittingConcepts":["Dynamo","Harry Houdini"],"receivingConcepts":[]}
+{"concept":"War Correspondent","rel":"dbpedia/occupation","emittingConcepts":["Edgar Wallace","John Steinbeck"],"receivingConcepts":[]}
+{"concept":"Literary Criticism","rel":"dbpedia/occupation","emittingConcepts":["Edmund Wilson","John Dryden","John Updike","William Hazlitt"],"receivingConcepts":[]}
+{"concept":"Edward Weston","rel":"dbpedia/occupation","receivingConcepts":["Chemist","Electrical Engineering","Invention"],"emittingConcepts":[]}
+{"concept":"Elisa","rel":"dbpedia/occupation","receivingConcepts":["Musician","Singing"],"emittingConcepts":[]}
+{"concept":"Hunting","rel":"dbpedia/occupation","emittingConcepts":["Elmer Fudd","Jim Corbett"],"receivingConcepts":[]}
+{"concept":"Emmanuel","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Opera","rel":"dbpedia/occupation","emittingConcepts":["Enrico Caruso","Helen Traubel"],"receivingConcepts":[]}
+{"concept":"Enya","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Ethel Waters","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Eugene","rel":"dbpedia/occupation","receivingConcepts":["Actor","Master of Ceremonies","Singing"],"emittingConcepts":[]}
+{"concept":"Master of Ceremonies","rel":"dbpedia/occupation","emittingConcepts":["Eugene","J"],"receivingConcepts":[]}
+{"concept":"Eusebius","rel":"dbpedia/occupation","receivingConcepts":["Bishop","Historian","Theology"],"emittingConcepts":[]}
+{"concept":"Historian","rel":"dbpedia/occupation","emittingConcepts":["Eusebius","Livy","Strabo","Tacitus","Thomas Gray","Thucydides","Xenophon"],"receivingConcepts":[]}
+{"concept":"Theology","rel":"dbpedia/occupation","emittingConcepts":["Eusebius","Isaac Watts","John Mill","Reinhold Niebuhr"],"receivingConcepts":[]}
+{"concept":"Eve","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Excision","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Fancy","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Fiona","rel":"dbpedia/occupation","receivingConcepts":["Actor","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Flea","rel":"dbpedia/occupation","receivingConcepts":["Actor","Musician"],"emittingConcepts":[]}
+{"concept":"Franz Werfel","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poetry"],"emittingConcepts":[]}
+{"concept":"Frederick Douglass","rel":"dbpedia/occupation","receivingConcepts":["Author","Diplomat","Editing","Suffragette"],"emittingConcepts":[]}
+{"concept":"Editing","rel":"dbpedia/occupation","emittingConcepts":["Frederick Douglass","Hendrik Verwoerd"],"receivingConcepts":[]}
+{"concept":"Fritz Kreisler","rel":"dbpedia/occupation","receivingConcepts":["Composer","Violin"],"emittingConcepts":[]}
+{"concept":"Violin","rel":"dbpedia/occupation","emittingConcepts":["Fritz Kreisler","Pinchas Zukerman"],"receivingConcepts":[]}
+{"concept":"Fuego","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Songwriter","Chief Executive Officer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Gabrielle","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Gain","rel":"dbpedia/occupation","receivingConcepts":["Dance","Singing"],"emittingConcepts":[]}
+{"concept":"Gala","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Gene Kelly","rel":"dbpedia/occupation","receivingConcepts":["Choreography","Dance"],"emittingConcepts":[]}
+{"concept":"George Gershwin","rel":"dbpedia/occupation","receivingConcepts":["Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"George H W Bush","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Politician"],"emittingConcepts":[]}
+{"concept":"Cinematographer","rel":"dbpedia/occupation","emittingConcepts":["George Stevens","Steno"],"receivingConcepts":[]}
+{"concept":"George W Bush","rel":"dbpedia/occupation","receivingConcepts":["Baseball","Businessperson","Politician"],"emittingConcepts":[]}
+{"concept":"Gerard Kuiper","rel":"dbpedia/occupation","receivingConcepts":["Astronomer","Author","Planetary Science","Professor"],"emittingConcepts":[]}
+{"concept":"Professor","rel":"dbpedia/occupation","emittingConcepts":["Gerard Kuiper","Henry Jenkins","Joe Clark","John Barth"],"receivingConcepts":[]}
+{"concept":"Gotthold Ephraim Lessing","rel":"dbpedia/occupation","receivingConcepts":["Dramaturge","Playwright"],"emittingConcepts":[]}
+{"concept":"Haha","rel":"dbpedia/occupation","receivingConcepts":["Actor","Comedian","Dance","Rapping","Singing"],"emittingConcepts":[]}
+{"concept":"Hallucinogen","rel":"dbpedia/occupation","receivingConcepts":["Audio Engineer","Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Writer","rel":"dbpedia/occupation","emittingConcepts":["Harvey Smith","John Mill","Voltaire"],"receivingConcepts":[]}
+{"concept":"Havoc","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Haym Salomon","rel":"dbpedia/occupation","receivingConcepts":["Auction","Broker"],"emittingConcepts":[]}
+{"concept":"Heinrich Von Kleist","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poetry"],"emittingConcepts":[]}
+{"concept":"Helen Traubel","rel":"dbpedia/occupation","receivingConcepts":["Actor","Opera"],"emittingConcepts":[]}
+{"concept":"Lexicography","rel":"dbpedia/occupation","emittingConcepts":["Henry Watson Fowler","James Murray","Noah Webster","Samuel Johnson"],"receivingConcepts":[]}
+{"concept":"Herbert Hoover","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Humanitarianism"],"emittingConcepts":[]}
+{"concept":"Herman Hollerith","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Invention","Statistics"],"emittingConcepts":[]}
+{"concept":"Hipparchus","rel":"dbpedia/occupation","receivingConcepts":["Astronomer","Geographer","Mathematician"],"emittingConcepts":[]}
+{"concept":"Geographer","rel":"dbpedia/occupation","emittingConcepts":["Hipparchus","Ptolemy"],"receivingConcepts":[]}
+{"concept":"Hoagy Carmichael","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Hot Rod","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Singing"],"emittingConcepts":[]}
+{"concept":"Lyricist","rel":"dbpedia/occupation","emittingConcepts":["Ira Gershwin","Irving Berlin","Juju","Kan","Lin","Lisa","Outsider","Rohini"],"receivingConcepts":[]}
+{"concept":"Irving Berlin","rel":"dbpedia/occupation","receivingConcepts":["Composer","Lyricist"],"emittingConcepts":[]}
+{"concept":"Isaac Watts","rel":"dbpedia/occupation","receivingConcepts":["Hymn","Theology"],"emittingConcepts":[]}
+{"concept":"Iu","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"J","rel":"dbpedia/occupation","receivingConcepts":["Master of Ceremonies","Narration","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Vaudeville","rel":"dbpedia/occupation","emittingConcepts":["Jack Benny","Jelly Roll Morton"],"receivingConcepts":[]}
+{"concept":"Jack Kerouac","rel":"dbpedia/occupation","receivingConcepts":["Painting","Poet"],"emittingConcepts":[]}
+{"concept":"Jack Russell","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Ornithology","rel":"dbpedia/occupation","emittingConcepts":["James Bond","John James Audubon"],"receivingConcepts":[]}
+{"concept":"James Boswell","rel":"dbpedia/occupation","receivingConcepts":["Author","Diary","Lawyer"],"emittingConcepts":[]}
+{"concept":"James Brown","rel":"dbpedia/occupation","receivingConcepts":["Bandleader","Dance","Record Producer","Singing"],"emittingConcepts":[]}
+{"concept":"James Buchanan","rel":"dbpedia/occupation","receivingConcepts":["Diplomat","Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"James Wilson","rel":"dbpedia/occupation","receivingConcepts":["Oncology","Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Jasmine","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Jean De La Fontaine","rel":"dbpedia/occupation","receivingConcepts":["Fable","Poet"],"emittingConcepts":[]}
+{"concept":"Jean Genet","rel":"dbpedia/occupation","receivingConcepts":["Activism","Playwright"],"emittingConcepts":[]}
+{"concept":"Jesse James","rel":"dbpedia/occupation","receivingConcepts":["Crime","Celebrity"],"emittingConcepts":[]}
+{"concept":"Celebrity","rel":"dbpedia/occupation","emittingConcepts":["Jesse James","Nico"],"receivingConcepts":[]}
+{"concept":"Jewel","rel":"dbpedia/occupation","receivingConcepts":["Actor","Author","Guitarist","Poet","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Guitarist","rel":"dbpedia/occupation","emittingConcepts":["Jewel","Muddy Waters","Soraya","Tweet"],"receivingConcepts":[]}
+{"concept":"Jim Corbett","rel":"dbpedia/occupation","receivingConcepts":["Hunting","Natural History"],"emittingConcepts":[]}
+{"concept":"Natural History","rel":"dbpedia/occupation","emittingConcepts":["Jim Corbett","John James Audubon","John Muir","Pliny Elder","Roy Chapman Andrews"],"receivingConcepts":[]}
+{"concept":"Jimmy Durante","rel":"dbpedia/occupation","receivingConcepts":["Comedian","Pianist"],"emittingConcepts":[]}
+{"concept":"Joan Didion","rel":"dbpedia/occupation","receivingConcepts":["Essay","Memoir"],"emittingConcepts":[]}
+{"concept":"Essay","rel":"dbpedia/occupation","emittingConcepts":["Joan Didion","Plutarch","Washington Irving"],"receivingConcepts":[]}
+{"concept":"Joe Clark","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Professor"],"emittingConcepts":[]}
+{"concept":"Natural Philosophy","rel":"dbpedia/occupation","emittingConcepts":["Johann Wolfgang Von Goethe","Pliny Elder"],"receivingConcepts":[]}
+{"concept":"Johannes Gutenberg","rel":"dbpedia/occupation","receivingConcepts":["Engraving","Invention"],"emittingConcepts":[]}
+{"concept":"Engraving","rel":"dbpedia/occupation","emittingConcepts":["Johannes Gutenberg","William Hogarth"],"receivingConcepts":[]}
+{"concept":"Philosophy","rel":"dbpedia/occupation","emittingConcepts":["John Amos Comenius","Strabo","Voltaire"],"receivingConcepts":[]}
+{"concept":"John Cale","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Visual Arts"],"emittingConcepts":[]}
+{"concept":"Visual Arts","rel":"dbpedia/occupation","emittingConcepts":["John Cale","Kahlil Gibran"],"receivingConcepts":[]}
+{"concept":"John Ciardi","rel":"dbpedia/occupation","receivingConcepts":["Etymology","Poet","Translation"],"emittingConcepts":[]}
+{"concept":"John Dryden","rel":"dbpedia/occupation","receivingConcepts":["Literary Criticism","Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"John James Audubon","rel":"dbpedia/occupation","receivingConcepts":["Natural History","Ornithology","Painting"],"emittingConcepts":[]}
+{"concept":"John Law","rel":"dbpedia/occupation","receivingConcepts":["Author","Bank","Economist"],"emittingConcepts":[]}
+{"concept":"John Mill","rel":"dbpedia/occupation","receivingConcepts":["Theology","Writer"],"emittingConcepts":[]}
+{"concept":"John Milton","rel":"dbpedia/occupation","receivingConcepts":["Poet","Prose"],"emittingConcepts":[]}
+{"concept":"Arrangement","rel":"dbpedia/occupation","emittingConcepts":["John Paul Jones","Meco","Sade","Soraya"],"receivingConcepts":[]}
+{"concept":"John Ruskin","rel":"dbpedia/occupation","receivingConcepts":["Drafter","Philanthropy"],"emittingConcepts":[]}
+{"concept":"John Smith","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"John Updike","rel":"dbpedia/occupation","receivingConcepts":["Literary Criticism","Short Story"],"emittingConcepts":[]}
+{"concept":"John Wanamaker","rel":"dbpedia/occupation","receivingConcepts":["Merchant","Politician"],"emittingConcepts":[]}
+{"concept":"Johns Hopkins","rel":"dbpedia/occupation","receivingConcepts":["Investor","Philanthropy"],"emittingConcepts":[]}
+{"concept":"Satire","rel":"dbpedia/occupation","emittingConcepts":["Jonathan Swift","William Hogarth"],"receivingConcepts":[]}
+{"concept":"Joo","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Singing"],"emittingConcepts":[]}
+{"concept":"Joseph Pulitzer","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Philanthropy"],"emittingConcepts":[]}
+{"concept":"Jr","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Singing"],"emittingConcepts":[]}
+{"concept":"Juju","rel":"dbpedia/occupation","receivingConcepts":["Lyricist","Singer Songwriter","Singing"],"emittingConcepts":[]}
+{"concept":"Jules Verne","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Juvenile","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping"],"emittingConcepts":[]}
+{"concept":"Kan","rel":"dbpedia/occupation","receivingConcepts":["Composer","Lyricist","Singing"],"emittingConcepts":[]}
+{"concept":"Kenna","rel":"dbpedia/occupation","receivingConcepts":["Musician","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Key","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Rapping","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Kizzy","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Kotoko","rel":"dbpedia/occupation","receivingConcepts":["Composer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Kumārajīva","rel":"dbpedia/occupation","receivingConcepts":["Bhikkhu","Translation"],"emittingConcepts":[]}
+{"concept":"Kurt Waldheim","rel":"dbpedia/occupation","receivingConcepts":["Diplomat","Lawyer"],"emittingConcepts":[]}
+{"concept":"Kyla","rel":"dbpedia/occupation","receivingConcepts":["Actor","Composer","Record Producer","Singer Songwriter","Television Presenter"],"emittingConcepts":[]}
+{"concept":"Leonard Bernstein","rel":"dbpedia/occupation","receivingConcepts":["Author","Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"Lev Ivanov","rel":"dbpedia/occupation","receivingConcepts":["Ballet Dancer","Ballet Master","Choreography"],"emittingConcepts":[]}
+{"concept":"Lewis Carroll","rel":"dbpedia/occupation","receivingConcepts":["Mathematician","Photographer"],"emittingConcepts":[]}
+{"concept":"Lin","rel":"dbpedia/occupation","receivingConcepts":["Lyricist","Singing"],"emittingConcepts":[]}
+{"concept":"Lionel Hampton","rel":"dbpedia/occupation","receivingConcepts":["Actor","Composer"],"emittingConcepts":[]}
+{"concept":"Lisa","rel":"dbpedia/occupation","receivingConcepts":["Lyricist","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Lizzy","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Lloyd","rel":"dbpedia/occupation","receivingConcepts":["Dance","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Lord Byron","rel":"dbpedia/occupation","receivingConcepts":["Poet","Politician"],"emittingConcepts":[]}
+{"concept":"Lorenz Hart","rel":"dbpedia/occupation","receivingConcepts":["Composer","Playwright","Songwriter"],"emittingConcepts":[]}
+{"concept":"Lorie","rel":"dbpedia/occupation","receivingConcepts":["Actor","Composer","Record Producer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Architect","rel":"dbpedia/occupation","emittingConcepts":["Louis Sullivan","Pierre Charles L Enfant","Robert Mills"],"receivingConcepts":[]}
+{"concept":"Louise Erdrich","rel":"dbpedia/occupation","receivingConcepts":["Poet","Short Story"],"emittingConcepts":[]}
+{"concept":"Lowkey","rel":"dbpedia/occupation","receivingConcepts":["Activism","Musician"],"emittingConcepts":[]}
+{"concept":"Lucero","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Ludwig Van Beethoven","rel":"dbpedia/occupation","receivingConcepts":["Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"Luna","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Clergy","rel":"dbpedia/occupation","emittingConcepts":["Makarios Iii","Robert Herrick"],"receivingConcepts":[]}
+{"concept":"Margaret Thatcher","rel":"dbpedia/occupation","receivingConcepts":["Chemist","Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Mark White","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Martinez","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Mase","rel":"dbpedia/occupation","receivingConcepts":["Musician","Rapping","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Max Beerbohm","rel":"dbpedia/occupation","receivingConcepts":["Caricature","Parody"],"emittingConcepts":[]}
+{"concept":"May","rel":"dbpedia/occupation","receivingConcepts":["Composer","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Meco","rel":"dbpedia/occupation","receivingConcepts":["Arrangement","Musician","Record Producer"],"emittingConcepts":[]}
+{"concept":"Medina","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Melody","rel":"dbpedia/occupation","receivingConcepts":["Singing","Dance","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Miguel De Cervantes","rel":"dbpedia/occupation","receivingConcepts":["Accountant","Playwright","Poet"],"emittingConcepts":[]}
+{"concept":"Mikhail Baryshnikov","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance"],"emittingConcepts":[]}
+{"concept":"Min","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Momo","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Muddy Waters","rel":"dbpedia/occupation","receivingConcepts":["Bandleader","Guitarist","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Muhammad Ali Jinnah","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Nana","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Nas","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping","Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Nico","rel":"dbpedia/occupation","receivingConcepts":["Celebrity","Singing","Spokesperson"],"emittingConcepts":[]}
+{"concept":"Nostradamus","rel":"dbpedia/occupation","receivingConcepts":["Astrology","Physician","Translation"],"emittingConcepts":[]}
+{"concept":"Astrology","rel":"dbpedia/occupation","emittingConcepts":["Nostradamus","Ptolemy"],"receivingConcepts":[]}
+{"concept":"Oh No","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Olivia","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Outsider","rel":"dbpedia/occupation","receivingConcepts":["Lyricist","Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Pancakes","rel":"dbpedia/occupation","receivingConcepts":["Musician","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Patrick Henry","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Plantation"],"emittingConcepts":[]}
+{"concept":"Peter Cooper","rel":"dbpedia/occupation","receivingConcepts":["Invention","Philanthropy"],"emittingConcepts":[]}
+{"concept":"Pinchas Zukerman","rel":"dbpedia/occupation","receivingConcepts":["Pedagogy","Viola","Violin"],"emittingConcepts":[]}
+{"concept":"Pliny Elder","rel":"dbpedia/occupation","receivingConcepts":["Author","Lawyer","Natural History","Natural Philosophy"],"emittingConcepts":[]}
+{"concept":"Plutarch","rel":"dbpedia/occupation","receivingConcepts":["Ambassador","Biography","Essay","Priest"],"emittingConcepts":[]}
+{"concept":"Prodigy","rel":"dbpedia/occupation","receivingConcepts":["Author","Rapping"],"emittingConcepts":[]}
+{"concept":"Ptolemy","rel":"dbpedia/occupation","receivingConcepts":["Astrology","Astronomer","Geographer","Mathematician"],"emittingConcepts":[]}
+{"concept":"Q Tip","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Queen Consort","rel":"dbpedia/occupation","emittingConcepts":["Queen of Hearts","Scheherazade"],"receivingConcepts":[]}
+{"concept":"Rain","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Raphael","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Redone","rel":"dbpedia/occupation","receivingConcepts":["Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Reinhold Niebuhr","rel":"dbpedia/occupation","receivingConcepts":["Ethics","Theology"],"emittingConcepts":[]}
+{"concept":"Richard Nixon","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Richard Rodgers","rel":"dbpedia/occupation","receivingConcepts":["Composer","Playwright","Songwriter"],"emittingConcepts":[]}
+{"concept":"Richard Wright","rel":"dbpedia/occupation","receivingConcepts":["Musician","Songwriter"],"emittingConcepts":[]}
+{"concept":"Robert Herrick","rel":"dbpedia/occupation","receivingConcepts":["Clergy","Poet"],"emittingConcepts":[]}
+{"concept":"Artist","rel":"dbpedia/occupation","emittingConcepts":["Robert Indiana","Yoko Ono"],"receivingConcepts":[]}
+{"concept":"Robert Mills","rel":"dbpedia/occupation","receivingConcepts":["Architect","Engineer"],"emittingConcepts":[]}
+{"concept":"Roger Sherman","rel":"dbpedia/occupation","receivingConcepts":["Lawyer","Politician"],"emittingConcepts":[]}
+{"concept":"Rohini","rel":"dbpedia/occupation","receivingConcepts":["Lyricist","Screenwriter"],"emittingConcepts":[]}
+{"concept":"Ronald Reagan","rel":"dbpedia/occupation","receivingConcepts":["Actor","Politician"],"emittingConcepts":[]}
+{"concept":"Roscoe","rel":"dbpedia/occupation","receivingConcepts":["Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Ruby Murray","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Rudolf Diesel","rel":"dbpedia/occupation","receivingConcepts":["Engineer","Invention"],"emittingConcepts":[]}
+{"concept":"Sade","rel":"dbpedia/occupation","receivingConcepts":["Arrangement","Composer","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Samuel De Champlain","rel":"dbpedia/occupation","receivingConcepts":["Cartography","Chronicle","Navigator"],"emittingConcepts":[]}
+{"concept":"Samuel Morse","rel":"dbpedia/occupation","receivingConcepts":["Invention","Painting"],"emittingConcepts":[]}
+{"concept":"Sasha","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Sebastian","rel":"dbpedia/occupation","receivingConcepts":["Musician","Singer Songwriter","Composer","Disc Jockey","Record Producer","Rapping","Songwriter"],"emittingConcepts":[]}
+{"concept":"Sergei Diaghilev","rel":"dbpedia/occupation","receivingConcepts":["Ballet","Patronage"],"emittingConcepts":[]}
+{"concept":"Sergei Rachmaninoff","rel":"dbpedia/occupation","receivingConcepts":["Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"Sinclair Lewis","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Short Story"],"emittingConcepts":[]}
+{"concept":"Sophie Tucker","rel":"dbpedia/occupation","receivingConcepts":["Actor","Comedian","Singing"],"emittingConcepts":[]}
+{"concept":"Soraya","rel":"dbpedia/occupation","receivingConcepts":["Arrangement","Guitarist","Record Producer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Steno","rel":"dbpedia/occupation","receivingConcepts":["Cinematographer","Screenwriter"],"emittingConcepts":[]}
+{"concept":"Stephen Girard","rel":"dbpedia/occupation","receivingConcepts":["Bank","Sailor"],"emittingConcepts":[]}
+{"concept":"Stephen King","rel":"dbpedia/occupation","receivingConcepts":["Screenwriter","Short Story"],"emittingConcepts":[]}
+{"concept":"Steve Jobs","rel":"dbpedia/occupation","receivingConcepts":["Next","Pixar"],"emittingConcepts":[]}
+{"concept":"Strabo","rel":"dbpedia/occupation","receivingConcepts":["Geography","Historian","Philosophy"],"emittingConcepts":[]}
+{"concept":"Sunny","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"Sweeney Todd","rel":"dbpedia/occupation","receivingConcepts":["Barber","Serial Killer"],"emittingConcepts":[]}
+{"concept":"Taboo","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Tammy Wynette","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Tank","rel":"dbpedia/occupation","receivingConcepts":["Composer","Guitar","Record Producer","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Thelonious Monk","rel":"dbpedia/occupation","receivingConcepts":["Composer","Pianist"],"emittingConcepts":[]}
+{"concept":"Thomas Edison","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Invention"],"emittingConcepts":[]}
+{"concept":"Thrillseekers","rel":"dbpedia/occupation","receivingConcepts":["Disc Jockey","Record Producer"],"emittingConcepts":[]}
+{"concept":"Timbuktu","rel":"dbpedia/occupation","receivingConcepts":["Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Timothy Mcveigh","rel":"dbpedia/occupation","receivingConcepts":["Security Guard","United States Army"],"emittingConcepts":[]}
+{"concept":"Tweet","rel":"dbpedia/occupation","receivingConcepts":["Guitarist","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Twyla Tharp","rel":"dbpedia/occupation","receivingConcepts":["Choreography","Dance"],"emittingConcepts":[]}
+{"concept":"Tycho Brahe","rel":"dbpedia/occupation","receivingConcepts":["Astronomy","Nobility"],"emittingConcepts":[]}
+{"concept":"Vanity","rel":"dbpedia/occupation","receivingConcepts":["Actor","Dance","Singing","Songwriter"],"emittingConcepts":[]}
+{"concept":"Vaslav Nijinsky","rel":"dbpedia/occupation","receivingConcepts":["Ballet Dancer","Choreography"],"emittingConcepts":[]}
+{"concept":"Verbal","rel":"dbpedia/occupation","receivingConcepts":["Music Video","Rapping","Record Producer"],"emittingConcepts":[]}
+{"concept":"Vicente Fox","rel":"dbpedia/occupation","receivingConcepts":["Businessperson","Politician"],"emittingConcepts":[]}
+{"concept":"Vijay","rel":"dbpedia/occupation","receivingConcepts":["Actor","Philanthropy"],"emittingConcepts":[]}
+{"concept":"Vitalic","rel":"dbpedia/occupation","receivingConcepts":["Musician","Remix","Songwriter"],"emittingConcepts":[]}
+{"concept":"Vitamin C","rel":"dbpedia/occupation","receivingConcepts":["Dance","Singer Songwriter"],"emittingConcepts":[]}
+{"concept":"Voltaire","rel":"dbpedia/occupation","receivingConcepts":["Philosophy","Animator","Singer Songwriter","Teacher","Writer"],"emittingConcepts":[]}
+{"concept":"W Somerset Maugham","rel":"dbpedia/occupation","receivingConcepts":["Playwright","Short Story"],"emittingConcepts":[]}
+{"concept":"Wax","rel":"dbpedia/occupation","receivingConcepts":["Actor","Singing"],"emittingConcepts":[]}
+{"concept":"William Hogarth","rel":"dbpedia/occupation","receivingConcepts":["Engraving","Painting","Satire"],"emittingConcepts":[]}
+{"concept":"Winfield Scott","rel":"dbpedia/occupation","receivingConcepts":["Military Occupation","Whig Party"],"emittingConcepts":[]}
+{"concept":"Xenophon","rel":"dbpedia/occupation","receivingConcepts":["Historian","Mercenary"],"emittingConcepts":[]}
+{"concept":"Yoko Ono","rel":"dbpedia/occupation","receivingConcepts":["Artist","Peace Movement","Singing"],"emittingConcepts":[]}
+{"concept":"Young Buck","rel":"dbpedia/occupation","receivingConcepts":["Actor","Rapping"],"emittingConcepts":[]}
+{"concept":"Yuri","rel":"dbpedia/occupation","receivingConcepts":["Performance Art","Singing"],"emittingConcepts":[]}

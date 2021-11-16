@@ -73,6 +73,13 @@ module.exports = {
 
         const anchor = 'southeast'; // changes position of hex1 image relative to hex2
 
+        if(Array.isArray(hex1)){
+            hex1 = hex1[1];
+        }
+        else if(hex1.includes(',')){
+            hex1 = hex1.split(',')
+            hex1 = hex1[1];
+        }
         sharp('./public/images/' + hex1 + '.png')
             .resize({
                 fit: sharp.fit.contain,
@@ -91,7 +98,7 @@ module.exports = {
                     });
             })
             .catch(err => {
-                console.log("Error: ", err);
+                console.log("Error: " + typeof hex1 + " + " + hex2, err);
             });
     }
 };

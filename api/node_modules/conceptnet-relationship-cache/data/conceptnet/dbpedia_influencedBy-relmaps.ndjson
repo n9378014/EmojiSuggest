@@ -1,0 +1,369 @@
+{"concept":"Apl","rel":"dbpedia/influencedBy","emittingConcepts":["A","Forth","J"],"receivingConcepts":[]}
+{"concept":"Actionscript","rel":"dbpedia/influencedBy","receivingConcepts":["Java","Javascript"],"emittingConcepts":[]}
+{"concept":"Java","rel":"dbpedia/influencedBy","emittingConcepts":["Actionscript","Ada","Beanshell","C Sharp","Ceylon","Clojure","D","Ecmascript","Gambas","Groovy","Javascript","Php","Python","Scala","Typescript"],"receivingConcepts":["Ada","C","C Sharp","Eiffel","Objective C"]}
+{"concept":"Javascript","rel":"dbpedia/influencedBy","emittingConcepts":["Actionscript","Beanshell","Dart","Typescript"],"receivingConcepts":["Awk","C","Java","Lua","Perl","Python","Scheme"]}
+{"concept":"Ada","rel":"dbpedia/influencedBy","receivingConcepts":["C","Eiffel","Java","Pascal","Smalltalk"],"emittingConcepts":["C","Eiffel","Java","Ruby","Vhdl"]}
+{"concept":"C","rel":"dbpedia/influencedBy","emittingConcepts":["Ada","Awk","C","C Sharp","Cobol","Cyclone","D","Ecmascript","Falcon","Go","Java","Javascript","Limbo","Lua","Objective C","Perl","Php","Python","Ruby","Rust"],"receivingConcepts":["Ada","C","Clu","Ml","Assembly Language","B","Fortran","I"]}
+{"concept":"Eiffel","rel":"dbpedia/influencedBy","emittingConcepts":["Ada","C Sharp","Cobra","D","Java","Ruby","Scala"],"receivingConcepts":["Ada"]}
+{"concept":"Pascal","rel":"dbpedia/influencedBy","emittingConcepts":["Ada","Go","Limbo","Perl","Turing","Vhdl"],"receivingConcepts":[]}
+{"concept":"Smalltalk","rel":"dbpedia/influencedBy","emittingConcepts":["Ada","Ceylon","Cobol","Dart","Falcon","Go","Groovy","Io","Objective C","Perl","Pharo","Ruby","Scala","Scratch"],"receivingConcepts":["Lisp","Logo"]}
+{"concept":"Adam Smith","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle"],"emittingConcepts":["David Hume","David Ricardo","Friedrich Engels","Georg Wilhelm Friedrich Hegel","Immanuel Kant","James Watt","John Maynard Keynes","John Stuart Mill","Karl Marx","Milton Friedman","Noam Chomsky"]}
+{"concept":"Aristotle","rel":"dbpedia/influencedBy","emittingConcepts":["Adam Smith","Alfred North Whitehead","Averroes","Boethius","Duns Scotus","Edmund Burke","Georg Wilhelm Friedrich Hegel","George Boole","Gottfried Wilhelm Leibniz","Hypatia","Iamblichus","Immanuel Kant","Jean Jacques Rousseau","Jean Racine","John Locke","John Stuart Mill","Karl Marx","Karl Popper","Maimonides","Martin Heidegger","Montesquieu","Peter Abelard","Porphyry","Theophrastus","Thomas Hobbes","William of Ockham"],"receivingConcepts":["Democritus","Heraclitus","Parmenides","Plato","Socrates"]}
+{"concept":"Alexander Pushkin","rel":"dbpedia/influencedBy","receivingConcepts":["Dante Alighieri","Johann Wolfgang Von Goethe","John Keats","Lord Byron","Percy Bysshe Shelley","Voltaire","William Shakespeare"],"emittingConcepts":["Henry James","Ivan Turgenev","Vladimir Nabokov"]}
+{"concept":"Dante Alighieri","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Anthony Burgess","Dorothy L Sayers","Samuel Beckett","Torquato Tasso"],"receivingConcepts":[]}
+{"concept":"Johann Wolfgang Von Goethe","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Ernst Cassirer","Friedrich Engels","Georg Wilhelm Friedrich Hegel","Gustave Flaubert","Hermann Hesse","Ivan Turgenev","John Stuart Mill","Karl Marx","Ludwig Wittgenstein","Matthew Arnold","Oswald Spengler","Patrick White","Rudolf Steiner"],"receivingConcepts":["Emanuel Swedenborg","Friedrich Gottlieb Klopstock","Gotthold Ephraim Lessing","Homer","Immanuel Kant","Jean Jacques Rousseau","Johann Joachim Winckelmann","Oliver Goldsmith","William Shakespeare"]}
+{"concept":"John Keats","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Alfred Lord Tennyson","George Meredith","Matthew Arnold","Robert Frost","Wallace Stevens","William Carlos Williams"],"receivingConcepts":[]}
+{"concept":"Lord Byron","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Gustave Flaubert","Ivan Turgenev","Knut Hamsun"],"receivingConcepts":["Alexander Pope","John Milton"]}
+{"concept":"Percy Bysshe Shelley","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Hart Crane"],"receivingConcepts":["John Milton"]}
+{"concept":"Voltaire","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Denis Diderot","Italo Calvino","Jean Jacques Rousseau","Karl Marx","Marquis De Sade","Thomas Paine"],"receivingConcepts":[]}
+{"concept":"William Shakespeare","rel":"dbpedia/influencedBy","emittingConcepts":["Alexander Pushkin","Alfred Lord Tennyson","Anthony Burgess","August Strindberg","Hans Christian Andersen","Harold Pinter","Haruki Murakami","Henry Fielding","Herman Melville","Iris Murdoch","Ivan Turgenev","Johann Wolfgang Von Goethe","John Updike","Karen Blixen","Karl Marx","Ken Kesey","Stendhal","Ted Hughes","Virginia Woolf","Walter Scott","William Faulkner"],"receivingConcepts":[]}
+{"concept":"Alexis De Tocqueville","rel":"dbpedia/influencedBy","receivingConcepts":["Blaise Pascal","Jean Jacques Rousseau","Montesquieu"],"emittingConcepts":["John Stuart Mill"]}
+{"concept":"Blaise Pascal","rel":"dbpedia/influencedBy","emittingConcepts":["Alexis De Tocqueville","Gottfried Wilhelm Leibniz"],"receivingConcepts":["Augustine of Hippo","Epictetus"]}
+{"concept":"Jean Jacques Rousseau","rel":"dbpedia/influencedBy","emittingConcepts":["Alexis De Tocqueville","B F Skinner","David Hume","Friedrich Engels","Georg Wilhelm Friedrich Hegel","Giuseppe Mazzini","Immanuel Kant","Jean Paul Sartre","Johann Wolfgang Von Goethe","Karl Marx","Marquis De Sade","Pierre Joseph Proudhon","Thomas Paine","William Hazlitt"],"receivingConcepts":["Aristotle","Denis Diderot","Hugo Grotius","John Locke","Montesquieu","Plato","Thomas Hobbes","Voltaire"]}
+{"concept":"Montesquieu","rel":"dbpedia/influencedBy","emittingConcepts":["Alexis De Tocqueville","Edmund Burke","Jean Jacques Rousseau","Thomas Paine"],"receivingConcepts":["Aristotle","Cicero","John Locke","Thomas Hobbes"]}
+{"concept":"John Stuart Mill","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred Binet","Herbert Spencer","Karl Popper","Milton Friedman"],"receivingConcepts":["Adam Smith","Alexis De Tocqueville","Aristotle","Auguste Comte","David Hume","David Ricardo","Epicurus","George Berkeley","James Mill","Jeremy Bentham","Johann Wolfgang Von Goethe","John Locke","Plato","Samuel Taylor Coleridge","Thomas Aquinas","Thomas Hobbes","William Wordsworth"]}
+{"concept":"Alfred Lord Tennyson","rel":"dbpedia/influencedBy","receivingConcepts":["Geoffrey Chaucer","John Keats","John Milton","William Shakespeare"],"emittingConcepts":["George Meredith"]}
+{"concept":"Geoffrey Chaucer","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred Lord Tennyson","Joel Chandler Harris"],"receivingConcepts":[]}
+{"concept":"John Milton","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred Lord Tennyson","Anthony Burgess","Henry Fielding","Lord Byron","Percy Bysshe Shelley"],"receivingConcepts":[]}
+{"concept":"Alfred North Whitehead","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","David Hume","Gottfried Wilhelm Leibniz","Henri Bergson","Immanuel Kant","Isaac Newton","John Locke","Plato","William James"],"emittingConcepts":["Willard Van Orman Quine"]}
+{"concept":"David Hume","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","Edmund Husserl","Immanuel Kant","John Stuart Mill","Karl Popper","Noam Chomsky","Thomas Reid","William Hazlitt","William James"],"receivingConcepts":["Adam Smith","Cicero","George Berkeley","Isaac Newton","Jean Jacques Rousseau","John Locke","Thomas Hobbes"]}
+{"concept":"Gottfried Wilhelm Leibniz","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","Edmund Husserl","Georg Wilhelm Friedrich Hegel","Immanuel Kant"],"receivingConcepts":["Aristotle","Augustine of Hippo","Bible","Blaise Pascal","Christiaan Huygens","Confucius","Giordano Bruno","Maimonides","Plato","Plotinus","Scholasticism","Thomas Aquinas","Thomas Hobbes"]}
+{"concept":"Henri Bergson","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","Jean Piaget","Pierre Teilhard De Chardin","Simone De Beauvoir"],"receivingConcepts":["Immanuel Kant"]}
+{"concept":"Immanuel Kant","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","David Hilbert","Edmund Husserl","Ernst Cassirer","Georg Wilhelm Friedrich Hegel","Hannah Arendt","Henri Bergson","Herbert Marcuse","Jean Piaget","Johann Friedrich Herbart","Johann Wolfgang Von Goethe","Karl Jaspers","Karl Popper","Martin Buber","Martin Heidegger","Max Weber","Noam Chomsky","Rudolf Steiner","Simone De Beauvoir"],"receivingConcepts":["Adam Smith","Aristotle","David Hume","Emanuel Swedenborg","Epicurus","Euclid","Gottfried Wilhelm Leibniz","Isaac Newton","Jean Jacques Rousseau","John Locke","Plato"]}
+{"concept":"Isaac Newton","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","David Hartley","David Hume","Denis Diderot","George Berkeley","George Boole","Immanuel Kant"],"receivingConcepts":["Galileo Galilei","Johannes Kepler","Robert Boyle"]}
+{"concept":"John Locke","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","David Hartley","David Hume","Denis Diderot","Edmund Burke","George Berkeley","Immanuel Kant","Jean Jacques Rousseau","John Stuart Mill","Laurence Sterne","Montesquieu","Thomas Paine"],"receivingConcepts":["Aristotle","Avicenna","Cicero","Hugo Grotius","Plato","Richard Hooker","Thomas Aquinas","Thomas Hobbes"]}
+{"concept":"Plato","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","Aristotle","Boethius","Edmund Husserl","Georg Wilhelm Friedrich Hegel","Giuseppe Mazzini","Gottfried Wilhelm Leibniz","Hermann Hesse","Hypatia","Iamblichus","Immanuel Kant","Iris Murdoch","Jean Jacques Rousseau","John Dewey","John Locke","John Stuart Mill","Lucian","Martin Heidegger","Plotinus","Porphyry","Simone Weil","Theophrastus","Xenocrates"],"receivingConcepts":["Aesop","Aristophanes","Heraclitus","Hesiod","Homer","Orphism","Parmenides","Protagoras","Pythagoras","Socrates"]}
+{"concept":"William James","rel":"dbpedia/influencedBy","emittingConcepts":["Alfred North Whitehead","B F Skinner","Thorstein Veblen","W E B Du Bois"],"receivingConcepts":["Charles Sanders Peirce","David Hartley","David Hume","Emanuel Swedenborg","Ernst Mach","Hermann Von Helmholtz"]}
+{"concept":"T S Eliot","rel":"dbpedia/influencedBy","emittingConcepts":["Allen Tate","Anthony Burgess","Conrad Aiken","Dylan Thomas","Harold Pinter","Hart Crane","Lawrence Durrell","Randall Jarrell","Ted Hughes"],"receivingConcepts":[]}
+{"concept":"Ambrose Bierce","rel":"dbpedia/influencedBy","receivingConcepts":["Edgar Allan Poe","Jonathan Swift"],"emittingConcepts":["Italo Calvino"]}
+{"concept":"Edgar Allan Poe","rel":"dbpedia/influencedBy","emittingConcepts":["Ambrose Bierce","Henry James","Italo Calvino","Joyce Carol Oates","Jules Verne","Robert Louis Stevenson","Stephen King","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"Jonathan Swift","rel":"dbpedia/influencedBy","emittingConcepts":["Ambrose Bierce","George Orwell","Henry Fielding","John Ruskin","Walter Scott","William Makepeace Thackeray","William S Burroughs"],"receivingConcepts":[]}
+{"concept":"Anaximander","rel":"dbpedia/influencedBy","receivingConcepts":["Thales"],"emittingConcepts":["Heraclitus","Martin Heidegger","Pythagoras"]}
+{"concept":"Thales","rel":"dbpedia/influencedBy","emittingConcepts":["Anaximander","Pythagoras"],"receivingConcepts":[]}
+{"concept":"Robert Lowell","rel":"dbpedia/influencedBy","emittingConcepts":["Anne Sexton","Sylvia Plath"],"receivingConcepts":["Allen Tate","Hart Crane","William Carlos Williams"]}
+{"concept":"Anthony Burgess","rel":"dbpedia/influencedBy","receivingConcepts":["Aldous Huxley","Christopher Marlowe","D H Lawrence","Dante Alighieri","Evelyn Waugh","Ford Madox Ford","George Orwell","Gerard Manley Hopkins","Homer","James Joyce","John Milton","Joseph Conrad","King James Version","Laurence Sterne","Pelagius","Samuel Johnson","Sigmund Freud","T S Eliot","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Aldous Huxley","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","George Orwell"],"receivingConcepts":[]}
+{"concept":"D H Lawrence","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Dylan Thomas","Joyce Carol Oates","Patrick White"],"receivingConcepts":["Arthur Schopenhauer","Friedrich Nietzsche","Herman Melville","Joseph Conrad","Thomas Hardy","Walt Whitman"]}
+{"concept":"Evelyn Waugh","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Tom Wolfe"],"receivingConcepts":[]}
+{"concept":"George Orwell","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Noam Chomsky"],"receivingConcepts":["Aldous Huxley","Arthur Koestler","Charles Dickens","Fyodor Dostoyevsky","Gustave Flaubert","H G Wells","Henry Fielding","Jack London","James Joyce","Jonathan Swift","Leo Tolstoy","Leon Trotsky","Upton Sinclair","W Somerset Maugham"]}
+{"concept":"Gerard Manley Hopkins","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Hart Crane","Ted Hughes"],"receivingConcepts":[]}
+{"concept":"Homer","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Henry Fielding","Johann Wolfgang Von Goethe","Lucian","Ovid","Plato","Simone Weil","Virgil"],"receivingConcepts":["Rhapsode"]}
+{"concept":"James Joyce","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Carlos Fuentes","Don Delillo","Donald Barthelme","Dylan Thomas","George Orwell","Harold Pinter","Jack Kerouac","Jacques Derrida","John Barth","Joseph Campbell","Joyce Carol Oates","Malcolm Lowry","Marshall Mcluhan","Salman Rushdie","Tom Stoppard","Virginia Woolf","Vladimir Nabokov","William Faulkner","William Styron"],"receivingConcepts":[]}
+{"concept":"Joseph Conrad","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","D H Lawrence","Ford Madox Ford","Graham Greene","Lawrence Durrell","Salman Rushdie","William Faulkner","William S Burroughs"],"receivingConcepts":[]}
+{"concept":"King James Version","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Walter Scott"],"receivingConcepts":[]}
+{"concept":"Laurence Sterne","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Denis Diderot"],"receivingConcepts":["John Locke","Lucian","Miguel De Cervantes"]}
+{"concept":"Sigmund Freud","rel":"dbpedia/influencedBy","emittingConcepts":["Anthony Burgess","Carl Jung","Dylan Thomas","Herbert Marcuse","Iris Murdoch","Jean Paul Sartre","Joseph Campbell","Ken Kesey","Martin Buber","Max Weber","Melanie Klein"],"receivingConcepts":[]}
+{"concept":"Antisthenes","rel":"dbpedia/influencedBy","receivingConcepts":["Gorgias","Socrates"],"emittingConcepts":[]}
+{"concept":"Gorgias","rel":"dbpedia/influencedBy","emittingConcepts":["Antisthenes"],"receivingConcepts":["Empedocles","Parmenides","Zeno of Elea"]}
+{"concept":"Socrates","rel":"dbpedia/influencedBy","emittingConcepts":["Antisthenes","Aristotle","Epictetus","Hannah Arendt","Karl Popper","Lucian","Plato"],"receivingConcepts":[]}
+{"concept":"Democritus","rel":"dbpedia/influencedBy","emittingConcepts":["Aristotle","Epicurus","Protagoras","Pyrrho"],"receivingConcepts":[]}
+{"concept":"Heraclitus","rel":"dbpedia/influencedBy","emittingConcepts":["Aristotle","Friedrich Engels","Georg Wilhelm Friedrich Hegel","Martin Heidegger","Oswald Spengler","Parmenides","Plato","Robinson Jeffers","Zeno of Citium"],"receivingConcepts":["Anaximander","Pythagoras"]}
+{"concept":"Parmenides","rel":"dbpedia/influencedBy","emittingConcepts":["Aristotle","Empedocles","Gorgias","Martin Heidegger","Plato","Protagoras","Zeno of Elea"],"receivingConcepts":["Heraclitus","Pythagoras","Xenophanes"]}
+{"concept":"Arthur Evans","rel":"dbpedia/influencedBy","receivingConcepts":["Heinrich Schliemann","William Ewart Gladstone"],"emittingConcepts":[]}
+{"concept":"Arthur Rimbaud","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Baudelaire","Victor Hugo"],"emittingConcepts":["Dylan Thomas","Jack Kerouac","Pablo Neruda","Paul Verlaine","William S Burroughs"]}
+{"concept":"Charles Baudelaire","rel":"dbpedia/influencedBy","emittingConcepts":["Arthur Rimbaud","Pablo Neruda","Paul Verlaine","Wallace Stevens"],"receivingConcepts":[]}
+{"concept":"Victor Hugo","rel":"dbpedia/influencedBy","emittingConcepts":["Arthur Rimbaud","Gustave Flaubert","Jules Verne","Paul Verlaine"],"receivingConcepts":[]}
+{"concept":"Arthur Schopenhauer","rel":"dbpedia/influencedBy","receivingConcepts":["Buddhism"],"emittingConcepts":["Carl Jung","D H Lawrence","George Eliot","Guy De Maupassant","Hermann Hesse","Iris Murdoch","Ivan Turgenev","Joseph Campbell","Karl Popper","Knut Hamsun","Ludwig Wittgenstein","Oswald Spengler","Paul Verlaine","Thomas Hardy"]}
+{"concept":"Charles Darwin","rel":"dbpedia/influencedBy","emittingConcepts":["Asa Gray","B F Skinner","Henry David Thoreau","Herbert Spencer","Karl Marx","Thomas Henry Huxley"],"receivingConcepts":["John Herschel"]}
+{"concept":"Ml","rel":"dbpedia/influencedBy","emittingConcepts":["Ats","C","C Sharp","Clojure","F Sharp","Haskell","Miranda","Standard Ml"],"receivingConcepts":[]}
+{"concept":"August Strindberg","rel":"dbpedia/influencedBy","receivingConcepts":["Emanuel Swedenborg","Friedrich Nietzsche","Henrik Ibsen","William Shakespeare"],"emittingConcepts":["Knut Hamsun"]}
+{"concept":"Emanuel Swedenborg","rel":"dbpedia/influencedBy","emittingConcepts":["August Strindberg","Immanuel Kant","Johann Wolfgang Von Goethe","William James"],"receivingConcepts":[]}
+{"concept":"Friedrich Nietzsche","rel":"dbpedia/influencedBy","emittingConcepts":["August Strindberg","Carl Jung","Carl Rogers","D H Lawrence","Emma Goldman","Hermann Hesse","Jean Paul Sartre","Joseph Campbell","Karl Jaspers","Ken Kesey","Knut Hamsun","Lawrence Durrell","Martin Buber","Martin Heidegger","Max Weber","Oswald Spengler","Robinson Jeffers","Simone De Beauvoir"],"receivingConcepts":[]}
+{"concept":"Henrik Ibsen","rel":"dbpedia/influencedBy","emittingConcepts":["August Strindberg","Henry James","Knut Hamsun"],"receivingConcepts":[]}
+{"concept":"Auguste Comte","rel":"dbpedia/influencedBy","receivingConcepts":["Francis Bacon","Marquis De Condorcet"],"emittingConcepts":["Herbert Spencer","John Stuart Mill","Vilfredo Pareto"]}
+{"concept":"Francis Bacon","rel":"dbpedia/influencedBy","emittingConcepts":["Auguste Comte","Robert Boyle","Thomas Hobbes","William Hazlitt"],"receivingConcepts":[]}
+{"concept":"Averroes","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle"],"emittingConcepts":["Giordano Bruno","Maimonides"]}
+{"concept":"Awk","rel":"dbpedia/influencedBy","receivingConcepts":["C","Snobol"],"emittingConcepts":["Ecmascript","Javascript","Perl","Tcl"]}
+{"concept":"Snobol","rel":"dbpedia/influencedBy","emittingConcepts":["Awk","Lua"],"receivingConcepts":[]}
+{"concept":"I","rel":"dbpedia/influencedBy","emittingConcepts":["B","C","Chill","Rexx"],"receivingConcepts":["Algol","Cobol","Fortran"]}
+{"concept":"B F Skinner","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Darwin","Ernst Mach","Henry David Thoreau","Ivan Pavlov","Jacques Loeb","Jean Jacques Rousseau","William James"],"emittingConcepts":["Willard Van Orman Quine"]}
+{"concept":"Ernst Mach","rel":"dbpedia/influencedBy","emittingConcepts":["B F Skinner","William James","Wolfgang Pauli"],"receivingConcepts":[]}
+{"concept":"Henry David Thoreau","rel":"dbpedia/influencedBy","emittingConcepts":["B F Skinner","Emma Goldman","Louisa May Alcott"],"receivingConcepts":["Charles Darwin","Ralph Waldo Emerson","Thomas Carlyle"]}
+{"concept":"Thomas Hobbes","rel":"dbpedia/influencedBy","emittingConcepts":["Baron D Holbach","David Hume","Gottfried Wilhelm Leibniz","Jean Jacques Rousseau","John Locke","John Stuart Mill","Montesquieu"],"receivingConcepts":["Aristotle","Francis Bacon","Hugo Grotius","Tacitus","Thucydides"]}
+{"concept":"Basic","rel":"dbpedia/influencedBy","receivingConcepts":["Fortran","Joss"],"emittingConcepts":["Visual Basic","Zebra"]}
+{"concept":"Fortran","rel":"dbpedia/influencedBy","emittingConcepts":["Basic","C","I"],"receivingConcepts":[]}
+{"concept":"Beanshell","rel":"dbpedia/influencedBy","receivingConcepts":["Java","Javascript","Perl"],"emittingConcepts":[]}
+{"concept":"Perl","rel":"dbpedia/influencedBy","emittingConcepts":["Beanshell","Ecmascript","Falcon","Groovy","Javascript","Php","Python","Ruby"],"receivingConcepts":["Awk","C","Lisp","Pascal","Sed","Smalltalk","Unix Shell"]}
+{"concept":"Ben Shahn","rel":"dbpedia/influencedBy","receivingConcepts":["Diego Rivera","Henri Matisse","Pablo Picasso","Paul Klee","Raoul Dufy"],"emittingConcepts":[]}
+{"concept":"Diego Rivera","rel":"dbpedia/influencedBy","emittingConcepts":["Ben Shahn","Louise Nevelson"],"receivingConcepts":[]}
+{"concept":"Henri Matisse","rel":"dbpedia/influencedBy","emittingConcepts":["Ben Shahn","Georges Braque","Raoul Dufy"],"receivingConcepts":["Paul Gauguin","Vincent Van Gogh"]}
+{"concept":"Pablo Picasso","rel":"dbpedia/influencedBy","emittingConcepts":["Ben Shahn","David Smith","Georges Braque","Jackson Pollock","Louise Nevelson"],"receivingConcepts":[]}
+{"concept":"Paul Klee","rel":"dbpedia/influencedBy","emittingConcepts":["Ben Shahn","Wallace Stevens"],"receivingConcepts":[]}
+{"concept":"Raoul Dufy","rel":"dbpedia/influencedBy","emittingConcepts":["Ben Shahn","Georges Braque"],"receivingConcepts":["Claude Monet","Henri Matisse"]}
+{"concept":"Benny Hill","rel":"dbpedia/influencedBy","receivingConcepts":["Charlie Chaplin","Jack Benny"],"emittingConcepts":[]}
+{"concept":"Charlie Chaplin","rel":"dbpedia/influencedBy","emittingConcepts":["Benny Hill","Harold Lloyd"],"receivingConcepts":[]}
+{"concept":"Johannes Kepler","rel":"dbpedia/influencedBy","emittingConcepts":["Benoit Mandelbrot","Isaac Newton"],"receivingConcepts":[]}
+{"concept":"Bertrand Russell","rel":"dbpedia/influencedBy","receivingConcepts":["Euclid"],"emittingConcepts":["G E Moore","Karl Popper","Ludwig Wittgenstein","Noam Chomsky"]}
+{"concept":"Euclid","rel":"dbpedia/influencedBy","emittingConcepts":["Bertrand Russell","Immanuel Kant"],"receivingConcepts":[]}
+{"concept":"Augustine of Hippo","rel":"dbpedia/influencedBy","emittingConcepts":["Blaise Pascal","Boethius","Duns Scotus","Gottfried Wilhelm Leibniz","Hannah Arendt","Martin Heidegger"],"receivingConcepts":[]}
+{"concept":"Epictetus","rel":"dbpedia/influencedBy","emittingConcepts":["Blaise Pascal"],"receivingConcepts":["Cleanthes","Hippocrates","Socrates","Zeno of Citium"]}
+{"concept":"Boethius","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Augustine of Hippo","Cicero","Plato","Plotinus","Porphyry"],"emittingConcepts":["Peter Abelard"]}
+{"concept":"Cicero","rel":"dbpedia/influencedBy","emittingConcepts":["Boethius","David Hume","Desiderius Erasmus","Edmund Burke","John Locke","Montesquieu","Ovid","Thomas Reid"],"receivingConcepts":[]}
+{"concept":"Plotinus","rel":"dbpedia/influencedBy","emittingConcepts":["Boethius","Gottfried Wilhelm Leibniz","Hypatia","Porphyry"],"receivingConcepts":["Plato","Pythagoreanism"]}
+{"concept":"Porphyry","rel":"dbpedia/influencedBy","emittingConcepts":["Boethius","Iamblichus","Peter Abelard"],"receivingConcepts":["Aristotle","Plato","Plotinus"]}
+{"concept":"Boo","rel":"dbpedia/influencedBy","receivingConcepts":["C Sharp","Python"],"emittingConcepts":[]}
+{"concept":"C Sharp","rel":"dbpedia/influencedBy","emittingConcepts":["Boo","Cobra","D","Dart","F Sharp","Java","Rust","Typescript"],"receivingConcepts":["C","Eiffel","F Sharp","Haskell","Java","Ml"]}
+{"concept":"Python","rel":"dbpedia/influencedBy","emittingConcepts":["Boo","Cobra","D","Ecmascript","F Sharp","Falcon","Groovy","Io","Javascript","Ruby"],"receivingConcepts":["C","Haskell","Java","Lisp","Perl"]}
+{"concept":"Clu","rel":"dbpedia/influencedBy","emittingConcepts":["C","Lua","Ruby"],"receivingConcepts":["Algol","Lisp"]}
+{"concept":"F Sharp","rel":"dbpedia/influencedBy","emittingConcepts":["C Sharp"],"receivingConcepts":["C Sharp","Erlang","Haskell","Ml","Python","Scala"]}
+{"concept":"Haskell","rel":"dbpedia/influencedBy","emittingConcepts":["C Sharp","Clean","Clojure","F Sharp","Mercury","Python","Rust","Scala"],"receivingConcepts":["Clean","Lisp","Miranda","Ml","Scheme","Standard Ml"]}
+{"concept":"Carl Jung","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Friedrich Nietzsche","Sigmund Freud"],"emittingConcepts":["Hermann Hesse","Joseph Campbell","Wolfgang Pauli"]}
+{"concept":"Carlos Fuentes","rel":"dbpedia/influencedBy","receivingConcepts":["James Joyce","Marcel Proust","Stendhal"],"emittingConcepts":[]}
+{"concept":"Marcel Proust","rel":"dbpedia/influencedBy","emittingConcepts":["Carlos Fuentes","Graham Greene","Harold Pinter","Iris Murdoch","Jack Kerouac","John Cheever","John Updike","Pablo Neruda","Virginia Woolf","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"Stendhal","rel":"dbpedia/influencedBy","emittingConcepts":["Carlos Fuentes"],"receivingConcepts":["William Hazlitt","William Shakespeare"]}
+{"concept":"Ceylon","rel":"dbpedia/influencedBy","receivingConcepts":["Java","Scala","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Scala","rel":"dbpedia/influencedBy","emittingConcepts":["Ceylon","F Sharp"],"receivingConcepts":["Eiffel","Erlang","Haskell","Java","Lisp","Scheme","Smalltalk","Standard Ml"]}
+{"concept":"Chaim Soutine","rel":"dbpedia/influencedBy","receivingConcepts":["Gustave Courbet","Rembrandt"],"emittingConcepts":[]}
+{"concept":"Gustave Courbet","rel":"dbpedia/influencedBy","emittingConcepts":["Chaim Soutine","Claude Monet"],"receivingConcepts":[]}
+{"concept":"Rembrandt","rel":"dbpedia/influencedBy","emittingConcepts":["Chaim Soutine","William Hazlitt"],"receivingConcepts":[]}
+{"concept":"Chill","rel":"dbpedia/influencedBy","receivingConcepts":["Cobol","I"],"emittingConcepts":[]}
+{"concept":"Cobol","rel":"dbpedia/influencedBy","emittingConcepts":["Chill","I"],"receivingConcepts":["C","Smalltalk"]}
+{"concept":"Galileo Galilei","rel":"dbpedia/influencedBy","emittingConcepts":["Christiaan Huygens","Evangelista Torricelli","Isaac Newton","Italo Calvino","Robert Boyle"],"receivingConcepts":[]}
+{"concept":"Clean","rel":"dbpedia/influencedBy","receivingConcepts":["Haskell","Miranda"],"emittingConcepts":["Haskell"]}
+{"concept":"Miranda","rel":"dbpedia/influencedBy","emittingConcepts":["Clean","Haskell"],"receivingConcepts":["Ml"]}
+{"concept":"Zeno of Citium","rel":"dbpedia/influencedBy","emittingConcepts":["Cleanthes","Epictetus"],"receivingConcepts":["Cynicism","Heraclitus"]}
+{"concept":"Clojure","rel":"dbpedia/influencedBy","receivingConcepts":["Common Lisp","Erlang","Haskell","Java","Ml","Prolog","Ruby","Scheme"],"emittingConcepts":[]}
+{"concept":"Common Lisp","rel":"dbpedia/influencedBy","emittingConcepts":["Clojure"],"receivingConcepts":["Lisp","Scheme"]}
+{"concept":"Erlang","rel":"dbpedia/influencedBy","emittingConcepts":["Clojure","Dart","F Sharp","Rust","Scala"],"receivingConcepts":[]}
+{"concept":"Prolog","rel":"dbpedia/influencedBy","emittingConcepts":["Clojure","Mercury"],"receivingConcepts":[]}
+{"concept":"Ruby","rel":"dbpedia/influencedBy","emittingConcepts":["Clojure","D","Falcon","Groovy","Rust"],"receivingConcepts":["Ada","C","Clu","Eiffel","Lisp","Lua","Perl","Python","Smalltalk"]}
+{"concept":"Scheme","rel":"dbpedia/influencedBy","emittingConcepts":["Clojure","Common Lisp","Ecmascript","Haskell","Javascript","Lua","R","Rust","Scala"],"receivingConcepts":["Algol","Lisp"]}
+{"concept":"Algol","rel":"dbpedia/influencedBy","emittingConcepts":["Clu","I","Rexx","Scheme"],"receivingConcepts":[]}
+{"concept":"Lisp","rel":"dbpedia/influencedBy","emittingConcepts":["Clu","Common Lisp","Falcon","Forth","Haskell","Io","Logo","Perl","Postscript","Python","Ruby","Scala","Scheme","Smalltalk","Tcl"],"receivingConcepts":[]}
+{"concept":"Cobra","rel":"dbpedia/influencedBy","receivingConcepts":["C Sharp","Eiffel","Objective C","Python"],"emittingConcepts":[]}
+{"concept":"Objective C","rel":"dbpedia/influencedBy","emittingConcepts":["Cobra","Groovy","Java"],"receivingConcepts":["C","Smalltalk"]}
+{"concept":"Confucius","rel":"dbpedia/influencedBy","receivingConcepts":["I Ching"],"emittingConcepts":["Gottfried Wilhelm Leibniz","Mencius"]}
+{"concept":"D","rel":"dbpedia/influencedBy","receivingConcepts":["C","C Sharp","Eiffel","Java","Python","Ruby"],"emittingConcepts":[]}
+{"concept":"Herman Melville","rel":"dbpedia/influencedBy","emittingConcepts":["D H Lawrence","Jack Kerouac","John Updike","Malcolm Lowry","William Faulkner"],"receivingConcepts":["Nathaniel Hawthorne","William Shakespeare"]}
+{"concept":"Thomas Hardy","rel":"dbpedia/influencedBy","emittingConcepts":["D H Lawrence","John Irving","Robert Frost","Robinson Jeffers"],"receivingConcepts":["Arthur Schopenhauer","Charles Dickens","George Meredith","Thomas Gray"]}
+{"concept":"Walt Whitman","rel":"dbpedia/influencedBy","emittingConcepts":["D H Lawrence","Edgar Lee Masters","Hart Crane","Jack Kerouac","Pablo Neruda","Robinson Jeffers","Sherwood Anderson","William Carlos Williams"],"receivingConcepts":[]}
+{"concept":"Joseph Black","rel":"dbpedia/influencedBy","emittingConcepts":["Daniel Rutherford","James Watt"],"receivingConcepts":[]}
+{"concept":"Dart","rel":"dbpedia/influencedBy","receivingConcepts":["C Sharp","Erlang","Javascript","Smalltalk"],"emittingConcepts":[]}
+{"concept":"David Hartley","rel":"dbpedia/influencedBy","receivingConcepts":["Isaac Newton","John Locke","Thomas Reid"],"emittingConcepts":["James Mill","William James"]}
+{"concept":"Thomas Reid","rel":"dbpedia/influencedBy","emittingConcepts":["David Hartley"],"receivingConcepts":["Cicero","David Hume","George Berkeley","Thomas Aquinas"]}
+{"concept":"George Berkeley","rel":"dbpedia/influencedBy","emittingConcepts":["David Hume","John Stuart Mill","Thomas Reid","William Hazlitt"],"receivingConcepts":["Isaac Newton","John Locke"]}
+{"concept":"David Ricardo","rel":"dbpedia/influencedBy","receivingConcepts":["Adam Smith"],"emittingConcepts":["Friedrich Engels","John Stuart Mill","Karl Marx","Thomas Robert Malthus"]}
+{"concept":"Denis Diderot","rel":"dbpedia/influencedBy","receivingConcepts":["Isaac Newton","John Locke","Laurence Sterne","Lucretius","Miguel De Cervantes","Voltaire"],"emittingConcepts":["Jean Jacques Rousseau"]}
+{"concept":"Lucretius","rel":"dbpedia/influencedBy","emittingConcepts":["Denis Diderot","Virgil"],"receivingConcepts":["Epicurus"]}
+{"concept":"Miguel De Cervantes","rel":"dbpedia/influencedBy","emittingConcepts":["Denis Diderot","G K Chesterton","George Eliot","Gustave Flaubert","Henry Fielding","Laurence Sterne","Tobias Smollett","William Faulkner"],"receivingConcepts":["Giovanni Boccaccio"]}
+{"concept":"Desiderius Erasmus","rel":"dbpedia/influencedBy","receivingConcepts":["Cicero","Epicureanism"],"emittingConcepts":[]}
+{"concept":"Don Delillo","rel":"dbpedia/influencedBy","receivingConcepts":["Ernest Hemingway","Ezra Pound","Flannery O'connor","Franz Kafka","Fyodor Dostoyevsky","Gertrude Stein","Henry James","James Joyce","Jean Luc Godard","John Dos Passos","Malcolm Lowry","Norman Mailer","Samuel Beckett","Saul Bellow","Thomas Pynchon","Vladimir Nabokov","William Faulkner"],"emittingConcepts":[]}
+{"concept":"Ernest Hemingway","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Elmore Leonard","Harold Pinter","Italo Calvino","Jack Kerouac","John Cheever","Joyce Carol Oates","Ken Kesey","Malcolm Lowry","Tom Wolfe"],"receivingConcepts":[]}
+{"concept":"Ezra Pound","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","William Carlos Williams"],"receivingConcepts":[]}
+{"concept":"Flannery O'connor","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Joyce Carol Oates"],"receivingConcepts":["Fyodor Dostoyevsky","William Faulkner"]}
+{"concept":"Franz Kafka","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Harold Pinter","Haruki Murakami","Italo Calvino","Joyce Carol Oates","Magnus Mills","Malcolm Lowry","Salman Rushdie","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"Fyodor Dostoyevsky","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Flannery O'connor","George Orwell","Haruki Murakami","Iris Murdoch","Jack Kerouac","Jean Paul Sartre","Joyce Carol Oates","Ken Kesey","Knut Hamsun","Malcolm Lowry","William Faulkner"],"receivingConcepts":[]}
+{"concept":"Gertrude Stein","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Sherwood Anderson"],"receivingConcepts":[]}
+{"concept":"Henry James","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Graham Greene","John Updike","Tom Stoppard"],"receivingConcepts":["Alexander Pushkin","Charles Dickens","Edgar Allan Poe","Henrik Ibsen","Ivan Turgenev","Jane Austen","Nathaniel Hawthorne"]}
+{"concept":"John Dos Passos","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","William Styron"],"receivingConcepts":[]}
+{"concept":"Malcolm Lowry","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo"],"receivingConcepts":["Conrad Aiken","Ernest Hemingway","Franz Kafka","Fyodor Dostoyevsky","Herman Melville","Jack London","James Joyce","Leo Tolstoy","Sophocles","William Faulkner"]}
+{"concept":"Samuel Beckett","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Donald Barthelme","Harold Pinter","Italo Calvino","John Barth","Tom Stoppard","William S Burroughs"],"receivingConcepts":["Dante Alighieri"]}
+{"concept":"Saul Bellow","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Salman Rushdie"],"receivingConcepts":[]}
+{"concept":"Thomas Pynchon","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Neal Stephenson","Salman Rushdie","William Gibson"],"receivingConcepts":[]}
+{"concept":"Vladimir Nabokov","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Italo Calvino","John Barth","John Updike","Salman Rushdie"],"receivingConcepts":["Alexander Pushkin","Anton Chekhov","Arthur Conan Doyle","Charles Dickens","Edgar Allan Poe","Franz Kafka","Gustave Flaubert","James Joyce","Jules Verne","Leo Tolstoy","Marcel Proust","Robert Browning","Robert Louis Stevenson"]}
+{"concept":"William Faulkner","rel":"dbpedia/influencedBy","emittingConcepts":["Don Delillo","Flannery O'connor","Joyce Carol Oates","Ken Kesey","Malcolm Lowry","William Styron"],"receivingConcepts":["Charles Dickens","Fyodor Dostoyevsky","Gustave Flaubert","Herman Melville","James Joyce","Joseph Conrad","Leo Tolstoy","Miguel De Cervantes","Old Testament","Thomas Mann","William Shakespeare"]}
+{"concept":"Donald Barthelme","rel":"dbpedia/influencedBy","receivingConcepts":["James Joyce","Samuel Beckett"],"emittingConcepts":[]}
+{"concept":"Dorothy L Sayers","rel":"dbpedia/influencedBy","receivingConcepts":["Dante Alighieri","G K Chesterton","William Wordsworth"],"emittingConcepts":[]}
+{"concept":"G K Chesterton","rel":"dbpedia/influencedBy","emittingConcepts":["Dorothy L Sayers","Marshall Mcluhan"],"receivingConcepts":["Catholicism","Charles Dickens","Hilaire Belloc","Miguel De Cervantes","Robert Browning","Robert Louis Stevenson","Thomas Aquinas","William Blake"]}
+{"concept":"William Wordsworth","rel":"dbpedia/influencedBy","emittingConcepts":["Dorothy L Sayers","John Millington Synge","John Stuart Mill","Matthew Arnold","Randall Jarrell","Robinson Jeffers","William Hazlitt"],"receivingConcepts":[]}
+{"concept":"Dorothy Parker","rel":"dbpedia/influencedBy","receivingConcepts":["Colette","Ring Lardner","William Makepeace Thackeray"],"emittingConcepts":[]}
+{"concept":"William Makepeace Thackeray","rel":"dbpedia/influencedBy","emittingConcepts":["Dorothy Parker"],"receivingConcepts":["Charles Dickens","Henry Fielding","John Bunyan","Jonathan Swift"]}
+{"concept":"Duns Scotus","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Augustine of Hippo","Thomas Aquinas"],"emittingConcepts":["Martin Heidegger","William of Ockham"]}
+{"concept":"Thomas Aquinas","rel":"dbpedia/influencedBy","emittingConcepts":["Duns Scotus","G K Chesterton","Gottfried Wilhelm Leibniz","John Locke","John Stuart Mill","Meister Eckhart","Thomas Reid","Walker Percy","William of Ockham"],"receivingConcepts":[]}
+{"concept":"Dylan Thomas","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Rimbaud","D H Lawrence","James Joyce","John Donne","Sigmund Freud","T S Eliot"],"emittingConcepts":["Sylvia Plath"]}
+{"concept":"Ecmascript","rel":"dbpedia/influencedBy","receivingConcepts":["Awk","C","Java","Perl","Python","Scheme"],"emittingConcepts":[]}
+{"concept":"Edgar Lee Masters","rel":"dbpedia/influencedBy","receivingConcepts":["Abraham Lincoln","Mark Twain","Walt Whitman"],"emittingConcepts":[]}
+{"concept":"Mark Twain","rel":"dbpedia/influencedBy","emittingConcepts":["Edgar Lee Masters","Joel Chandler Harris","Ken Kesey","Robert Heinlein","Sherwood Anderson","William Styron"],"receivingConcepts":[]}
+{"concept":"Edgar Rice Burroughs","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Conan Doyle","H G Wells","Jules Verne","Rudyard Kipling"],"emittingConcepts":["Robert Heinlein"]}
+{"concept":"Arthur Conan Doyle","rel":"dbpedia/influencedBy","emittingConcepts":["Edgar Rice Burroughs","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"H G Wells","rel":"dbpedia/influencedBy","emittingConcepts":["Edgar Rice Burroughs","George Orwell","Robert Heinlein"],"receivingConcepts":[]}
+{"concept":"Jules Verne","rel":"dbpedia/influencedBy","emittingConcepts":["Edgar Rice Burroughs","Vladimir Nabokov","William Golding"],"receivingConcepts":["Alexandre Dumas","Daniel Defoe","Edgar Allan Poe","George Sand","James Fenimore Cooper","Victor Hugo","Walter Scott"]}
+{"concept":"Rudyard Kipling","rel":"dbpedia/influencedBy","emittingConcepts":["Edgar Rice Burroughs","Robert Heinlein"],"receivingConcepts":[]}
+{"concept":"Edmund Burke","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Cicero","John Locke","Montesquieu","Richard Hooker"],"emittingConcepts":["Karl Popper","William Hazlitt"]}
+{"concept":"Richard Hooker","rel":"dbpedia/influencedBy","emittingConcepts":["Edmund Burke","John Locke"],"receivingConcepts":[]}
+{"concept":"Edmund Husserl","rel":"dbpedia/influencedBy","receivingConcepts":["David Hume","Gottfried Wilhelm Leibniz","Immanuel Kant","Plato"],"emittingConcepts":["Herbert Marcuse","Jean Paul Sartre","Martin Heidegger","Simone De Beauvoir"]}
+{"concept":"Emma Goldman","rel":"dbpedia/influencedBy","receivingConcepts":["Friedrich Nietzsche","Henry David Thoreau","Mary Wollstonecraft","Mikhail Bakunin","Oscar Wilde","Ralph Waldo Emerson"],"emittingConcepts":[]}
+{"concept":"Mary Wollstonecraft","rel":"dbpedia/influencedBy","emittingConcepts":["Emma Goldman","Simone De Beauvoir"],"receivingConcepts":[]}
+{"concept":"Mikhail Bakunin","rel":"dbpedia/influencedBy","emittingConcepts":["Emma Goldman","Ivan Turgenev","Noam Chomsky"],"receivingConcepts":["Georg Wilhelm Friedrich Hegel","Karl Marx","Pierre Joseph Proudhon"]}
+{"concept":"Oscar Wilde","rel":"dbpedia/influencedBy","emittingConcepts":["Emma Goldman","Lawrence Durrell"],"receivingConcepts":[]}
+{"concept":"Ralph Waldo Emerson","rel":"dbpedia/influencedBy","emittingConcepts":["Emma Goldman","Henry David Thoreau","Louisa May Alcott","Martin Buber"],"receivingConcepts":[]}
+{"concept":"Empedocles","rel":"dbpedia/influencedBy","receivingConcepts":["Parmenides","Pythagoreanism"],"emittingConcepts":["Gorgias"]}
+{"concept":"Pythagoreanism","rel":"dbpedia/influencedBy","emittingConcepts":["Empedocles","Plotinus","Xenocrates"],"receivingConcepts":[]}
+{"concept":"Epicurus","rel":"dbpedia/influencedBy","receivingConcepts":["Democritus","Pyrrho"],"emittingConcepts":["Immanuel Kant","John Stuart Mill","Karl Marx","Lucian","Lucretius"]}
+{"concept":"Ernst Cassirer","rel":"dbpedia/influencedBy","receivingConcepts":["Immanuel Kant","Johann Wolfgang Von Goethe"],"emittingConcepts":[]}
+{"concept":"Falcon","rel":"dbpedia/influencedBy","receivingConcepts":["C","Lisp","Lua","Perl","Php","Python","Ruby","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Lua","rel":"dbpedia/influencedBy","emittingConcepts":["Falcon","Io","Javascript","Ruby"],"receivingConcepts":["C","Clu","Scheme","Snobol"]}
+{"concept":"Php","rel":"dbpedia/influencedBy","emittingConcepts":["Falcon"],"receivingConcepts":["C","Java","Perl","Tcl"]}
+{"concept":"Charles Sanders Peirce","rel":"dbpedia/influencedBy","emittingConcepts":["Ferdinand De Saussure","Walker Percy","William James"],"receivingConcepts":[]}
+{"concept":"Forth","rel":"dbpedia/influencedBy","receivingConcepts":["Apl","Lisp"],"emittingConcepts":[]}
+{"concept":"Frank Stella","rel":"dbpedia/influencedBy","receivingConcepts":["Caravaggio","Franz Kline","Jackson Pollock","Jasper Johns"],"emittingConcepts":[]}
+{"concept":"Jackson Pollock","rel":"dbpedia/influencedBy","emittingConcepts":["Frank Stella"],"receivingConcepts":["Pablo Picasso","Thomas Hart Benton"]}
+{"concept":"Friedrich Engels","rel":"dbpedia/influencedBy","receivingConcepts":["Adam Smith","Charles Fourier","David Ricardo","Georg Wilhelm Friedrich Hegel","Heraclitus","Jean Jacques Rousseau","Johann Wolfgang Von Goethe"],"emittingConcepts":[]}
+{"concept":"Charles Fourier","rel":"dbpedia/influencedBy","emittingConcepts":["Friedrich Engels","Karl Marx","Pierre Joseph Proudhon","Thorstein Veblen"],"receivingConcepts":[]}
+{"concept":"Georg Wilhelm Friedrich Hegel","rel":"dbpedia/influencedBy","emittingConcepts":["Friedrich Engels","Herbert Marcuse","Ivan Turgenev","Jean Paul Sartre","Karl Jaspers","Karl Marx","Karl Popper","Martin Heidegger","Mikhail Bakunin","Oswald Spengler","Pierre Joseph Proudhon","Pierre Teilhard De Chardin","Rudolf Steiner","Simone De Beauvoir"],"receivingConcepts":["Adam Smith","Aristotle","Gottfried Wilhelm Leibniz","Heraclitus","Immanuel Kant","Jean Jacques Rousseau","Johann Wolfgang Von Goethe","Neoplatonism","Plato"]}
+{"concept":"Charles Dickens","rel":"dbpedia/influencedBy","emittingConcepts":["G K Chesterton","George Orwell","Henry James","John Cheever","John Irving","Joyce Carol Oates","Ken Kesey","Louisa May Alcott","Robert Louis Stevenson","Thomas Hardy","Tom Wolfe","Vladimir Nabokov","William Faulkner","William Makepeace Thackeray"],"receivingConcepts":[]}
+{"concept":"Robert Browning","rel":"dbpedia/influencedBy","emittingConcepts":["G K Chesterton","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"Robert Louis Stevenson","rel":"dbpedia/influencedBy","emittingConcepts":["G K Chesterton","Graham Greene","Italo Calvino","Vladimir Nabokov"],"receivingConcepts":["Charles Dickens","Edgar Allan Poe","Guy De Maupassant","Nathaniel Hawthorne"]}
+{"concept":"William Blake","rel":"dbpedia/influencedBy","emittingConcepts":["G K Chesterton","Hart Crane","Northrop Frye","Ted Hughes"],"receivingConcepts":[]}
+{"concept":"Gambas","rel":"dbpedia/influencedBy","receivingConcepts":["Java","Visual Basic"],"emittingConcepts":[]}
+{"concept":"Visual Basic","rel":"dbpedia/influencedBy","emittingConcepts":["Gambas","Vbscript"],"receivingConcepts":["Basic"]}
+{"concept":"George Boole","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Isaac Newton"],"emittingConcepts":[]}
+{"concept":"George Eliot","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Jane Austen","Miguel De Cervantes"],"emittingConcepts":["Virginia Woolf"]}
+{"concept":"Jane Austen","rel":"dbpedia/influencedBy","emittingConcepts":["George Eliot","Henry James","John Cheever"],"receivingConcepts":[]}
+{"concept":"George Meredith","rel":"dbpedia/influencedBy","receivingConcepts":["Alfred Lord Tennyson","Dante Gabriel Rossetti","John Keats"],"emittingConcepts":["Thomas Hardy"]}
+{"concept":"Gustave Flaubert","rel":"dbpedia/influencedBy","emittingConcepts":["George Orwell","Guy De Maupassant","Jean Paul Sartre","Vladimir Nabokov","William Faulkner","William Styron"],"receivingConcepts":["Johann Wolfgang Von Goethe","Lord Byron","Miguel De Cervantes","Victor Hugo"]}
+{"concept":"Henry Fielding","rel":"dbpedia/influencedBy","emittingConcepts":["George Orwell","William Makepeace Thackeray"],"receivingConcepts":["Homer","Horace","John Milton","Jonathan Swift","Miguel De Cervantes","William Shakespeare"]}
+{"concept":"Jack London","rel":"dbpedia/influencedBy","emittingConcepts":["George Orwell","Jack Kerouac","Malcolm Lowry"],"receivingConcepts":[]}
+{"concept":"Leo Tolstoy","rel":"dbpedia/influencedBy","emittingConcepts":["George Orwell","Ludwig Wittgenstein","Malcolm Lowry","Virginia Woolf","Vladimir Nabokov","William Dean Howells","William Faulkner"],"receivingConcepts":[]}
+{"concept":"Georges Braque","rel":"dbpedia/influencedBy","receivingConcepts":["Henri Matisse","Pablo Picasso","Paul Gauguin","Raoul Dufy"],"emittingConcepts":[]}
+{"concept":"Paul Gauguin","rel":"dbpedia/influencedBy","emittingConcepts":["Georges Braque","Henri Matisse"],"receivingConcepts":[]}
+{"concept":"Giordano Bruno","rel":"dbpedia/influencedBy","receivingConcepts":["Averroes","Nicolaus Copernicus"],"emittingConcepts":["Gottfried Wilhelm Leibniz"]}
+{"concept":"Giuseppe Mazzini","rel":"dbpedia/influencedBy","receivingConcepts":["Jean Jacques Rousseau","Plato"],"emittingConcepts":[]}
+{"concept":"Go","rel":"dbpedia/influencedBy","receivingConcepts":["C","Limbo","Occam","Pascal","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Limbo","rel":"dbpedia/influencedBy","emittingConcepts":["Go","Rust"],"receivingConcepts":["C","Pascal"]}
+{"concept":"Bible","rel":"dbpedia/influencedBy","emittingConcepts":["Gottfried Wilhelm Leibniz","Meister Eckhart"],"receivingConcepts":[]}
+{"concept":"Maimonides","rel":"dbpedia/influencedBy","emittingConcepts":["Gottfried Wilhelm Leibniz"],"receivingConcepts":["Aristotle","Averroes","Avicenna","Talmud"]}
+{"concept":"Graham Greene","rel":"dbpedia/influencedBy","receivingConcepts":["Henry James","Joseph Conrad","Marcel Proust","Robert Louis Stevenson"],"emittingConcepts":[]}
+{"concept":"Groovy","rel":"dbpedia/influencedBy","receivingConcepts":["Java","Objective C","Perl","Python","Ruby","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Guy De Maupassant","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Gustave Flaubert"],"emittingConcepts":["Kate Chopin","Robert Louis Stevenson"]}
+{"concept":"Hannah Arendt","rel":"dbpedia/influencedBy","receivingConcepts":["Augustine of Hippo","Immanuel Kant","Karl Jaspers","Martin Heidegger","Socrates"],"emittingConcepts":[]}
+{"concept":"Karl Jaspers","rel":"dbpedia/influencedBy","emittingConcepts":["Hannah Arendt","Martin Heidegger"],"receivingConcepts":["Friedrich Nietzsche","Georg Wilhelm Friedrich Hegel","Immanuel Kant","Martin Heidegger","Max Weber","Meister Eckhart"]}
+{"concept":"Martin Heidegger","rel":"dbpedia/influencedBy","emittingConcepts":["Hannah Arendt","Herbert Marcuse","Jean Paul Sartre","Karl Jaspers","Simone De Beauvoir"],"receivingConcepts":["Anaximander","Aristotle","Augustine of Hippo","Duns Scotus","Edmund Husserl","Friedrich Nietzsche","Georg Wilhelm Friedrich Hegel","Heraclitus","Immanuel Kant","Karl Jaspers","Laozi","Meister Eckhart","Parmenides","Plato"]}
+{"concept":"Ernest Rutherford","rel":"dbpedia/influencedBy","emittingConcepts":["Hans Geiger","Niels Bohr"],"receivingConcepts":[]}
+{"concept":"Harold Pinter","rel":"dbpedia/influencedBy","receivingConcepts":["Ernest Hemingway","Film","Franz Kafka","James Joyce","John Webster","Marcel Proust","Samuel Beckett","Surrealism","T S Eliot","W B Yeats","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Surrealism","rel":"dbpedia/influencedBy","emittingConcepts":["Harold Pinter","Pablo Neruda"],"receivingConcepts":[]}
+{"concept":"W B Yeats","rel":"dbpedia/influencedBy","emittingConcepts":["Harold Pinter","John Millington Synge","Robert Frost","Sylvia Plath","Ted Hughes"],"receivingConcepts":[]}
+{"concept":"Hart Crane","rel":"dbpedia/influencedBy","receivingConcepts":["Gerard Manley Hopkins","Percy Bysshe Shelley","T S Eliot","Wallace Stevens","Walt Whitman","William Blake"],"emittingConcepts":["Jack Kerouac","Robert Lowell"]}
+{"concept":"Wallace Stevens","rel":"dbpedia/influencedBy","emittingConcepts":["Hart Crane"],"receivingConcepts":["Charles Baudelaire","John Keats","Paul Klee"]}
+{"concept":"Haruki Murakami","rel":"dbpedia/influencedBy","receivingConcepts":["Anton Chekhov","David Lynch","F Scott Fitzgerald","Franz Kafka","Fyodor Dostoyevsky","J D Salinger","John Irving","Kurt Vonnegut","Raymond Chandler","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Anton Chekhov","rel":"dbpedia/influencedBy","emittingConcepts":["Haruki Murakami","John Cheever","Salman Rushdie","Virginia Woolf","Vladimir Nabokov"],"receivingConcepts":[]}
+{"concept":"F Scott Fitzgerald","rel":"dbpedia/influencedBy","emittingConcepts":["Haruki Murakami","John Cheever","William Styron"],"receivingConcepts":[]}
+{"concept":"John Irving","rel":"dbpedia/influencedBy","emittingConcepts":["Haruki Murakami"],"receivingConcepts":["Charles Dickens","Kurt Vonnegut","Nathaniel Hawthorne","Thomas Hardy"]}
+{"concept":"Kurt Vonnegut","rel":"dbpedia/influencedBy","emittingConcepts":["Haruki Murakami","John Irving"],"receivingConcepts":[]}
+{"concept":"Standard Ml","rel":"dbpedia/influencedBy","emittingConcepts":["Haskell","Rust","Scala"],"receivingConcepts":["Ml"]}
+{"concept":"Ivan Turgenev","rel":"dbpedia/influencedBy","emittingConcepts":["Henry James","Sherwood Anderson"],"receivingConcepts":["Alexander Pushkin","Arthur Schopenhauer","Georg Wilhelm Friedrich Hegel","Johann Wolfgang Von Goethe","Lord Byron","Mikhail Bakunin","William Shakespeare"]}
+{"concept":"Nathaniel Hawthorne","rel":"dbpedia/influencedBy","emittingConcepts":["Henry James","Herman Melville","John Irving","John Updike","Robert Louis Stevenson"],"receivingConcepts":[]}
+{"concept":"Pythagoras","rel":"dbpedia/influencedBy","emittingConcepts":["Heraclitus","Iamblichus","Parmenides","Plato"],"receivingConcepts":["Anaximander","Thales"]}
+{"concept":"Herbert Marcuse","rel":"dbpedia/influencedBy","receivingConcepts":["Edmund Husserl","Georg Wilhelm Friedrich Hegel","Immanuel Kant","Karl Marx","Martin Heidegger","Sigmund Freud"],"emittingConcepts":[]}
+{"concept":"Karl Marx","rel":"dbpedia/influencedBy","emittingConcepts":["Herbert Marcuse","Jean Paul Sartre","John Kenneth Galbraith","Mikhail Bakunin","Pablo Neruda","Simone De Beauvoir","Simone Weil","Thorstein Veblen"],"receivingConcepts":["Adam Smith","Aristotle","Baron D Holbach","Charles Darwin","Charles Fourier","David Ricardo","Epicurus","Georg Wilhelm Friedrich Hegel","Jean Jacques Rousseau","Johann Wolfgang Von Goethe","Pierre Joseph Proudhon","Robert Owen","Voltaire","William Shakespeare"]}
+{"concept":"Herbert Spencer","rel":"dbpedia/influencedBy","receivingConcepts":["Auguste Comte","Charles Darwin","John Stuart Mill","Thomas Henry Huxley"],"emittingConcepts":["Thorstein Veblen","Vilfredo Pareto"]}
+{"concept":"Hermann Hesse","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Carl Jung","Friedrich Nietzsche","Johann Wolfgang Von Goethe","Plato"],"emittingConcepts":[]}
+{"concept":"Hypatia","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Plato","Plotinus"],"emittingConcepts":[]}
+{"concept":"Iamblichus","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Plato","Porphyry","Pythagoras"],"emittingConcepts":[]}
+{"concept":"Io","rel":"dbpedia/influencedBy","receivingConcepts":["Lisp","Lua","Python","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Iris Murdoch","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Fyodor Dostoyevsky","Jean Paul Sartre","Marcel Proust","Plato","Sigmund Freud","Simone Weil","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Jean Paul Sartre","rel":"dbpedia/influencedBy","emittingConcepts":["Iris Murdoch","Simone De Beauvoir","Walker Percy","William S Burroughs"],"receivingConcepts":["Albert Camus","Edmund Husserl","Friedrich Nietzsche","Fyodor Dostoyevsky","Georg Wilhelm Friedrich Hegel","Gustave Flaubert","Jean Jacques Rousseau","Karl Marx","Martin Heidegger","Sigmund Freud","Simone De Beauvoir"]}
+{"concept":"Simone Weil","rel":"dbpedia/influencedBy","emittingConcepts":["Iris Murdoch"],"receivingConcepts":["Bhagavad Gita","Homer","Karl Marx","New Testament","Plato"]}
+{"concept":"Robert Boyle","rel":"dbpedia/influencedBy","emittingConcepts":["Isaac Newton"],"receivingConcepts":["Francis Bacon","Galileo Galilei"]}
+{"concept":"Italo Calvino","rel":"dbpedia/influencedBy","receivingConcepts":["Ambrose Bierce","Edgar Allan Poe","Ernest Hemingway","Franz Kafka","Galileo Galilei","Jorge Luis Borges","Robert Louis Stevenson","Samuel Beckett","Vladimir Nabokov","Voltaire"],"emittingConcepts":["John Barth","John Updike","Salman Rushdie"]}
+{"concept":"Jorge Luis Borges","rel":"dbpedia/influencedBy","emittingConcepts":["Italo Calvino","John Barth","Salman Rushdie","William Gibson"],"receivingConcepts":[]}
+{"concept":"Jack Kerouac","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Rimbaud","Charlie Parker","Ernest Hemingway","Fyodor Dostoyevsky","Hart Crane","Henry Miller","Herman Melville","Jack London","James Joyce","Lester Young","Marcel Proust","Thomas Wolfe","Walt Whitman","William S Burroughs"],"emittingConcepts":["Ken Kesey","Tom Wolfe"]}
+{"concept":"Henry Miller","rel":"dbpedia/influencedBy","emittingConcepts":["Jack Kerouac","Lawrence Durrell","William S Burroughs"],"receivingConcepts":[]}
+{"concept":"Thomas Wolfe","rel":"dbpedia/influencedBy","emittingConcepts":["Jack Kerouac","William Styron"],"receivingConcepts":[]}
+{"concept":"William S Burroughs","rel":"dbpedia/influencedBy","emittingConcepts":["Jack Kerouac","Ken Kesey","William Gibson"],"receivingConcepts":["Alfred Korzybski","Arthur Rimbaud","Dashiell Hammett","Henry Miller","Jean Genet","Jean Paul Sartre","Jonathan Swift","Joseph Conrad","Oswald Spengler","Samuel Beckett","Tristan Tzara","Wilhelm Reich"]}
+{"concept":"James Mill","rel":"dbpedia/influencedBy","receivingConcepts":["David Hartley","Dugald Stewart","Jeremy Bentham"],"emittingConcepts":["John Stuart Mill"]}
+{"concept":"Jeremy Bentham","rel":"dbpedia/influencedBy","emittingConcepts":["James Mill","John Stuart Mill","William Stanley Jevons"],"receivingConcepts":["Protagoras"]}
+{"concept":"John Maynard Keynes","rel":"dbpedia/influencedBy","emittingConcepts":["James Tobin","John Kenneth Galbraith"],"receivingConcepts":["Adam Smith","Thomas Robert Malthus"]}
+{"concept":"James Watt","rel":"dbpedia/influencedBy","receivingConcepts":["Adam Smith","Joseph Black"],"emittingConcepts":[]}
+{"concept":"Hugo Grotius","rel":"dbpedia/influencedBy","emittingConcepts":["Jean Jacques Rousseau","John Locke","Pierre Joseph Proudhon","Thomas Hobbes"],"receivingConcepts":[]}
+{"concept":"Albert Camus","rel":"dbpedia/influencedBy","emittingConcepts":["Jean Paul Sartre","Walker Percy","William Styron"],"receivingConcepts":[]}
+{"concept":"Simone De Beauvoir","rel":"dbpedia/influencedBy","emittingConcepts":["Jean Paul Sartre"],"receivingConcepts":["Edmund Husserl","Friedrich Nietzsche","Georg Wilhelm Friedrich Hegel","Henri Bergson","Immanuel Kant","Jean Paul Sartre","Karl Marx","Marquis De Sade","Martin Heidegger","Mary Wollstonecraft"]}
+{"concept":"Jean Piaget","rel":"dbpedia/influencedBy","receivingConcepts":["Henri Bergson","Immanuel Kant"],"emittingConcepts":[]}
+{"concept":"Jean Racine","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Euripides","Jansenism"],"emittingConcepts":[]}
+{"concept":"Euripides","rel":"dbpedia/influencedBy","emittingConcepts":["Jean Racine","Robinson Jeffers"],"receivingConcepts":[]}
+{"concept":"Protagoras","rel":"dbpedia/influencedBy","emittingConcepts":["Jeremy Bentham","Plato"],"receivingConcepts":["Democritus","Parmenides"]}
+{"concept":"Joel Chandler Harris","rel":"dbpedia/influencedBy","receivingConcepts":["Aesop","Geoffrey Chaucer","Jean De La Fontaine","Mark Twain","Oliver Goldsmith"],"emittingConcepts":[]}
+{"concept":"Aesop","rel":"dbpedia/influencedBy","emittingConcepts":["Joel Chandler Harris","Plato"],"receivingConcepts":[]}
+{"concept":"Oliver Goldsmith","rel":"dbpedia/influencedBy","emittingConcepts":["Joel Chandler Harris","Johann Wolfgang Von Goethe"],"receivingConcepts":[]}
+{"concept":"Johann Joachim Winckelmann","rel":"dbpedia/influencedBy","emittingConcepts":["Johann Wolfgang Von Goethe","Oswald Spengler"],"receivingConcepts":[]}
+{"concept":"John Barth","rel":"dbpedia/influencedBy","receivingConcepts":["Italo Calvino","James Joyce","Jorge Luis Borges","Samuel Beckett","Scheherazade","Vladimir Nabokov"],"emittingConcepts":[]}
+{"concept":"John Cheever","rel":"dbpedia/influencedBy","receivingConcepts":["Anton Chekhov","Charles Dickens","Ernest Hemingway","F Scott Fitzgerald","Jane Austen","Marcel Proust"],"emittingConcepts":[]}
+{"concept":"John Dewey","rel":"dbpedia/influencedBy","receivingConcepts":["Plato"],"emittingConcepts":["Noam Chomsky","Thorstein Veblen"]}
+{"concept":"Karl Popper","rel":"dbpedia/influencedBy","emittingConcepts":["John Eccles"],"receivingConcepts":["Albert Einstein","Aristotle","Arthur Schopenhauer","Bertrand Russell","David Hume","Edmund Burke","Georg Wilhelm Friedrich Hegel","Immanuel Kant","John Stuart Mill","Socrates"]}
+{"concept":"John Kenneth Galbraith","rel":"dbpedia/influencedBy","receivingConcepts":["John Maynard Keynes","Karl Marx","Thorstein Veblen"],"emittingConcepts":[]}
+{"concept":"Thorstein Veblen","rel":"dbpedia/influencedBy","emittingConcepts":["John Kenneth Galbraith"],"receivingConcepts":["Charles Fourier","Herbert Spencer","John Dewey","Karl Marx","William James"]}
+{"concept":"Avicenna","rel":"dbpedia/influencedBy","emittingConcepts":["John Locke","Maimonides"],"receivingConcepts":[]}
+{"concept":"John Millington Synge","rel":"dbpedia/influencedBy","receivingConcepts":["W B Yeats","William Wordsworth"],"emittingConcepts":[]}
+{"concept":"Samuel Taylor Coleridge","rel":"dbpedia/influencedBy","emittingConcepts":["John Stuart Mill","Ted Hughes","William Hazlitt"],"receivingConcepts":[]}
+{"concept":"John Updike","rel":"dbpedia/influencedBy","receivingConcepts":["Henry James","Herman Melville","Italo Calvino","Marcel Proust","Nathaniel Hawthorne","Vladimir Nabokov","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Joseph Campbell","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","Carl Jung","Friedrich Nietzsche","James George Frazer","James Joyce","Oswald Spengler","Sigmund Freud","Thomas Mann"],"emittingConcepts":[]}
+{"concept":"Oswald Spengler","rel":"dbpedia/influencedBy","emittingConcepts":["Joseph Campbell","Ludwig Wittgenstein","Northrop Frye","William S Burroughs"],"receivingConcepts":["Arthur Schopenhauer","Friedrich Nietzsche","Georg Wilhelm Friedrich Hegel","Heraclitus","Johann Joachim Winckelmann","Johann Wolfgang Von Goethe"]}
+{"concept":"Thomas Mann","rel":"dbpedia/influencedBy","emittingConcepts":["Joseph Campbell","William Faulkner"],"receivingConcepts":[]}
+{"concept":"Josiah Willard Gibbs","rel":"dbpedia/influencedBy","receivingConcepts":["James Clerk Maxwell","Ludwig Boltzmann"],"emittingConcepts":[]}
+{"concept":"Ludwig Boltzmann","rel":"dbpedia/influencedBy","emittingConcepts":["Josiah Willard Gibbs","Ludwig Wittgenstein"],"receivingConcepts":[]}
+{"concept":"Joyce Carol Oates","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Dickens","D H Lawrence","Edgar Allan Poe","Ernest Hemingway","Flannery O'connor","Franz Kafka","Fyodor Dostoyevsky","James Joyce","Lewis Carroll","William Faulkner"],"emittingConcepts":[]}
+{"concept":"Daniel Defoe","rel":"dbpedia/influencedBy","emittingConcepts":["Jules Verne","Virginia Woolf"],"receivingConcepts":[]}
+{"concept":"Walter Scott","rel":"dbpedia/influencedBy","emittingConcepts":["Jules Verne"],"receivingConcepts":["John Dryden","Jonathan Swift","King James Version","William Shakespeare"]}
+{"concept":"Karen Blixen","rel":"dbpedia/influencedBy","receivingConcepts":["Hans Christian Andersen","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Max Weber","rel":"dbpedia/influencedBy","emittingConcepts":["Karl Jaspers","Talcott Parsons"],"receivingConcepts":["Friedrich Nietzsche","Immanuel Kant","Sigmund Freud"]}
+{"concept":"Meister Eckhart","rel":"dbpedia/influencedBy","emittingConcepts":["Karl Jaspers","Martin Heidegger"],"receivingConcepts":["Bible","Thomas Aquinas"]}
+{"concept":"Pierre Joseph Proudhon","rel":"dbpedia/influencedBy","emittingConcepts":["Karl Marx","Martin Buber","Mikhail Bakunin"],"receivingConcepts":["Charles Fourier","Georg Wilhelm Friedrich Hegel","Hugo Grotius","Jean Jacques Rousseau"]}
+{"concept":"Ken Kesey","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Dickens","Ernest Hemingway","Friedrich Nietzsche","Fyodor Dostoyevsky","Jack Kerouac","Mark Twain","Sigmund Freud","William Faulkner","William S Burroughs","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Knut Hamsun","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Schopenhauer","August Strindberg","Friedrich Nietzsche","Fyodor Dostoyevsky","Henrik Ibsen","Lord Byron"],"emittingConcepts":[]}
+{"concept":"Lucian","rel":"dbpedia/influencedBy","emittingConcepts":["Laurence Sterne"],"receivingConcepts":["Epicurus","Homer","Menander","Plato","Socrates"]}
+{"concept":"Lawrence Durrell","rel":"dbpedia/influencedBy","receivingConcepts":["Friedrich Nietzsche","Henry Miller","Joseph Conrad","Oscar Wilde","T S Eliot"],"emittingConcepts":[]}
+{"concept":"Lin","rel":"dbpedia/influencedBy","receivingConcepts":["Mariah Carey","Mei","Michael Jackson"],"emittingConcepts":[]}
+{"concept":"Logo","rel":"dbpedia/influencedBy","receivingConcepts":["Lisp"],"emittingConcepts":["Scratch","Smalltalk"]}
+{"concept":"Louisa May Alcott","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Dickens","Henry David Thoreau","Ralph Waldo Emerson"],"emittingConcepts":[]}
+{"concept":"Louise Nevelson","rel":"dbpedia/influencedBy","receivingConcepts":["Alexander Calder","Diego Rivera","Max Ernst","Pablo Picasso"],"emittingConcepts":[]}
+{"concept":"Ludwig Wittgenstein","rel":"dbpedia/influencedBy","receivingConcepts":["Adolf Loos","Arthur Schopenhauer","Bertrand Russell","G E Moore","Heinrich Hertz","Johann Wolfgang Von Goethe","Leo Tolstoy","Ludwig Boltzmann","Oswald Spengler"],"emittingConcepts":["Noam Chomsky"]}
+{"concept":"Marquis De Sade","rel":"dbpedia/influencedBy","receivingConcepts":["Jean Jacques Rousseau","Voltaire"],"emittingConcepts":["Simone De Beauvoir"]}
+{"concept":"Marshall Mcluhan","rel":"dbpedia/influencedBy","receivingConcepts":["G K Chesterton","I Richards","James Joyce","Marcel Duchamp"],"emittingConcepts":[]}
+{"concept":"I Richards","rel":"dbpedia/influencedBy","emittingConcepts":["Marshall Mcluhan","Northrop Frye"],"receivingConcepts":[]}
+{"concept":"Catullus","rel":"dbpedia/influencedBy","emittingConcepts":["Martial","Ovid"],"receivingConcepts":[]}
+{"concept":"Martin Buber","rel":"dbpedia/influencedBy","receivingConcepts":["Friedrich Nietzsche","Immanuel Kant","Pierre Joseph Proudhon","Ralph Waldo Emerson","Rudolf Bultmann","Sigmund Freud"],"emittingConcepts":[]}
+{"concept":"Matthew Arnold","rel":"dbpedia/influencedBy","receivingConcepts":["Johann Wolfgang Von Goethe","John Henry Newman","John Keats","William Wordsworth"],"emittingConcepts":[]}
+{"concept":"Mercury","rel":"dbpedia/influencedBy","receivingConcepts":["Haskell","Prolog"],"emittingConcepts":[]}
+{"concept":"Dashiell Hammett","rel":"dbpedia/influencedBy","emittingConcepts":["Mickey Spillane","Raymond Chandler","William Gibson","William S Burroughs"],"receivingConcepts":[]}
+{"concept":"Giovanni Boccaccio","rel":"dbpedia/influencedBy","emittingConcepts":["Miguel De Cervantes","Torquato Tasso"],"receivingConcepts":[]}
+{"concept":"Milton Friedman","rel":"dbpedia/influencedBy","receivingConcepts":["Adam Smith","John Stuart Mill","Simon Kuznets","Thomas Paine"],"emittingConcepts":[]}
+{"concept":"Thomas Paine","rel":"dbpedia/influencedBy","emittingConcepts":["Milton Friedman"],"receivingConcepts":["Benjamin Franklin","Jean Jacques Rousseau","John Locke","Montesquieu","Quakers","Voltaire"]}
+{"concept":"Neal Stephenson","rel":"dbpedia/influencedBy","receivingConcepts":["Thomas Pynchon","William Gibson"],"emittingConcepts":[]}
+{"concept":"William Gibson","rel":"dbpedia/influencedBy","emittingConcepts":["Neal Stephenson"],"receivingConcepts":["Dashiell Hammett","Jorge Luis Borges","Lou Reed","Thomas Pynchon","William S Burroughs"]}
+{"concept":"Noam Chomsky","rel":"dbpedia/influencedBy","receivingConcepts":["Adam Smith","Alan Turing","Bertrand Russell","David Hume","George Orwell","Immanuel Kant","John Dewey","Ludwig Wittgenstein","Mikhail Bakunin","Russian Literature","Thomas Jefferson","Willard Van Orman Quine","Zellig Harris"],"emittingConcepts":["Steven Pinker"]}
+{"concept":"Willard Van Orman Quine","rel":"dbpedia/influencedBy","emittingConcepts":["Noam Chomsky"],"receivingConcepts":["Alfred North Whitehead","B F Skinner"]}
+{"concept":"Northrop Frye","rel":"dbpedia/influencedBy","receivingConcepts":["I Richards","Oswald Spengler","William Blake"],"emittingConcepts":[]}
+{"concept":"Ovid","rel":"dbpedia/influencedBy","receivingConcepts":["Catullus","Cicero","Homer","Virgil"],"emittingConcepts":[]}
+{"concept":"Virgil","rel":"dbpedia/influencedBy","emittingConcepts":["Ovid"],"receivingConcepts":["Homer","Lucretius"]}
+{"concept":"Pablo Neruda","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Rimbaud","Charles Baudelaire","Karl Marx","Marcel Proust","Surrealism","Walt Whitman"],"emittingConcepts":[]}
+{"concept":"Patrick White","rel":"dbpedia/influencedBy","receivingConcepts":["D H Lawrence","Johann Wolfgang Von Goethe"],"emittingConcepts":[]}
+{"concept":"Paul Verlaine","rel":"dbpedia/influencedBy","receivingConcepts":["Arthur Rimbaud","Arthur Schopenhauer","Charles Baudelaire","Victor Hugo"],"emittingConcepts":[]}
+{"concept":"Peter Abelard","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Boethius","Porphyry"],"emittingConcepts":["William of Ockham"]}
+{"concept":"Tcl","rel":"dbpedia/influencedBy","emittingConcepts":["Php"],"receivingConcepts":["Awk","Lisp"]}
+{"concept":"Pierre Teilhard De Chardin","rel":"dbpedia/influencedBy","receivingConcepts":["Georg Wilhelm Friedrich Hegel","Henri Bergson","Ignatius of Loyola","John Evangelist","Origen","Paul Apostle"],"emittingConcepts":[]}
+{"concept":"Randall Jarrell","rel":"dbpedia/influencedBy","receivingConcepts":["Rainer Maria Rilke","T S Eliot","W H Auden","William Wordsworth"],"emittingConcepts":[]}
+{"concept":"W H Auden","rel":"dbpedia/influencedBy","emittingConcepts":["Randall Jarrell","Sylvia Plath"],"receivingConcepts":[]}
+{"concept":"Rexx","rel":"dbpedia/influencedBy","receivingConcepts":["Algol","I"],"emittingConcepts":[]}
+{"concept":"Richard Feynman","rel":"dbpedia/influencedBy","receivingConcepts":["Leonardo Da Vinci","Paul Dirac"],"emittingConcepts":[]}
+{"concept":"Robert Frost","rel":"dbpedia/influencedBy","receivingConcepts":["John Keats","Robert Graves","Rupert Brooke","Thomas Hardy","W B Yeats"],"emittingConcepts":[]}
+{"concept":"Robert Heinlein","rel":"dbpedia/influencedBy","receivingConcepts":["Edgar Rice Burroughs","H G Wells","James Branch Cabell","Mark Twain","Rudyard Kipling"],"emittingConcepts":[]}
+{"concept":"William Carlos Williams","rel":"dbpedia/influencedBy","emittingConcepts":["Robert Lowell"],"receivingConcepts":["Ezra Pound","John Keats","Walt Whitman"]}
+{"concept":"Robinson Jeffers","rel":"dbpedia/influencedBy","receivingConcepts":["Euripides","Friedrich Nietzsche","Heraclitus","Thomas Hardy","Walt Whitman","William Wordsworth"],"emittingConcepts":[]}
+{"concept":"Rockwell Kent","rel":"dbpedia/influencedBy","receivingConcepts":["Modernism","Symbolism","Transcendentalism"],"emittingConcepts":[]}
+{"concept":"Rudolf Steiner","rel":"dbpedia/influencedBy","receivingConcepts":["Georg Wilhelm Friedrich Hegel","Immanuel Kant","Johann Wolfgang Von Goethe"],"emittingConcepts":[]}
+{"concept":"Rust","rel":"dbpedia/influencedBy","receivingConcepts":["C","C Sharp","Cyclone","Erlang","Haskell","Limbo","Ruby","Scheme","Standard Ml"],"emittingConcepts":[]}
+{"concept":"Salman Rushdie","rel":"dbpedia/influencedBy","receivingConcepts":["Anton Chekhov","Franz Kafka","Italo Calvino","James Joyce","Jorge Luis Borges","Joseph Conrad","Saul Bellow","Thomas Pynchon","Vladimir Nabokov"],"emittingConcepts":[]}
+{"concept":"Scratch","rel":"dbpedia/influencedBy","receivingConcepts":["Logo","Smalltalk"],"emittingConcepts":[]}
+{"concept":"Sherwood Anderson","rel":"dbpedia/influencedBy","receivingConcepts":["Gertrude Stein","Ivan Turgenev","Mark Twain","Walt Whitman"],"emittingConcepts":[]}
+{"concept":"William Hazlitt","rel":"dbpedia/influencedBy","emittingConcepts":["Stendhal"],"receivingConcepts":["David Hume","Edmund Burke","Francis Bacon","George Berkeley","Jean Jacques Rousseau","Rembrandt","Samuel Taylor Coleridge","William Wordsworth"]}
+{"concept":"Stephen King","rel":"dbpedia/influencedBy","receivingConcepts":["Bram Stoker","Edgar Allan Poe","Elmore Leonard","Ray Bradbury","William Golding"],"emittingConcepts":[]}
+{"concept":"Sylvia Plath","rel":"dbpedia/influencedBy","receivingConcepts":["Dylan Thomas","Emily Dickinson","Robert Lowell","Virginia Woolf","W B Yeats","W H Auden"],"emittingConcepts":["Ted Hughes"]}
+{"concept":"Emily Dickinson","rel":"dbpedia/influencedBy","emittingConcepts":["Sylvia Plath","Ted Hughes"],"receivingConcepts":[]}
+{"concept":"Virginia Woolf","rel":"dbpedia/influencedBy","emittingConcepts":["Sylvia Plath"],"receivingConcepts":["Anton Chekhov","Daniel Defoe","George Eliot","James Joyce","Leo Tolstoy","Marcel Proust","William Shakespeare"]}
+{"concept":"Ted Hughes","rel":"dbpedia/influencedBy","receivingConcepts":["Emily Dickinson","Gerard Manley Hopkins","Samuel Taylor Coleridge","Sylvia Plath","T S Eliot","W B Yeats","William Blake","William Shakespeare"],"emittingConcepts":[]}
+{"concept":"Theophrastus","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Plato"],"emittingConcepts":[]}
+{"concept":"Tom Stoppard","rel":"dbpedia/influencedBy","receivingConcepts":["Henry James","James Joyce","Samuel Beckett"],"emittingConcepts":[]}
+{"concept":"Tom Wolfe","rel":"dbpedia/influencedBy","receivingConcepts":["Charles Dickens","Ernest Hemingway","Evelyn Waugh","Jack Kerouac"],"emittingConcepts":[]}
+{"concept":"Torquato Tasso","rel":"dbpedia/influencedBy","receivingConcepts":["Dante Alighieri","Giovanni Boccaccio","Petrarch"],"emittingConcepts":[]}
+{"concept":"Typescript","rel":"dbpedia/influencedBy","receivingConcepts":["C Sharp","Java","Javascript"],"emittingConcepts":[]}
+{"concept":"Vhdl","rel":"dbpedia/influencedBy","receivingConcepts":["Ada","Pascal"],"emittingConcepts":[]}
+{"concept":"Vilfredo Pareto","rel":"dbpedia/influencedBy","receivingConcepts":["Auguste Comte","Herbert Spencer"],"emittingConcepts":[]}
+{"concept":"Walker Percy","rel":"dbpedia/influencedBy","receivingConcepts":["Albert Camus","Charles Sanders Peirce","Jean Paul Sartre","Thomas Aquinas"],"emittingConcepts":[]}
+{"concept":"William Dean Howells","rel":"dbpedia/influencedBy","receivingConcepts":["Christian Socialism","Leo Tolstoy"],"emittingConcepts":[]}
+{"concept":"William of Ockham","rel":"dbpedia/influencedBy","receivingConcepts":["Aristotle","Duns Scotus","Peter Abelard","Thomas Aquinas"],"emittingConcepts":[]}
+{"concept":"William Styron","rel":"dbpedia/influencedBy","receivingConcepts":["Albert Camus","F Scott Fitzgerald","Gustave Flaubert","James Joyce","John Dos Passos","Mark Twain","Thomas Wolfe","William Faulkner","Wolfgang Amadeus Mozart"],"emittingConcepts":[]}
+{"concept":"Wolfgang Pauli","rel":"dbpedia/influencedBy","receivingConcepts":["Carl Jung","Ernst Mach"],"emittingConcepts":[]}
+{"concept":"Xenocrates","rel":"dbpedia/influencedBy","receivingConcepts":["Plato","Pythagoreanism"],"emittingConcepts":[]}
+{"concept":"Xslt","rel":"dbpedia/influencedBy","emittingConcepts":["Xpath","Xquery"],"receivingConcepts":[]}
+{"concept":"Xquery","rel":"dbpedia/influencedBy","receivingConcepts":["Sql","Xpath","Xslt"],"emittingConcepts":[]}
+{"concept":"Xul","rel":"dbpedia/influencedBy","receivingConcepts":["Html","Xml"],"emittingConcepts":[]}

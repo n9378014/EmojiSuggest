@@ -1,0 +1,46 @@
+{"concept":"Grow","rel":"NotCapableOf","emittingConcepts":["Above Tree Line Trees","Cars","Streets"],"receivingConcepts":[]}
+{"concept":"Vote","rel":"NotCapableOf","emittingConcepts":["Accidents","Cats"],"receivingConcepts":[]}
+{"concept":"Americans","rel":"NotCapableOf","receivingConcepts":["Eat Cats","Eat Dogs"],"emittingConcepts":[]}
+{"concept":"Eat Dogs","rel":"NotCapableOf","emittingConcepts":["Americans","Most Bankers"],"receivingConcepts":[]}
+{"concept":"Exist","rel":"NotCapableOf","emittingConcepts":["Angels","Goldilocks and Three Bears","Souls","Virtual Things"],"receivingConcepts":[]}
+{"concept":"Animals","rel":"NotCapableOf","receivingConcepts":["Bury Dead Animals","Grow on Trees","Like Being in Cages","Play Instruments"],"emittingConcepts":[]}
+{"concept":"Grow on Trees","rel":"NotCapableOf","emittingConcepts":["Animals","Compact Disks","Potatoes"],"receivingConcepts":[]}
+{"concept":"Play Poker","rel":"NotCapableOf","emittingConcepts":["Apples","Bananas","Pens"],"receivingConcepts":[]}
+{"concept":"Atheists","rel":"NotCapableOf","receivingConcepts":["Believe God Exist","Believe God Exists","Believe in God"],"emittingConcepts":[]}
+{"concept":"Believe in God","rel":"NotCapableOf","emittingConcepts":["Atheists","People"],"receivingConcepts":[]}
+{"concept":"Birds","rel":"NotCapableOf","receivingConcepts":["Bark","Breathe Water","Chew Food","Grieve"],"emittingConcepts":[]}
+{"concept":"Fly","rel":"NotCapableOf","emittingConcepts":["Bunnies","Most Very Large Birds","Pigs"],"receivingConcepts":[]}
+{"concept":"Cars","rel":"NotCapableOf","receivingConcepts":["Grow","Wear Pants"],"emittingConcepts":[]}
+{"concept":"Cats","rel":"NotCapableOf","receivingConcepts":["Enter Into Competition With Humans","Like Sea","Like Water","Vote"],"emittingConcepts":[]}
+{"concept":"Children","rel":"NotCapableOf","receivingConcepts":["Drive Adult Vehicles","Understand Finality of Death"],"emittingConcepts":[]}
+{"concept":"Computers","rel":"NotCapableOf","receivingConcepts":["Eat","Eat Food","Feel Emotion"],"emittingConcepts":[]}
+{"concept":"Eat","rel":"NotCapableOf","emittingConcepts":["Computers","Sometimes People Kill Animals And"],"receivingConcepts":[]}
+{"concept":"Cows","rel":"NotCapableOf","receivingConcepts":["Give Birth to Dogs","Give Birth to Humans"],"emittingConcepts":[]}
+{"concept":"Give Birth to Dogs","rel":"NotCapableOf","emittingConcepts":["Cows","Humans"],"receivingConcepts":[]}
+{"concept":"Mix","rel":"NotCapableOf","emittingConcepts":["Death and Privacy","Oil and Water","Water and Oil"],"receivingConcepts":[]}
+{"concept":"Dogs","rel":"NotCapableOf","receivingConcepts":["Build Cities","Cook Food Sadly","Get Married","Laugh","Make Cars","Use Pens"],"emittingConcepts":[]}
+{"concept":"Drink Coffee","rel":"NotCapableOf","emittingConcepts":["Dolphins","Lilacs","People"],"receivingConcepts":[]}
+{"concept":"Run","rel":"NotCapableOf","emittingConcepts":["Fat People","Plants"],"receivingConcepts":[]}
+{"concept":"Fine Restaurants","rel":"NotCapableOf","receivingConcepts":["Serve Cardboard to People","Serve to Cardboard People"],"emittingConcepts":[]}
+{"concept":"Human Beings","rel":"NotCapableOf","receivingConcepts":["Drink Gasoline","Drink Salt Water"],"emittingConcepts":[]}
+{"concept":"Humans","rel":"NotCapableOf","receivingConcepts":["Eat Mice","Give Birth to Cows","Give Birth to Dogs","Grow to 30 Feet Tall","Lay Eggs","Live Forever","Walk on Thier Hands"],"emittingConcepts":[]}
+{"concept":"Lay Eggs","rel":"NotCapableOf","emittingConcepts":["Humans","Mammals"],"receivingConcepts":[]}
+{"concept":"Wear Clothing","rel":"NotCapableOf","emittingConcepts":["Insects","Wild Animals"],"receivingConcepts":[]}
+{"concept":"Lilacs","rel":"NotCapableOf","receivingConcepts":["Drink Coffee","Drink Tea","Learn to Speak French"],"emittingConcepts":[]}
+{"concept":"Many People","rel":"NotCapableOf","receivingConcepts":["Enjoy Themselves at Work","Get Enough Excercise","Know How to Work Vcr","Own Tv","Recover From Comas","Wear Pajamas When Sleep"],"emittingConcepts":[]}
+{"concept":"Most Bankers","rel":"NotCapableOf","receivingConcepts":["Eat Crayons","Eat Dogs"],"emittingConcepts":[]}
+{"concept":"Most Children","rel":"NotCapableOf","receivingConcepts":["Know Differential Topology","Wear Wristwatches"],"emittingConcepts":[]}
+{"concept":"Most Men","rel":"NotCapableOf","receivingConcepts":["Wear Bras","Wear Dresses","Wear Makeup"],"emittingConcepts":[]}
+{"concept":"Wear Makeup","rel":"NotCapableOf","emittingConcepts":["Most Men","Usually Men"],"receivingConcepts":[]}
+{"concept":"Most People","rel":"NotCapableOf","receivingConcepts":["Do Own Cooking When Traveling","Eat Shoes","Eat Whales for Breakfast","Know as Much as Could","Know What Ophiolites","Live Underground","Make Own Christmas Gifts","Take Drugs to Get High"],"emittingConcepts":[]}
+{"concept":"People","rel":"NotCapableOf","receivingConcepts":["Agree on Meaning of Life","Believe in Ghosts","Believe in God","Breath Under Water","Care About Nakedness","Celebrate Christmas","Commit Murder Over Flowers","Drink Coffee","Eat Dirty Food","Eat Meat","Eat While Sleep","Enjoy All Forms of Competition","Enjoy Traveling","Farm Hamsters for Milk","Keep Pet","Know if God Exists","Like Beer at All","Like Being Laughed at by Everyone","Like Classical Music","Like Eating Fish","Like Eating Phone Books","Like Enemies","Like Foul Smell","Like Jobs","Like Marching in Rain","Like Mathematics","Like Paying Taxes","Like Taste of Beer","Like Taste of Rottenness","Like Wearing Shoes","Live in Sky","Live on Mars","Live on Moon","Need to Eat Meat to Survive","Play Baseball in Ireland","Resent Compliments People Appreciate Compliments","Sleep at Night","Stay Same","Take Life Very Seriously","Talk About Menstruation Very Much","Understand Everything","Use Typewriters Anymore","Walk Barefoot Over Broken Glass","Walk on Heads","Walk to Airport","Wear Casual Clothes at Banquet"],"emittingConcepts":[]}
+{"concept":"Eat Meat","rel":"NotCapableOf","emittingConcepts":["People","Rabbits","Vegetarians"],"receivingConcepts":[]}
+{"concept":"Plants","rel":"NotCapableOf","receivingConcepts":["Move","Run","Think","Walk","Walk Around"],"emittingConcepts":[]}
+{"concept":"Move","rel":"NotCapableOf","emittingConcepts":["Plants","Vegetables","When Cats Dead"],"receivingConcepts":[]}
+{"concept":"Psychiatric Diagnoses","rel":"NotCapableOf","receivingConcepts":["Predict Rehabilitation Outcomes","Reflect Rehabilitation Outcomes"],"emittingConcepts":[]}
+{"concept":"Taste Good","rel":"NotCapableOf","emittingConcepts":["Shower Curtains","Typewriter Keys","Unripe Apples"],"receivingConcepts":[]}
+{"concept":"Souls","rel":"NotCapableOf","receivingConcepts":["Die","Exist"],"emittingConcepts":[]}
+{"concept":"Know","rel":"NotCapableOf","emittingConcepts":["Stranger","Who Talk"],"receivingConcepts":[]}
+{"concept":"Usually Men","rel":"NotCapableOf","receivingConcepts":["Carry Purses","Wear Makeup"],"emittingConcepts":[]}
+{"concept":"Vegetables","rel":"NotCapableOf","receivingConcepts":["Grow on Moon","Move"],"emittingConcepts":[]}
+{"concept":"Vegetarians","rel":"NotCapableOf","receivingConcepts":["Believe in Eating Meat","Eat Animals","Eat Chicken","Eat Meat","Eat Muscles of Animals","Eat Steaks"],"emittingConcepts":[]}

@@ -1,0 +1,240 @@
+{"concept":"Alan Lloyd Hodgkin","rel":"dbpedia/field","receivingConcepts":["Biophysics","Physiology"],"emittingConcepts":[]}
+{"concept":"Biophysics","rel":"dbpedia/field","emittingConcepts":["Alan Lloyd Hodgkin","Andrew Huxley"],"receivingConcepts":[]}
+{"concept":"Physiology","rel":"dbpedia/field","emittingConcepts":["Alan Lloyd Hodgkin","Andrew Huxley","Charles Herbert Best","Christiaan Eijkman","Claude Bernard","Clinical Anatomy","Hermann Von Helmholtz","Ivan Pavlov","Jacques Loeb","Marcello Malpighi","Thomas Young","Walter Rudolf Hess","Willem Einthoven"],"receivingConcepts":[]}
+{"concept":"Alan Turing","rel":"dbpedia/field","receivingConcepts":["Computer Science","Cryptanalysis","Logic","Mathematics"],"emittingConcepts":[]}
+{"concept":"Computer Science","rel":"dbpedia/field","emittingConcepts":["Alan Turing","Herbert Simon","Marvin Minsky"],"receivingConcepts":[]}
+{"concept":"Logic","rel":"dbpedia/field","emittingConcepts":["Alan Turing","John Venn","William Stanley Jevons"],"receivingConcepts":[]}
+{"concept":"Mathematics","rel":"dbpedia/field","emittingConcepts":["Alan Turing","Alhazen","Anders Celsius","Archimedes","Benoit Mandelbrot","Bernhard Riemann","Brahmagupta","Christiaan Huygens","Claude Shannon","David Hilbert","Emmy Noether","Euclid","Evangelista Torricelli","Felix Klein","Galileo Galilei","Hero of Alexandria","Isaac Newton","Jacques Charles","James Clerk Maxwell","Johann Bernoulli","Johannes Kepler","John Venn","John Von Neumann","Josiah Willard Gibbs","Leopold Kronecker","Niels Henrik Abel","Norbert Wiener","Oliver Heaviside","Pierre De Fermat","Regiomontanus"],"receivingConcepts":[]}
+{"concept":"Albert Einstein","rel":"dbpedia/field","receivingConcepts":["Philosophy","Physics"],"emittingConcepts":[]}
+{"concept":"Philosophy","rel":"dbpedia/field","emittingConcepts":["Albert Einstein","Analysis","B F Skinner","David Hilbert","John Venn","Pierre Teilhard De Chardin"],"receivingConcepts":[]}
+{"concept":"Physics","rel":"dbpedia/field","emittingConcepts":["Albert Einstein","Albert Michelson","Alfred Kastler","Amedeo Avogadro","Anders Celsius","Archimedes","Arthur Compton","Augustin Jean Fresnel","Benjamin Thompson","Bernhard Riemann","Carl David Anderson","Charles Thomson Rees Wilson","Christiaan Huygens","David Hilbert","Donald Glaser","Edmond Halley","Edward Teller","Emmy Noether","Enrico Fermi","Ernest Rutherford","Ernest Walton","Evangelista Torricelli","Francis Crick","Gabriel Lippmann","Galileo Galilei","George Paget Thomson","Gustav Ludwig Hertz","Hans Geiger","Heinrich Hertz","Henri Becquerel","Henry Cavendish","Hermann Von Helmholtz","Isaac Newton","Jacques Charles","James Clerk Maxwell","James Franck","James Prescott Joule","Johannes Diderik Van Der Waals","John Bardeen","John Hasbrouck Van Vleck","John Tyndall","John Von Neumann","Joseph Black","Josiah Willard Gibbs","Leo Szilard","Leonhard Euler","Lise Meitner","Ludwig Boltzmann","Maurice Wilkins","Max Born","Max Planck","Michael Faraday","Murray Gell Mann","Niels Bohr","Oliver Heaviside","Otto Fritz Meyerhof","Otto Robert Frisch","Paul Dirac","Philip Warren Anderson","Philipp Lenard","Pierre Curie","Pieter Zeeman","Robert Andrews Millikan","Robert Boyle","Robert Woodrow Wilson","Satyendra Nath Bose","Thomas Young","Tjalling Koopmans","Tsung Dao Lee","Wilhelm Eduard Weber","Willem De Sitter","William Hyde Wollaston","William Rowan Hamilton","Wolfgang Pauli"],"receivingConcepts":[]}
+{"concept":"Albert Sabin","rel":"dbpedia/field","receivingConcepts":["Immunology","Virology"],"emittingConcepts":[]}
+{"concept":"Immunology","rel":"dbpedia/field","emittingConcepts":["Albert Sabin","Alexander Fleming","Howard Florey","Paul Ehrlich","Peter Medawar"],"receivingConcepts":[]}
+{"concept":"Virology","rel":"dbpedia/field","emittingConcepts":["Albert Sabin","Francis Peyton Rous","Jonas Salk"],"receivingConcepts":[]}
+{"concept":"Alberto Giacometti","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting","Sculpture"],"emittingConcepts":[]}
+{"concept":"Drawing","rel":"dbpedia/field","emittingConcepts":["Alberto Giacometti","Francisco Goya","Georges Braque","Giorgio De Chirico","Jacques Louis David","Jean Auguste Dominique Ingres","Vincent Van Gogh","Winslow Homer"],"receivingConcepts":[]}
+{"concept":"Painting","rel":"dbpedia/field","emittingConcepts":["Alberto Giacometti","Andrea Mantegna","Aristide Maillol","Ben Shahn","Chaim Soutine","Childe Hassam","David Alfaro Siqueiros","Diego Rivera","Edvard Munch","Ernst Ludwig Kirchner","Filippino Lippi","Francisco Goya","Frank Stella","Georges Braque","Georges Seurat","Gilbert Stuart","Giorgio De Chirico","Giorgio Vasari","Giotto","Giovanni Battista Tiepolo","Grandma Moses","Grant Wood","Gustav Klimt","Gustave Courbet","Henri Rousseau","Hieronymus Bosch","Jackson Pollock","Jacques Louis David","Jasper Johns","Jean Antoine Watteau","Jean Arp","Jean Auguste Dominique Ingres","Jean Baptiste Camille Corot","John Trumbull","Lee Krasner","Mark Tobey","Maurice De Vlaminck","Maurice Utrillo","Max Ernst","Nicolas Poussin","Paolo Veronese","Piet Mondrian","Raphael","Robert Motherwell","Sandro Botticelli","Stuart Davis","Thomas Hart Benton","Vincent Van Gogh","Wassily Kandinsky","Yves Tanguy"],"receivingConcepts":[]}
+{"concept":"Sculpture","rel":"dbpedia/field","emittingConcepts":["Alberto Giacometti","Alexander Calder","Aristide Maillol","Claes Oldenburg","Daniel Chester French","David Smith","Donatello","Filippo Brunelleschi","Francisco Goya","Frank Stella","George Segal","Georges Braque","Giorgio De Chirico","Gustave Courbet","Isamu Noguchi","Jacques Lipchitz","Jean Arp","Max Ernst","Pablo Picasso","Robert Morris"],"receivingConcepts":[]}
+{"concept":"Alexander Fleming","rel":"dbpedia/field","receivingConcepts":["Bacteriology","Immunology"],"emittingConcepts":[]}
+{"concept":"Bacteriology","rel":"dbpedia/field","emittingConcepts":["Alexander Fleming","Alexandre Yersin","Hans Zinsser","Hideyo Noguchi","Howard Florey"],"receivingConcepts":[]}
+{"concept":"Natural History","rel":"dbpedia/field","emittingConcepts":["Alexander Wilson","Charles Darwin","Edward Jenner","Georges Cuvier","Lorenz Oken"],"receivingConcepts":[]}
+{"concept":"Psychology","rel":"dbpedia/field","emittingConcepts":["Alfred Binet","Arnold Gesell","B F Skinner","Carl Jung","Carl Rogers","Hans Eysenck","Hermann Von Helmholtz","James Mckeen Cattell","Sigmund Freud"],"receivingConcepts":[]}
+{"concept":"Alfred Russel Wallace","rel":"dbpedia/field","receivingConcepts":["Biogeography","Evolutionary Biology","Zoology"],"emittingConcepts":[]}
+{"concept":"Evolutionary Biology","rel":"dbpedia/field","emittingConcepts":["Alfred Russel Wallace","Stephen Jay Gould"],"receivingConcepts":[]}
+{"concept":"Zoology","rel":"dbpedia/field","emittingConcepts":["Alfred Russel Wallace","Nikolaas Tinbergen","Peter Medawar","Thomas Henry Huxley"],"receivingConcepts":[]}
+{"concept":"Photography","rel":"dbpedia/field","emittingConcepts":["Alfred Stieglitz","Ben Shahn","Dorothea Lange","Eadweard Muybridge","Edward Weston"],"receivingConcepts":[]}
+{"concept":"Alhazen","rel":"dbpedia/field","receivingConcepts":["Astronomy","Mathematics","Optics"],"emittingConcepts":[]}
+{"concept":"Astronomy","rel":"dbpedia/field","emittingConcepts":["Alhazen","Anders Celsius","Archimedes","Brahmagupta","Carl Sagan","Christiaan Huygens","Edmond Halley","Edwin Hubble","Galileo Galilei","George Ellery Hale","Harlow Shapley","Henry Norris Russell","Isaac Newton","Johannes Kepler","Maria Mitchell","Nicolaus Copernicus","Percival Lowell","Regiomontanus","Simon Newcomb","William Herschel","William Rowan Hamilton"],"receivingConcepts":[]}
+{"concept":"Chemistry","rel":"dbpedia/field","emittingConcepts":["Analytical Chemistry","Antoine Lavoisier","Daniel Rutherford","Dmitri Mendeleev","Environmental Chemistry","Ernest Rutherford","Ernest Solvay","Hans Fischer","Henri Becquerel","Henry Cavendish","Irving Langmuir","John Tyndall","Joseph Black","Joseph Louis Gay Lussac","Josiah Willard Gibbs","Louis Pasteur","Martin Heinrich Klaproth","Melvin Calvin","Michael Faraday","Molecules","Organometallics","Richard Kuhn","Roald Hoffmann","Robert Boyle","Robert Bunsen","Robert Curl","Ronald George Wreyford Norrish","Synthesis","Wilhelm Ostwald","William Henry","William Hyde Wollaston"],"receivingConcepts":[]}
+{"concept":"Anders Celsius","rel":"dbpedia/field","receivingConcepts":["Astronomy","Geology","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Geology","rel":"dbpedia/field","emittingConcepts":["Anders Celsius","Charles Darwin","Robert Bunsen"],"receivingConcepts":[]}
+{"concept":"Andrea Mantegna","rel":"dbpedia/field","receivingConcepts":["Fresco","Painting"],"emittingConcepts":[]}
+{"concept":"Fresco","rel":"dbpedia/field","emittingConcepts":["Andrea Mantegna","Filippino Lippi","Giotto"],"receivingConcepts":[]}
+{"concept":"Anatomy","rel":"dbpedia/field","emittingConcepts":["Andreas Vesalius","Clinical Anatomy","Georges Cuvier","Marcello Malpighi","Thomas Willis","William Harvey"],"receivingConcepts":[]}
+{"concept":"Nuclear Physics","rel":"dbpedia/field","emittingConcepts":["Andrei Sakharov","Eugene Wigner","Hans Bethe"],"receivingConcepts":[]}
+{"concept":"Andrew Huxley","rel":"dbpedia/field","receivingConcepts":["Biophysics","Physiology"],"emittingConcepts":[]}
+{"concept":"Printmaking","rel":"dbpedia/field","emittingConcepts":["Andy Warhol","Ernst Ludwig Kirchner","Francisco Goya","Frank Stella","Georges Braque","Henri Matisse","Jasper Johns","Jean Baptiste Camille Corot","Peter Paul Rubens","Rembrandt","Robert Motherwell","Rockwell Kent"],"receivingConcepts":[]}
+{"concept":"Classics","rel":"dbpedia/field","emittingConcepts":["Antichthon","Theodor Mommsen"],"receivingConcepts":[]}
+{"concept":"Botany","rel":"dbpedia/field","emittingConcepts":["Antoine Laurent De Jussieu","Asa Gray","Robert Brown"],"receivingConcepts":[]}
+{"concept":"Archimedes","rel":"dbpedia/field","receivingConcepts":["Astronomy","Engineering","Invention","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Engineering","rel":"dbpedia/field","emittingConcepts":["Archimedes","Augustin Jean Fresnel"],"receivingConcepts":[]}
+{"concept":"Invention","rel":"dbpedia/field","emittingConcepts":["Archimedes","Richard Trevithick"],"receivingConcepts":[]}
+{"concept":"Aristide Maillol","rel":"dbpedia/field","receivingConcepts":["Painting","Sculpture"],"emittingConcepts":[]}
+{"concept":"Archaeology","rel":"dbpedia/field","emittingConcepts":["Arthur Evans","Heinrich Schliemann","Howard Carter","Louis Leakey"],"receivingConcepts":[]}
+{"concept":"Political Economy","rel":"dbpedia/field","emittingConcepts":["Arthur Laffer","John Maynard Keynes"],"receivingConcepts":[]}
+{"concept":"Anthropology","rel":"dbpedia/field","emittingConcepts":["Ashley Montagu","Edward Sapir","Francis Galton","Joseph Greenberg","Rudolf Virchow"],"receivingConcepts":[]}
+{"concept":"Augustin Jean Fresnel","rel":"dbpedia/field","receivingConcepts":["Engineering","Physics"],"emittingConcepts":[]}
+{"concept":"B F Skinner","rel":"dbpedia/field","receivingConcepts":["Linguistics","Philosophy","Psychology"],"emittingConcepts":[]}
+{"concept":"Linguistics","rel":"dbpedia/field","emittingConcepts":["B F Skinner","Edward Sapir","Joseph Greenberg","Leon Battista Alberti","Steven Pinker"],"receivingConcepts":[]}
+{"concept":"Ben Shahn","rel":"dbpedia/field","receivingConcepts":["Illustration","Painting","Photography"],"emittingConcepts":[]}
+{"concept":"Illustration","rel":"dbpedia/field","emittingConcepts":["Ben Shahn","Charles Dana Gibson","Norman Rockwell","Rockwell Kent"],"receivingConcepts":[]}
+{"concept":"Benjamin Spock","rel":"dbpedia/field","receivingConcepts":["Pediatrics","Psychoanalysis"],"emittingConcepts":[]}
+{"concept":"Psychoanalysis","rel":"dbpedia/field","emittingConcepts":["Benjamin Spock","Karen Horney","Melanie Klein","Sigmund Freud"],"receivingConcepts":[]}
+{"concept":"Benoit Mandelbrot","rel":"dbpedia/field","receivingConcepts":["Aerodynamics","Mathematics"],"emittingConcepts":[]}
+{"concept":"Bernhard Riemann","rel":"dbpedia/field","receivingConcepts":["Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Biochemistry","rel":"dbpedia/field","receivingConcepts":["Biochemistry"],"emittingConcepts":["Biochemistry","Charles Herbert Best","Dorothy Hodgkin","Eduard Buchner","Edward Calvin Kendall","Ernst Boris Chain","Frederick Sanger","Fritz Albert Lipmann","Hans Adolf Krebs","John Howard Northrop","Linus Pauling","Otto Fritz Meyerhof","Severo Ochoa"]}
+{"concept":"Brahmagupta","rel":"dbpedia/field","receivingConcepts":["Astronomy","Mathematics"],"emittingConcepts":[]}
+{"concept":"Brain","rel":"dbpedia/field","receivingConcepts":["Neurology","Neuroscience"],"emittingConcepts":[]}
+{"concept":"Neurology","rel":"dbpedia/field","emittingConcepts":["Brain","Jean Martin Charcot","Sigmund Freud","Thomas Willis"],"receivingConcepts":[]}
+{"concept":"Neuroscience","rel":"dbpedia/field","emittingConcepts":["Brain","Camillo Golgi","John Eccles"],"receivingConcepts":[]}
+{"concept":"Oncology","rel":"dbpedia/field","emittingConcepts":["Ca","Cancer","Cancer Cell","Cancer Research","Carcinogenesis","Lung Cancer"],"receivingConcepts":[]}
+{"concept":"Cancer Research","rel":"dbpedia/field","receivingConcepts":["Cancer","Oncology"],"emittingConcepts":[]}
+{"concept":"Carl Jung","rel":"dbpedia/field","receivingConcepts":["Psychiatry","Psychology","Psychotherapy"],"emittingConcepts":[]}
+{"concept":"Psychiatry","rel":"dbpedia/field","emittingConcepts":["Carl Jung","Richard Von Krafft Ebing","Thomas Willis"],"receivingConcepts":[]}
+{"concept":"Psychotherapy","rel":"dbpedia/field","emittingConcepts":["Carl Jung","Sigmund Freud"],"receivingConcepts":[]}
+{"concept":"Carl Sagan","rel":"dbpedia/field","receivingConcepts":["Astrobiology","Astronomy","Astrophysics","Cosmology","Planetary Science"],"emittingConcepts":[]}
+{"concept":"Astrophysics","rel":"dbpedia/field","emittingConcepts":["Carl Sagan","George Ellery Hale"],"receivingConcepts":[]}
+{"concept":"Cosmology","rel":"dbpedia/field","emittingConcepts":["Carl Sagan","Pierre Teilhard De Chardin"],"receivingConcepts":[]}
+{"concept":"Biology","rel":"dbpedia/field","emittingConcepts":["Cell","Gregory Goodwin Pincus","J B S Haldane","Jacques Monod","L David Mech","Lazzaro Spallanzani","Leo Szilard","Theodor Schwann","Trends"],"receivingConcepts":[]}
+{"concept":"Charles Darwin","rel":"dbpedia/field","receivingConcepts":["Geology","Natural History"],"emittingConcepts":[]}
+{"concept":"Charles Herbert Best","rel":"dbpedia/field","receivingConcepts":["Biochemistry","Physiology"],"emittingConcepts":[]}
+{"concept":"Christiaan Huygens","rel":"dbpedia/field","receivingConcepts":["Astronomy","Horology","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Circulation","rel":"dbpedia/field","receivingConcepts":["Cardiology","Circulatory System"],"emittingConcepts":[]}
+{"concept":"Cardiology","rel":"dbpedia/field","emittingConcepts":["Circulation","Heart"],"receivingConcepts":[]}
+{"concept":"Clinical Anatomy","rel":"dbpedia/field","receivingConcepts":["Anatomy","Physiology"],"emittingConcepts":[]}
+{"concept":"Constant Lambert","rel":"dbpedia/field","receivingConcepts":["Author","Composer"],"emittingConcepts":[]}
+{"concept":"Critical Review","rel":"dbpedia/field","receivingConcepts":["Economics","Political Science"],"emittingConcepts":[]}
+{"concept":"Economics","rel":"dbpedia/field","emittingConcepts":["Critical Review","Frederick Soddy","Gunnar Myrdal","Herbert Simon","Isaac Newton","Jan Tinbergen","John Von Neumann","Joseph Schumpeter","Ordo","Ragnar Frisch","Tjalling Koopmans","Wassily Leontief","William Stanley Jevons"],"receivingConcepts":[]}
+{"concept":"Political Science","rel":"dbpedia/field","emittingConcepts":["Critical Review","Herbert Simon","Historical Materialism","Ordo"],"receivingConcepts":[]}
+{"concept":"David Alfaro Siqueiros","rel":"dbpedia/field","receivingConcepts":["Mural","Painting"],"emittingConcepts":[]}
+{"concept":"Mural","rel":"dbpedia/field","emittingConcepts":["David Alfaro Siqueiros","Diego Rivera"],"receivingConcepts":[]}
+{"concept":"Microbiology","rel":"dbpedia/field","emittingConcepts":["David Bruce","Louis Pasteur","Robert Koch"],"receivingConcepts":[]}
+{"concept":"David Hilbert","rel":"dbpedia/field","receivingConcepts":["Mathematics","Philosophy","Physics"],"emittingConcepts":[]}
+{"concept":"Electrical Engineering","rel":"dbpedia/field","emittingConcepts":["Dennis Gabor","Elihu Thomson","Oliver Heaviside","Vannevar Bush"],"receivingConcepts":[]}
+{"concept":"Diego Rivera","rel":"dbpedia/field","receivingConcepts":["Mural","Painting"],"emittingConcepts":[]}
+{"concept":"Donald Glaser","rel":"dbpedia/field","receivingConcepts":["Molecular Biology","Physics"],"emittingConcepts":[]}
+{"concept":"Molecular Biology","rel":"dbpedia/field","emittingConcepts":["Donald Glaser","Francis Crick","Hermann Joseph Muller","Jacques Monod","Maurice Wilkins","Max Perutz","Richard J Roberts","Severo Ochoa"],"receivingConcepts":[]}
+{"concept":"Dorothy Hodgkin","rel":"dbpedia/field","receivingConcepts":["Biochemistry","X Ray Crystallography"],"emittingConcepts":[]}
+{"concept":"Edmond Halley","rel":"dbpedia/field","receivingConcepts":["Astronomy","Cartography","Geophysics","Meteorology","Physics"],"emittingConcepts":[]}
+{"concept":"Geophysics","rel":"dbpedia/field","emittingConcepts":["Edmond Halley","John Tuzo Wilson"],"receivingConcepts":[]}
+{"concept":"Genetics","rel":"dbpedia/field","emittingConcepts":["Edward Lawrie Tatum","George Wells Beadle","Gregor Mendel","Hermann Joseph Muller","James Watson","Thomas Hunt Morgan"],"receivingConcepts":[]}
+{"concept":"Edward Sapir","rel":"dbpedia/field","receivingConcepts":["Anthropology","Linguistics"],"emittingConcepts":[]}
+{"concept":"Emmy Noether","rel":"dbpedia/field","receivingConcepts":["Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Ernest Rutherford","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Physician","rel":"dbpedia/field","emittingConcepts":["Ernst Heinrich Weber","Hans Zinsser","Ivan Pavlov","William Henry"],"receivingConcepts":[]}
+{"concept":"Ernst Ludwig Kirchner","rel":"dbpedia/field","receivingConcepts":["Painting","Printmaking"],"emittingConcepts":[]}
+{"concept":"Physicist","rel":"dbpedia/field","emittingConcepts":["Ernst Mach","George Gamow"],"receivingConcepts":[]}
+{"concept":"Eugene Wigner","rel":"dbpedia/field","receivingConcepts":["Atomic Physics","Nuclear Physics","Solid State Physics","Theoretical Physics"],"emittingConcepts":[]}
+{"concept":"Theoretical Physics","rel":"dbpedia/field","emittingConcepts":["Eugene Wigner","Hideki Yukawa","Klaus Fuchs","Michio Kaku","Richard Feynman","Robert Mills","Steven Weinberg"],"receivingConcepts":[]}
+{"concept":"Evangelista Torricelli","rel":"dbpedia/field","receivingConcepts":["Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Filippino Lippi","rel":"dbpedia/field","receivingConcepts":["Fresco","Painting"],"emittingConcepts":[]}
+{"concept":"Filippo Brunelleschi","rel":"dbpedia/field","receivingConcepts":["Architecture","Mechanical Engineering","Sculpture"],"emittingConcepts":[]}
+{"concept":"Architecture","rel":"dbpedia/field","emittingConcepts":["Filippo Brunelleschi","Frank Stella","Giorgio Vasari","Giotto","Jean Antoine Watteau","Leon Battista Alberti","Maya Lin","Raphael"],"receivingConcepts":[]}
+{"concept":"Mechanical Engineering","rel":"dbpedia/field","emittingConcepts":["Filippo Brunelleschi","James Watt"],"receivingConcepts":[]}
+{"concept":"Francis Crick","rel":"dbpedia/field","receivingConcepts":["Molecular Biology","Physics"],"emittingConcepts":[]}
+{"concept":"Francis Galton","rel":"dbpedia/field","receivingConcepts":["Anthropology","Polymath","Sociology"],"emittingConcepts":[]}
+{"concept":"Sociology","rel":"dbpedia/field","emittingConcepts":["Francis Galton","Gunnar Myrdal","Max Weber","Talcott Parsons","Thorstein Veblen","W E B Du Bois"],"receivingConcepts":[]}
+{"concept":"Francisco Goya","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting","Printmaking","Sculpture"],"emittingConcepts":[]}
+{"concept":"Frank Stella","rel":"dbpedia/field","receivingConcepts":["Architecture","Painting","Printmaking","Sculpture"],"emittingConcepts":[]}
+{"concept":"Abstract Art","rel":"dbpedia/field","emittingConcepts":["Franz Kline","Josef Albers"],"receivingConcepts":[]}
+{"concept":"Historian","rel":"dbpedia/field","emittingConcepts":["Frederick Jackson Turner","Theodor Mommsen"],"receivingConcepts":[]}
+{"concept":"Frederick Soddy","rel":"dbpedia/field","receivingConcepts":["Economics","Radiochemistry"],"emittingConcepts":[]}
+{"concept":"Radiochemistry","rel":"dbpedia/field","emittingConcepts":["Frederick Soddy","Otto Hahn"],"receivingConcepts":[]}
+{"concept":"Physical Chemistry","rel":"dbpedia/field","emittingConcepts":["Fritz Haber","Gerhard Herzberg","Harold Urey","Lars Onsager","Odd Hassel","William Crookes"],"receivingConcepts":[]}
+{"concept":"Galileo Galilei","rel":"dbpedia/field","receivingConcepts":["Astronomy","Mathematics","Natural Philosophy","Physics"],"emittingConcepts":[]}
+{"concept":"Natural Philosophy","rel":"dbpedia/field","emittingConcepts":["Galileo Galilei","Isaac Newton","Johannes Kepler"],"receivingConcepts":[]}
+{"concept":"Paleontology","rel":"dbpedia/field","emittingConcepts":["Geobios","Georges Cuvier","Louis Leakey","Palaeontology","Pierre Teilhard De Chardin","Stephen Jay Gould"],"receivingConcepts":[]}
+{"concept":"George Ellery Hale","rel":"dbpedia/field","receivingConcepts":["Astronomy","Astrophysics"],"emittingConcepts":[]}
+{"concept":"George Segal","rel":"dbpedia/field","receivingConcepts":["Pop Art","Sculpture"],"emittingConcepts":[]}
+{"concept":"Georges Braque","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting","Printmaking","Sculpture"],"emittingConcepts":[]}
+{"concept":"Georges Cuvier","rel":"dbpedia/field","receivingConcepts":["Anatomy","Natural History","Paleontology"],"emittingConcepts":[]}
+{"concept":"Giorgio De Chirico","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting","Sculpture"],"emittingConcepts":[]}
+{"concept":"Giorgio Vasari","rel":"dbpedia/field","receivingConcepts":["Architecture","Painting"],"emittingConcepts":[]}
+{"concept":"Giotto","rel":"dbpedia/field","receivingConcepts":["Architecture","Fresco","Painting"],"emittingConcepts":[]}
+{"concept":"Organic Chemistry","rel":"dbpedia/field","emittingConcepts":["Giulio Natta","Robert Burns Woodward","Robert Robinson","Wallace Carothers"],"receivingConcepts":[]}
+{"concept":"Nuclear Chemistry","rel":"dbpedia/field","emittingConcepts":["Glenn T Seaborg","Otto Hahn"],"receivingConcepts":[]}
+{"concept":"Grandma Moses","rel":"dbpedia/field","receivingConcepts":["Embroidery","Painting"],"emittingConcepts":[]}
+{"concept":"Gunnar Myrdal","rel":"dbpedia/field","receivingConcepts":["Economics","Politics","Sociology"],"emittingConcepts":[]}
+{"concept":"Gustave Courbet","rel":"dbpedia/field","receivingConcepts":["Painting","Sculpture"],"emittingConcepts":[]}
+{"concept":"Hans Adolf Krebs","rel":"dbpedia/field","receivingConcepts":["Biochemistry","Internal Medicine"],"emittingConcepts":[]}
+{"concept":"Hans Geiger","rel":"dbpedia/field","receivingConcepts":["Physics","Science"],"emittingConcepts":[]}
+{"concept":"Hans Zinsser","rel":"dbpedia/field","receivingConcepts":["Bacteriology","Epidemiology","Physician"],"emittingConcepts":[]}
+{"concept":"Epidemiology","rel":"dbpedia/field","emittingConcepts":["Hans Zinsser","Jonas Salk"],"receivingConcepts":[]}
+{"concept":"Henri Becquerel","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Henri Matisse","rel":"dbpedia/field","receivingConcepts":["Collage","Printmaking"],"emittingConcepts":[]}
+{"concept":"Collage","rel":"dbpedia/field","emittingConcepts":["Henri Matisse","Lee Krasner"],"receivingConcepts":[]}
+{"concept":"Henry Cavendish","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Henry Sweet","rel":"dbpedia/field","receivingConcepts":["Old English","Phonetics"],"emittingConcepts":[]}
+{"concept":"Herbert Simon","rel":"dbpedia/field","receivingConcepts":["Artificial Intelligence","Cognitive Psychology","Computer Science","Economics","Political Science"],"emittingConcepts":[]}
+{"concept":"Artificial Intelligence","rel":"dbpedia/field","emittingConcepts":["Herbert Simon","Marvin Minsky"],"receivingConcepts":[]}
+{"concept":"Hermann Joseph Muller","rel":"dbpedia/field","receivingConcepts":["Genetics","Molecular Biology"],"emittingConcepts":[]}
+{"concept":"Mathematician","rel":"dbpedia/field","emittingConcepts":["Hermann Minkowski","John Napier","Simon Newcomb"],"receivingConcepts":[]}
+{"concept":"Hermann Von Helmholtz","rel":"dbpedia/field","receivingConcepts":["Physics","Physiology","Psychology"],"emittingConcepts":[]}
+{"concept":"Howard Carter","rel":"dbpedia/field","receivingConcepts":["Archaeology","Egyptology"],"emittingConcepts":[]}
+{"concept":"Egyptology","rel":"dbpedia/field","emittingConcepts":["Howard Carter","Thomas Young"],"receivingConcepts":[]}
+{"concept":"Howard Florey","rel":"dbpedia/field","receivingConcepts":["Bacteriology","Immunology"],"emittingConcepts":[]}
+{"concept":"Inorganic Chemistry","rel":"dbpedia/field","receivingConcepts":["Inorganic Chemistry"],"emittingConcepts":["Inorganic Chemistry","Polyhedron"]}
+{"concept":"Isaac Newton","rel":"dbpedia/field","receivingConcepts":["Alchemy","Astronomy","Economics","Mathematics","Natural Philosophy","Physics"],"emittingConcepts":[]}
+{"concept":"Isamu Noguchi","rel":"dbpedia/field","receivingConcepts":["Furniture","Landscape Architecture","Sculpture"],"emittingConcepts":[]}
+{"concept":"History of Science","rel":"dbpedia/field","emittingConcepts":["Isis","Stephen Jay Gould"],"receivingConcepts":[]}
+{"concept":"Ivan Pavlov","rel":"dbpedia/field","receivingConcepts":["Physician","Physiology"],"emittingConcepts":[]}
+{"concept":"J B S Haldane","rel":"dbpedia/field","receivingConcepts":["Biology","Biostatistics"],"emittingConcepts":[]}
+{"concept":"Jacques Charles","rel":"dbpedia/field","receivingConcepts":["Hot Air Ballooning","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Jacques Louis David","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting"],"emittingConcepts":[]}
+{"concept":"Jacques Monod","rel":"dbpedia/field","receivingConcepts":["Biology","Molecular Biology"],"emittingConcepts":[]}
+{"concept":"James Clerk Maxwell","rel":"dbpedia/field","receivingConcepts":["Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"James Mckeen Cattell","rel":"dbpedia/field","receivingConcepts":["Psychology","Psychometrics"],"emittingConcepts":[]}
+{"concept":"Macroeconomics","rel":"dbpedia/field","emittingConcepts":["James Tobin","Thomas Robert Malthus"],"receivingConcepts":[]}
+{"concept":"Jasper Johns","rel":"dbpedia/field","receivingConcepts":["Painting","Printmaking"],"emittingConcepts":[]}
+{"concept":"Jean Antoine Watteau","rel":"dbpedia/field","receivingConcepts":["Architecture","Painting"],"emittingConcepts":[]}
+{"concept":"Jean Arp","rel":"dbpedia/field","receivingConcepts":["Painting","Sculpture"],"emittingConcepts":[]}
+{"concept":"Jean Auguste Dominique Ingres","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting"],"emittingConcepts":[]}
+{"concept":"Jean Baptiste Camille Corot","rel":"dbpedia/field","receivingConcepts":["Painting","Printmaking"],"emittingConcepts":[]}
+{"concept":"Jean Piaget","rel":"dbpedia/field","receivingConcepts":["Developmental Psychology","Epistemology"],"emittingConcepts":[]}
+{"concept":"Johannes Kepler","rel":"dbpedia/field","receivingConcepts":["Astrology","Astronomy","Mathematics","Natural Philosophy"],"emittingConcepts":[]}
+{"concept":"Astrology","rel":"dbpedia/field","emittingConcepts":["Johannes Kepler","Regiomontanus"],"receivingConcepts":[]}
+{"concept":"John Eccles","rel":"dbpedia/field","receivingConcepts":["Neuroscience","Philosophy of Mind"],"emittingConcepts":[]}
+{"concept":"Philosophy of Mind","rel":"dbpedia/field","emittingConcepts":["John Eccles","Marvin Minsky"],"receivingConcepts":[]}
+{"concept":"Medicine","rel":"dbpedia/field","emittingConcepts":["John James Rickard Macleod","Lancet","Marie Stopes","Rudolf Virchow","Thomas Sydenham","William Harvey"],"receivingConcepts":[]}
+{"concept":"John Maynard Keynes","rel":"dbpedia/field","receivingConcepts":["Political Economy","Probability"],"emittingConcepts":[]}
+{"concept":"John Tyndall","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"John Venn","rel":"dbpedia/field","receivingConcepts":["Logic","Mathematics","Philosophy"],"emittingConcepts":[]}
+{"concept":"John Von Neumann","rel":"dbpedia/field","receivingConcepts":["Economics","Mathematics","Physics","Statistics"],"emittingConcepts":[]}
+{"concept":"Jonas Salk","rel":"dbpedia/field","receivingConcepts":["Epidemiology","Virology"],"emittingConcepts":[]}
+{"concept":"Josef Albers","rel":"dbpedia/field","receivingConcepts":["Abstract Art","Color"],"emittingConcepts":[]}
+{"concept":"Joseph Black","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Joseph Greenberg","rel":"dbpedia/field","receivingConcepts":["Anthropology","Linguistics"],"emittingConcepts":[]}
+{"concept":"Joseph Schumpeter","rel":"dbpedia/field","receivingConcepts":["Econometrics","Economics"],"emittingConcepts":[]}
+{"concept":"Econometrics","rel":"dbpedia/field","emittingConcepts":["Joseph Schumpeter","Simon Kuznets"],"receivingConcepts":[]}
+{"concept":"Josiah Willard Gibbs","rel":"dbpedia/field","receivingConcepts":["Chemistry","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Ethology","rel":"dbpedia/field","emittingConcepts":["Karl Von Frisch","Konrad Lorenz","Nikolaas Tinbergen"],"receivingConcepts":[]}
+{"concept":"L David Mech","rel":"dbpedia/field","receivingConcepts":["Biology","Ecology"],"emittingConcepts":[]}
+{"concept":"Lee Krasner","rel":"dbpedia/field","receivingConcepts":["Collage","Painting"],"emittingConcepts":[]}
+{"concept":"Leo Szilard","rel":"dbpedia/field","receivingConcepts":["Biology","Physics"],"emittingConcepts":[]}
+{"concept":"Leon Battista Alberti","rel":"dbpedia/field","receivingConcepts":["Architecture","Linguistics","Poetry"],"emittingConcepts":[]}
+{"concept":"Poetry","rel":"dbpedia/field","emittingConcepts":["Leon Battista Alberti","Max Ernst"],"receivingConcepts":[]}
+{"concept":"Linus Pauling","rel":"dbpedia/field","receivingConcepts":["Biochemistry","Quantum Chemistry"],"emittingConcepts":[]}
+{"concept":"Louis Leakey","rel":"dbpedia/field","receivingConcepts":["Archaeology","Paleoanthropology","Paleontology"],"emittingConcepts":[]}
+{"concept":"Paleoanthropology","rel":"dbpedia/field","emittingConcepts":["Louis Leakey","Mary Leakey","Richard Leakey"],"receivingConcepts":[]}
+{"concept":"Louis Pasteur","rel":"dbpedia/field","receivingConcepts":["Chemistry","Microbiology"],"emittingConcepts":[]}
+{"concept":"Marcello Malpighi","rel":"dbpedia/field","receivingConcepts":["Anatomy","Embryology","Histology","Physiology"],"emittingConcepts":[]}
+{"concept":"Embryology","rel":"dbpedia/field","emittingConcepts":["Marcello Malpighi","Thomas Hunt Morgan"],"receivingConcepts":[]}
+{"concept":"Marvin Minsky","rel":"dbpedia/field","receivingConcepts":["Artificial Intelligence","Cognitive Science","Computer Science","Philosophy of Mind"],"emittingConcepts":[]}
+{"concept":"Cognitive Science","rel":"dbpedia/field","emittingConcepts":["Marvin Minsky","Steven Pinker"],"receivingConcepts":[]}
+{"concept":"Maurice Wilkins","rel":"dbpedia/field","receivingConcepts":["Molecular Biology","Physics"],"emittingConcepts":[]}
+{"concept":"Max Ernst","rel":"dbpedia/field","receivingConcepts":["Painting","Poetry","Sculpture"],"emittingConcepts":[]}
+{"concept":"Max Perutz","rel":"dbpedia/field","receivingConcepts":["Crystallography","Molecular Biology"],"emittingConcepts":[]}
+{"concept":"Max Weber","rel":"dbpedia/field","receivingConcepts":["Max Weber","Sociology"],"emittingConcepts":["Max Weber"]}
+{"concept":"Michael Faraday","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Nicolaus Copernicus","rel":"dbpedia/field","receivingConcepts":["Astronomy","Canon Law"],"emittingConcepts":[]}
+{"concept":"Nikolaas Tinbergen","rel":"dbpedia/field","receivingConcepts":["Ethology","Zoology"],"emittingConcepts":[]}
+{"concept":"Norbert Wiener","rel":"dbpedia/field","receivingConcepts":["Cybernetics","Mathematics"],"emittingConcepts":[]}
+{"concept":"Oliver Heaviside","rel":"dbpedia/field","receivingConcepts":["Electrical Engineering","Mathematics","Physics"],"emittingConcepts":[]}
+{"concept":"Ordo","rel":"dbpedia/field","receivingConcepts":["Economics","Law","Political Science"],"emittingConcepts":[]}
+{"concept":"Law","rel":"dbpedia/field","emittingConcepts":["Ordo","Pierre De Fermat"],"receivingConcepts":[]}
+{"concept":"Otto Fritz Meyerhof","rel":"dbpedia/field","receivingConcepts":["Biochemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Otto Hahn","rel":"dbpedia/field","receivingConcepts":["Nuclear Chemistry","Radiochemistry"],"emittingConcepts":[]}
+{"concept":"Peter Medawar","rel":"dbpedia/field","receivingConcepts":["Immunology","Zoology"],"emittingConcepts":[]}
+{"concept":"Pierre De Fermat","rel":"dbpedia/field","receivingConcepts":["Law","Mathematics"],"emittingConcepts":[]}
+{"concept":"Pierre Teilhard De Chardin","rel":"dbpedia/field","receivingConcepts":["Cosmology","Evolution","Paleontology","Philosophy","Theology"],"emittingConcepts":[]}
+{"concept":"Raphael","rel":"dbpedia/field","receivingConcepts":["Architecture","Painting"],"emittingConcepts":[]}
+{"concept":"Regiomontanus","rel":"dbpedia/field","receivingConcepts":["Astrology","Astronomy","Mathematics"],"emittingConcepts":[]}
+{"concept":"Robert Boyle","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"Robert Bunsen","rel":"dbpedia/field","receivingConcepts":["Chemistry","Geology","Mineralogy"],"emittingConcepts":[]}
+{"concept":"Robert Mills","rel":"dbpedia/field","receivingConcepts":["Quantum Field Theory","Theoretical Physics"],"emittingConcepts":[]}
+{"concept":"Robert Motherwell","rel":"dbpedia/field","receivingConcepts":["Painting","Printmaking"],"emittingConcepts":[]}
+{"concept":"Rockwell Kent","rel":"dbpedia/field","receivingConcepts":["Illustration","Printmaking"],"emittingConcepts":[]}
+{"concept":"Rudolf Virchow","rel":"dbpedia/field","receivingConcepts":["Anthropology","Medicine"],"emittingConcepts":[]}
+{"concept":"Severo Ochoa","rel":"dbpedia/field","receivingConcepts":["Biochemistry","Molecular Biology"],"emittingConcepts":[]}
+{"concept":"Sigmund Freud","rel":"dbpedia/field","receivingConcepts":["Neurology","Psychoanalysis","Psychology","Psychotherapy"],"emittingConcepts":[]}
+{"concept":"Simon Newcomb","rel":"dbpedia/field","receivingConcepts":["Astronomy","Mathematician"],"emittingConcepts":[]}
+{"concept":"Stephen Hawking","rel":"dbpedia/field","receivingConcepts":["General Relativity","Quantum Gravity"],"emittingConcepts":[]}
+{"concept":"Stephen Jay Gould","rel":"dbpedia/field","receivingConcepts":["Evolutionary Biology","History of Science","Paleontology"],"emittingConcepts":[]}
+{"concept":"Steven Pinker","rel":"dbpedia/field","receivingConcepts":["Cognitive Science","Evolutionary Psychology","Experimental Psychology","Linguistics","Perception"],"emittingConcepts":[]}
+{"concept":"Stuart Davis","rel":"dbpedia/field","receivingConcepts":["Modernism","Painting"],"emittingConcepts":[]}
+{"concept":"Theodor Mommsen","rel":"dbpedia/field","receivingConcepts":["Classics","Historian","Jurist"],"emittingConcepts":[]}
+{"concept":"Thomas Henry Huxley","rel":"dbpedia/field","receivingConcepts":["Comparative Anatomy","Zoology"],"emittingConcepts":[]}
+{"concept":"Thomas Hunt Morgan","rel":"dbpedia/field","receivingConcepts":["Embryology","Genetics"],"emittingConcepts":[]}
+{"concept":"Thomas Robert Malthus","rel":"dbpedia/field","receivingConcepts":["Demography","Macroeconomics"],"emittingConcepts":[]}
+{"concept":"Thomas Willis","rel":"dbpedia/field","receivingConcepts":["Anatomy","Neurology","Psychiatry"],"emittingConcepts":[]}
+{"concept":"Thomas Young","rel":"dbpedia/field","receivingConcepts":["Egyptology","Physics","Physiology"],"emittingConcepts":[]}
+{"concept":"Tjalling Koopmans","rel":"dbpedia/field","receivingConcepts":["Economics","Physics"],"emittingConcepts":[]}
+{"concept":"Vincent Van Gogh","rel":"dbpedia/field","receivingConcepts":["Drawing","Painting"],"emittingConcepts":[]}
+{"concept":"W E B Du Bois","rel":"dbpedia/field","receivingConcepts":["History","Sociology"],"emittingConcepts":[]}
+{"concept":"William Harvey","rel":"dbpedia/field","receivingConcepts":["Anatomy","Medicine"],"emittingConcepts":[]}
+{"concept":"William Henry","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physician"],"emittingConcepts":[]}
+{"concept":"William Herschel","rel":"dbpedia/field","receivingConcepts":["Astronomy","Music"],"emittingConcepts":[]}
+{"concept":"William Hyde Wollaston","rel":"dbpedia/field","receivingConcepts":["Chemistry","Physics"],"emittingConcepts":[]}
+{"concept":"William Rowan Hamilton","rel":"dbpedia/field","receivingConcepts":["Astronomy","Physics"],"emittingConcepts":[]}
+{"concept":"William Stanley Jevons","rel":"dbpedia/field","receivingConcepts":["Economics","Logic"],"emittingConcepts":[]}
+{"concept":"Winslow Homer","rel":"dbpedia/field","receivingConcepts":["Drawing","Oil Painting","Watercolor Painting"],"emittingConcepts":[]}

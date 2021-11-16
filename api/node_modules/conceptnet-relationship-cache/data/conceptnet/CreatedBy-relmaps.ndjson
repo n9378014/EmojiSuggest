@@ -1,0 +1,65 @@
+{"concept":"Artist","rel":"CreatedBy","emittingConcepts":["Art","Painting"],"receivingConcepts":[]}
+{"concept":"Writer","rel":"CreatedBy","emittingConcepts":["Article","Book","Novel"],"receivingConcepts":[]}
+{"concept":"Babies","rel":"CreatedBy","receivingConcepts":["Humans","Parents"],"emittingConcepts":[]}
+{"concept":"Humans","rel":"CreatedBy","emittingConcepts":["Babies","Dam"],"receivingConcepts":[]}
+{"concept":"Parents","rel":"CreatedBy","emittingConcepts":["Babies","Child","Human"],"receivingConcepts":[]}
+{"concept":"Baby","rel":"CreatedBy","receivingConcepts":["Ivf","Sex"],"emittingConcepts":[]}
+{"concept":"Beer","rel":"CreatedBy","receivingConcepts":["Brewers","Fermentation","Fermentation of Hops"],"emittingConcepts":[]}
+{"concept":"Fermentation","rel":"CreatedBy","emittingConcepts":["Beer","Vinegar","Wine"],"receivingConcepts":[]}
+{"concept":"Book","rel":"CreatedBy","receivingConcepts":["Author","Writer"],"emittingConcepts":[]}
+{"concept":"Author","rel":"CreatedBy","emittingConcepts":["Book","Novel","Paper"],"receivingConcepts":[]}
+{"concept":"Building","rel":"CreatedBy","receivingConcepts":["Architect","Builders","Tradesmen"],"emittingConcepts":[]}
+{"concept":"Architect","rel":"CreatedBy","emittingConcepts":["Building","Sometimes Design"],"receivingConcepts":[]}
+{"concept":"Builders","rel":"CreatedBy","emittingConcepts":["Building","Houses"],"receivingConcepts":[]}
+{"concept":"Carpenter","rel":"CreatedBy","emittingConcepts":["Chair","Desk","Shelves","Table","Wooden Artifacts"],"receivingConcepts":[]}
+{"concept":"Child","rel":"CreatedBy","receivingConcepts":["Act of Sex","Birth","Loving Couple","Parents"],"emittingConcepts":[]}
+{"concept":"Computer Program","rel":"CreatedBy","emittingConcepts":["Collection","List"],"receivingConcepts":["Programming"]}
+{"concept":"Programming","rel":"CreatedBy","emittingConcepts":["Computer Program","Programs"],"receivingConcepts":[]}
+{"concept":"Mental Illness","rel":"CreatedBy","emittingConcepts":["Confusion","Fear","Misunderstanding"],"receivingConcepts":[]}
+{"concept":"Dam","rel":"CreatedBy","receivingConcepts":["Engineers","Humans"],"emittingConcepts":[]}
+{"concept":"Dance","rel":"CreatedBy","receivingConcepts":["Choreographer","Movement"],"emittingConcepts":[]}
+{"concept":"Death","rel":"CreatedBy","receivingConcepts":["Cyanide","Flames","High Voltage Electricity","Homicide","Murder","Nuclear Weapons","Poisonous Gas","Suicide"],"emittingConcepts":["Ghost"]}
+{"concept":"Chef","rel":"CreatedBy","emittingConcepts":["Dinner","Dish","Gnocchi"],"receivingConcepts":[]}
+{"concept":"God","rel":"CreatedBy","emittingConcepts":["Earth","Everything","Person","Satan","Universe"],"receivingConcepts":[]}
+{"concept":"Stimulus","rel":"CreatedBy","emittingConcepts":["Economic Activity","Sensation"],"receivingConcepts":[]}
+{"concept":"Political Ideology","rel":"CreatedBy","emittingConcepts":["Egalitarian Society","Equality for Everyone"],"receivingConcepts":[]}
+{"concept":"Egg","rel":"CreatedBy","receivingConcepts":["Chicken","Hen"],"emittingConcepts":[]}
+{"concept":"Equality for Everyone","rel":"CreatedBy","receivingConcepts":["Community","Political Ideology"],"emittingConcepts":[]}
+{"concept":"Community","rel":"CreatedBy","emittingConcepts":["Equality for Everyone","Linux","Sometimes Design","Utopia"],"receivingConcepts":[]}
+{"concept":"Everything","rel":"CreatedBy","receivingConcepts":["God","Ideas"],"emittingConcepts":[]}
+{"concept":"Faith","rel":"CreatedBy","receivingConcepts":["Belief","Experience","Trust"],"emittingConcepts":[]}
+{"concept":"Trust","rel":"CreatedBy","emittingConcepts":["Faith","Friendship"],"receivingConcepts":[]}
+{"concept":"Fear","rel":"CreatedBy","receivingConcepts":["Ignorance","Mental Illness","Perceived Danger"],"emittingConcepts":[]}
+{"concept":"Friendship","rel":"CreatedBy","receivingConcepts":["Trust","Two People"],"emittingConcepts":[]}
+{"concept":"Fruit","rel":"CreatedBy","receivingConcepts":["Plant","Plants","Trees"],"emittingConcepts":[]}
+{"concept":"Plants","rel":"CreatedBy","emittingConcepts":["Fruit","Oxygen","Sugar"],"receivingConcepts":[]}
+{"concept":"Trees","rel":"CreatedBy","emittingConcepts":["Fruit","Oxygen"],"receivingConcepts":[]}
+{"concept":"Programmer","rel":"CreatedBy","emittingConcepts":["Game","Program","Software","Source Code"],"receivingConcepts":[]}
+{"concept":"Manufacture","rel":"CreatedBy","emittingConcepts":["Hanging Rail","Paint","Smoke Alarm"],"receivingConcepts":[]}
+{"concept":"Fire","rel":"CreatedBy","emittingConcepts":["Heat","Smoke"],"receivingConcepts":[]}
+{"concept":"Human","rel":"CreatedBy","receivingConcepts":["Parents","Sperm and Egg"],"emittingConcepts":["Paper Airplane"]}
+{"concept":"Person","rel":"CreatedBy","emittingConcepts":["Ideology","Sentence","System of Abstract Thought"],"receivingConcepts":["God"]}
+{"concept":"Writing","rel":"CreatedBy","emittingConcepts":["Journal Entry","Literature"],"receivingConcepts":[]}
+{"concept":"People","rel":"CreatedBy","emittingConcepts":["Machine","Mistake","Television"],"receivingConcepts":[]}
+{"concept":"Meal","rel":"CreatedBy","receivingConcepts":["Cook","Ingredients"],"emittingConcepts":[]}
+{"concept":"Milk","rel":"CreatedBy","receivingConcepts":["Cows","Mammals"],"emittingConcepts":[]}
+{"concept":"Music","rel":"CreatedBy","receivingConcepts":["Instruments","Musicians"],"emittingConcepts":[]}
+{"concept":"Novel","rel":"CreatedBy","receivingConcepts":["Author","Writer"],"emittingConcepts":[]}
+{"concept":"Entering Into Contract","rel":"CreatedBy","emittingConcepts":["Obligation","Right"],"receivingConcepts":[]}
+{"concept":"Orphan","rel":"CreatedBy","receivingConcepts":["Giving Child Away","Killing Childs Parents"],"emittingConcepts":[]}
+{"concept":"Oxygen","rel":"CreatedBy","receivingConcepts":["Plants","Trees"],"emittingConcepts":[]}
+{"concept":"Paper","rel":"CreatedBy","receivingConcepts":["Author","Cutting Down Trees"],"emittingConcepts":[]}
+{"concept":"Paper Airplane","rel":"CreatedBy","receivingConcepts":["Folding Piece of Paper","Human"],"emittingConcepts":[]}
+{"concept":"Peace","rel":"CreatedBy","receivingConcepts":["Love and Understanding","Non Voilence"],"emittingConcepts":[]}
+{"concept":"Kidneys","rel":"CreatedBy","emittingConcepts":["Pee","Urine"],"receivingConcepts":[]}
+{"concept":"Poop","rel":"CreatedBy","receivingConcepts":["Life","Living Creatures"],"emittingConcepts":[]}
+{"concept":"Program","rel":"CreatedBy","receivingConcepts":["Compiling Source Code","Programmer","Programmning"],"emittingConcepts":[]}
+{"concept":"Room","rel":"CreatedBy","receivingConcepts":["Building Walls","Subdividing Building"],"emittingConcepts":[]}
+{"concept":"Sensation","rel":"CreatedBy","receivingConcepts":["Brain","Nervous System","Stimulus"],"emittingConcepts":[]}
+{"concept":"Sometimes Design","rel":"CreatedBy","receivingConcepts":["Architect","Community","Concensus","Non Professional","Students"],"emittingConcepts":[]}
+{"concept":"Song","rel":"CreatedBy","receivingConcepts":["Composer","Song Writer","Songwriter"],"emittingConcepts":[]}
+{"concept":"Sound","rel":"CreatedBy","receivingConcepts":["By Vocal Cords","Vibrating Air","Vibration","Vibrations"],"emittingConcepts":[]}
+{"concept":"Taking Over World","rel":"CreatedBy","receivingConcepts":["Planning","Scheme"],"emittingConcepts":[]}
+{"concept":"Theory","rel":"CreatedBy","receivingConcepts":["Scientist","Thinking"],"emittingConcepts":[]}
+{"concept":"Wine","rel":"CreatedBy","receivingConcepts":["Fermentation","Fermenting Grapes","Frementing Grapes"],"emittingConcepts":[]}
+{"concept":"Zygote","rel":"CreatedBy","receivingConcepts":["Fertilization","Sperm and Egg Cell","Union of Haploid Spermatozoon and Ovum"],"emittingConcepts":[]}

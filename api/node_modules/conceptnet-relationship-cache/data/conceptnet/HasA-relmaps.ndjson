@@ -1,0 +1,1003 @@
+{"concept":"Organs","rel":"HasA","emittingConcepts":["Abdomen","Bodies"],"receivingConcepts":[]}
+{"concept":"Distinctive Bottle","rel":"HasA","emittingConcepts":["Absolut Vodka","Orangina"],"receivingConcepts":[]}
+{"concept":"Accordian","rel":"HasA","receivingConcepts":["Shoulder Straps","Straps"],"emittingConcepts":[]}
+{"concept":"Accordion","rel":"HasA","receivingConcepts":["Keyboard","Keyboard Like Piano"],"emittingConcepts":[]}
+{"concept":"Keyboard","rel":"HasA","emittingConcepts":["Accordion","Computer"],"receivingConcepts":["Keys"]}
+{"concept":"Account Book","rel":"HasA","receivingConcepts":["Many Numbers","Record of Transactions"],"emittingConcepts":[]}
+{"concept":"Seeds","rel":"HasA","emittingConcepts":["Acorn","Apple","Apples","Berries","Center of Grapes","Fruit","Fruit Often","Lemons","Limes","Most Fuit","Pumpkin","Squash","Trees","Watermellon"],"receivingConcepts":[]}
+{"concept":"Strings","rel":"HasA","emittingConcepts":["Acoustic Guitar","Banjo","Fiddle","Guitar","Harp","Musical Instruments","Violin","Violins"],"receivingConcepts":[]}
+{"concept":"Four Stomachs","rel":"HasA","emittingConcepts":["Acow","Cows"],"receivingConcepts":[]}
+{"concept":"Purpose","rel":"HasA","emittingConcepts":["Action To","People Believe Life"],"receivingConcepts":[]}
+{"concept":"Consequences","rel":"HasA","emittingConcepts":["Actions","Decisions"],"receivingConcepts":[]}
+{"concept":"Actors","rel":"HasA","receivingConcepts":["Big Egos Need","Dressers Who Help Change"],"emittingConcepts":[]}
+{"concept":"Adults","rel":"HasA","receivingConcepts":["Larger Hands Than Children","No Teeth","One Boat and 32 Teeth","Poor Literacy","Poor Numeracy","Reached Legal Age"],"emittingConcepts":[]}
+{"concept":"No Teeth","rel":"HasA","emittingConcepts":["Adults","Ethan"],"receivingConcepts":[]}
+{"concept":"Seats","rel":"HasA","emittingConcepts":["Aeroplanes","Bicycles","Car","Cars","Most Means of Transportation","Planes","Restaurant","Restaurant Dining Area"],"receivingConcepts":[]}
+{"concept":"Africa","rel":"HasA","receivingConcepts":["Interesting Wildlife Like Warthog","Large Animals","Large Variety of Animals","Many Facinating Animals","Many Third World Countrys","Many Types of Animals","Wild Animals"],"emittingConcepts":[]}
+{"concept":"No Worries","rel":"HasA","emittingConcepts":["After Dead","Peace of Mind Means"],"receivingConcepts":[]}
+{"concept":"Aging","rel":"HasA","receivingConcepts":["Effect of Reducing Memory Function","Effect of Wrinkling Skin"],"emittingConcepts":[]}
+{"concept":"Aids","rel":"HasA","receivingConcepts":["Many Complex Symptoms"],"emittingConcepts":["Larry Just Found Out","One Impairment Person Might"]}
+{"concept":"Air","rel":"HasA","receivingConcepts":["Oxygen","Oxygen Nitrogen and Carbon Dioxide","Pressure"],"emittingConcepts":[]}
+{"concept":"Oxygen","rel":"HasA","emittingConcepts":["Air","Earth's Atmosphere","Rain","Water"],"receivingConcepts":[]}
+{"concept":"No Color","rel":"HasA","emittingConcepts":["Air in Itself","Rain Appears To","Water"],"receivingConcepts":[]}
+{"concept":"Airline Seat","rel":"HasA","receivingConcepts":["Designation","Tray Table"],"emittingConcepts":[]}
+{"concept":"Airplane","rel":"HasA","receivingConcepts":["Emergency Brakes","Propellers","Wheels"],"emittingConcepts":[]}
+{"concept":"Wheels","rel":"HasA","emittingConcepts":["Airplane","All Cars","Bicycles","Car","Cars","Most Aeroplanes","Operational Car","Rollerblades","Serving Trolley","Tricycle","Vehicles","Wagon"],"receivingConcepts":[]}
+{"concept":"Airplanes","rel":"HasA","receivingConcepts":["Disapeared in Bermuda Triangle","Two Wings","Wings"],"emittingConcepts":[]}
+{"concept":"Two Wings","rel":"HasA","emittingConcepts":["Airplanes","Bird"],"receivingConcepts":[]}
+{"concept":"Wings","rel":"HasA","emittingConcepts":["Airplanes","Angels","Bat","Bats","Bird","Birds","Birds and Airplanes","Birds Fly Because","Butterflies","Butterfly","Fairies","Fly","Most Birds","Moths","Parrots","People Fly in Airplanes","Planes"],"receivingConcepts":["Higher Pressure Beneath"]}
+{"concept":"Airports","rel":"HasA","receivingConcepts":["Lot of Parking Lots","Passenger Terminals","Runways","Windows"],"emittingConcepts":["Major Cities"]}
+{"concept":"Windows","rel":"HasA","emittingConcepts":["Airports","Buildings","Bus","Car","Cars","Church","Coffee Shops","Every Building","Fast Food Restaurants","House","Jeep","Most Bedrooms","Rooms"],"receivingConcepts":["Frame","Very Much Bugs"]}
+{"concept":"Beaches","rel":"HasA","emittingConcepts":["Alabama","America","California","Continents","Cuba","England","Florida","France","Georgia","Islands","Jamaca","Japan","Mexico","New York","North Carolina","South America","South Carolina","Tahiti","Virgin Islands"],"receivingConcepts":["Palm Trees","Sand and Rocks"]}
+{"concept":"Alaska","rel":"HasA","receivingConcepts":["Longest Coastline in u.s","Longest Shoreline of State"],"emittingConcepts":[]}
+{"concept":"Narrow Wings","rel":"HasA","emittingConcepts":["Albatrosses","Petrels","Shearwater Birds"],"receivingConcepts":[]}
+{"concept":"Alcohol","rel":"HasA","receivingConcepts":["Effect of Intoxicating"],"emittingConcepts":["Beer","Wine"]}
+{"concept":"Kids","rel":"HasA","emittingConcepts":["Alexa","Anatoly","Andrew","Asim","Bob","Brian","Carrie","Charles","Chase","Chuck","Clint","Connie","Danny","Debbie","Dwain","Gene","Geta","Gordon","Harry","Henry","Jeff","Jim","Joe","John","Justin","Katie","Kim","Kirstin","Larry","Mary","Mathew","Matt","Mike","Milan","Nick","Ofen","Paul","Randy","Rich","Robert","Rocky","Shawna","Sherrie","Stacey","Steve","Steven","Terry","Tim","Timothy","Tracey","Willy"],"receivingConcepts":["Parents Which Adults"]}
+{"concept":"All Animals","rel":"HasA","receivingConcepts":["Bodies","Digestive System","Skin Muscles Bones and Organs","Tummies"],"emittingConcepts":[]}
+{"concept":"Bodies","rel":"HasA","emittingConcepts":["All Animals","Animals","Humans"],"receivingConcepts":["Bones","Organs","Tissue"]}
+{"concept":"Digestive System","rel":"HasA","emittingConcepts":["All Animals","Every Living Human Being"],"receivingConcepts":["Do With Food","Eleven Basic Components","Esophagus and Stomach","Liver and Gallbladder","Mouth and Salivary Glands","Pancreas and Small and Large Intestines","Rectum and Anus","Very Strong Digestive Juices or Acids"]}
+{"concept":"Two Ears","rel":"HasA","emittingConcepts":["All Animals With Ears","Average Human Body","Cats","Dog","Dogs","Humans","Normally People","Person","Rabbits"],"receivingConcepts":[]}
+{"concept":"Mother and Father","rel":"HasA","emittingConcepts":["All Babies","Every Person","Everyone","Person"],"receivingConcepts":[]}
+{"concept":"Pages","rel":"HasA","emittingConcepts":["All Books","Appointment Book","Book","Books","Calendar Pad","Journal","Magazine","Menus","News Papers"],"receivingConcepts":[]}
+{"concept":"All Buildings","rel":"HasA","receivingConcepts":["Entranceway","Interior Area"],"emittingConcepts":[]}
+{"concept":"All Cars","rel":"HasA","receivingConcepts":["Engine","License Plates","Wheels"],"emittingConcepts":[]}
+{"concept":"Engine","rel":"HasA","emittingConcepts":["All Cars","All Trucks","Car","Cars"],"receivingConcepts":["Spark Plugs and Oil"]}
+{"concept":"All Children","rel":"HasA","receivingConcepts":["Biological Mothers","Two Parents"],"emittingConcepts":[]}
+{"concept":"Two Parents","rel":"HasA","emittingConcepts":["All Children","Child"],"receivingConcepts":[]}
+{"concept":"All Continents","rel":"HasA","receivingConcepts":["Coasts","Mountains"],"emittingConcepts":[]}
+{"concept":"Mountains","rel":"HasA","emittingConcepts":["All Continents","Places","World"],"receivingConcepts":["Peak","Snow on Top"]}
+{"concept":"All Countries","rel":"HasA","receivingConcepts":["Capital","Regional Accents"],"emittingConcepts":[]}
+{"concept":"All Cultures","rel":"HasA","receivingConcepts":["Marriage Ceremonies","Own Sense of Rhythm","Sort of Musical Expression","Sports","Taboos"],"emittingConcepts":[]}
+{"concept":"Sports","rel":"HasA","emittingConcepts":["All Cultures"],"receivingConcepts":["Losers","Rules","Winners"]}
+{"concept":"Breasts","rel":"HasA","emittingConcepts":["All Female Mammals","Girls and Women","Mammals"],"receivingConcepts":["Form Regardless of Size"]}
+{"concept":"Gills","rel":"HasA","emittingConcepts":["All Fish","All Fish Breathe Water And","Fish","Immature Amphibians"],"receivingConcepts":[]}
+{"concept":"All Followers","rel":"HasA","receivingConcepts":["Leader","Leaders"],"emittingConcepts":[]}
+{"concept":"Leader","rel":"HasA","emittingConcepts":["All Followers","Every Country"],"receivingConcepts":["Followers"]}
+{"concept":"Taste","rel":"HasA","emittingConcepts":["All Food One Eats","All Things Eat","Cream"],"receivingConcepts":[]}
+{"concept":"All Houses","rel":"HasA","receivingConcepts":["At Least One Door","Toilets"],"emittingConcepts":[]}
+{"concept":"At Least One Door","rel":"HasA","emittingConcepts":["All Houses","Garage"],"receivingConcepts":[]}
+{"concept":"Toilets","rel":"HasA","emittingConcepts":["All Houses","Many Bathrooms"],"receivingConcepts":[]}
+{"concept":"All Humans","rel":"HasA","receivingConcepts":["Bladders","Feelings","Internal Organs","Names","Naval"],"emittingConcepts":[]}
+{"concept":"Feelings","rel":"HasA","emittingConcepts":["All Humans","All People","Animals","Everyone","People"],"receivingConcepts":[]}
+{"concept":"Names","rel":"HasA","emittingConcepts":["All Humans","Computer Scientist","Not All of Toes","People","Phone Book","Stars"],"receivingConcepts":[]}
+{"concept":"Six Legs","rel":"HasA","emittingConcepts":["All Insects","Insects"],"receivingConcepts":[]}
+{"concept":"Sialic Basement","rel":"HasA","emittingConcepts":["All Known Ridges","Miogeosynclinal Furrow"],"receivingConcepts":[]}
+{"concept":"Followers","rel":"HasA","emittingConcepts":["All Leaders","Leader"],"receivingConcepts":[]}
+{"concept":"Penises","rel":"HasA","emittingConcepts":["All Males","Boys and Men"],"receivingConcepts":[]}
+{"concept":"All Mammals","rel":"HasA","receivingConcepts":["Fur","Hair","Nipples","Spinal Cord"],"emittingConcepts":[]}
+{"concept":"Fur","rel":"HasA","emittingConcepts":["All Mammals","Animals","Bears","Cats","Dog","Dogs","Kittens","Leopards","Lions","Mammals","Mice","Most Cats","No Reptiles","Rabbits"],"receivingConcepts":[]}
+{"concept":"Hair","rel":"HasA","emittingConcepts":["All Mammals","Cat","Cats","Humans","Mammals","People May Wear Jeans and People","Satanists"],"receivingConcepts":["Follicals","Follicle at Base","Person Dna","Protective Function","Roots","Silica"]}
+{"concept":"Nipples","rel":"HasA","emittingConcepts":["All Mammals","No Reptiles"],"receivingConcepts":["No Function on Men"]}
+{"concept":"Mass","rel":"HasA","emittingConcepts":["All Matter","Atoms","Exercize Weights","Matter","Objects","Tangible Objects"],"receivingConcepts":[]}
+{"concept":"Salt Water","rel":"HasA","emittingConcepts":["All Oceans","Oceans"],"receivingConcepts":[]}
+{"concept":"Eight Sides","rel":"HasA","emittingConcepts":["All Octogons","Hexagons","Octagon","Stop Sign","Stop Signs"],"receivingConcepts":[]}
+{"concept":"All People","rel":"HasA","receivingConcepts":["Brains","Cheeks","Feelings","Free Will","Muscles","Parents","Tongues"],"emittingConcepts":[]}
+{"concept":"Brains","rel":"HasA","emittingConcepts":["All People","Dog","Humans","People"],"receivingConcepts":["Evolved to Cope With Group Living"]}
+{"concept":"Muscles","rel":"HasA","emittingConcepts":["All People","Animals","Cats","Human","People"],"receivingConcepts":[]}
+{"concept":"Parents","rel":"HasA","emittingConcepts":["All People","Childs","Every Human","Everyone","Human","People"],"receivingConcepts":["Children"]}
+{"concept":"Been Constructed","rel":"HasA","emittingConcepts":["All Real Things","Universe"],"receivingConcepts":[]}
+{"concept":"Locks","rel":"HasA","emittingConcepts":["All Safe Deposit Boxes","All Safes","Doors Into Homes","Jails","Most Doors"],"receivingConcepts":[]}
+{"concept":"All Sentences","rel":"HasA","receivingConcepts":["Meaning","Nouns and Verbs"],"emittingConcepts":[]}
+{"concept":"Meaning","rel":"HasA","emittingConcepts":["All Sentences","All Setences","Term","Words"],"receivingConcepts":[]}
+{"concept":"Rules","rel":"HasA","emittingConcepts":["All Sports","Games","Many Games","Role Playing Game","Sports"],"receivingConcepts":[]}
+{"concept":"All Things","rel":"HasA","receivingConcepts":["Impact on Other Things","Opposite"],"emittingConcepts":[]}
+{"concept":"Colour","rel":"HasA","emittingConcepts":["All Things Can Lift","Every Object","Things"],"receivingConcepts":[]}
+{"concept":"All Triangles","rel":"HasA","receivingConcepts":["Three Sides","Three Sides and Three Corners"],"emittingConcepts":[]}
+{"concept":"Three Sides","rel":"HasA","emittingConcepts":["All Triangles","Traingle","Triangle","Triangles","Violin Strings Each"],"receivingConcepts":[]}
+{"concept":"Spines","rel":"HasA","emittingConcepts":["All Vertebrates","Vertebrates"],"receivingConcepts":[]}
+{"concept":"One Head","rel":"HasA","emittingConcepts":["Almost All Animals","Animals","Humans","Normally People","Person","Torso"],"receivingConcepts":[]}
+{"concept":"Eyes","rel":"HasA","emittingConcepts":["Almost All Animals Including Humans","Animals","Bats","Birds","Cat","Cats","Horse","Humans","Most Animals","Owls","People","Zebra"],"receivingConcepts":[]}
+{"concept":"Name","rel":"HasA","emittingConcepts":["Almost Every Human","Continent","Each Human","Every File on Disk","Every Human","Every Person","Everybody","Everyone","Everything","File to Accessed","Person","Street"],"receivingConcepts":[]}
+{"concept":"One","rel":"HasA","emittingConcepts":["Almost Everyone","Every Human","Most People"],"receivingConcepts":["Work to Earn Money"]}
+{"concept":"Lower Boiling Point Than Water","rel":"HasA","emittingConcepts":["Alocohol","Diesel Fuel","Gasoline"],"receivingConcepts":[]}
+{"concept":"Alto","rel":"HasA","receivingConcepts":["Deeper Voice Than Soprano","Higher Voice Than Tenor"],"emittingConcepts":[]}
+{"concept":"America","rel":"HasA","receivingConcepts":["50 States","Beaches","Fought Wars Over Oil","High Criminal Population","Strong Military"],"emittingConcepts":[]}
+{"concept":"50 States","rel":"HasA","emittingConcepts":["America","United States","Usa"],"receivingConcepts":[]}
+{"concept":"American Flag","rel":"HasA","receivingConcepts":["Fifty Stars","More Stars Than Stripes","Thirteen Stripes"],"emittingConcepts":[]}
+{"concept":"Area Code","rel":"HasA","emittingConcepts":["American Telephone Number","Even Antarcitca"],"receivingConcepts":[]}
+{"concept":"Children","rel":"HasA","emittingConcepts":["Amnesiac Can Forget","Jews","Married People","Most Families in United States","Parents","Parents People Who","Who Needs Tv When"],"receivingConcepts":["Alot of Fun at Playgrounds","Bad Attitude","Different Needs at Different Ages","Lots to Learn","More Tastebuds Than Adults Do","No Toys","Smaller Heads Than Adults","Toys Resemle Reptiles and Amphibians"]}
+{"concept":"Amusement Park","rel":"HasA","receivingConcepts":["Many Amusements","Rides"],"emittingConcepts":[]}
+{"concept":"Many Apartments","rel":"HasA","emittingConcepts":["Ana Aprtment House","Apartment House"],"receivingConcepts":[]}
+{"concept":"31 Days","rel":"HasA","emittingConcepts":["And","August","December","January","July","March","May","Month of January","October"],"receivingConcepts":[]}
+{"concept":"Meat","rel":"HasA","emittingConcepts":["Animal","Chinese Food Often"],"receivingConcepts":["Fat","Protein"]}
+{"concept":"Many Chemical Cycles","rel":"HasA","emittingConcepts":["Animal Bodies","Human Bodies"],"receivingConcepts":[]}
+{"concept":"Animals","rel":"HasA","receivingConcepts":["Almost No Understanding","Babies","Bodies","Bones","Ears","Emotions","Eyes","Feelings","Feelings and Emotions","Fur","Fur Coat","Keen Senses","Living Bodies While Computers Don't","Many Emotions","Millions of Cells","Multiple Arteries","Muscles","No Lips","One Head","Shiny Coats","Strong Senses","Tail","Tails"],"emittingConcepts":[]}
+{"concept":"Babies","rel":"HasA","emittingConcepts":["Animals"],"receivingConcepts":["Big Eyes","Father and Mother"]}
+{"concept":"Bones","rel":"HasA","emittingConcepts":["Animals","Bodies","Cats","Dogs","Ducks","Fingers","Fish","Frogs","Humans","Lizards","Pigs","Whales"],"receivingConcepts":["Lot of Calcium"]}
+{"concept":"Ears","rel":"HasA","emittingConcepts":["Animals","Dogs","Lambs","Most People","People"],"receivingConcepts":[]}
+{"concept":"Emotions","rel":"HasA","emittingConcepts":["Animals","Conscious Things","Humans","People"],"receivingConcepts":["Chemical Effect in Body"]}
+{"concept":"Many Emotions","rel":"HasA","emittingConcepts":["Animals","Higher Animals"],"receivingConcepts":[]}
+{"concept":"Millions of Cells","rel":"HasA","emittingConcepts":["Animals","Plants"],"receivingConcepts":[]}
+{"concept":"Tail","rel":"HasA","emittingConcepts":["Animals","Dogs","Fionacat","Fish","Kite","Lizards","Most Mammals"],"receivingConcepts":[]}
+{"concept":"Tails","rel":"HasA","emittingConcepts":["Animals","Birds","Dogs","Kangaroos","Many Birds","Most Cats","Planes","Shepherds Tend Sheep Which"],"receivingConcepts":[]}
+{"concept":"Four Legs","rel":"HasA","emittingConcepts":["Antelope","Armchair","Beaver","Cat","Cats","Cats and Dogs","Chair","Charis","Common Table","Cow","Cows","Deer","Dog","Dogs","Elephant","Every Horse","Fox","Guinea Pigs","Horse","Horses","Lizards","Many Tables","Mink","Moose and Turtles Both","Most but Not All Tables","Most Mammals","Mule","Normal Dogs","Pigs","Quadrupeds","Rabbit","Restaurant Tables","Rhinoceros","Tabby Cat","Typical Chair"],"receivingConcepts":[]}
+{"concept":"Negative Electric Charge","rel":"HasA","emittingConcepts":["Antiproton","Electron"],"receivingConcepts":[]}
+{"concept":"Ants","rel":"HasA","receivingConcepts":["Antennae","Exoskeleten"],"emittingConcepts":[]}
+{"concept":"Antennae","rel":"HasA","emittingConcepts":["Ants","Many Insects","Tvs"],"receivingConcepts":[]}
+{"concept":"Apartment","rel":"HasA","receivingConcepts":["Door","Kitchen"],"emittingConcepts":[]}
+{"concept":"Door","rel":"HasA","emittingConcepts":["Apartment","Booth","Elevator","Every Room","House","Telephone Box"],"receivingConcepts":["Handle","Two Halfs"]}
+{"concept":"Kitchen","rel":"HasA","emittingConcepts":["Apartment","House"],"receivingConcepts":[]}
+{"concept":"Many Floors","rel":"HasA","emittingConcepts":["Apartment Block","High Rise"],"receivingConcepts":[]}
+{"concept":"Apartment Building","rel":"HasA","receivingConcepts":["Many Individual Apartments","Many Rental Units","Rental Units","Several Residential Units","Thin Walls"],"emittingConcepts":[]}
+{"concept":"Thin Walls","rel":"HasA","emittingConcepts":["Apartment Building","Apartments Often"],"receivingConcepts":[]}
+{"concept":"Apartment House","rel":"HasA","receivingConcepts":["Apartments","Many Apartments","Multiple Families"],"emittingConcepts":[]}
+{"concept":"Apartments","rel":"HasA","emittingConcepts":["Apartment House","Wilmington"],"receivingConcepts":["Balconys"]}
+{"concept":"Apple","rel":"HasA","receivingConcepts":["Core","Many Cooking Uses","Peel","Seeds","Seeds Inside","Skin"],"emittingConcepts":[]}
+{"concept":"Peel","rel":"HasA","emittingConcepts":["Apple","Apples","Banana","Bananas","Lemons","Orange","Oranges"],"receivingConcepts":[]}
+{"concept":"Seeds Inside","rel":"HasA","emittingConcepts":["Apple","Apples"],"receivingConcepts":[]}
+{"concept":"Skin","rel":"HasA","emittingConcepts":["Apple","Avocado","Humans","Onions","People"],"receivingConcepts":[]}
+{"concept":"Apples","rel":"HasA","receivingConcepts":["Peel","Seeds","Seeds Inside","Stems"],"emittingConcepts":[]}
+{"concept":"April","rel":"HasA","receivingConcepts":["30 Days","Thirty Days"],"emittingConcepts":[]}
+{"concept":"30 Days","rel":"HasA","emittingConcepts":["April","June","November","September"],"receivingConcepts":[]}
+{"concept":"Thirty Days","rel":"HasA","emittingConcepts":["April","June","November","September"],"receivingConcepts":[]}
+{"concept":"Three Colors","rel":"HasA","emittingConcepts":["Aquafresh","Irish Flag"],"receivingConcepts":[]}
+{"concept":"Aquarium","rel":"HasA","receivingConcepts":["Filter","Water"],"emittingConcepts":[]}
+{"concept":"Filter","rel":"HasA","emittingConcepts":["Aquarium","Car"],"receivingConcepts":[]}
+{"concept":"Water","rel":"HasA","emittingConcepts":["Aquarium","Basin","Bay","Beer","Blood","Brook","Canal","Fruit","Full Pool","Human Body","Lake","Milk","Ocean","Pee","Pond","Pool","River","Well","World"],"receivingConcepts":["Cycle","Effect of Making Things Wet","High Heat Capacity","No Color","No Flavor or Odor","No Smell","No Taste","Oxygen","Oxygen and Hydrogen","Surface","Weight"]}
+{"concept":"Arizona","rel":"HasA","receivingConcepts":["Deserts","Most Telescopes in World"],"emittingConcepts":[]}
+{"concept":"Deserts","rel":"HasA","emittingConcepts":["Arizona","California","Nevada","New Mexico","Utah"],"receivingConcepts":["Cacti","Sparse Vegetation"]}
+{"concept":"Arm","rel":"HasA","receivingConcepts":["Hand","One Hand"],"emittingConcepts":[]}
+{"concept":"Hand","rel":"HasA","emittingConcepts":["Arm"],"receivingConcepts":["Five Fingers","Four Fingers and One Thumb","Four Fingers and Thumb"]}
+{"concept":"Armchair","rel":"HasA","receivingConcepts":["Back","Four Legs","Two Arms"],"emittingConcepts":[]}
+{"concept":"Two Arms","rel":"HasA","emittingConcepts":["Armchair","Average Human Being","Catherine Havasi","Human","Humans","Most People","People","Person","Torso"],"receivingConcepts":[]}
+{"concept":"Pool Tables","rel":"HasA","emittingConcepts":["Army Recreational Areas","Bars","Pubs"],"receivingConcepts":[]}
+{"concept":"Rooms","rel":"HasA","emittingConcepts":["Art Galleries","Courthouse","House"],"receivingConcepts":["Doors","Doors and Windows","High Walls","Posessions In","Square Shape","Windows"]}
+{"concept":"Artichokes","rel":"HasA","receivingConcepts":["Leaves","Thorns"],"emittingConcepts":[]}
+{"concept":"Leaves","rel":"HasA","emittingConcepts":["Artichokes","In Summer Time Tress","Oak","Oak Trees","Plants","Tear Off Calendar","Tree","Trees","Violets"],"receivingConcepts":[]}
+{"concept":"Thorns","rel":"HasA","emittingConcepts":["Artichokes","Rose","Rose Bushes","Rose Plant","Roses"],"receivingConcepts":[]}
+{"concept":"Facts","rel":"HasA","emittingConcepts":["Article in Magazine","Articles in Paper"],"receivingConcepts":["Statistics to Verify Findings"]}
+{"concept":"Gone to Moon","rel":"HasA","emittingConcepts":["Astronauts","Human","People"],"receivingConcepts":[]}
+{"concept":"Brown Eyes","rel":"HasA","emittingConcepts":["At Least 75 of Humans","People"],"receivingConcepts":[]}
+{"concept":"Atlas","rel":"HasA","receivingConcepts":["Many Maps","Maps"],"emittingConcepts":[]}
+{"concept":"Atoms","rel":"HasA","receivingConcepts":["Electrons","Mass"],"emittingConcepts":[]}
+{"concept":"Electrons","rel":"HasA","emittingConcepts":["Atoms"],"receivingConcepts":["Electrical Charge","Negative Charge"]}
+{"concept":"Attache Case","rel":"HasA","receivingConcepts":["Handle","Spring Loaded Latches"],"emittingConcepts":[]}
+{"concept":"Handle","rel":"HasA","emittingConcepts":["Attache Case","Bucket","Door","Egg Beater","Frying Pan","Kettle","Mug","Pan"],"receivingConcepts":[]}
+{"concept":"August","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"Thirty One Days","rel":"HasA","emittingConcepts":["August","December","January","July","March","May","Month of August","October"],"receivingConcepts":[]}
+{"concept":"Australia","rel":"HasA","receivingConcepts":["0.3 of World's Population","5 of World's Land Mass","Antarctic Station at Casey","Dependency Problem","High Level of Managerial Capitalism","Lost Nearly Half of Forests","No Extradition Treaty With Many Countries"],"emittingConcepts":[]}
+{"concept":"Trunk","rel":"HasA","emittingConcepts":["Automobile","Elephant","Most Cars","Tree"],"receivingConcepts":[]}
+{"concept":"Automobiles","rel":"HasA","receivingConcepts":["Four Tires","Window and Doors"],"emittingConcepts":[]}
+{"concept":"Four Tires","rel":"HasA","emittingConcepts":["Automobiles","Car"],"receivingConcepts":[]}
+{"concept":"Engines","rel":"HasA","emittingConcepts":["Automobiles Move Because","Cars Can Move Because"],"receivingConcepts":["Automatic Shut Offs When Overheat"]}
+{"concept":"Average Human","rel":"HasA","receivingConcepts":["50 Trillion Cells in Body","700 Muscles in Body"],"emittingConcepts":[]}
+{"concept":"Average Human Body","rel":"HasA","receivingConcepts":["Face","Two Ears","Two Eyes"],"emittingConcepts":[]}
+{"concept":"Face","rel":"HasA","emittingConcepts":["Average Human Body","Clock"],"receivingConcepts":["Nose"]}
+{"concept":"Two Eyes","rel":"HasA","emittingConcepts":["Average Human Body","Cats","Frogs","Have Depth Perception Because","Human Body","Humans","Most Mammals","Most Peolple","Most People","People","Person"],"receivingConcepts":[]}
+{"concept":"Average Person","rel":"HasA","receivingConcepts":["i.q","Iq Below 190"],"emittingConcepts":[]}
+{"concept":"Plants","rel":"HasA","emittingConcepts":["Back Garden"],"receivingConcepts":["Flowers","Flowers On","Leaves","Leaves to Gather Light","Millions of Cells","No Neurons In","Roots","Usually Green Leaves"]}
+{"concept":"Grass","rel":"HasA","emittingConcepts":["Backyard","Both Acre and Lawn May","Front Yards May","Soccer Fields"],"receivingConcepts":["Cut"]}
+{"concept":"Three Dimensions","rel":"HasA","emittingConcepts":["Ball","Cube","World"],"receivingConcepts":[]}
+{"concept":"Bananas","rel":"HasA","receivingConcepts":["Peel","Peels","Potassium"],"emittingConcepts":[]}
+{"concept":"Band","rel":"HasA","receivingConcepts":["Rehearsal to Practice Playing Music","Trumpets"],"emittingConcepts":["Colleges Often"]}
+{"concept":"Banks","rel":"HasA","receivingConcepts":["Accounts","Atms","Branches","Branches in Neighborhoods","Coins","Customers","Insurance","Loan Officers","Officers","Pens on Chains","Tellers","Waiting Lines","Waste Paper Baskets"],"emittingConcepts":[]}
+{"concept":"Branches","rel":"HasA","emittingConcepts":["Banks","Trees"],"receivingConcepts":[]}
+{"concept":"Coins","rel":"HasA","emittingConcepts":["Banks","Coin Purse"],"receivingConcepts":["Images Embossed on Both Sides","Numismatic Value"]}
+{"concept":"Customers","rel":"HasA","emittingConcepts":["Banks","Bars"],"receivingConcepts":[]}
+{"concept":"Insurance","rel":"HasA","emittingConcepts":["Banks","Costs Money To"],"receivingConcepts":[]}
+{"concept":"Barber Shop","rel":"HasA","receivingConcepts":["Mirrors","Scissors In"],"emittingConcepts":[]}
+{"concept":"No Soul","rel":"HasA","emittingConcepts":["Barbi Dolls","White People"],"receivingConcepts":[]}
+{"concept":"Bars","rel":"HasA","receivingConcepts":["Customers","Pool Tables"],"emittingConcepts":["Malls"]}
+{"concept":"Baseball Field","rel":"HasA","receivingConcepts":["Diamond","Several Diamonds"],"emittingConcepts":[]}
+{"concept":"Socks","rel":"HasA","emittingConcepts":["Basket of Laundry","Thoroughbred Horses"],"receivingConcepts":[]}
+{"concept":"Basketball Court","rel":"HasA","receivingConcepts":["Net","Two Halves","Wood Surface"],"emittingConcepts":[]}
+{"concept":"Net","rel":"HasA","emittingConcepts":["Basketball Court","Tennis Court"],"receivingConcepts":[]}
+{"concept":"Four Strings","rel":"HasA","emittingConcepts":["Bass Guitar","String Bass"],"receivingConcepts":[]}
+{"concept":"Bathrooms","rel":"HasA","receivingConcepts":["Plumbing","Sinks"],"emittingConcepts":["Many Houses"]}
+{"concept":"Plumbing","rel":"HasA","emittingConcepts":["Bathrooms","House"],"receivingConcepts":[]}
+{"concept":"Bats","rel":"HasA","receivingConcepts":["Eyes","Leathery Wings","Little Snub Noses","Sensitive Hearing","Wings"],"emittingConcepts":[]}
+{"concept":"Beach","rel":"HasA","receivingConcepts":["Lots of Sand"],"emittingConcepts":["Lake May","Shore"]}
+{"concept":"Bear","rel":"HasA","receivingConcepts":["Claws","Snout"],"emittingConcepts":[]}
+{"concept":"Claws","rel":"HasA","emittingConcepts":["Bear","Cat","Cats","Dogs","Raptors"],"receivingConcepts":[]}
+{"concept":"Bed","rel":"HasA","receivingConcepts":["Mattress"],"emittingConcepts":["Going to Bed Requires To","Should"]}
+{"concept":"Bedroom","rel":"HasA","receivingConcepts":["Chairs","Floor","Walls Floor and Ceiling"],"emittingConcepts":[]}
+{"concept":"Chairs","rel":"HasA","emittingConcepts":["Bedroom","Dining Room Table"],"receivingConcepts":["Three Legs"]}
+{"concept":"Floor","rel":"HasA","emittingConcepts":["Bedroom","Classroom","House"],"receivingConcepts":[]}
+{"concept":"Springs","rel":"HasA","emittingConcepts":["Beds","Matresses"],"receivingConcepts":[]}
+{"concept":"Beer","rel":"HasA","receivingConcepts":["Alcohol","Alcohol In","Bad Drug","Water"],"emittingConcepts":["Case of Beer"]}
+{"concept":"Cold","rel":"HasA","emittingConcepts":["Belinda","Harry","Kim"],"receivingConcepts":["Effect of Freezing"]}
+{"concept":"Bell","rel":"HasA","receivingConcepts":["Characteristic Shape","Clapper"],"emittingConcepts":[]}
+{"concept":"Bible","rel":"HasA","receivingConcepts":["Been Translated Into Many Languages","Many Truths"],"emittingConcepts":[]}
+{"concept":"Bicycle","rel":"HasA","receivingConcepts":["Chain","Chain Drives Wheels","Two Peddles","Two Tires","Two Weheels","Two Wheels","Two Wheels and Pedals"],"emittingConcepts":[]}
+{"concept":"Chain","rel":"HasA","emittingConcepts":["Bicycle"],"receivingConcepts":["Links","Many Links"]}
+{"concept":"Two Wheels","rel":"HasA","emittingConcepts":["Bicycle","Bicycles","Bicylces","Bicyles","Bike","Cars","Most Bicyles","Most Cars","Motorcycle","Motorcycles"],"receivingConcepts":[]}
+{"concept":"Bicycles","rel":"HasA","receivingConcepts":["Pedals","Seats","Spokes","Two Wheel","Two Wheels","Wheels"],"emittingConcepts":[]}
+{"concept":"Pedals","rel":"HasA","emittingConcepts":["Bicycles","Tricycles"],"receivingConcepts":[]}
+{"concept":"Spokes","rel":"HasA","emittingConcepts":["Bicycles","Umbrella"],"receivingConcepts":[]}
+{"concept":"Effect of Attracting Riff Raff","rel":"HasA","emittingConcepts":["Big Breasted Blonde","Getting Breast Implants"],"receivingConcepts":[]}
+{"concept":"Bike","rel":"HasA","receivingConcepts":["2 Tires","Two Wheels"],"emittingConcepts":[]}
+{"concept":"Bill","rel":"HasA","receivingConcepts":["Green Car","Numbers"],"emittingConcepts":["Duck","Ducks","Patons"]}
+{"concept":"Bill Clinton","rel":"HasA","receivingConcepts":["Lot of Baggage","Slept With Every Girl in Town"],"emittingConcepts":[]}
+{"concept":"Billfold","rel":"HasA","receivingConcepts":["Money","Place to Keep Currency"],"emittingConcepts":[]}
+{"concept":"Money","rel":"HasA","emittingConcepts":["Billfold","Can Buy Things If","Charles","Jazz Band Members","Purse","Wallet"],"receivingConcepts":["Budget","Corrupted Many People","Value"]}
+{"concept":"Bills","rel":"HasA","receivingConcepts":["Specific Amounts"],"emittingConcepts":["Birds","Ducks"]}
+{"concept":"Billy","rel":"HasA","receivingConcepts":["Ashtma","Serious Problem"],"emittingConcepts":[]}
+{"concept":"Bird","rel":"HasA","receivingConcepts":["Feathers","Two Legs","Two Wings","Wings"],"emittingConcepts":[]}
+{"concept":"Feathers","rel":"HasA","emittingConcepts":["Bird","Birds","Chickens","Duck","Ducks","Only Birds","Parrots"],"receivingConcepts":[]}
+{"concept":"Two Legs","rel":"HasA","emittingConcepts":["Bird","Birds","Catherine Havasi","Human Body","Humans","Most Humans","Normally People","One Pair of Pants","Pair O Fpants","People"],"receivingConcepts":[]}
+{"concept":"Birds","rel":"HasA","receivingConcepts":["Beaks","Bills","Difficult Time in Winter","Eggs","Eyes","Feathers","Feathers and Can Usually Fly","Feathers and Wings","Feathers Cover Body","Good Eyesight","Language Without Words","Light Bones","Many Feathers","Musical Voices","No Wings","Powerful Muscles in Breasts","Tails","Tails for Stability","Two Legs","Wings","Wings and Most Birds Can Fly"],"emittingConcepts":[]}
+{"concept":"Lips","rel":"HasA","emittingConcepts":["Birds Have Beaks Where People","Mouth"],"receivingConcepts":[]}
+{"concept":"On Off Switch","rel":"HasA","emittingConcepts":["Blender","Most Electric Devices","Most Electronic Things"],"receivingConcepts":[]}
+{"concept":"Blood","rel":"HasA","receivingConcepts":["Many Chemicals","Many Types of Cells","Proteins","Red Blood Cells White Blood Cells Platelets and Plasma","Water"],"emittingConcepts":["Most Animals"]}
+{"concept":"Boat","rel":"HasA","receivingConcepts":["Flipped Over Has Capsized","Propellor","Sails"],"emittingConcepts":[]}
+{"concept":"Sails","rel":"HasA","emittingConcepts":["Boat","Sailboats"],"receivingConcepts":[]}
+{"concept":"Motors","rel":"HasA","emittingConcepts":["Boats","Not All Boats"],"receivingConcepts":["Many Moving Parts"]}
+{"concept":"Bob","rel":"HasA","receivingConcepts":["First Hand Knowledge on African Game","Kids","Very Painful Toothache"],"emittingConcepts":[]}
+{"concept":"Body","rel":"HasA","receivingConcepts":["Many Arteries","Many Nerves Transmit Information"],"emittingConcepts":["Each Human","Everybody","Everyone","French Person"]}
+{"concept":"Rhythm","rel":"HasA","emittingConcepts":["Boiling Water","Classical Music","Heartbeat","Phrases"],"receivingConcepts":[]}
+{"concept":"Book","rel":"HasA","receivingConcepts":["At Least Few Page","Been Printed New","Been Written by Author","Cover","Knowledge","Many Words","Pages","Pages With Printed Matter","Past","Story","Words and or Pictures"],"emittingConcepts":[]}
+{"concept":"Many Words","rel":"HasA","emittingConcepts":["Book","English Language"],"receivingConcepts":["More Than One Meaning"]}
+{"concept":"Books","rel":"HasA","emittingConcepts":["Bookcase","Bookshelf","Librararies","Library","Public Library"],"receivingConcepts":["Index","Many Uses","More Pages Than Booklets","Owners Because Products","Pages","Pages In","Sentences","Stories","Words and Sometimes Pictures In","Words Bindings and Titles"]}
+{"concept":"Many Uses","rel":"HasA","emittingConcepts":["Books","Oil","Paper Clip"],"receivingConcepts":[]}
+{"concept":"Sentences","rel":"HasA","emittingConcepts":["Books","Stories"],"receivingConcepts":[]}
+{"concept":"Stories","rel":"HasA","emittingConcepts":["Books","Movies"],"receivingConcepts":["Beginning and Ending","Sentences"]}
+{"concept":"Boston","rel":"HasA","receivingConcepts":["Baseball Team","Fairly Sizable Irish Population"],"emittingConcepts":[]}
+{"concept":"Both","rel":"HasA","receivingConcepts":["Connection to Marketplace","Do With Money","Letter O in Sentence","Shells","Two Syllables","Two Vowels"],"emittingConcepts":[]}
+{"concept":"Do With Money","rel":"HasA","emittingConcepts":["Both","Both Salary and Savings"],"receivingConcepts":[]}
+{"concept":"Shells","rel":"HasA","emittingConcepts":["Both","Many Eggs","Tortises","Tortoises"],"receivingConcepts":[]}
+{"concept":"Long Hair","rel":"HasA","emittingConcepts":["Both Men and Women May","Rock Stars","Werewolves"],"receivingConcepts":[]}
+{"concept":"Liquid","rel":"HasA","emittingConcepts":["Bottle","Cup","Flask"],"receivingConcepts":["Weaker Internal Forces Than Solid"]}
+{"concept":"Life","rel":"HasA","emittingConcepts":["Bottom of Ocean","Nature","World"],"receivingConcepts":["No Purpose"]}
+{"concept":"Box","rel":"HasA","receivingConcepts":["6 Sides","Finite Amount of Space"],"emittingConcepts":[]}
+{"concept":"6 Sides","rel":"HasA","emittingConcepts":["Box","Dice","Octogons"],"receivingConcepts":[]}
+{"concept":"Brain","rel":"HasA","receivingConcepts":["Ancient Modern Part","Tens of Billions of Neurons"],"emittingConcepts":["Head","Human Head"]}
+{"concept":"Brazil","rel":"HasA","receivingConcepts":["26 States","Lot of Beautiful Beaches"],"emittingConcepts":[]}
+{"concept":"Bread","rel":"HasA","receivingConcepts":["Crust","Yeast"],"emittingConcepts":[]}
+{"concept":"Crust","rel":"HasA","emittingConcepts":["Bread","Pie"],"receivingConcepts":[]}
+{"concept":"Yeast","rel":"HasA","emittingConcepts":["Bread","Leavened Bread"],"receivingConcepts":[]}
+{"concept":"Three Pins","rel":"HasA","emittingConcepts":["British Plug","Transistors"],"receivingConcepts":[]}
+{"concept":"Brook","rel":"HasA","receivingConcepts":["Flowing Water","Water","Water In"],"emittingConcepts":[]}
+{"concept":"Flowing Water","rel":"HasA","emittingConcepts":["Brook","Rivers"],"receivingConcepts":[]}
+{"concept":"Bristles","rel":"HasA","emittingConcepts":["Brooms","End of Toothbrush","Hairbrush","Head of Toothbrush","Toothbrush","Toothbrush Head"],"receivingConcepts":[]}
+{"concept":"Same Parents","rel":"HasA","emittingConcepts":["Brothers Boys or Men Who","Sisters Girls or Women Who"],"receivingConcepts":[]}
+{"concept":"Building","rel":"HasA","receivingConcepts":["Foundation","No Cells"],"emittingConcepts":[]}
+{"concept":"Foundation","rel":"HasA","emittingConcepts":["Building","Houses"],"receivingConcepts":[]}
+{"concept":"Buildings","rel":"HasA","receivingConcepts":["Ballrooms","Effect of Trapping Radon","Inside and Outside","Lounges Where Can Study","Many Windows","Windows"],"emittingConcepts":[]}
+{"concept":"Inside and Outside","rel":"HasA","emittingConcepts":["Buildings","Container"],"receivingConcepts":[]}
+{"concept":"Bureau","rel":"HasA","receivingConcepts":["Drawers or Shelves","Legs and Drawers","Many Drawers"],"emittingConcepts":[]}
+{"concept":"Bus","rel":"HasA","receivingConcepts":["Glass Windows","Many Seats","Parts Made of Plastic","Windows"],"emittingConcepts":[]}
+{"concept":"Business Card","rel":"HasA","receivingConcepts":["Name On","Persons Contact Information"],"emittingConcepts":[]}
+{"concept":"Cabinets","rel":"HasA","receivingConcepts":["Doors","Glass Fronts"],"emittingConcepts":[]}
+{"concept":"Doors","rel":"HasA","emittingConcepts":["Cabinets","Cars","House","Houses","Passageway","Rooms"],"receivingConcepts":["Arches","Door Knobs","Handles"]}
+{"concept":"Glass Fronts","rel":"HasA","emittingConcepts":["Cabinets","Display Cabinets"],"receivingConcepts":[]}
+{"concept":"Cadarache","rel":"HasA","receivingConcepts":["More Comfortable Climate Than Rokkashomura","Nuclear Fusion Research Lab"],"emittingConcepts":[]}
+{"concept":"Calculator","rel":"HasA","receivingConcepts":["Buttons","Memory Registers"],"emittingConcepts":["Government Office"]}
+{"concept":"Buttons","rel":"HasA","emittingConcepts":["Calculator","Dress Shirts","Outfit Might","Shirt","Shirts"],"receivingConcepts":[]}
+{"concept":"Calendar Pad","rel":"HasA","receivingConcepts":["Dates","Pages"],"emittingConcepts":[]}
+{"concept":"Dates","rel":"HasA","emittingConcepts":["Calendar Pad","Palm Tree"],"receivingConcepts":[]}
+{"concept":"California","rel":"HasA","receivingConcepts":["Beaches","Deserts","Fifteen Fourteeners","Large Coast"],"emittingConcepts":[]}
+{"concept":"Cameras","rel":"HasA","receivingConcepts":["Lens","Lenses"],"emittingConcepts":[]}
+{"concept":"Lens","rel":"HasA","emittingConcepts":["Cameras","Most Cameras"],"receivingConcepts":[]}
+{"concept":"Lid","rel":"HasA","emittingConcepts":["Can of Paint","Jar"],"receivingConcepts":[]}
+{"concept":"Canada","rel":"HasA","receivingConcepts":["10 Provinces and 3 Territories","Longest Coastline on Earth","Lot of Trees","Six Time Zones"],"emittingConcepts":[]}
+{"concept":"Wick","rel":"HasA","emittingConcepts":["Candle","Candles"],"receivingConcepts":[]}
+{"concept":"Candles","rel":"HasA","receivingConcepts":["Wick","Wicks"],"emittingConcepts":[]}
+{"concept":"Candy","rel":"HasA","receivingConcepts":["High Quantity of Sugar","Lots of Sugar In","Sugar"],"emittingConcepts":[]}
+{"concept":"Sugar","rel":"HasA","emittingConcepts":["Candy","Fruit"],"receivingConcepts":[]}
+{"concept":"Cans","rel":"HasA","receivingConcepts":["Information on Outer Surface","Water Spouts Attached"],"emittingConcepts":[]}
+{"concept":"Car","rel":"HasA","receivingConcepts":["4 Tires","At Least One Engine","Engine","Engine to Power Wheels","Filter","Four Tires","Four Tyres","Four Wheels","Headlights to Increase Visibility","Horn","Many Systems","More Wheels Than Engines","Motor Oil","Part Called Crank","Roof","Seat","Seats","Seats Usually 4 Of","Tires","Wheels","Windows"],"emittingConcepts":["Good To","Many People in Texas"]}
+{"concept":"Four Wheels","rel":"HasA","emittingConcepts":["Car","Cars","Cars Almost Always","Fire Truck","Forklift","Most Cars","Serving Trolley","Tractor","Wagon"],"receivingConcepts":[]}
+{"concept":"Roof","rel":"HasA","emittingConcepts":["Car","Every House","House","Interior Area Will"],"receivingConcepts":["Shingles"]}
+{"concept":"Tires","rel":"HasA","emittingConcepts":["Car","Nissan"],"receivingConcepts":["Round Shape"]}
+{"concept":"Cars","rel":"HasA","receivingConcepts":["Been Around for Hundred Years","Breaks to Help Stop","Bumper","Bumpers","Chairs Inside","Diesel Engines","Doors","Engine","Four Doors","Four Wheels","Glove Compartments","Leather While Other Just Have Vinyl","Locks in Doors","Multiple Doors","Radios","Registration Numbers","Seat Belts","Seat for People to Sit In","Seats","Stripes","Trunks","Trunks to Store Things In","Two Headlights","Two Wheels","Wheels","Windows","Windscreens"],"emittingConcepts":["Garage"]}
+{"concept":"Stripes","rel":"HasA","emittingConcepts":["Cars","Zebra","Zebras"],"receivingConcepts":[]}
+{"concept":"Trunks","rel":"HasA","emittingConcepts":["Cars","Elephants"],"receivingConcepts":[]}
+{"concept":"Case of Beer","rel":"HasA","receivingConcepts":["24 Cans","Beer","Multiple Cans of Beer"],"emittingConcepts":[]}
+{"concept":"Garden","rel":"HasA","emittingConcepts":["Castle Might","Houses","Jane"],"receivingConcepts":["Flowers","Lawn"]}
+{"concept":"Cat","rel":"HasA","receivingConcepts":["Been Shaved","Claws","Eyes","Four Legs","Hair","Litter of Kittens","Nose","Sharp Claws","Sharp Teeth","Whiskers"],"emittingConcepts":[]}
+{"concept":"Nose","rel":"HasA","emittingConcepts":["Cat","Dog","Elephant","Face","Giraffe","Monkey","Person","Weasel","Zebra"],"receivingConcepts":["2 Nostrils","Two Holes Called Nostrils","Two Nostrils"]}
+{"concept":"Sharp Claws","rel":"HasA","emittingConcepts":["Cat","Cats"],"receivingConcepts":[]}
+{"concept":"Sharp Teeth","rel":"HasA","emittingConcepts":["Cat","Starnes"],"receivingConcepts":[]}
+{"concept":"Whiskers","rel":"HasA","emittingConcepts":["Cat","Cats","Mouse"],"receivingConcepts":[]}
+{"concept":"Catfish","rel":"HasA","receivingConcepts":["100,000 Tastebuds","Mouth","Whiskers Like Cats Do"],"emittingConcepts":[]}
+{"concept":"Mouth","rel":"HasA","emittingConcepts":["Catfish","Every Person","Most Animals","Person"],"receivingConcepts":["Lips","Teeth","Teeth In","Tongue and Teeth"]}
+{"concept":"Catherine Havasi","rel":"HasA","receivingConcepts":["More Than 4 Toes","Two Arms","Two Legs"],"emittingConcepts":[]}
+{"concept":"Cats","rel":"HasA","receivingConcepts":["Black and White Vision","Bones","Claws","Claws on Feet","Claws on Paws","Dander","Elliptical Pupils","Excellent Balance","Eyes","Four Legs","Four Paws","Fur","Golden Fur","Good Sense of Smell","Good Smell Organs","Hair","Kittens","Mind of Thier Own","Muscles","Paws","Penis","Relationship With human.s","Retractable Claws","Sharp Claws","Sharp Claws and Teeth","Soft Fur","Two Ears","Two Eyes","Whiskers","Yellow Eyes"],"emittingConcepts":[]}
+{"concept":"Good Sense of Smell","rel":"HasA","emittingConcepts":["Cats","Sharks"],"receivingConcepts":[]}
+{"concept":"Paws","rel":"HasA","emittingConcepts":["Cats","Dog","Kitty"],"receivingConcepts":[]}
+{"concept":"Penis","rel":"HasA","emittingConcepts":["Cats","Dog","Male Animals"],"receivingConcepts":[]}
+{"concept":"Soft Fur","rel":"HasA","emittingConcepts":["Cats","Lambs"],"receivingConcepts":[]}
+{"concept":"Cd","rel":"HasA","receivingConcepts":["Music","Number of Songs On"],"emittingConcepts":[]}
+{"concept":"Music","rel":"HasA","emittingConcepts":["Cd"],"receivingConcepts":["Effect on People","Information","Special Notation"]}
+{"concept":"Cell Phones","rel":"HasA","receivingConcepts":["Joystick Buttons","Menu Buttons"],"emittingConcepts":[]}
+{"concept":"Chair","rel":"HasA","receivingConcepts":["Four Legs","Legs"],"emittingConcepts":[]}
+{"concept":"Legs","rel":"HasA","emittingConcepts":["Chair","Giraffes","Jack","Lizards Like Snakes But","Mammals","Normally Both Children and Adults","Not Everyone","Sofa","Table"],"receivingConcepts":[]}
+{"concept":"Three Legs","rel":"HasA","emittingConcepts":["Chairs","No Animal","Tripod","Tripod Dolly"],"receivingConcepts":[]}
+{"concept":"Bubbles","rel":"HasA","emittingConcepts":["Champagne","Perrier"],"receivingConcepts":[]}
+{"concept":"Charles","rel":"HasA","receivingConcepts":["Kids","Money"],"emittingConcepts":[]}
+{"concept":"Checkbook","rel":"HasA","receivingConcepts":["Checks","Many Checks In"],"emittingConcepts":[]}
+{"concept":"Cheese","rel":"HasA","receivingConcepts":["Benign Bacteria","Flavor","Lot of Fat","Strong Odor"],"emittingConcepts":[]}
+{"concept":"Lot of Fat","rel":"HasA","emittingConcepts":["Cheese","Chocolate"],"receivingConcepts":[]}
+{"concept":"Holes","rel":"HasA","emittingConcepts":["Cheeses","Swiss Cheese"],"receivingConcepts":[]}
+{"concept":"Chess","rel":"HasA","receivingConcepts":["Extremely Precise Rules","Two Sides Black and White"],"emittingConcepts":[]}
+{"concept":"Chess Board","rel":"HasA","receivingConcepts":["64 Squares","Different Colored Squares"],"emittingConcepts":[]}
+{"concept":"64 Squares","rel":"HasA","emittingConcepts":["Chess Board","Chess Boards"],"receivingConcepts":[]}
+{"concept":"Chicken","rel":"HasA","receivingConcepts":["Brain Within It's Skull","Chicken Meat On","Low Cholesterol"],"emittingConcepts":[]}
+{"concept":"Hard Shell","rel":"HasA","emittingConcepts":["Chicken Eggs","Turtle"],"receivingConcepts":[]}
+{"concept":"Chickens","rel":"HasA","receivingConcepts":["Beak and Feathers","Bony Necks With Very Little Meat","Feathers","Feet"],"emittingConcepts":[]}
+{"concept":"Feet","rel":"HasA","emittingConcepts":["Chickens","Normal People","People"],"receivingConcepts":["Patern Marks Called Footprints"]}
+{"concept":"Drawers","rel":"HasA","emittingConcepts":["Chiffonier","Furniture Dresser"],"receivingConcepts":[]}
+{"concept":"Child","rel":"HasA","receivingConcepts":["Two Parents"],"emittingConcepts":["Father Man Who","Mother Woman Who","Parent"]}
+{"concept":"China","rel":"HasA","receivingConcepts":["97 Software Piracy Rate","Largest Population on Earth","Lot of People","Successfully Sent Animals Into Space"],"emittingConcepts":[]}
+{"concept":"Chocolate","rel":"HasA","receivingConcepts":["Lot of Fat","Sweet Taste and Fragrance"],"emittingConcepts":[]}
+{"concept":"Lot of Sugar","rel":"HasA","emittingConcepts":["Chocolate Bar","Honey"],"receivingConcepts":[]}
+{"concept":"Cigarette","rel":"HasA","receivingConcepts":["Poison","Tobacco"],"emittingConcepts":[]}
+{"concept":"Tobacco","rel":"HasA","emittingConcepts":["Cigarette","Cigarretts"],"receivingConcepts":[]}
+{"concept":"No End","rel":"HasA","emittingConcepts":["Circles","Line"],"receivingConcepts":[]}
+{"concept":"Cities","rel":"HasA","receivingConcepts":["Many Steets","Skyscrapers","Subways","Tall Buildings"],"emittingConcepts":[]}
+{"concept":"Skyscrapers","rel":"HasA","emittingConcepts":["Cities","Few Countries"],"receivingConcepts":["Skeleton of Metal Beams"]}
+{"concept":"Subways","rel":"HasA","emittingConcepts":["Cities","Do Canadian Cities"],"receivingConcepts":[]}
+{"concept":"City","rel":"HasA","receivingConcepts":["Fewer Trees Than Forrest","Many Inhabitants","Many Tall Buildings"],"emittingConcepts":[]}
+{"concept":"Many Tall Buildings","rel":"HasA","emittingConcepts":["City","Large City Will","New York"],"receivingConcepts":[]}
+{"concept":"Six Strings","rel":"HasA","emittingConcepts":["Classical Guitar","Guitar","Guitars","Normal Guitar"],"receivingConcepts":[]}
+{"concept":"Classical Music","rel":"HasA","receivingConcepts":["Lasting Value","Piano Pieces","Rhythm"],"emittingConcepts":[]}
+{"concept":"Classrooms","rel":"HasA","receivingConcepts":["Tables Instead of Desks"],"emittingConcepts":["School","School Building","Schools","University"]}
+{"concept":"Clint","rel":"HasA","receivingConcepts":["Kids","Running Shoes"],"emittingConcepts":[]}
+{"concept":"Clock","rel":"HasA","receivingConcepts":["Face","Twelve Numbers"],"emittingConcepts":[]}
+{"concept":"Cnn","rel":"HasA","receivingConcepts":["Radio Stations","Tv Stations"],"emittingConcepts":[]}
+{"concept":"Caffeine","rel":"HasA","emittingConcepts":["Coca Cola","Coffee","Not All Tea","Soda","Tea"],"receivingConcepts":[]}
+{"concept":"Milk","rel":"HasA","emittingConcepts":["Coconuts"],"receivingConcepts":["Calcium","Energy","Lactose","Water"]}
+{"concept":"Coffee","rel":"HasA","receivingConcepts":["Active Ingredient Caffeine","Caffein","Caffeine","Caffeine Which Raises Brain Reaction Time","Caffiene","Caffiene In","Caffine","Large Amounts of Caffeine","Slightly Bitter Taste","Stimulant Drug Caffeine"],"emittingConcepts":[]}
+{"concept":"Caffein","rel":"HasA","emittingConcepts":["Coffee","Tea"],"receivingConcepts":[]}
+{"concept":"Caffine","rel":"HasA","emittingConcepts":["Coffee","Coke"],"receivingConcepts":[]}
+{"concept":"Color","rel":"HasA","receivingConcepts":["Different Temperatures","Wave Lengths"],"emittingConcepts":[]}
+{"concept":"Comets","rel":"HasA","receivingConcepts":["Ice","Set Orbits","Solid Nucleus"],"emittingConcepts":[]}
+{"concept":"Many Meanings","rel":"HasA","emittingConcepts":["Coming to Attention","Power Comes in Many Forms And"],"receivingConcepts":[]}
+{"concept":"26 Letters","rel":"HasA","emittingConcepts":["Common Alphabet","English Alphabet","Roman Alphabet"],"receivingConcepts":[]}
+{"concept":"Sex in Bed","rel":"HasA","emittingConcepts":["Common Place To","People"],"receivingConcepts":[]}
+{"concept":"Value","rel":"HasA","emittingConcepts":["Community Resources","Gold","Money"],"receivingConcepts":[]}
+{"concept":"Companies","rel":"HasA","receivingConcepts":["Logos","Meetings Conducted by Chair Person","Secretaries"],"emittingConcepts":[]}
+{"concept":"Company","rel":"HasA","receivingConcepts":["Assets","Board of Directors","Earnings"],"emittingConcepts":[]}
+{"concept":"Friends","rel":"HasA","emittingConcepts":["Composers","People"],"receivingConcepts":["Already Met Each Other"]}
+{"concept":"Computer","rel":"HasA","receivingConcepts":["Central Processor","Keyboard","Monitor","Mouse","One or Many Processors","Software"],"emittingConcepts":["Using Computer Requires"]}
+{"concept":"Mouse","rel":"HasA","emittingConcepts":["Computer"],"receivingConcepts":["Short Lifespan","Whiskers"]}
+{"concept":"Computers","rel":"HasA","receivingConcepts":["Keyboards","Many Components","Many Different Components","Monitors","No Commonsense","Operating Systems","Own Language","Power Supplies","Trouble Understanding Flamoyant Speakers"],"emittingConcepts":["Sending E Mail Requires"]}
+{"concept":"Keyboards","rel":"HasA","emittingConcepts":["Computers","Pianos"],"receivingConcepts":["Keys"]}
+{"concept":"Many Components","rel":"HasA","emittingConcepts":["Computers","Human Eye"],"receivingConcepts":[]}
+{"concept":"Container","rel":"HasA","receivingConcepts":["Inside and Outside","Smaller Object"],"emittingConcepts":[]}
+{"concept":"Corn","rel":"HasA","receivingConcepts":["Been Domesticated in Mexico","Kernals"],"emittingConcepts":[]}
+{"concept":"Costs Money To","rel":"HasA","receivingConcepts":["Fun","Insurance"],"emittingConcepts":[]}
+{"concept":"Fun","rel":"HasA","emittingConcepts":["Costs Money To","Creating Art Requires","Go There To","Guests Go to Party To","Illustrating Point Requires","People Go to Party To","People Ski Because","People Who Enjoy Themselves","Play Ball And","Playing Piano Requires","Rafle Rodeo or Differents Places To","Ski To","Skiing One Way To"],"receivingConcepts":[]}
+{"concept":"Countries","rel":"HasA","receivingConcepts":["Borders","Governments","National Anthems","Populations","Very Tall Mountains"],"emittingConcepts":[]}
+{"concept":"Borders","rel":"HasA","emittingConcepts":["Countries","Country"],"receivingConcepts":[]}
+{"concept":"Populations","rel":"HasA","emittingConcepts":["Countries","States"],"receivingConcepts":[]}
+{"concept":"Country","rel":"HasA","receivingConcepts":["Borders","Inhabitants","It's Own Government","Many Citizens","Sovereign Rights"],"emittingConcepts":[]}
+{"concept":"Cows","rel":"HasA","receivingConcepts":["Four Legs","Four Stomaches","Four Stomachs","Long Horns","Seven Stomachs","Short Tails"],"emittingConcepts":[]}
+{"concept":"Credit Cards","rel":"HasA","emittingConcepts":["Credit Card Wallet"],"receivingConcepts":["Credit Limit","Higher Percentage Rates Than Others"]}
+{"concept":"Committed Crime","rel":"HasA","emittingConcepts":["Criminals People Who","Governments Execute People","If Have Killed"],"receivingConcepts":[]}
+{"concept":"Cube","rel":"HasA","receivingConcepts":["Six Side","Six Sides","Three Dimensions"],"emittingConcepts":[]}
+{"concept":"Six Sides","rel":"HasA","emittingConcepts":["Cube","Dice","Snowflake"],"receivingConcepts":[]}
+{"concept":"Curry","rel":"HasA","receivingConcepts":["Strong Aroma","Strong Smell"],"emittingConcepts":[]}
+{"concept":"Cutlery Drawer","rel":"HasA","receivingConcepts":["Cutlery","Knives"],"emittingConcepts":[]}
+{"concept":"Knives","rel":"HasA","emittingConcepts":["Cutlery Drawer"],"receivingConcepts":["Serrated Edges","Sharp Edges"]}
+{"concept":"Damp House Might","rel":"HasA","receivingConcepts":["Lot of Fungus","Lot of Fungus Inside"],"emittingConcepts":[]}
+{"concept":"Darts","rel":"HasA","receivingConcepts":["Sharp Point","Sharp Points On"],"emittingConcepts":[]}
+{"concept":"Sharp Point","rel":"HasA","emittingConcepts":["Darts","Needle"],"receivingConcepts":[]}
+{"concept":"Information","rel":"HasA","emittingConcepts":["Database","File","Music","People","Record"],"receivingConcepts":[]}
+{"concept":"Landed on Moon","rel":"HasA","emittingConcepts":["Date Only 12 Men","Humans","Only Us"],"receivingConcepts":[]}
+{"concept":"Dave","rel":"HasA","receivingConcepts":["Date","No Money","Stinky Feet"],"emittingConcepts":[]}
+{"concept":"David Bowie","rel":"HasA","receivingConcepts":["Made Many Music Albums","Released Many Music Albums"],"emittingConcepts":[]}
+{"concept":"24 Hours","rel":"HasA","emittingConcepts":["Day","One Day"],"receivingConcepts":[]}
+{"concept":"December","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"Deck","rel":"HasA","receivingConcepts":["52 Cards","Floor but No Ceiling"],"emittingConcepts":[]}
+{"concept":"52 Cards","rel":"HasA","emittingConcepts":["Deck","Standard Deck"],"receivingConcepts":[]}
+{"concept":"Deer","rel":"HasA","receivingConcepts":["Four Legs","Head"],"emittingConcepts":[]}
+{"concept":"Head","rel":"HasA","emittingConcepts":["Deer","Not All Animals","Person","Video Recorder"],"receivingConcepts":["Brain","Teeth"]}
+{"concept":"Delicatessen","rel":"HasA","receivingConcepts":["Ham","Specialty Foods"],"emittingConcepts":[]}
+{"concept":"Demand for Oil","rel":"HasA","receivingConcepts":["Been Growing","Grown"],"emittingConcepts":[]}
+{"concept":"Grown","rel":"HasA","emittingConcepts":["Demand for Oil","Involuntary Part Time Employment"],"receivingConcepts":[]}
+{"concept":"Waiting Room","rel":"HasA","emittingConcepts":["Dental Office","Dentist's Office","Doctor's Office"],"receivingConcepts":[]}
+{"concept":"Cavity","rel":"HasA","emittingConcepts":["Dentist Can Tell If","John"],"receivingConcepts":[]}
+{"concept":"Desert","rel":"HasA","receivingConcepts":["Amazing Abundance of Life","Many Sand Dunes"],"emittingConcepts":[]}
+{"concept":"Flat Surface","rel":"HasA","emittingConcepts":["Desk","Tennis Court"],"receivingConcepts":[]}
+{"concept":"Paper","rel":"HasA","emittingConcepts":["Desk Drawer","Notepad"],"receivingConcepts":["Pulp"]}
+{"concept":"Dice","rel":"HasA","receivingConcepts":["6 Sides","Six Faces","Six Sides"],"emittingConcepts":[]}
+{"concept":"Different Countries","rel":"HasA","receivingConcepts":["Different Cultures","Different Currencies as Money"],"emittingConcepts":[]}
+{"concept":"Different Cultures","rel":"HasA","emittingConcepts":["Different Countries"],"receivingConcepts":["Different Customs","Different Customs About Talking","Different Tonal Scales","Different Traditions","Different Value Systems"]}
+{"concept":"Different People","rel":"HasA","receivingConcepts":["Different Color Hair","Different Opinions About World","Different Personalities","Different Preferences"],"emittingConcepts":[]}
+{"concept":"Table","rel":"HasA","emittingConcepts":["Dining Room","Doctor Examination Room"],"receivingConcepts":["Legs"]}
+{"concept":"Director Chair","rel":"HasA","receivingConcepts":["Director's Name On","Director's Name on Back"],"emittingConcepts":[]}
+{"concept":"Doctor","rel":"HasA","receivingConcepts":["Had Many Years of Education","Studied Medicine","Very Nice Eyes"],"emittingConcepts":[]}
+{"concept":"Doctors","rel":"HasA","receivingConcepts":["Information About Illnesses","Many Charts in Offices","Many Years of Education","Private Lives","Specialties","Stressful Jobs","Study"],"emittingConcepts":[]}
+{"concept":"Dog","rel":"HasA","receivingConcepts":["Big Heart","Brains","Fleas","Four Legs","Fur","Nose","One Mouth","Paws","Penis","Teeth","Two Ears"],"emittingConcepts":[]}
+{"concept":"Fleas","rel":"HasA","emittingConcepts":["Dog","Dogs"],"receivingConcepts":[]}
+{"concept":"One Mouth","rel":"HasA","emittingConcepts":["Dog","Humans"],"receivingConcepts":[]}
+{"concept":"Teeth","rel":"HasA","emittingConcepts":["Dog","Dogs","Head","Humans","Mechanical Gears","Mouth","People","Saws Usally","Staple Remover","Wolves"],"receivingConcepts":[]}
+{"concept":"Dogs","rel":"HasA","receivingConcepts":["Babies in Litters","Bad Breath","Bones","Claws","Ears","Fleas","Four Legs","Fur","Litter of Offspring","Lots of Hair","N't Eaten in Days","No Consciousness","Pointed Ears","Puppies","Stronger Sence of Smell Humans","Tail","Tails","Teeth","Tongue Hanging Out","Toys","Two Ears","Very Good Hearing","Wet Noses"],"emittingConcepts":[]}
+{"concept":"Bad Breath","rel":"HasA","emittingConcepts":["Dogs","Jim","Puppies"],"receivingConcepts":[]}
+{"concept":"Pointed Ears","rel":"HasA","emittingConcepts":["Dogs","Elves"],"receivingConcepts":[]}
+{"concept":"Puppies","rel":"HasA","emittingConcepts":["Dogs"],"receivingConcepts":["Bad Breath","Hair All Over"]}
+{"concept":"Dogs and Humans","rel":"HasA","receivingConcepts":["Lived Together for Many Millennia","Similar Hormones"],"emittingConcepts":[]}
+{"concept":"Handles","rel":"HasA","emittingConcepts":["Doors","Gravy Boat","Many Kinds of Dishware","Many Tools","Many Utensils","Most Pots and Pans","Satchel Bag","Shopping Bag","Shopping Basket"],"receivingConcepts":[]}
+{"concept":"Two Channels","rel":"HasA","emittingConcepts":["Double Current Catheter","One Type of Catheter"],"receivingConcepts":[]}
+{"concept":"Double Edged Razor","rel":"HasA","receivingConcepts":["Two Sharp Sides","Two Sharps Sides"],"emittingConcepts":[]}
+{"concept":"Drinking Alcohol","rel":"HasA","receivingConcepts":["Bad Long Time Effects","Effect of Gettting Drunk"],"emittingConcepts":[]}
+{"concept":"Died","rel":"HasA","emittingConcepts":["Drowned Person","Too Many Iraqi Children"],"receivingConcepts":[]}
+{"concept":"Effect on People","rel":"HasA","emittingConcepts":["Drugs","Music"],"receivingConcepts":[]}
+{"concept":"Duck","rel":"HasA","receivingConcepts":["Bill","Bill and Webbed Feet","Feathers","Webbed Feet"],"emittingConcepts":[]}
+{"concept":"Ducks","rel":"HasA","receivingConcepts":["Bill","Bills","Bones","Feathers"],"emittingConcepts":[]}
+{"concept":"Each","rel":"HasA","receivingConcepts":["Letter E","Letter S","Ten Fingers and Ten Toes"],"emittingConcepts":[]}
+{"concept":"Ten Fingers and Ten Toes","rel":"HasA","emittingConcepts":["Each","People"],"receivingConcepts":[]}
+{"concept":"Each Country","rel":"HasA","receivingConcepts":["Both Government and Citizens","Different Flag","Economy","Own Flag","Own Style of Cooking"],"emittingConcepts":[]}
+{"concept":"Each Finger","rel":"HasA","receivingConcepts":["Fingernail","Lunula"],"emittingConcepts":[]}
+{"concept":"Yard","rel":"HasA","emittingConcepts":["Each House in Neighborhood","House"],"receivingConcepts":[]}
+{"concept":"Five Digits","rel":"HasA","emittingConcepts":["Each Human's Hand","Each Human Hand"],"receivingConcepts":[]}
+{"concept":"Each Human","rel":"HasA","receivingConcepts":["Body","Name","Own Unique Dna","Unique Fingerprint"],"emittingConcepts":[]}
+{"concept":"Each Person","rel":"HasA","receivingConcepts":["Only One Body","Slightly Different Voice","Two Lips"],"emittingConcepts":[]}
+{"concept":"Two Lips","rel":"HasA","emittingConcepts":["Each Person","People","Person"],"receivingConcepts":[]}
+{"concept":"King","rel":"HasA","emittingConcepts":["Each Side"],"receivingConcepts":["Kingdom","No Power in Democracy"]}
+{"concept":"365 Days","rel":"HasA","emittingConcepts":["Earth's Year","Most Years"],"receivingConcepts":[]}
+{"concept":"Earth","rel":"HasA","receivingConcepts":["Atmosphere","Continents and Oceans","Four Seasons","Gravity","Many Artificial Satellites","Many Different Living Organisms","Molten Core","Moon","More Water Than Land","North and South Pole","One Moon","One Satellite Called Moon","Several Billion Human Beings","Shape of Sphere","Single Moon","Six Populated Continents","Surface","Tectonic Plates","Thick Shield Called Atmosphere"],"emittingConcepts":[]}
+{"concept":"Atmosphere","rel":"HasA","emittingConcepts":["Earth","Planet Earth","World"],"receivingConcepts":[]}
+{"concept":"Four Seasons","rel":"HasA","emittingConcepts":["Earth","Year in Temperate Regions"],"receivingConcepts":[]}
+{"concept":"Gravity","rel":"HasA","emittingConcepts":["Earth","Everything With Mass"],"receivingConcepts":["Effect of Pulling Things Down"]}
+{"concept":"Moon","rel":"HasA","emittingConcepts":["Earth"],"receivingConcepts":["Cratered Surface","Craters","Many Craters","Mild Gravity","No Moon","Phases","Sides Cold"]}
+{"concept":"North and South Pole","rel":"HasA","emittingConcepts":["Earth","Magnet"],"receivingConcepts":[]}
+{"concept":"One Moon","rel":"HasA","emittingConcepts":["Earth","Pluto","World"],"receivingConcepts":[]}
+{"concept":"Surface","rel":"HasA","emittingConcepts":["Earth","Lake","Object","Water"],"receivingConcepts":[]}
+{"concept":"Tables","rel":"HasA","emittingConcepts":["Eatery Will","Most Bars","Most Pubs"],"receivingConcepts":[]}
+{"concept":"Eating","rel":"HasA","receivingConcepts":["Effect of Abating Hunger","Effect of Satiating One's Hunger"],"emittingConcepts":[]}
+{"concept":"Effect of Making People Fat","rel":"HasA","emittingConcepts":["Eating Fast Food","Sitting in House All Day"],"receivingConcepts":[]}
+{"concept":"Economists","rel":"HasA","receivingConcepts":["Hard Time Accounting for Externalities","Hard Time With Intangible Value"],"emittingConcepts":[]}
+{"concept":"No Legs","rel":"HasA","emittingConcepts":["Eel","Fish","Snake","Snakes"],"receivingConcepts":[]}
+{"concept":"Effective Groups","rel":"HasA","receivingConcepts":["High Cohesion","Two Way Interaction Between Members"],"emittingConcepts":[]}
+{"concept":"Shell","rel":"HasA","emittingConcepts":["Eggs","Turtle","Turtles","Walnut"],"receivingConcepts":[]}
+{"concept":"Electrical Charge","rel":"HasA","emittingConcepts":["Electrons","Not All Matter","Protons"],"receivingConcepts":[]}
+{"concept":"Elephant","rel":"HasA","receivingConcepts":["Four Legs","Long Nose Called Trunk","Nose","Trunk","Tusks"],"emittingConcepts":[]}
+{"concept":"Long Nose Called Trunk","rel":"HasA","emittingConcepts":["Elephant","Elephants"],"receivingConcepts":[]}
+{"concept":"Tusks","rel":"HasA","emittingConcepts":["Elephant","Only Male Asian Elephants","Walruses"],"receivingConcepts":[]}
+{"concept":"Elephants","rel":"HasA","receivingConcepts":["Leathery Skin","Long Nose Called Trunk","Trunks"],"emittingConcepts":[]}
+{"concept":"Encylopedias","rel":"HasA","receivingConcepts":["Information About Animals","Information About People"],"emittingConcepts":[]}
+{"concept":"England","rel":"HasA","receivingConcepts":["Beaches","Had Many Kings","Won Rugby World Cup 2003"],"emittingConcepts":[]}
+{"concept":"English","rel":"HasA","receivingConcepts":["Many Irregularities and Exceptions","Notorious Reputation for Poor Diet"],"emittingConcepts":[]}
+{"concept":"English Language","rel":"HasA","receivingConcepts":["Many Greek Words","Many Words"],"emittingConcepts":[]}
+{"concept":"Steps","rel":"HasA","emittingConcepts":["Entryways","Stairway"],"receivingConcepts":[]}
+{"concept":"Dark Skin","rel":"HasA","emittingConcepts":["Eskimos","Iranians"],"receivingConcepts":[]}
+{"concept":"Every Action","rel":"HasA","receivingConcepts":["Equal and Opposite Reaction","Equal but Opposite Reaction"],"emittingConcepts":[]}
+{"concept":"Every Book","rel":"HasA","receivingConcepts":["At Least Few Pages","Title"],"emittingConcepts":[]}
+{"concept":"Title","rel":"HasA","emittingConcepts":["Every Book","Song"],"receivingConcepts":[]}
+{"concept":"Capital City","rel":"HasA","emittingConcepts":["Every Canadian Province","Every State"],"receivingConcepts":[]}
+{"concept":"Every City","rel":"HasA","receivingConcepts":["Small Buildings","Zip Code"],"emittingConcepts":[]}
+{"concept":"Every Country","rel":"HasA","receivingConcepts":["Leader","National Capital City","Rivers Except Desert Countries"],"emittingConcepts":[]}
+{"concept":"Pouch","rel":"HasA","emittingConcepts":["Every Female Kangaroo","Marsupials"],"receivingConcepts":[]}
+{"concept":"Special Taste","rel":"HasA","emittingConcepts":["Every Food","Everything Eat"],"receivingConcepts":[]}
+{"concept":"366 Days","rel":"HasA","emittingConcepts":["Every Fourth Year Earth's Year","Leap Year","Years"],"receivingConcepts":[]}
+{"concept":"Every House","rel":"HasA","receivingConcepts":["At Least One Bathroom","Roof"],"emittingConcepts":[]}
+{"concept":"Every Human","rel":"HasA","receivingConcepts":["Biological Mother","Name","One","Parents"],"emittingConcepts":[]}
+{"concept":"Every Individual Human","rel":"HasA","receivingConcepts":["Near Unique Fingerprint","Unique Retinal Pattern"],"emittingConcepts":[]}
+{"concept":"Flag","rel":"HasA","emittingConcepts":["Every Nation","Ireland Country And","Mailbox","United States"],"receivingConcepts":["Red and White Stripes"]}
+{"concept":"Every Particle","rel":"HasA","receivingConcepts":["Antiparticle","Corresponding Antiparticle"],"emittingConcepts":[]}
+{"concept":"Every Person","rel":"HasA","receivingConcepts":["Heart","Hide","Mother and Father","Mouth","Name","Unique Dna"],"emittingConcepts":[]}
+{"concept":"Heart","rel":"HasA","emittingConcepts":["Every Person","Good Team","Mammals"],"receivingConcepts":[]}
+{"concept":"Every State in United States","rel":"HasA","receivingConcepts":["At Least One Car In","Capitol","People Living In"],"emittingConcepts":[]}
+{"concept":"Unique Personality","rel":"HasA","emittingConcepts":["Every Uncle","Everyone"],"receivingConcepts":[]}
+{"concept":"Every Woman","rel":"HasA","receivingConcepts":["Role to Paly","Vanity Case"],"emittingConcepts":[]}
+{"concept":"Multiple Meanings","rel":"HasA","emittingConcepts":["Every Word","Sometimes Words","Vessel","Words"],"receivingConcepts":[]}
+{"concept":"Everybody","rel":"HasA","receivingConcepts":["Body","Favorite Channel on Television","Got Gender","Name"],"emittingConcepts":[]}
+{"concept":"Everyone","rel":"HasA","receivingConcepts":["Bad Day Now and Then","Body","Boss","Breathe Air to Live","Childhood","Different Sides to Personalities","Different Standards","Feelings","Innocence of Child","Make Living","Mother and Father","Name","Nice Side","Nose of Face","One Special Talent","Opinion","Parents","Seen Sun and Moon","Serve","Standards","Strong Points and Weak Points","Surname","Unique Personality","Values","Weakness"],"emittingConcepts":[]}
+{"concept":"Boss","rel":"HasA","emittingConcepts":["Everyone","Secretary"],"receivingConcepts":[]}
+{"concept":"Buy","rel":"HasA","emittingConcepts":["Everyone Wears Clothing and Most People","Get New Car"],"receivingConcepts":[]}
+{"concept":"Everything","rel":"HasA","receivingConcepts":["Name","Own Gravitational Force","Own Special Purpose"],"emittingConcepts":[]}
+{"concept":"More Than One Meaning","rel":"HasA","emittingConcepts":["Excercise","Many Words","Word Staple"],"receivingConcepts":[]}
+{"concept":"Not Been Proven","rel":"HasA","emittingConcepts":["Existance of God","Existence of Heaven","Existence of Hell"],"receivingConcepts":[]}
+{"concept":"Two Lenses","rel":"HasA","emittingConcepts":["Eyeglasses","Most Glasses"],"receivingConcepts":[]}
+{"concept":"Factory","rel":"HasA","receivingConcepts":["Machines and People","Workers"],"emittingConcepts":[]}
+{"concept":"Families","rel":"HasA","receivingConcepts":["Dinner Together","Same Last Name"],"emittingConcepts":[]}
+{"concept":"Same Last Name","rel":"HasA","emittingConcepts":["Families","Family Members"],"receivingConcepts":[]}
+{"concept":"Furniture","rel":"HasA","emittingConcepts":["Family Room","House"],"receivingConcepts":[]}
+{"concept":"Farms","rel":"HasA","receivingConcepts":["Horses Living On","Pastures for Horses Move Around In"],"emittingConcepts":[]}
+{"concept":"Fast Food","rel":"HasA","receivingConcepts":["Low Calorific Value","Many Calories but Few Vitamins"],"emittingConcepts":[]}
+{"concept":"Many Calories per Gram","rel":"HasA","emittingConcepts":["Fats and Oils","High Energy Foods"],"receivingConcepts":[]}
+{"concept":"Pouches","rel":"HasA","emittingConcepts":["Female Kangaroos","Kangaroos","Kangaroos Hop And"],"receivingConcepts":[]}
+{"concept":"Females","rel":"HasA","receivingConcepts":["Bellybuttons Just Like Males","Menstruation Once Month After Puberty","Vagina"],"emittingConcepts":[]}
+{"concept":"Few People","rel":"HasA","receivingConcepts":["Experienced Life Underwater","Two Feet Same Sizeand Shape"],"emittingConcepts":[]}
+{"concept":"Violence","rel":"HasA","emittingConcepts":["Fights","Wars"],"receivingConcepts":["Effect of Making More Violents"]}
+{"concept":"File","rel":"HasA","receivingConcepts":["Data","Information"],"emittingConcepts":[]}
+{"concept":"Films","rel":"HasA","receivingConcepts":["Duration","Fishing as Topic"],"emittingConcepts":[]}
+{"concept":"Fingers","rel":"HasA","receivingConcepts":["Bones","Fingernails","Fingernails and Toes Have Toenails"],"emittingConcepts":["Hands","Humans","We"]}
+{"concept":"Fingernails","rel":"HasA","emittingConcepts":["Fingers","Person"],"receivingConcepts":[]}
+{"concept":"Finicky People","rel":"HasA","receivingConcepts":["Disklikes","Strong Preferences"],"emittingConcepts":[]}
+{"concept":"Finland","rel":"HasA","receivingConcepts":["188,000 Lakes","Produced World's Finest Rally Drivers"],"emittingConcepts":[]}
+{"concept":"Fire","rel":"HasA","receivingConcepts":["Effect of Burning","Temperature"],"emittingConcepts":[]}
+{"concept":"Fire Engines","rel":"HasA","receivingConcepts":["Loud Siren","Sirens"],"emittingConcepts":[]}
+{"concept":"Fish","rel":"HasA","receivingConcepts":["Bones","Distinctive Fishy Smell","Fantastic Spatial Memory","Fin","Fins","Gills","Gills Which Allow Breathing Water","Little Salt Inside","No Legs","Scales","Tail"],"emittingConcepts":["Oceans"]}
+{"concept":"Scales","rel":"HasA","emittingConcepts":["Fish","Snake","Snakes"],"receivingConcepts":[]}
+{"concept":"Job","rel":"HasA","emittingConcepts":["Fishmonger","When Employee Works"],"receivingConcepts":[]}
+{"concept":"Flies","rel":"HasA","receivingConcepts":["Compound Eyes","Feathers and Lays Eggs"],"emittingConcepts":[]}
+{"concept":"Compound Eyes","rel":"HasA","emittingConcepts":["Flies","Insects"],"receivingConcepts":[]}
+{"concept":"Florida","rel":"HasA","receivingConcepts":["Beaches","Many Beaches","Mild Winter Weather","Space Launchings From Cape Canaveral"],"emittingConcepts":[]}
+{"concept":"Flowering Plants","rel":"HasA","receivingConcepts":["Complicated Genetic Information","Roots and Hairs"],"emittingConcepts":[]}
+{"concept":"Flowers","rel":"HasA","receivingConcepts":["Both Pistil and Stamen","Few Petals","Large Petals","Long Stems","Lots of Petals","Pistil","Pollen","Short Stems","Small Petals","Stamen","Thorny Stems"],"emittingConcepts":["Garden","Gardens Often","Plants","Vines"]}
+{"concept":"Folding Door","rel":"HasA","receivingConcepts":["Hinges","Many Hinges","Several Rectangles"],"emittingConcepts":[]}
+{"concept":"Food","rel":"HasA","receivingConcepts":["Effect of Suppressing Hunger"],"emittingConcepts":["Kosher Deli Might","Minibar","Restaurant and Theatre"]}
+{"concept":"Spoiled","rel":"HasA","emittingConcepts":["Foods Curdle","Meat Has Gone Bad"],"receivingConcepts":[]}
+{"concept":"Foot","rel":"HasA","receivingConcepts":["Five Toes","Twelve Inches"],"emittingConcepts":["Leg"]}
+{"concept":"Five Toes","rel":"HasA","emittingConcepts":["Foot","Human Foot","Human Foot Almost Aways"],"receivingConcepts":[]}
+{"concept":"Forest","rel":"HasA","receivingConcepts":["Many Trees","Millions of Trees","Species of Many Plants and Animals"],"emittingConcepts":[]}
+{"concept":"Many Trees","rel":"HasA","emittingConcepts":["Forest","State of Virginia"],"receivingConcepts":[]}
+{"concept":"Fork","rel":"HasA","receivingConcepts":["Prongs","Tines"],"emittingConcepts":[]}
+{"concept":"Tines","rel":"HasA","emittingConcepts":["Fork","Forks"],"receivingConcepts":[]}
+{"concept":"Trees","rel":"HasA","emittingConcepts":["Forrests"],"receivingConcepts":["Branches","Buds Can Flower in Spring","Deep Roots","Dozens or Hundreds of Branches","Leaves","Leaves on Branches","Leaves or Needles","Roots","Seeds"]}
+{"concept":"Ink","rel":"HasA","emittingConcepts":["Fountain Pen","Pen","Pens","Stamp Pad","Typewriter Ribbon"],"receivingConcepts":[]}
+{"concept":"Fox","rel":"HasA","receivingConcepts":["Bushy Tail","Four Legs","Long Tail"],"emittingConcepts":[]}
+{"concept":"France","rel":"HasA","receivingConcepts":["About 60 Million Inhabitants","Beaches"],"emittingConcepts":[]}
+{"concept":"French Horn","rel":"HasA","receivingConcepts":["Three Keys","Wide Range of Pitches"],"emittingConcepts":[]}
+{"concept":"Frogs","rel":"HasA","receivingConcepts":["Bones","Knees","Noses","Two Eyes"],"emittingConcepts":[]}
+{"concept":"Fruit","rel":"HasA","receivingConcepts":["Antioxidants","Pleasant Taste","Seeds","Sugar","Vitamins","Water"],"emittingConcepts":[]}
+{"concept":"88 Keys","rel":"HasA","emittingConcepts":["Full Keyboard","Modern Piano","Piano","Piano Instrument","Piano Keyboard","Pianos"],"receivingConcepts":[]}
+{"concept":"Future Robots Will","rel":"HasA","receivingConcepts":["Great Computing Power","Increased Intelligence"],"emittingConcepts":[]}
+{"concept":"Galaxies","rel":"HasA","receivingConcepts":["Elliptical Shape","Spiral Shape"],"emittingConcepts":[]}
+{"concept":"Spiral Shape","rel":"HasA","emittingConcepts":["Galaxies","Nautillus Shell"],"receivingConcepts":[]}
+{"concept":"Games","rel":"HasA","receivingConcepts":["More Precise Rules Than Others","Rules"],"emittingConcepts":[]}
+{"concept":"Losers","rel":"HasA","emittingConcepts":["Games of Chess","Sports"],"receivingConcepts":[]}
+{"concept":"Ganymede","rel":"HasA","receivingConcepts":["Had Complex Geological History","No Known Atmosphere"],"emittingConcepts":[]}
+{"concept":"Garage","rel":"HasA","receivingConcepts":["At Least One Door","Cars"],"emittingConcepts":[]}
+{"concept":"Gas","rel":"HasA","receivingConcepts":["No Fixed Shape or Volume","Thousands of Particles In","Weaker Internal Forces Than Liquid","Weight"],"emittingConcepts":[]}
+{"concept":"Weight","rel":"HasA","emittingConcepts":["Gas","Water"],"receivingConcepts":[]}
+{"concept":"Pilot Lights","rel":"HasA","emittingConcepts":["Gas Heaters","Gas Stoves"],"receivingConcepts":[]}
+{"concept":"Gas Stoves","rel":"HasA","receivingConcepts":["Jets","Pilot Lights"],"emittingConcepts":[]}
+{"concept":"German Cars","rel":"HasA","receivingConcepts":["Excellent Quality","Higher Quality"],"emittingConcepts":[]}
+{"concept":"Giraffe","rel":"HasA","receivingConcepts":["Long Neck","Nose"],"emittingConcepts":[]}
+{"concept":"Giraffes","rel":"HasA","receivingConcepts":["Bones in Necks","Extremely High Blood Pressure","Legs","Long Necks","Long Tongues"],"emittingConcepts":[]}
+{"concept":"Girls and Women","rel":"HasA","receivingConcepts":["Breasts","Vaginas"],"emittingConcepts":[]}
+{"concept":"Glass","rel":"HasA","receivingConcepts":["Reflective Qualitities","Refractive Index","Resonant Frequency"],"emittingConcepts":[]}
+{"concept":"Calcium","rel":"HasA","emittingConcepts":["Glass of Milk","Ice Cream","Milk"],"receivingConcepts":[]}
+{"concept":"Gold","rel":"HasA","receivingConcepts":["Atomic Number 79","Value"],"emittingConcepts":[]}
+{"concept":"Dimples","rel":"HasA","emittingConcepts":["Golf Ball","Golf Balls"],"receivingConcepts":[]}
+{"concept":"Wonderful Smell","rel":"HasA","emittingConcepts":["Good Hot Tortillas","Most People Think Chocolate"],"receivingConcepts":[]}
+{"concept":"No Annual Fee","rel":"HasA","emittingConcepts":["Good Mastercard Will","Many Mastercards Advertise"],"receivingConcepts":[]}
+{"concept":"Grandmother","rel":"HasA","receivingConcepts":["Alarm Clock Like","Passed Away"],"emittingConcepts":[]}
+{"concept":"Graveyard","rel":"HasA","receivingConcepts":["Grave","More Bones Than Vegetable Garden"],"emittingConcepts":[]}
+{"concept":"Many Columns","rel":"HasA","emittingConcepts":["Greek Temples","Newspaper"],"receivingConcepts":[]}
+{"concept":"Grocery Store","rel":"HasA","receivingConcepts":["Many Shelves of Food","Plastic Bag Dispensers"],"emittingConcepts":[]}
+{"concept":"Grocery Stores","rel":"HasA","receivingConcepts":["Cash Registers","Food In"],"emittingConcepts":[]}
+{"concept":"Guinea Pigs","rel":"HasA","receivingConcepts":["Four Legs","Four Toes on Each Front Foot","Fourteen Toes","Three Toes on Each Back Foot","Total of 14 Toes"],"emittingConcepts":[]}
+{"concept":"Guitar","rel":"HasA","receivingConcepts":["6 Strings","Six Strings","Strings"],"emittingConcepts":[]}
+{"concept":"Guitars","rel":"HasA","receivingConcepts":["Six Strings","Sound Hole"],"emittingConcepts":[]}
+{"concept":"Roots","rel":"HasA","emittingConcepts":["Hair","Plants","Tree","Trees"],"receivingConcepts":[]}
+{"concept":"Five Fingers","rel":"HasA","emittingConcepts":["Hand","People"],"receivingConcepts":[]}
+{"concept":"Four Fingers and Thumb","rel":"HasA","emittingConcepts":["Hand","Human Hand","Most Gloves","One Hand"],"receivingConcepts":[]}
+{"concept":"Hands","rel":"HasA","receivingConcepts":["Fingers","Relationship With Computer Keys"],"emittingConcepts":["Humans","Normal People","Postman","Watches"]}
+{"concept":"Hard Water and Soft Water","rel":"HasA","receivingConcepts":["Almost Identical Density","Almost Identical Mass","Almost Identical Weight"],"emittingConcepts":[]}
+{"concept":"Harry","rel":"HasA","receivingConcepts":["Cold","Fallen Out of Window","Kids","Spent Hours on Writing Letter"],"emittingConcepts":[]}
+{"concept":"Havenco","rel":"HasA","receivingConcepts":["Tamper Resistance and Cryptographic Technology","Very Secure Nodes on Sealand"],"emittingConcepts":[]}
+{"concept":"Ten Fingers","rel":"HasA","emittingConcepts":["Healthy Human Beings","Humans","Most People","Normally People","We"],"receivingConcepts":[]}
+{"concept":"Low Self Esteem","rel":"HasA","emittingConcepts":["Helen Unger Clark","Humans"],"receivingConcepts":[]}
+{"concept":"Helium","rel":"HasA","receivingConcepts":["Atomic Number of Two","Atomic Weight of Four","Two Electrons"],"emittingConcepts":[]}
+{"concept":"Iron","rel":"HasA","emittingConcepts":["Hemoglobin","Steel","Sun"],"receivingConcepts":[]}
+{"concept":"Snow On","rel":"HasA","emittingConcepts":["High Mountains","Mountains Often"],"receivingConcepts":[]}
+{"concept":"Home","rel":"HasA","receivingConcepts":["Basements","Bedrooms"],"emittingConcepts":["Women Get Married To"]}
+{"concept":"Basements","rel":"HasA","emittingConcepts":["Home","Houses"],"receivingConcepts":[]}
+{"concept":"Bedrooms","rel":"HasA","emittingConcepts":["Home","Homes","Houses","Ranch House"],"receivingConcepts":[]}
+{"concept":"Homeless People","rel":"HasA","receivingConcepts":["No Home","Nowhere to Live"],"emittingConcepts":[]}
+{"concept":"No Home","rel":"HasA","emittingConcepts":["Homeless People","Stray Puppy"],"receivingConcepts":[]}
+{"concept":"Nowhere to Live","rel":"HasA","emittingConcepts":["Homeless People","If House Burned Down"],"receivingConcepts":[]}
+{"concept":"Homes","rel":"HasA","receivingConcepts":["Bedrooms","Dirt Floors","No Wired Telephones"],"emittingConcepts":[]}
+{"concept":"Horse","rel":"HasA","receivingConcepts":["Eyes","Four Legs"],"emittingConcepts":[]}
+{"concept":"Horses","rel":"HasA","receivingConcepts":["4 Legs and Can Run Fast","Been Bred to Fast","Big Penises","Big Schlongs","Come to Symbols of Romanticism","Different Speeds Called Gates","Four Legs","Friends Too","Hooves","Larger Hearts and Lungs Than Humans","Manes","Really Good Balance"],"emittingConcepts":["Ranch","Ranches"]}
+{"concept":"Hooves","rel":"HasA","emittingConcepts":["Horses","Horses and Cows"],"receivingConcepts":[]}
+{"concept":"Manes","rel":"HasA","emittingConcepts":["Horses","Male Lions"],"receivingConcepts":[]}
+{"concept":"Hose","rel":"HasA","receivingConcepts":["Empty Core","Vacant Core"],"emittingConcepts":[]}
+{"concept":"Hospitals","rel":"HasA","receivingConcepts":["Characteristic Smell","Examination Tables","Patients"],"emittingConcepts":[]}
+{"concept":"Fever","rel":"HasA","emittingConcepts":["Hot Forehead Means","People Often Feel Drowsy When"],"receivingConcepts":[]}
+{"concept":"Hotel","rel":"HasA","receivingConcepts":["Lobby","Lobby on First Floor"],"emittingConcepts":[]}
+{"concept":"Hotels","rel":"HasA","receivingConcepts":["Check in Desk","Maids Who Clean Rooms","Minibars in Rooms"],"emittingConcepts":[]}
+{"concept":"House","rel":"HasA","receivingConcepts":["Basement","Bathroom","Ceiling Under Roof","Door","Doors","Fence Around","Floor","Furniture","Kitchen","Living Room","More Than One Window","Plumbing","Roof","Rooms","Washing Machine","Windows","Windows in It's Walls","Wiring","Yard"],"emittingConcepts":[]}
+{"concept":"Basement","rel":"HasA","emittingConcepts":["House","In Germany Most Houses"],"receivingConcepts":[]}
+{"concept":"Bathroom","rel":"HasA","emittingConcepts":["House","Restaurant"],"receivingConcepts":[]}
+{"concept":"Walls","rel":"HasA","emittingConcepts":["House Will","Houses","Lobby","Many Stadiums","Room","Theater"],"receivingConcepts":[]}
+{"concept":"Houses","rel":"HasA","receivingConcepts":["Basements","Bedrooms","Ceiling Fans","Doors","Foundation","Garden","Ghosts In","Many People Living In","Pornography","Roofs","Seperate Garages","Two or More Levels","Two Stories","Walls","Window Overlooking Back Yard"],"emittingConcepts":[]}
+{"concept":"Ghosts In","rel":"HasA","emittingConcepts":["Houses","Scary Movie Might"],"receivingConcepts":[]}
+{"concept":"Roofs","rel":"HasA","emittingConcepts":["Houses","Theaters"],"receivingConcepts":[]}
+{"concept":"Human","rel":"HasA","receivingConcepts":["Body and Mind","Five Fingers on Each Hand","Gone to Moon","Muscles","One Body","Parents","Stupidity","Two Arms","Two Ears on Head","Two Legs and Two Arms"],"emittingConcepts":[]}
+{"concept":"Five Fingers on Each Hand","rel":"HasA","emittingConcepts":["Human","Human Being","Humans","People","We"],"receivingConcepts":[]}
+{"concept":"Two Legs and Two Arms","rel":"HasA","emittingConcepts":["Human","Humans"],"receivingConcepts":[]}
+{"concept":"Many Muscles","rel":"HasA","emittingConcepts":["Human Arms","Human Body"],"receivingConcepts":[]}
+{"concept":"Human Beings","rel":"HasA","receivingConcepts":["Different Coloured Skin Tones","Different Lifespans","Longest Lifespan of Mammal","Only Seven Neck Bones","Oposable Thumbs","Travelled to Moon"],"emittingConcepts":[]}
+{"concept":"Human Body","rel":"HasA","receivingConcepts":["Billions of Cells","Billions of Nerves","Hair Covering Skin","Limited Ability to Repair Itself","Many Biological Organs","Many Hairs on Human Skin","Many Muscles","Many Nerves","Many Organs","Several Bones Inside","Several Mechanisms to Regulate Internal Temperature","Skeleton","Skeleton Inside","Two Eyes","Two Legs","Water"],"emittingConcepts":[]}
+{"concept":"Human Eye","rel":"HasA","receivingConcepts":["Lens and Retina","Many Components"],"emittingConcepts":[]}
+{"concept":"Human Hand","rel":"HasA","receivingConcepts":["5 Appendeges Called Fingers","5 Fingers","Four Fingers and Thumb","Opposable Digit Called Thumb"],"emittingConcepts":[]}
+{"concept":"Human Head","rel":"HasA","receivingConcepts":["22 Bones","Brain"],"emittingConcepts":[]}
+{"concept":"No Bones","rel":"HasA","emittingConcepts":["Human Penis","Orange Ice Cream"],"receivingConcepts":[]}
+{"concept":"Many Objects","rel":"HasA","emittingConcepts":["Human Skin","World"],"receivingConcepts":[]}
+{"concept":"Humans","rel":"HasA","receivingConcepts":["10 Fingernails","10 Fingers","10 Toes","2 Ears","32 Adult Teeth","5 Fingers on Each Hand","5 Toes on Each Foot","Ability to Make Things Better","Absolutely No Hair on Chests","Arms Hands Fingers Fingernails and Lunulae","Arms Hands Fingers Fingernails and Lunulas","Attention Span","Belly Button","Biological Bodies","Biological Body","Blonde Hair","Bodies","Body Aches","Bones","Bones Inside Bodies","Brains","Capacity to Choose Thoughts","Capacity to Speak","Capacity to Visualize Future","Cavities","Competitive Nature","Comprehension Span","Continued to Evolve","Curly Hair","Distinctive and Discernable Voices","Eat to Stay Alive","Emotional Needs","Emotions","Exercise","Eyes","Fingers","Five Fingers on Each Hand","Five Senses","Five Toes on Each Foot","Genes","Hair","Hands","Hormones","Innate Capacity for Language","Invented Checkbooks","Landed on Moon","Legs to Walk","Light Skin","Low Self Esteem","Many Reasons for Doing Things","Minds","Myths","Normally Two Hands","One Brain","One Head","One Heart","One Liver","One Mouth","One Stomach","Opposable Thumbs","Physical Strength","Sent Spacecraft Into Space","Skin","Slanted Eyes","Split Atoms","Strong Reproductive Instincts","Teeth","Ten Fingers","Ten Toes","Thumbs","Tiny Hairs All Over Thier Body","Two Arms","Two Arms and Two Legs","Two Ears","Two Eyes","Two Feet","Two Hands","Two Kidneys","Two Legs","Two Legs and Two Arms","Two Lungs","Two Olecranon","Two Sets of Teeth","Two Sexes","Use Bathroom","Very Diverse Sexual Practices","Yet to Reach Interstellar Space"],"emittingConcepts":[]}
+{"concept":"Belly Button","rel":"HasA","emittingConcepts":["Humans","Person"],"receivingConcepts":[]}
+{"concept":"Five Toes on Each Foot","rel":"HasA","emittingConcepts":["Humans","We"],"receivingConcepts":[]}
+{"concept":"Myths","rel":"HasA","emittingConcepts":["Humans","Many Cultures"],"receivingConcepts":[]}
+{"concept":"One Heart","rel":"HasA","emittingConcepts":["Humans","Person"],"receivingConcepts":[]}
+{"concept":"Ten Toes","rel":"HasA","emittingConcepts":["Humans","Most People","Normally People"],"receivingConcepts":[]}
+{"concept":"Two Feet","rel":"HasA","emittingConcepts":["Humans","Most People","Normally People"],"receivingConcepts":[]}
+{"concept":"Two Hands","rel":"HasA","emittingConcepts":["Humans","Humans Usualy","Most People","Normal Human Being","Normally People","Person"],"receivingConcepts":["Five Fingers Each"]}
+{"concept":"Two Kidneys","rel":"HasA","emittingConcepts":["Humans","Normally People"],"receivingConcepts":[]}
+{"concept":"Two Lungs","rel":"HasA","emittingConcepts":["Humans","Most People"],"receivingConcepts":[]}
+{"concept":"Common Ancestor","rel":"HasA","emittingConcepts":["Humans and Chimpanzees","Man and Ape"],"receivingConcepts":[]}
+{"concept":"Humans Must","rel":"HasA","receivingConcepts":["Oxygen to Remain Conscious","Water to Survive"],"emittingConcepts":[]}
+{"concept":"Hummingbirds","rel":"HasA","receivingConcepts":["Long Beaks","Water in Bodies"],"emittingConcepts":[]}
+{"concept":"Sex","rel":"HasA","emittingConcepts":["Husband and Wife","Men and Women","People","People Take of Clothes To","Sexing When Two People","Women Love To","Words Have Gender People"],"receivingConcepts":["Effect of Burning Calories","Effect of Clearing One's Mind","Effect of Insemination"]}
+{"concept":"Ice Cream","rel":"HasA","receivingConcepts":["Calcium","Sugar Which Sweet"],"emittingConcepts":[]}
+{"concept":"If Person","rel":"HasA","receivingConcepts":["Grievous Injuries May Probably Die","No Pulse Probably Dead"],"emittingConcepts":[]}
+{"concept":"Advantage","rel":"HasA","emittingConcepts":["If Sleep Enemy Might","People Who Already Know Rules"],"receivingConcepts":[]}
+{"concept":"Done Well","rel":"HasA","emittingConcepts":["If Success","People Want to Hear"],"receivingConcepts":[]}
+{"concept":"6 Legs","rel":"HasA","emittingConcepts":["Insect","Insects"],"receivingConcepts":[]}
+{"concept":"Insects","rel":"HasA","receivingConcepts":["6 Legs","Compound Eyes","Six Legs"],"emittingConcepts":[]}
+{"concept":"Four Limbs","rel":"HasA","emittingConcepts":["Intact Human","Mammals","Many Terrestrial Vertebrate Animals"],"receivingConcepts":[]}
+{"concept":"Internet","rel":"HasA","receivingConcepts":["Become Popular Marketplace","Connection","Lot of Information","Lots of Information","Lots of Usefull Information"],"emittingConcepts":[]}
+{"concept":"Ireland","rel":"HasA","receivingConcepts":["Celtic Culture","Lots of Farms"],"emittingConcepts":[]}
+{"concept":"Rings","rel":"HasA","emittingConcepts":["Is","Planet Saturn","Saturn"],"receivingConcepts":[]}
+{"concept":"Islands","rel":"HasA","receivingConcepts":["Beaches","Castles On","People Who Live On"],"emittingConcepts":[]}
+{"concept":"Israel","rel":"HasA","receivingConcepts":["Bomb","Diplomatic Relations With 153 States"],"emittingConcepts":[]}
+{"concept":"Italy","rel":"HasA","receivingConcepts":["Lot of Art","More Art Than America","World's Oldest Population"],"emittingConcepts":[]}
+{"concept":"Jane","rel":"HasA","receivingConcepts":["Garden","Spilled Wine on Table"],"emittingConcepts":[]}
+{"concept":"January","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"Japan","rel":"HasA","receivingConcepts":["Beaches","Epidemic of Hikikomori","Experienced Decade Long Depression","Third of World's Savings"],"emittingConcepts":[]}
+{"concept":"Black Hair","rel":"HasA","emittingConcepts":["Japanese People Usuallu","People"],"receivingConcepts":[]}
+{"concept":"Jar","rel":"HasA","receivingConcepts":["Lid","Things Like Pickles or Jam"],"emittingConcepts":[]}
+{"concept":"Jill","rel":"HasA","receivingConcepts":["Broken Leg","Got Flu"],"emittingConcepts":[]}
+{"concept":"Got Flu","rel":"HasA","emittingConcepts":["Jill","Mike"],"receivingConcepts":[]}
+{"concept":"Jim","rel":"HasA","receivingConcepts":["Bad Breath","Kids","Walking Stick"],"emittingConcepts":[]}
+{"concept":"John","rel":"HasA","receivingConcepts":["Been in Business Since 1996","Big Dick","Cavity","Kids"],"emittingConcepts":[]}
+{"concept":"Joshua","rel":"HasA","receivingConcepts":["Older Brother","Two Sisters"],"emittingConcepts":[]}
+{"concept":"July","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"June","rel":"HasA","receivingConcepts":["30 Days","Thirty Days"],"emittingConcepts":[]}
+{"concept":"Jupiter","rel":"HasA","receivingConcepts":["Many Moons","Moon Called Europa","Moons","Over 15 Moons","Population of Zero","Several Moons","Sixteen Moons"],"emittingConcepts":[]}
+{"concept":"Many Moons","rel":"HasA","emittingConcepts":["Jupiter","Planet Jupiter","Planet Saturn","Planets Jupiter and Saturn"],"receivingConcepts":[]}
+{"concept":"Moons","rel":"HasA","emittingConcepts":["Jupiter","Neptune","Planets"],"receivingConcepts":[]}
+{"concept":"Jurys","rel":"HasA","receivingConcepts":["Twelve Members","Twelve Members to Ensure Fairness","Twelve Members to Enure Fairness"],"emittingConcepts":[]}
+{"concept":"Kangaroos","rel":"HasA","receivingConcepts":["Pouch for Young","Pouches","Pouches to Hold Young","Tails"],"emittingConcepts":[]}
+{"concept":"Keys","rel":"HasA","emittingConcepts":["Keyboard","Keyboard Instruments","Keyboards"],"receivingConcepts":[]}
+{"concept":"Kim","rel":"HasA","receivingConcepts":["Cold","Kids"],"emittingConcepts":[]}
+{"concept":"Many People","rel":"HasA","emittingConcepts":["Kingdom","Orchestra"],"receivingConcepts":["Allergies","Allergy to Cats","Allergy to Peanuts","Bbq on Patio","Cats and or Dogs as Pets","Climbed Mount Everest","Computers at Work","Dogs as Pets","Emotional Reaction to Human Nudity","Gray Hair When Get Old","Lawns in Backyards","Littel Understanding of Interior Design","Lived in Dallas","More Than One Credit Card","Own Personal Computer","Parties on Superbowl Day","Pets in Home","Poor Taste in Furniture","Strong Opinions About Taxes","Telephone in Kitchen","Ticklish Feet","Watched Movie"]}
+{"concept":"Kitchens","rel":"HasA","receivingConcepts":["Stoves"],"emittingConcepts":["Most Apartments","Most Homes"]}
+{"concept":"Sharp Edges","rel":"HasA","emittingConcepts":["Knives","Saw"],"receivingConcepts":[]}
+{"concept":"Ladder","rel":"HasA","receivingConcepts":["Many Rungs","Rungs"],"emittingConcepts":[]}
+{"concept":"Lake","rel":"HasA","receivingConcepts":["Fluid","Inherent Value","Surface","Water"],"emittingConcepts":[]}
+{"concept":"Lambs","rel":"HasA","receivingConcepts":["Ears","Soft Fur","Wool"],"emittingConcepts":[]}
+{"concept":"Wool","rel":"HasA","emittingConcepts":["Lambs","Sheep"],"receivingConcepts":[]}
+{"concept":"Trash","rel":"HasA","emittingConcepts":["Landfill","Waste Basket"],"receivingConcepts":[]}
+{"concept":"Words","rel":"HasA","emittingConcepts":["Languages","Most Books","Sentence","Text"],"receivingConcepts":["Meaning","Multiple Meanings"]}
+{"concept":"Many Decks","rel":"HasA","emittingConcepts":["Large Casino","Large Ships"],"receivingConcepts":[]}
+{"concept":"Large Cities","rel":"HasA","receivingConcepts":["Crime Problems","Many Museums","Many Problems","Pollution Problems","Traffic Problems"],"emittingConcepts":[]}
+{"concept":"Many Museums","rel":"HasA","emittingConcepts":["Large Cities","New York"],"receivingConcepts":[]}
+{"concept":"Many Stores","rel":"HasA","emittingConcepts":["Large City Shopping Mall","Shopping Arcade","Shopping Mall","Strip Mall"],"receivingConcepts":["Web Pages to Sell Items"]}
+{"concept":"Escalators","rel":"HasA","emittingConcepts":["Large Department Stores","Malls"],"receivingConcepts":[]}
+{"concept":"Many Kinds of Food","rel":"HasA","emittingConcepts":["Large Food Store","Large Food Store Will"],"receivingConcepts":[]}
+{"concept":"Large Supermarket","rel":"HasA","receivingConcepts":["Large Variety of Goods","More Products Than Small Supermarket"],"emittingConcepts":[]}
+{"concept":"Lead Pencil","rel":"HasA","receivingConcepts":["Graphite","No Lead"],"emittingConcepts":[]}
+{"concept":"Leg","rel":"HasA","receivingConcepts":["Foot","One Foot"],"emittingConcepts":[]}
+{"concept":"Lemons","rel":"HasA","receivingConcepts":["Peel","Seeds"],"emittingConcepts":[]}
+{"concept":"Libraries","rel":"HasA","receivingConcepts":["Books Tapes and Computer Programs","Many Books","Many Books for Everyone to Read","Many Many Bookcases"],"emittingConcepts":[]}
+{"concept":"Many Books","rel":"HasA","emittingConcepts":["Libraries","Study"],"receivingConcepts":["Been Written About Human Suffering","Chapters"]}
+{"concept":"Library","rel":"HasA","receivingConcepts":["Books","Books for Loan","Librarian","Literature","Lots of Books","Many Books and Magazines","Many Shelves","Rules About Being Quiet","Thousands of Books"],"emittingConcepts":[]}
+{"concept":"Potential Energy","rel":"HasA","emittingConcepts":["Lifted Weight","Spring"],"receivingConcepts":[]}
+{"concept":"Line","rel":"HasA","receivingConcepts":["No End","Two Ends"],"emittingConcepts":[]}
+{"concept":"Liquid Water","rel":"HasA","receivingConcepts":["Little Oxygen In","More Energy Than Ice","More Energy Than Water Ice"],"emittingConcepts":[]}
+{"concept":"Liquids","rel":"HasA","receivingConcepts":["No Form","Varying Viscosities"],"emittingConcepts":[]}
+{"concept":"Liver","rel":"HasA","receivingConcepts":["Many Different Enzymes","Produces Bile to Help Digest Food"],"emittingConcepts":[]}
+{"concept":"Lizards","rel":"HasA","receivingConcepts":["4 Legs","Backbone","Bones","Four Legs","Sex to Produce Offspring","Tail"],"emittingConcepts":[]}
+{"concept":"No Tears","rel":"HasA","emittingConcepts":["Loud Cry","Person Who Cries Out"],"receivingConcepts":[]}
+{"concept":"Louisiana","rel":"HasA","receivingConcepts":["98 of World's Crayfish","Many Swamps"],"emittingConcepts":[]}
+{"concept":"Lpkb","rel":"HasA","receivingConcepts":["No Shares in Esb","No Special Friends at Minute","Shares in Esb"],"emittingConcepts":[]}
+{"concept":"Machines","rel":"HasA","receivingConcepts":["Make Life Easier for Humans","No Mechanism to Reproduce Themselves"],"emittingConcepts":[]}
+{"concept":"Magazine","rel":"HasA","receivingConcepts":["Articles","Pages","Pictures and Text"],"emittingConcepts":[]}
+{"concept":"Magazines","rel":"HasA","receivingConcepts":["Decorating Tips","Lots of Pictures In"],"emittingConcepts":[]}
+{"concept":"Mailbox","rel":"HasA","receivingConcepts":["Flag","Mail Recieved by Individual"],"emittingConcepts":[]}
+{"concept":"Male Lions","rel":"HasA","receivingConcepts":["Mane","Manes"],"emittingConcepts":[]}
+{"concept":"Males","rel":"HasA","receivingConcepts":["More Problems With Snoring","Sex With Females"],"emittingConcepts":[]}
+{"concept":"More Problems With Snoring","rel":"HasA","emittingConcepts":["Males","Obese People"],"receivingConcepts":[]}
+{"concept":"Mall","rel":"HasA","receivingConcepts":["Many Bright Lights Outside","Many Different Stores In","Many Shops"],"emittingConcepts":[]}
+{"concept":"Malls","rel":"HasA","receivingConcepts":["Bars","Escalators","Many Clothing Stores"],"emittingConcepts":[]}
+{"concept":"Mammals","rel":"HasA","receivingConcepts":["Breasts","Four Limbs","Fur","Fur on Bodies","Hair","Hair or Fur","Heart","Large Brains","Legs","Warm Blood"],"emittingConcepts":[]}
+{"concept":"Mankind","rel":"HasA","receivingConcepts":["Made Incredible Advances in Space Travel","Made Many Advancements"],"emittingConcepts":[]}
+{"concept":"Telephone","rel":"HasA","emittingConcepts":["Many Bedrooms","Telephone Box"],"receivingConcepts":["Dial On"]}
+{"concept":"Buffets","rel":"HasA","emittingConcepts":["Many Chinese Restaurants","Wedding Receptions"],"receivingConcepts":[]}
+{"concept":"Many Cities","rel":"HasA","receivingConcepts":["Bowling Alleys","Public Transportation","Them","Volunteer Firemen"],"emittingConcepts":[]}
+{"concept":"Them","rel":"HasA","emittingConcepts":["Many Cities","Restaurants"],"receivingConcepts":[]}
+{"concept":"Many Countries","rel":"HasA","receivingConcepts":["Inadequate Community Care Facilities","Laws Against","Military Force to Defend"],"emittingConcepts":[]}
+{"concept":"Many Criminals","rel":"HasA","receivingConcepts":["Mental Problems","Weapons to Hurt Other People With"],"emittingConcepts":[]}
+{"concept":"Many Cultures","rel":"HasA","receivingConcepts":["Females Who Wear Jewelry Items","Myths"],"emittingConcepts":[]}
+{"concept":"Many Flowers","rel":"HasA","receivingConcepts":["Bell Shaped Flowers","Pleasant Aroma","Purple Hue"],"emittingConcepts":[]}
+{"concept":"Many Games","rel":"HasA","receivingConcepts":["Playoffs","Rules"],"emittingConcepts":[]}
+{"concept":"Many Houses","rel":"HasA","receivingConcepts":["Bathrooms","Shrubs Around","Slanted Rooves"],"emittingConcepts":[]}
+{"concept":"Spiral Binding","rel":"HasA","emittingConcepts":["Many Notebooks Used by Students","Pocket Notebook"],"receivingConcepts":[]}
+{"concept":"Dogs as Pets","rel":"HasA","emittingConcepts":["Many People","People"],"receivingConcepts":[]}
+{"concept":"Many Religions","rel":"HasA","receivingConcepts":["Astrological Myths","Extreme Approach"],"emittingConcepts":[]}
+{"concept":"Many Rocks","rel":"HasA","receivingConcepts":["Oxygen Locked Inside","Water Locked Inside"],"emittingConcepts":[]}
+{"concept":"Jobs","rel":"HasA","emittingConcepts":["Many Women","Most Men","Surgeons"],"receivingConcepts":[]}
+{"concept":"Blue Eyes","rel":"HasA","emittingConcepts":["Marathon Runners","Not Everybody Name Bill","People"],"receivingConcepts":[]}
+{"concept":"March","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"Married People","rel":"HasA","receivingConcepts":["Anniversaries","Children"],"emittingConcepts":[]}
+{"concept":"Mars","rel":"HasA","receivingConcepts":["Numerous Faint Markings Once Considered Canals","Reddish Sky","Two Moons","Two Moons Phobos and Deimos","Volcanoes"],"emittingConcepts":[]}
+{"concept":"Two Moons","rel":"HasA","emittingConcepts":["Mars","Planet Mars"],"receivingConcepts":[]}
+{"concept":"Mary","rel":"HasA","receivingConcepts":["Kids","Reading Material"],"emittingConcepts":[]}
+{"concept":"Matter","rel":"HasA","receivingConcepts":["Mass","No Electrical Charge","Three States"],"emittingConcepts":[]}
+{"concept":"May","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days","Two Doors"],"emittingConcepts":[]}
+{"concept":"May Considered Lucky If","rel":"HasA","receivingConcepts":["Happy Family","Lot of Dates"],"emittingConcepts":[]}
+{"concept":"Mayonnaise","rel":"HasA","receivingConcepts":["Large Quantities of Fat","Lots of Fat and Cholesterol"],"emittingConcepts":[]}
+{"concept":"Mcdonalds","rel":"HasA","receivingConcepts":["Car Park","Served Billions and Billions"],"emittingConcepts":[]}
+{"concept":"Protein","rel":"HasA","emittingConcepts":["Meat","Most Yogurt"],"receivingConcepts":[]}
+{"concept":"Men and Women","rel":"HasA","receivingConcepts":["Mutual Feelings Toward One Another","Separate Fitting Rooms","Sex"],"emittingConcepts":[]}
+{"concept":"Mercury","rel":"HasA","receivingConcepts":["Metallic Core","No Moons","Substantial Iron Core"],"emittingConcepts":[]}
+{"concept":"No Moons","rel":"HasA","emittingConcepts":["Mercury","Mercury and Venus"],"receivingConcepts":[]}
+{"concept":"Mice","rel":"HasA","receivingConcepts":["Fur","Very Small Noses"],"emittingConcepts":[]}
+{"concept":"Mike","rel":"HasA","receivingConcepts":["Got Flu","Kids","Leak in Plumbing"],"emittingConcepts":[]}
+{"concept":"Energy","rel":"HasA","emittingConcepts":["Milk","Steam"],"receivingConcepts":[]}
+{"concept":"Mini Mall","rel":"HasA","receivingConcepts":["Fewer Stores Than Mega Mall","Several Stores"],"emittingConcepts":[]}
+{"concept":"Several Stores","rel":"HasA","emittingConcepts":["Mini Mall","Shopping Center"],"receivingConcepts":[]}
+{"concept":"Badminton Club","rel":"HasA","emittingConcepts":["Mit","Orange County California"],"receivingConcepts":[]}
+{"concept":"Good Food","rel":"HasA","emittingConcepts":["Mongolia","Spanish Restaurant"],"receivingConcepts":[]}
+{"concept":"Monkeys and Apes","rel":"HasA","receivingConcepts":["Intense Social Relationships","Intrinsically Complex Social Relationships"],"emittingConcepts":[]}
+{"concept":"No Moon","rel":"HasA","emittingConcepts":["Moon","Venus"],"receivingConcepts":[]}
+{"concept":"Most Americans","rel":"HasA","receivingConcepts":["Social Security Card","Too Many Clothes"],"emittingConcepts":[]}
+{"concept":"Most Animals","rel":"HasA","receivingConcepts":["Blood","Eyes","Mouth","Two Eyes and Two Ears","Voice"],"emittingConcepts":[]}
+{"concept":"Voice","rel":"HasA","emittingConcepts":["Most Animals","Most Mammals"],"receivingConcepts":[]}
+{"concept":"Most Birds","rel":"HasA","receivingConcepts":["Ability to Fly","Beak","Wings"],"emittingConcepts":[]}
+{"concept":"Most Bottles","rel":"HasA","receivingConcepts":["Caps","Label","Only One Opening"],"emittingConcepts":[]}
+{"concept":"Caps","rel":"HasA","emittingConcepts":["Most Bottles","Pens"],"receivingConcepts":[]}
+{"concept":"Most Cars","rel":"HasA","receivingConcepts":["Air Conditioner","Four Wheels","Trunk","Two Wheels"],"emittingConcepts":[]}
+{"concept":"Most Cats","rel":"HasA","receivingConcepts":["Fur","Tails"],"emittingConcepts":[]}
+{"concept":"Most Cities","rel":"HasA","receivingConcepts":["Newspapers","Public Library","Variety of Vegetable Markets"],"emittingConcepts":[]}
+{"concept":"Newspapers","rel":"HasA","emittingConcepts":["Most Cities"],"receivingConcepts":["Alot of Advertising In","Pretty Challanging Crossword Puzzles","Separated Pages"]}
+{"concept":"Most Homes","rel":"HasA","receivingConcepts":["At Least One Telephone","At Least One Tv","Kitchens"],"emittingConcepts":[]}
+{"concept":"Most Houses","rel":"HasA","receivingConcepts":["At Least One Table","Closets","Front Door With Lock","Mailboxes","Roof on Top","Sloping Roofs","Tv Sets"],"emittingConcepts":[]}
+{"concept":"Most Humans","rel":"HasA","receivingConcepts":["Iq of 100 by Definition","Never Used Computer","Similar Awareness of Time","Two Feet With Five Toes Each","Two Legs"],"emittingConcepts":[]}
+{"concept":"Most Magazines","rel":"HasA","receivingConcepts":["Photographs In","Pictures In"],"emittingConcepts":[]}
+{"concept":"Most Mammals","rel":"HasA","receivingConcepts":["Four Legs","Seven Neck Bones","Tail","Two Eyes","Voice"],"emittingConcepts":[]}
+{"concept":"Most Parking Areas","rel":"HasA","receivingConcepts":["Many Oil Stains On","Ugly Oil Puddles On"],"emittingConcepts":[]}
+{"concept":"Most People","rel":"HasA","receivingConcepts":["2 Arms and 2 Legs","3 Meals Day","Bed Time Rituals","Been Hated by Else","Clocks in Microwaves","Difficulty Making Mental Calculations Involving Probability","Ears","Experienced Hate","Favorite Foods","Hairbrush in Bathrooms","Hated Else","Lunch at Noon or Early Afternoon","Magnets on Refrigerator","Money in Wallet","Never Lived on Farm","Never Travelled to Desert","Never Travelled to Jungle","One","Only Seen Penguins at Zoo","Personal Belongings","Preferences for Certain Foods","Ten Fingers","Ten Toes","Two Arms","Two Eyes","Two Feet","Two Hands","Two Lungs","Two Of","Watched Many Movies"],"emittingConcepts":[]}
+{"concept":"Cheese On","rel":"HasA","emittingConcepts":["Most Pizza","Pizza"],"receivingConcepts":[]}
+{"concept":"Most Plants","rel":"HasA","receivingConcepts":["Green Leaves","Stalks"],"emittingConcepts":[]}
+{"concept":"Most Refrigerators","rel":"HasA","receivingConcepts":["Freezers","Magnets Stuck To"],"emittingConcepts":[]}
+{"concept":"Most Schools","rel":"HasA","receivingConcepts":["Cafeteria and Library","Summer Off"],"emittingConcepts":[]}
+{"concept":"Laces","rel":"HasA","emittingConcepts":["Most Shoes","Shoe"],"receivingConcepts":[]}
+{"concept":"Motels","rel":"HasA","receivingConcepts":["Lower Reputation Than Hotels","Refrigerators"],"emittingConcepts":[]}
+{"concept":"Motorcycle","rel":"HasA","receivingConcepts":["Two Wheels","Two Wheels and Can Go Fast"],"emittingConcepts":[]}
+{"concept":"Motorcycles","rel":"HasA","receivingConcepts":["2 Wheels","Two Wheels"],"emittingConcepts":[]}
+{"concept":"Mountains Often","rel":"HasA","receivingConcepts":["Snow On","Trails for People to Bicycle On"],"emittingConcepts":[]}
+{"concept":"Movie","rel":"HasA","receivingConcepts":["Ending","More Than One Scene"],"emittingConcepts":[]}
+{"concept":"Movies","rel":"HasA","receivingConcepts":["Hilarious Plot","Stories","Violence In"],"emittingConcepts":[]}
+{"concept":"Movies Often","rel":"HasA","receivingConcepts":["Many Characters","Scenes Containing Blood"],"emittingConcepts":[]}
+{"concept":"Museum","rel":"HasA","receivingConcepts":["Collection of Important Things","Exhibits","Interesting Artifacts","Lots of Old and Unusual Things"],"emittingConcepts":[]}
+{"concept":"People","rel":"HasA","emittingConcepts":["Nation"],"receivingConcepts":["10 Fingers and 10 Toes","12 Fingers Instead of 10","2 Eyes and 2 Ears","Allergy to Cat Dander","Allergy to Grass Pollen","Bad Habits","Beliefs","Birds for Pets","Bizaar Ideas","Black Hair","Blue Eyes","Boarder Living in Home","Body Parts","Brains","Brown Eyes","Brown Hair","Built Airplanes to Immitate Wings","Burglar Alarms to Deter Thieves","Cabins Near Lakes","Cat for Pet","Cats as Domesticated Animals","Ceremonies in Church","Changing Moods","Collection of Fine Furniture","Complex Problems","Computations to Do","Consciousness","Delicate Stomachs","Different Blood Types","Different Concepts of God","Different Levels of Taste and Ability","Different Likes","Different Reasons for Giving to Charity","Different Skin Colors","Different Skin Tones","Different Taste in Jewlery","Different Tastes in Music","Differentskin Colors","Differing Opinions About What Pleasant","Difficulty Letting Themselves Become Aroused","Discovered Fossil Footprint of Humans","Do Mandatory Things","Dog for Pet","Dogs as Pets","Dogs for Pets","Drink Water to Survive","Drug Problem","Ears","Eat","Eat to Survive","Eight Fingers and Two Thumbs","Emotions","Expensive Wardrobes","Eyebroes","Eyes","Eyes Closed When Sleep","Favorite Color","Favorite Colors","Favorite Play","Feelings","Feet","Ferret for Pet","Fish for Pets","Five Fingers","Five Fingers on Each Hand","Flaws","Freedom of Speech","Friends","Fun at Discotheque","Fun at Parties","Fun Hiking in Mountains","Fun in Water","Fun With Dad","Gerbil for Pet","Glass Eyeballs","Go Up to Climb Mountains","Goals Stones Don't","Gone to Moon","Good Habits","Good Memory for Geography","Habits Regarding What Usually Read","Hair Always Growing","Hair on Top of Heads","Hamster for Pet","Hard Time Articulating Desires","Hard Time Explaining Existence","Hard Time With Patience","Hazel Eyes","High Moral Principles","Iguana for Pet","Information","Intense Emotions About Religion","Intentions and Purposes","Interests in Many Different Activities","Job of Diving Underwater","Jobs in Order to Obtain Money","Knack for Taking Photos","Large Homes","Larger Muscles Than Others","Lifestyles","Light Brown Skin","Long Hair Short Hair","Lots of Freckles but Don't","Love Hate Relationships","Lunch During Business Hours","Luxuary of Refrigeration","Manufactured","Many Different Uses for Water","Many Interactions Over Internet","Many Lovers","Many Opinions About Drugs","Mission","More Than One Computer","More Than One Homes","Much Knowledge but Little Wisdom","Muscles","Muscles in Body","N't Seen Movies","Names","Natural Rhythm","Naturally Energetic Personalities","Naturally Low Energy Personalities","Needles in Head","Never Been to Church","Nice Homes","Nicer Houses Than Others","No Fingerprints","No More Than Two Arms","No More Than Two Eyes","No More Than Two Legs","No Sense of Conscious","Noses on Face","Not Walked on Mars","Occupations as Pilots","Offspring","Often Enjoyed Watching Movies","One Nose","One Thumb on Each Hand","Only One Face","Only One Heart","Parents","Particular Taste in Clothers","Particular Taste in Clothes","Parties in Birthdays","Pay Taxes","Pay Taxes to Government","Pay to Buy Things","Pee Every Day","Person","Pet Cats","Phone Numbers Unlisted","Played Sports","Pools in Back Yards","Pot Bellied Pigs for Pets","Problems Controlling Anger","Red Hair","Rights","Sex","Sex in Bed","Sex to Create More People","Short Temper","Showers After Doing Sport","Six Fingers on Each Hand","Skeletons and So Do Many Animals","Skin","Sleep Every Day","Smaller Ears Than Other People","Soft Bodies","Somewhat Limited Memlry","Souls","Spiritual Experiences","Strange Fashion Sense","Subjective Reactions to Same Phenomena","Survived Avalanches","Teeth","Ten Fingers and Ten Toes","Tendency to Abuse Drugs","Thier Earlobes Pierced","Thier Navel Pierced","Thier Nipples Pierced","Three Car Garages","Trees in Yards","Tried to Catch Fish","Tv in Every Room","Two Arms","Two Ears Each","Two Eyes","Two Kids","Two Legs","Two Lips","Typical Moods","Unique Fingerprints","Unlisted Phone Numbers","Various Tastes","Walked on Moon","Wants","Weird Fantasies","Wiener Dogs as Pets","Worn Clothes for Millennia","Wrong Attitude","Yellow Teeth"]}
+{"concept":"National Park System","rel":"HasA","receivingConcepts":["Many Different Names for Resources","Over 375 Areas"],"emittingConcepts":[]}
+{"concept":"Need To","rel":"HasA","receivingConcepts":["Air Tanks When Scuba Dive","Oxygen in Mines and Excavations","Phone Number to Call"],"emittingConcepts":[]}
+{"concept":"Neurons","rel":"HasA","receivingConcepts":["Nucleus Contains Genes","Specialized Projections Called Dendrites and Axons"],"emittingConcepts":[]}
+{"concept":"Neutrons","rel":"HasA","receivingConcepts":["About as Much Mass as Protons","Spin"],"emittingConcepts":[]}
+{"concept":"Nevada","rel":"HasA","receivingConcepts":["Deserts","Rare Fish From Prehistoric Lakes"],"emittingConcepts":[]}
+{"concept":"New Jersey","rel":"HasA","receivingConcepts":["World's First Drive in Theater","World"],"emittingConcepts":[]}
+{"concept":"World","rel":"HasA","emittingConcepts":["New Jersey"],"receivingConcepts":["3 Spatial Dimensions","4 Oceans","Atmosphere","Been Transformed by Technology","Billions of People In","Carbon Based Life","Continents","Core Contains Iron","Core of Iron","Ecosystems","Humans In","Lakes Oceans and Mountains On","Life","Lots of Water","Many Different Cultures","Many Different Life Forms","Many Objects","More Than Six Billion Humans","More Water Than Dry Land","Mountains","North and South Hemispheres","Not Ended Yet","Oceans","One Moon","Oxygen and Nitrogen Atmosphere","Ozone Layer","Six Continents","Three Dimensions","Too Many People","Water"]}
+{"concept":"New York","rel":"HasA","receivingConcepts":["Beaches","Many Museums","Many Tall Buildings"],"emittingConcepts":[]}
+{"concept":"New York City","rel":"HasA","receivingConcepts":["Many Kosher Delis","Many Underground Parking Garages"],"emittingConcepts":[]}
+{"concept":"Newspaper","rel":"HasA","receivingConcepts":["Information About Many Things","Many Columns","News in Paper Format"],"emittingConcepts":[]}
+{"concept":"Newtonian Telescope","rel":"HasA","receivingConcepts":["Primary Mirror","Secondary Mirror"],"emittingConcepts":[]}
+{"concept":"No Human","rel":"HasA","receivingConcepts":["Ever Been to Venus","Lived Longer Than 150 Years"],"emittingConcepts":[]}
+{"concept":"No Human Being","rel":"HasA","receivingConcepts":["Ever Visited Another Planet","Ever Visited Jupiter","Played Badminton on Mars Yet"],"emittingConcepts":[]}
+{"concept":"No Reptiles","rel":"HasA","receivingConcepts":["Fur","Nipples"],"emittingConcepts":[]}
+{"concept":"10 Fingers and 10 Toes","rel":"HasA","emittingConcepts":["Normal Humans","People"],"receivingConcepts":[]}
+{"concept":"Normal People","rel":"HasA","receivingConcepts":["Feet","Hands"],"emittingConcepts":[]}
+{"concept":"Normally People","rel":"HasA","receivingConcepts":["One Head","Ten Fingers","Ten Toes","Two Ears","Two Feet","Two Hands","Two Kidneys","Two Knees","Two Legs"],"emittingConcepts":[]}
+{"concept":"Two Nostrils","rel":"HasA","emittingConcepts":["Nose","Noses"],"receivingConcepts":[]}
+{"concept":"Not All People","rel":"HasA","receivingConcepts":["Same Beliefs","Same Knowledge"],"emittingConcepts":[]}
+{"concept":"Same Beliefs","rel":"HasA","emittingConcepts":["Not All People","Not All Religions"],"receivingConcepts":[]}
+{"concept":"Sole","rel":"HasA","emittingConcepts":["Not All Shoes","Shoes"],"receivingConcepts":[]}
+{"concept":"Not Everyone","rel":"HasA","receivingConcepts":["Legs","Own Washing Machine","Same Colour Hair"],"emittingConcepts":[]}
+{"concept":"Effect of Making Tired","rel":"HasA","emittingConcepts":["Not Sleeping","Poor Sleep"],"receivingConcepts":[]}
+{"concept":"November","rel":"HasA","receivingConcepts":["30 Days","Thirty Days"],"emittingConcepts":[]}
+{"concept":"Oak Trees","rel":"HasA","receivingConcepts":["Evolved Into Tall Strong Attractive Trees","Leaves"],"emittingConcepts":[]}
+{"concept":"Objects","rel":"HasA","receivingConcepts":["Mass","Volume"],"emittingConcepts":[]}
+{"concept":"Ocean","rel":"HasA","receivingConcepts":["Living Animals and Plants","Many Living Things","Salt","Water","Waves"],"emittingConcepts":[]}
+{"concept":"Salt","rel":"HasA","emittingConcepts":["Ocean","Pacific Ocean","Saltshaker","Sea","Seawater","Water in Ocean","Water in Oceans"],"receivingConcepts":[]}
+{"concept":"Oceans","rel":"HasA","receivingConcepts":["Fish","Many Objects In","Salt In","Salt Water","Salt Water In"],"emittingConcepts":["World"]}
+{"concept":"Salt In","rel":"HasA","emittingConcepts":["Oceans","Sea Water","Tears"],"receivingConcepts":[]}
+{"concept":"October","rel":"HasA","receivingConcepts":["31 Days","Thirty One Days"],"emittingConcepts":[]}
+{"concept":"Eight Tentacles","rel":"HasA","emittingConcepts":["Octopi","Octopus"],"receivingConcepts":[]}
+{"concept":"Oil","rel":"HasA","receivingConcepts":["High Viscosity","Many Uses","Regulations Concerning Proper Disposal"],"emittingConcepts":[]}
+{"concept":"Old People","rel":"HasA","receivingConcepts":["Grey Hair","More Difficulties Making Calculations"],"emittingConcepts":[]}
+{"concept":"One Impairment Person Might","rel":"HasA","receivingConcepts":["Acromegaly","Addison's Disease","Adentis","Adhesions","Aids","Albuminuria","Alcohol Dependency","Alcoholism","Alzheimer's Disease","Amebic Dysentery","Anemia","Angina Pectoris","Angioneurotic Edema","Ankylosing Spondylitis","Anorexia","Anxiety Attacks","Anxiety Neurosis","Aortic Coarctation","Aortic Stenosis","Apoplexy","Appendicitis","Arc","Areiters Syndrome","Arrhythmia","Arteriosclerosis","Asthma","Atachycardia","Atherosclerosis","Atrial Fibrillation","Attention Deficit Disorder","Auricular Fibrillation","Autism","Back Pain","Back Sprain","Back Strain","Barlow's Syndrome","Basal Cell Cancer","Bell's Palsy","Bi Polar Disorder","Bladder Infection","Blindness","Boeck's Sarcoid","Bradycardia","Brain Inflammation","Breast Implant","Bright's Disease","Bronchiectasis","Buerger's Disease","Bulemia","Bundle Branch Block","Cardiovascular Disease","Carotid Artery Disease","Carotid Endarterectomy","Carpel Tunnel Syndrome","Cataracts","Cellulitis","Cerebral Concussion","Cerebral Embolism","Cerebral Hemorrhage","Cerebral Palsy","Cerebral Thrommbosis","Cervical Dysplasia","Cervictis","Cholangitis","Cholecystitis","Cholelithiasis","Choroiditis","Chronic Fatigue Syndrome","Cirrhosis of Liver","Clamydia","Cleft Palate","Club Foot","Colitis","Collagen Diseases","Collapsed Lung","Condyloma Acuminata","Congenital Blindness","Congenital Defects","Congenital Deformity","Congestive Heart Failure","Conjunctivitis","Cor Pulmonale","Coronary Artery Disease","Coronary Insufficiency","Coronary Occlusion","Coronary Thrombosis","Crohn's Disease","Cross Eye","Cushing's Disease","Cushing's Syndrome","Cushingn's Disease","Cushingn's Syndrome","Cyctic Fibrosis","Cystic Fibrosis","Cystitis","Deafness","Degenerative Joint Disease","Dementia","Depression","Deviated Septum","Dextrocardia","Diabetes","Disc Disease","Diverticulitis","Dizziness","Down's Syndrome","Downs Syndrome","Drug Addiction","Duodenitis","Dupuytren's Contracture","Dysmenorrhea","Dyspepsia","Dyspnea","Eczema","Edema","Emphysema","Empyema","Encephalitis","Encephalomyelitis","Endarteritis","Endocarditis","Endometriosis","Enlargement of Heart","Epicondylitis","Epididymitis","Epilepsy","Epstein Barr Virus","Esophageal Reflux","Esophageal Spasm","Esophageal Stricture","Esophageal Ulcer","Esophageal Varices","Exostosis","Facial Paralysis","Febrile Convulsions","Fibrocystic Disease","Fibromyalgia","Fibrositis","From by Pass Operation","Gastric Ulcer","Gastritis","Gastroenteritis","Glaucoma","Glioma","Glomerulonephritis","Gonorrhea","Gout","Graves Disease","Hammer Toe","Hardening of Arteries","Hardening of Liver","Harelip","Hayfever","Headaches","Hemangioma","Hemiplegia","Hemolytic Anemia","Hemophilia","Hemorrhoids","Hepatitis","Hernia","High Blood Pressure","High Cholesterol","Hirchsprung's Disease","Histoplasmosis","Hives","Hodgkin's Disease","Huntington's Chorea","Huntington's Disease","Hydrocele","Hydrocephallis","Hydrocephallus","Hydronephrosis","Hyperacidity","Hyperactivity","Hypercholorhydria","Hyperglycemia","Hyperlipidemia","Hypertension","Hyperthyroid","Hypoglycemia","Idiopathic Purpura","Ileitis","Ileostomy","Inflammation of Colon","Intermittent Claudication","Internal Cancer","Intervertebral Disc","Intestinal Bypass","Intestinal Inflammation","Intestinal Obstruction","Involuntary Spasm","Iritis","Jaundice","Keratitis","Labyrinthitis","Leukemia","Leukoplakia","Lipoma","Lordosis","Lues","Lumbago","Lymphadenopathy Syndrome","Lymphadentis","Lymphogranuloma","Malaria","Marie Strumpell Disease","Mastitis","Mastoiditis","Meatal Stenosis","Megacolon","Melanoma","Melanoma Cancer","Meniere's Disease","Meningitis","Menopause","Menorrhagia","Mental Retardation","Migraine Headaches","Mitral Valve Prolapse","Mongolism","Mononucleosis","Mood Disorder","Muscular Dystrophy","Myalgia","Myasthenia Gravis","Myocardial Infarction","Myocardial Insufficiency","Myocarditis","Myositis","Myxedema","Narcolepsy","Nasal Polyp","Nephrectomy","Nephritis","Nephroptosis","Nephrotic Syndrome","Obesity","Ocular Hypertension","Oophoritis","Open Heart Surgery","Optic Atrophy","Orchitis","Osteoarthritis","Osteochondritis","Osteomalacia","Osteomyelitis","Osteoporosis","Osteosarcoma","Otitis Media","Otorrhea","Otosclerosis","Ovarian Cyst","Pacemaker Implantation","Paget's Disease","Palsy","Pancreatic Cyst","Pancreatic Tumor","Pancreatitis","Panic Attack","Panic Attacks","Papilloma","Paralysis","Paralysis of Face","Paraplegia","Parkinson's Disease","Partial Hearing Loss","Patent Ductus Arteriosus","Pelvic Inflammatory Disease","Peptic Ulcer","Pericarditis","Peritonitis","Pernicious Anemia","Petit Mal Seizures","Phlebitis","Pilondial Cyst","Pleurisy","Pneumonectomy","Pneumonia","Pneumonitis","Pneumonoconiosis","Pneumothorax","Poliomyelitis","Polycstic Kidney Disease","Polycthemia","Proctitis","Prolapsed Rectum","Prolapsed Uterus","Prostate Enlargement","Prostate Hypertrophy","Prostatitis","Proteinuria","Psoriasis","Psychoneurosis","Psychosis","Psychotic Disorder","Ptosis of Eyelid","Pulmonary Embolism","Pulmonary Infarction","Purpura","Pyelitis","Pyelonephritis","Pyloric Stenosis","Pylorospasm","Quadriplegia","Raynaud's Disease","Raynaud's Syndrome","Rectal Stricture","Reiters Syndrome","Retinal Detachment","Retinitis","Rheumatic Fever","Rheumatoid Arthritis","Salpingitis","Sarcoidosis","Schizophrenia","Sciatica","Scoliosis","Seizures","Semilunar Knee Cartilage","Shortness of Breath","Shrinking of Liver","Silicosis","Sinusitis","Situs Inversus","Skin Cancer","Skin Graft","Skull Fracture","Sleep Apnea","Sleeping Sickness","Spastic Colon","Spondylitis","Spondylolisthesis","Spondylosis","Strambismus","Surgically Correctible","Talipes","Tendonitis","Tennis Elbow","Tenosynovitis","Thromboangitis Obliterans","Thrombophlebitis","Thyroiditis","Tonsillitis","Torticollis","Tourette's Syndrome","Trachoma","Transient Ischemic Attack","Transplant of Cornea","Transposition of Great Arteries","Traumatic Blindness","Tuberculosis","Ulcerations","Ulcerative Colitis","Uremia","Ureteral Calculus","Ureteritis","Urethral Stricture","Urticaria","Uterine Bleeding","Uterine Prolapse","Uveitis","Vaginitis","Varicocele","Varicose Veins","Venereal Disease","Venereal Warts","Ventricular Septal Defect","Vertigo","Whiplash","Wolff Parkinson White Syndrome","Wryneck"],"emittingConcepts":[]}
+{"concept":"One Must","rel":"HasA","receivingConcepts":["High Opinion of One's Self","Open Mind"],"emittingConcepts":[]}
+{"concept":"Onions","rel":"HasA","receivingConcepts":["No Flavor Only Smell","Skin","Strong Flavor"],"emittingConcepts":[]}
+{"concept":"Openmind","rel":"HasA","receivingConcepts":["Good Positive Mental Attitude And","Many Information Enterers"],"emittingConcepts":[]}
+{"concept":"Orange","rel":"HasA","receivingConcepts":["Peel","Rind"],"emittingConcepts":[]}
+{"concept":"Orange Juice","rel":"HasA","receivingConcepts":["Pulp In","Vitamin C"],"emittingConcepts":[]}
+{"concept":"Oranges","rel":"HasA","receivingConcepts":["Peel","Seed","Seeds and Fruit on Inside"],"emittingConcepts":[]}
+{"concept":"Orchids","rel":"HasA","receivingConcepts":["Bloomed","Red On"],"emittingConcepts":[]}
+{"concept":"Pacific Ocean","rel":"HasA","receivingConcepts":["Lots of Dead Bodies","Salt"],"emittingConcepts":[]}
+{"concept":"Page","rel":"HasA","receivingConcepts":["Print","Text"],"emittingConcepts":[]}
+{"concept":"Moderate Temperature","rel":"HasA","emittingConcepts":["Paper Fires","Wood Fires"],"receivingConcepts":[]}
+{"concept":"Parrots","rel":"HasA","receivingConcepts":["Feathers","Wings"],"emittingConcepts":[]}
+{"concept":"Guests","rel":"HasA","emittingConcepts":["Parties and Public Meetings Both","Talk Show"],"receivingConcepts":[]}
+{"concept":"Paul","rel":"HasA","receivingConcepts":["Got Sheep","Kids"],"emittingConcepts":[]}
+{"concept":"Pencil","rel":"HasA","receivingConcepts":["Graphite Not Lead","Lead"],"emittingConcepts":[]}
+{"concept":"Pens","rel":"HasA","receivingConcepts":["Blue Ink and Have Black","Caps","Ink","Ink Cartridges","Ink In"],"emittingConcepts":[]}
+{"concept":"Ink In","rel":"HasA","emittingConcepts":["Pens","Stamp Pad"],"receivingConcepts":[]}
+{"concept":"Five Sides","rel":"HasA","emittingConcepts":["Pentagon","Pentagram"],"receivingConcepts":[]}
+{"concept":"Pentagram","rel":"HasA","receivingConcepts":["Five Points","Five Sides"],"emittingConcepts":[]}
+{"concept":"Person","rel":"HasA","emittingConcepts":["People"],"receivingConcepts":["Belly Button","Choice in What to Think About","Do Dishes","Eat Food to Live","Emotional States","Fingernails","Fingerprints","Four Grandparents","Hair on Head","Head","Immune System","Mother and Father","Mouth","Name","Nose","One Head","One Heart","Stir Sauce Into Food","Two Arms","Two Ears","Two Eyes","Two Feat","Two Hands","Two Lips","Two Opposable Thumbs","Unique Charactaristics"]}
+{"concept":"Magical Powers","rel":"HasA","emittingConcepts":["People Believe Numbers","People Think"],"receivingConcepts":[]}
+{"concept":"No Air","rel":"HasA","emittingConcepts":["Perfect Vacuum","Space"],"receivingConcepts":[]}
+{"concept":"Person Wants","rel":"HasA","receivingConcepts":["Family","Orgasm","Right Answer to Question"],"emittingConcepts":[]}
+{"concept":"Person Who","rel":"HasA","receivingConcepts":["Collection Collector","Committed Crime Goes to Prison","Faith Person Who Believes","Fixated Attention Has Hyperprosexia"],"emittingConcepts":[]}
+{"concept":"Personal Computer","rel":"HasA","receivingConcepts":["Limited Usefulness Without Printer","Many Parts"],"emittingConcepts":[]}
+{"concept":"Many Parts","rel":"HasA","emittingConcepts":["Personal Computer","Picket Fence"],"receivingConcepts":[]}
+{"concept":"Pharmacists","rel":"HasA","receivingConcepts":["Machines Count Pills","Special Education in Pharmacology"],"emittingConcepts":[]}
+{"concept":"Phillips Screwdriver","rel":"HasA","receivingConcepts":["Crossed Head","Star Pattern for Head","Star Shaped Point"],"emittingConcepts":[]}
+{"concept":"Piano","rel":"HasA","receivingConcepts":["88 Black and White Keys","88 Keys","Black and White Keys","White and Black Keys"],"emittingConcepts":[]}
+{"concept":"Piano Keyboard","rel":"HasA","receivingConcepts":["88 Keys","Both Black and White Keys","Eighty Eight Keys"],"emittingConcepts":[]}
+{"concept":"Pianos","rel":"HasA","receivingConcepts":["88 Keys","Keyboards","Limited Lifetime","More Keys Than People Have Fingers"],"emittingConcepts":[]}
+{"concept":"Pie","rel":"HasA","receivingConcepts":["Crust","Pie Crust"],"emittingConcepts":[]}
+{"concept":"Pigs","rel":"HasA","receivingConcepts":["Bones","Four Legs","Keen Sense of Smell","N't Got Best Eyesight","Snouts"],"emittingConcepts":[]}
+{"concept":"Pine Trees","rel":"HasA","receivingConcepts":["Needles","Pine Needles On","Sap Useful"],"emittingConcepts":[]}
+{"concept":"Pizza","rel":"HasA","receivingConcepts":["Cheese On","Mostly Dough Cheese and Tomato"],"emittingConcepts":[]}
+{"concept":"Places","rel":"HasA","receivingConcepts":["Laws Against Skateboarding","Mountains"],"emittingConcepts":[]}
+{"concept":"Glass Inside","rel":"HasA","emittingConcepts":["Plane Will","Ship Will"],"receivingConcepts":[]}
+{"concept":"Planes","rel":"HasA","receivingConcepts":["Seats","Tails","Wings"],"emittingConcepts":[]}
+{"concept":"Planet Earth","rel":"HasA","receivingConcepts":["Atmosphere","Core of Molten Rock","Ground","Iron Core","Many Minerals","Much Sodium Chloride Salt"],"emittingConcepts":[]}
+{"concept":"Planet Jupiter","rel":"HasA","receivingConcepts":["Been Visited by Unmanned Spaceships","Many Moons","Moon Called Io","Small Rings"],"emittingConcepts":[]}
+{"concept":"Planet Saturn","rel":"HasA","receivingConcepts":["Many Moons","Rings"],"emittingConcepts":[]}
+{"concept":"Planet Venus","rel":"HasA","receivingConcepts":["Dense Atmosphere","Thick Atmosphere"],"emittingConcepts":[]}
+{"concept":"Dense Atmosphere","rel":"HasA","emittingConcepts":["Planet Venus","Venus"],"receivingConcepts":[]}
+{"concept":"Planets","rel":"HasA","receivingConcepts":["Moons","Size"],"emittingConcepts":["Solar System"]}
+{"concept":"Water On","rel":"HasA","emittingConcepts":["Planets Dont","Wet When"],"receivingConcepts":[]}
+{"concept":"Pluto","rel":"HasA","receivingConcepts":["One Moon","Very Eliptical Orbit"],"emittingConcepts":[]}
+{"concept":"Plutonium 239","rel":"HasA","receivingConcepts":["Half Life of 24,390 Years","Half Life of About 24,000 Years"],"emittingConcepts":[]}
+{"concept":"Positive Electric Charge","rel":"HasA","emittingConcepts":["Positron","Proton"],"receivingConcepts":[]}
+{"concept":"Prison","rel":"HasA","receivingConcepts":["Many Violent People","Matresses"],"emittingConcepts":[]}
+{"concept":"Prisons","rel":"HasA","receivingConcepts":["Lots of Convicts","No Bars","Poor Psychiatric Treatment"],"emittingConcepts":[]}
+{"concept":"Protons","rel":"HasA","receivingConcepts":["Electrical Charge","Opposite Electrical Charge of Electrons","Positive Charge"],"emittingConcepts":[]}
+{"concept":"Pubs","rel":"HasA","receivingConcepts":["Air Conditioners","Pool Tables"],"emittingConcepts":[]}
+{"concept":"Purpose To","rel":"HasA","receivingConcepts":["Action","Direction"],"emittingConcepts":[]}
+{"concept":"Puzzle","rel":"HasA","receivingConcepts":["Many Pieces","Many Small Oddly Shaped Pieces"],"emittingConcepts":[]}
+{"concept":"Queen","rel":"HasA","receivingConcepts":["Rule Out People","Saggy Tits"],"emittingConcepts":["United Kingdom"]}
+{"concept":"Rabbit","rel":"HasA","receivingConcepts":["Four Legs","Long Ears","Long Front Teeth"],"emittingConcepts":[]}
+{"concept":"Rabbits","rel":"HasA","receivingConcepts":["Fur","Sex More Often Than Gerbils","Two Ears"],"emittingConcepts":[]}
+{"concept":"Rain","rel":"HasA","receivingConcepts":["Do With Weather","Oxygen"],"emittingConcepts":[]}
+{"concept":"Rainbow","rel":"HasA","receivingConcepts":["Seven Colors","Seven Colours"],"emittingConcepts":[]}
+{"concept":"Ranch","rel":"HasA","receivingConcepts":["Horses","Horses On","Many Animals On"],"emittingConcepts":[]}
+{"concept":"Ranch House","rel":"HasA","receivingConcepts":["Bedrooms","Only One Floor"],"emittingConcepts":[]}
+{"concept":"Reception","rel":"HasA","receivingConcepts":["Bridal Dance","Lots of Food and Drink"],"emittingConcepts":["Weddings"]}
+{"concept":"Four Sides","rel":"HasA","emittingConcepts":["Rectangle","Square","Squares"],"receivingConcepts":[]}
+{"concept":"Red Flag Means","rel":"HasA","receivingConcepts":["Outgoing Mail","Stop"],"emittingConcepts":[]}
+{"concept":"Regions of United States","rel":"HasA","receivingConcepts":["Similar Climate","Similar Geography","Similar History","Similar Traditions"],"emittingConcepts":[]}
+{"concept":"Caused Many Wars","rel":"HasA","emittingConcepts":["Religion","Religions"],"receivingConcepts":[]}
+{"concept":"Religions","rel":"HasA","receivingConcepts":["Caused Many Wars","Ceremonies","Few Gods","Ministers","Only One God","Very Many Gods"],"emittingConcepts":[]}
+{"concept":"Restaurant","rel":"HasA","receivingConcepts":["Bar to Attract Customers","Bathroom","Seats"],"emittingConcepts":[]}
+{"concept":"Restaurant Dining Area","rel":"HasA","receivingConcepts":["Chairs and Tables","Seats"],"emittingConcepts":[]}
+{"concept":"Restaurants","rel":"HasA","receivingConcepts":["Job Openings","Menus","Paper Menus","Portions Too Big","Them"],"emittingConcepts":[]}
+{"concept":"Rich People","rel":"HasA","receivingConcepts":["Large Amounts of Money","Maids","Nice Houses"],"emittingConcepts":[]}
+{"concept":"Rock Stars","rel":"HasA","receivingConcepts":["Alot of Female Fans","Long Hair"],"emittingConcepts":[]}
+{"concept":"Room","rel":"HasA","receivingConcepts":["Walls","Walls and Roof"],"emittingConcepts":[]}
+{"concept":"Roses","rel":"HasA","receivingConcepts":["Thorns","Thorns on Stems"],"emittingConcepts":[]}
+{"concept":"Running","rel":"HasA","receivingConcepts":["Effect of Making Sweat","Effect of Sweating"],"emittingConcepts":[]}
+{"concept":"Russian","rel":"HasA","receivingConcepts":["Brevities","Polysyllables"],"emittingConcepts":[]}
+{"concept":"Sailboats","rel":"HasA","receivingConcepts":["Mast","Sails"],"emittingConcepts":[]}
+{"concept":"Mast","rel":"HasA","emittingConcepts":["Sailboats","Ships"],"receivingConcepts":[]}
+{"concept":"Saltshaker","rel":"HasA","receivingConcepts":["Cap With Holes In","Salt"],"emittingConcepts":[]}
+{"concept":"San Francisco","rel":"HasA","receivingConcepts":["Large Gay Population","Lot of Hills","Many Cable Cars","Many Hills","Many Swimming Pools"],"emittingConcepts":[]}
+{"concept":"Saturn","rel":"HasA","receivingConcepts":["More Than 17 Moons","Rings"],"emittingConcepts":[]}
+{"concept":"Sharp Edge","rel":"HasA","emittingConcepts":["Saw Grass","Sword"],"receivingConcepts":[]}
+{"concept":"School","rel":"HasA","receivingConcepts":["Classrooms","Many Classes","Offices In","Primary Purpose of Teaching Students"],"emittingConcepts":[]}
+{"concept":"Schools","rel":"HasA","receivingConcepts":["Better Reputations Than Others","Cafeterias","Classrooms","Number of Faculties"],"emittingConcepts":[]}
+{"concept":"Scientists","rel":"HasA","receivingConcepts":["Discovered Particles Far Smaller Than Atoms","Moral Obligation","No Idea if God Exists"],"emittingConcepts":[]}
+{"concept":"Screws","rel":"HasA","receivingConcepts":["Spiral Turns","Threads"],"emittingConcepts":[]}
+{"concept":"Sea","rel":"HasA","receivingConcepts":["Lot of Liquid","Salt","Seawater"],"emittingConcepts":[]}
+{"concept":"Seawater","rel":"HasA","emittingConcepts":["Sea"],"receivingConcepts":["Minute Traces of Gold","Salt"]}
+{"concept":"Sea Water","rel":"HasA","receivingConcepts":["Mineral Salt","Salt In"],"emittingConcepts":[]}
+{"concept":"Seafood Restaurants","rel":"HasA","receivingConcepts":["Bar","Bars Sometimes"],"emittingConcepts":[]}
+{"concept":"Sellafield","rel":"HasA","receivingConcepts":["Almost All Britain's Nuclear Waste","Long Been Targeted by Protesters"],"emittingConcepts":[]}
+{"concept":"Sentence","rel":"HasA","receivingConcepts":["Five Words","Words"],"emittingConcepts":["Story"]}
+{"concept":"September","rel":"HasA","receivingConcepts":["30 Days","Thirty Days"],"emittingConcepts":[]}
+{"concept":"Serving Trolley","rel":"HasA","receivingConcepts":["Four Wheels","Wheels"],"emittingConcepts":[]}
+{"concept":"Sharks","rel":"HasA","receivingConcepts":["Cartilage Skeleton","Good Sense of Smell"],"emittingConcepts":[]}
+{"concept":"Tools","rel":"HasA","emittingConcepts":["Shed","Utility Case"],"receivingConcepts":[]}
+{"concept":"Ship","rel":"HasA","receivingConcepts":["Bow and Stern","Bridge"],"emittingConcepts":[]}
+{"concept":"Ships","rel":"HasA","receivingConcepts":["Captains","Mast"],"emittingConcepts":[]}
+{"concept":"Shirts","rel":"HasA","receivingConcepts":["Buttons","Collars"],"emittingConcepts":[]}
+{"concept":"Shoes","rel":"HasA","receivingConcepts":["Heel","Heels","Heels Go With Womans Dress","High Heels","Sole","Velcro","Very High Heels Cultural Fashion"],"emittingConcepts":[]}
+{"concept":"Shopping Bag","rel":"HasA","receivingConcepts":["Handles","Purchased Items"],"emittingConcepts":[]}
+{"concept":"Shopping Complex","rel":"HasA","receivingConcepts":["Large Carpark","Many Different Stores","Many Stores to Sell Different Items","Public Toilets"],"emittingConcepts":[]}
+{"concept":"Shopping Mall","rel":"HasA","receivingConcepts":["Many Dozens of Stores","Many Stores"],"emittingConcepts":[]}
+{"concept":"Shows","rel":"HasA","receivingConcepts":["Episodes","Number of Episodes"],"emittingConcepts":[]}
+{"concept":"Sierras","rel":"HasA","receivingConcepts":["Many Permanent Snow Patches","Several Glaciers"],"emittingConcepts":[]}
+{"concept":"Two Meanings","rel":"HasA","emittingConcepts":["Similarity Between Bread and Clippers Both","Word Digit","Word Dresses"],"receivingConcepts":[]}
+{"concept":"Skim Milk","rel":"HasA","receivingConcepts":["Less Butterfat Than Whole Milk","Milk Fat Removed"],"emittingConcepts":[]}
+{"concept":"Skyscraper","rel":"HasA","receivingConcepts":["Several Stories","Steel Frame"],"emittingConcepts":[]}
+{"concept":"Smart People","rel":"HasA","receivingConcepts":["High Iq","Little Formal Education"],"emittingConcepts":[]}
+{"concept":"Snake","rel":"HasA","receivingConcepts":["Nest Full of Babies","No Legs","Scales"],"emittingConcepts":[]}
+{"concept":"Snakes","rel":"HasA","receivingConcepts":["Fangs in Thier Mouths","No Feet","No Legs","Scales","Venom in Thier Fangs"],"emittingConcepts":[]}
+{"concept":"Soccer Field","rel":"HasA","receivingConcepts":["Goals at Opposite Ends","Two Goals"],"emittingConcepts":[]}
+{"concept":"Society","rel":"HasA","receivingConcepts":["Own Rules","Strong Influence on Members","System of Rules"],"emittingConcepts":[]}
+{"concept":"Sofas","rel":"HasA","receivingConcepts":["Beds Which Fold Out","Soft Cushions"],"emittingConcepts":[]}
+{"concept":"Solar System","rel":"HasA","receivingConcepts":["9 Known Planets","Many Planets","Nine Planets","Planets"],"emittingConcepts":[]}
+{"concept":"Soldier","rel":"HasA","receivingConcepts":["Duty to Do","Proud Profession"],"emittingConcepts":[]}
+{"concept":"Some","rel":"HasA","receivingConcepts":["Collars Don","Graves"],"emittingConcepts":[]}
+{"concept":"Sometimes People","rel":"HasA","receivingConcepts":["Bad Timing","Insatiable Urges","Make Compromises","Make Sacrifices"],"emittingConcepts":[]}
+{"concept":"Space","rel":"HasA","receivingConcepts":["Much Unchartered Territory","No Air","Zero Pressure"],"emittingConcepts":[]}
+{"concept":"Species","rel":"HasA","receivingConcepts":["Beginning and End","Common Set of Ancestors"],"emittingConcepts":[]}
+{"concept":"Sperm Whales","rel":"HasA","receivingConcepts":["Cultures","Matrilineal Social System"],"emittingConcepts":[]}
+{"concept":"Spiders","rel":"HasA","receivingConcepts":["Eight Legs","Eight Legs and Two Part Body"],"emittingConcepts":[]}
+{"concept":"Square","rel":"HasA","receivingConcepts":["Four Corners","Four Equal Sides","Four Right Angles","Four Sides"],"emittingConcepts":[]}
+{"concept":"Squares","rel":"HasA","receivingConcepts":["Four Sides","Sides"],"emittingConcepts":[]}
+{"concept":"Ssaa","rel":"HasA","receivingConcepts":["Branch at Townsville","Range at Dalby"],"emittingConcepts":[]}
+{"concept":"Stairwell","rel":"HasA","receivingConcepts":["Many Steps In","Stairs"],"emittingConcepts":[]}
+{"concept":"Stamp Pad","rel":"HasA","receivingConcepts":["Ink","Ink In","Ink On"],"emittingConcepts":[]}
+{"concept":"Ink On","rel":"HasA","emittingConcepts":["Stamp Pad","Typewriter Ribbons"],"receivingConcepts":[]}
+{"concept":"Staple Remover","rel":"HasA","receivingConcepts":["Metal Fangs","Teeth"],"emittingConcepts":[]}
+{"concept":"Stars","rel":"HasA","receivingConcepts":["Names","People Who Adore Called Fans"],"emittingConcepts":[]}
+{"concept":"States","rel":"HasA","receivingConcepts":["Laws Against Witchcraft","Populations","Women Governors"],"emittingConcepts":[]}
+{"concept":"Steam","rel":"HasA","receivingConcepts":["Energy","More Energy Than Liquid Water"],"emittingConcepts":[]}
+{"concept":"Steven","rel":"HasA","receivingConcepts":["Kids","Money to Trade for Products"],"emittingConcepts":[]}
+{"concept":"Stores","rel":"HasA","receivingConcepts":["Both Groceries and Gardening Supplies","Express Lanes","Too Many Choices of Underarm Deordorant"],"emittingConcepts":["Strip Mall"]}
+{"concept":"Step","rel":"HasA","emittingConcepts":["Story Buying","Story Cogitating","Story Fighting Inflation","Story Having Lunch","Story Watching Tv"],"receivingConcepts":[]}
+{"concept":"Story Exercising","rel":"HasA","receivingConcepts":["Step Had Stairs","Step S","Step Yup"],"emittingConcepts":[]}
+{"concept":"Story Following Recipe","rel":"HasA","receivingConcepts":["Step Cake","Step Oops"],"emittingConcepts":[]}
+{"concept":"String Bass","rel":"HasA","receivingConcepts":["Deep Mellow Sound","Four Strings"],"emittingConcepts":[]}
+{"concept":"Strip Mall","rel":"HasA","receivingConcepts":["Many Stores","Stores"],"emittingConcepts":[]}
+{"concept":"Students","rel":"HasA","receivingConcepts":["Go to Class","Notebook","Pets","Read History Books"],"emittingConcepts":[]}
+{"concept":"Sun","rel":"HasA","receivingConcepts":["Great Mass","Hydrogen","Iron","More Mass Than Moon","No Orbiting Moons"],"emittingConcepts":[]}
+{"concept":"High Tensile Strength","rel":"HasA","emittingConcepts":["Suspension Cable","Typically Made of Steel And"],"receivingConcepts":[]}
+{"concept":"Swamp","rel":"HasA","receivingConcepts":["Lots of Water","Many Life Forms"],"emittingConcepts":[]}
+{"concept":"Lots of Water","rel":"HasA","emittingConcepts":["Swamp","World"],"receivingConcepts":[]}
+{"concept":"Sword","rel":"HasA","receivingConcepts":["Sharp Blade","Sharp Edge"],"emittingConcepts":[]}
+{"concept":"Tabby Cat","rel":"HasA","receivingConcepts":["Four Kegs","Four Legs"],"emittingConcepts":[]}
+{"concept":"Tea","rel":"HasA","receivingConcepts":["About 2 to 3 Caffeine","Caffein","Caffeine"],"emittingConcepts":[]}
+{"concept":"Teams","rel":"HasA","receivingConcepts":["Players","Things"],"emittingConcepts":[]}
+{"concept":"Things","rel":"HasA","emittingConcepts":["Teams"],"receivingConcepts":["Colour","Limits"]}
+{"concept":"Tear Off Calendar","rel":"HasA","receivingConcepts":["Leaves","One Page for Every Day","Ragged Edges"],"emittingConcepts":[]}
+{"concept":"Telephone Book","rel":"HasA","receivingConcepts":["Lots of People's Telephone Numbers","Many Names","Thousands of Names"],"emittingConcepts":[]}
+{"concept":"Telephone Booth","rel":"HasA","receivingConcepts":["Pay Telephone","Public Telephone"],"emittingConcepts":[]}
+{"concept":"Telephone Box","rel":"HasA","receivingConcepts":["Door","Telephone"],"emittingConcepts":[]}
+{"concept":"Tennis Court","rel":"HasA","receivingConcepts":["Flat Surface","Net","Net Across Middle","Net Dividing in Half"],"emittingConcepts":[]}
+{"concept":"Terraced House","rel":"HasA","receivingConcepts":["Many Levels","More Than One Level"],"emittingConcepts":[]}
+{"concept":"Texas","rel":"HasA","receivingConcepts":["Abundant Oil Reserves","Coast","Hotter Summer's Than Northern States","Nasa Headquarters for All Piloted u.s","Wind Farms"],"emittingConcepts":[]}
+{"concept":"Theaters","rel":"HasA","receivingConcepts":["Open Seasons","Roofs"],"emittingConcepts":[]}
+{"concept":"Round Shape","rel":"HasA","emittingConcepts":["Tires","Women's Breasts"],"receivingConcepts":[]}
+{"concept":"To","rel":"HasA","receivingConcepts":["Child Need Family","Friend Friend","Fun Person Needs to Laugh"],"emittingConcepts":[]}
+{"concept":"Toothbrush Head","rel":"HasA","receivingConcepts":["Bristles","Bristles Attached To","Bristles Help Clean Teeth"],"emittingConcepts":[]}
+{"concept":"Torso","rel":"HasA","receivingConcepts":["One Head","Two Arms"],"emittingConcepts":[]}
+{"concept":"Tortises","rel":"HasA","receivingConcepts":["Shells","Thick Legs"],"emittingConcepts":[]}
+{"concept":"Tree","rel":"HasA","receivingConcepts":["Bark Around Outside Of","Genn Leaves","Leaves","Leaves in Summer","Leaves on Branches","Roots","Roots Branches Leaves and Trunk","Trunk"],"emittingConcepts":[]}
+{"concept":"Leaves on Branches","rel":"HasA","emittingConcepts":["Tree","Trees"],"receivingConcepts":[]}
+{"concept":"Triangle","rel":"HasA","receivingConcepts":["3 Sides","Three Sides","Three Vertices"],"emittingConcepts":[]}
+{"concept":"Tricycle","rel":"HasA","receivingConcepts":["Three Wheels","Wheels"],"emittingConcepts":[]}
+{"concept":"Three Wheels","rel":"HasA","emittingConcepts":["Tricycle","Tricycles"],"receivingConcepts":[]}
+{"concept":"Tricycles","rel":"HasA","receivingConcepts":["Pedals","Three Wheels"],"emittingConcepts":[]}
+{"concept":"Truck","rel":"HasA","receivingConcepts":["Many Wheels","More Limited Choice of Routes","Several Wheels"],"emittingConcepts":[]}
+{"concept":"Turtle","rel":"HasA","receivingConcepts":["Hard Shell","Shell","Shield"],"emittingConcepts":[]}
+{"concept":"Turtles","rel":"HasA","receivingConcepts":["Hard Protective Shells","Long Lifespan","Shell","Very Good Protection System","Wrinkly Sin","Wrinkly Skin"],"emittingConcepts":[]}
+{"concept":"Typewriter","rel":"HasA","receivingConcepts":["Many Keys","Moving Parts","Ribbon"],"emittingConcepts":[]}
+{"concept":"Typewriter Keyboard","rel":"HasA","receivingConcepts":["All Letters of Alphabet","Many Buttons"],"emittingConcepts":[]}
+{"concept":"Typewriter Keys","rel":"HasA","receivingConcepts":["Letters and Numbers On","Letters On"],"emittingConcepts":[]}
+{"concept":"Typical Livingroom","rel":"HasA","receivingConcepts":["Coffee Table","Sofa"],"emittingConcepts":[]}
+{"concept":"Umbrella","rel":"HasA","receivingConcepts":["Accent on Second Syllable","Spokes"],"emittingConcepts":[]}
+{"concept":"Unicorns","rel":"HasA","receivingConcepts":["One Horn","Only One Horn"],"emittingConcepts":[]}
+{"concept":"United States","rel":"HasA","receivingConcepts":["50 States","Democratic Government","Epidemic Obesity","Fifty States","Flag","Fought Lot of Wars","Long Term Commitments","N't Ever Had Woman President","Representative Democracy Form of Government","Respectable Military","Too Many Laws"],"emittingConcepts":[]}
+{"concept":"Universe","rel":"HasA","receivingConcepts":["Been Constructed","Everything Exists","No Limits","Sun and Earth"],"emittingConcepts":[]}
+{"concept":"Usa","rel":"HasA","receivingConcepts":["50 States","Had No Fair Election"],"emittingConcepts":[]}
+{"concept":"Utah","rel":"HasA","receivingConcepts":["Desert Landscape","Deserts"],"emittingConcepts":[]}
+{"concept":"Van","rel":"HasA","receivingConcepts":["New Tires","Seats Inside","Transmission System"],"emittingConcepts":[]}
+{"concept":"Vehicles","rel":"HasA","receivingConcepts":["Just Two Wheels","Wheels"],"emittingConcepts":[]}
+{"concept":"Venice","rel":"HasA","receivingConcepts":["Five Leaning Towers","Several Hundred Bridges"],"emittingConcepts":[]}
+{"concept":"Venus","rel":"HasA","receivingConcepts":["Dense Atmosphere","No Moon"],"emittingConcepts":[]}
+{"concept":"Vertebrates","rel":"HasA","receivingConcepts":["Backbones","Spines"],"emittingConcepts":[]}
+{"concept":"Very Few People","rel":"HasA","receivingConcepts":["Ever Gone to Moon","Wine Cellar"],"emittingConcepts":[]}
+{"concept":"Wine Cellar","rel":"HasA","emittingConcepts":["Very Few People"],"receivingConcepts":["Connotations of Luxury and of France","Wooden Racks to Store Wine Bottles"]}
+{"concept":"Violins","rel":"HasA","receivingConcepts":["Strings","Strings Vibrate When Used"],"emittingConcepts":[]}
+{"concept":"Wagon","rel":"HasA","receivingConcepts":["Four Wheels","Wheels","Wheels and Carries Things"],"emittingConcepts":[]}
+{"concept":"Wallet","rel":"HasA","receivingConcepts":["Money","Money and Credit Cards"],"emittingConcepts":[]}
+{"concept":"Wallpaper","rel":"HasA","receivingConcepts":["Floral Pattern","Flowers Printed On"],"emittingConcepts":[]}
+{"concept":"Wars","rel":"HasA","receivingConcepts":["Always Happened and Always Will","Violence"],"emittingConcepts":[]}
+{"concept":"Effect of Passing Time","rel":"HasA","emittingConcepts":["Watching Movie","Watching t.v"],"receivingConcepts":[]}
+{"concept":"Water in Ocean","rel":"HasA","receivingConcepts":["Large Amount of Salt","Salt"],"emittingConcepts":[]}
+{"concept":"We","rel":"HasA","receivingConcepts":["Been Able to Stay Busy","Fingers","Five Fingers on Each Hand","Five Toes on Each Foot","Hot Temperatures in June","Lots of Bones in Bodies","No Direct Control Over Peristalsis","Retriever","Sense of Justice and Morality","Ten Fingers","Ten Fingers on Two Hands","Ten Toes on Feet","Toes","Too Many Telephones","Train People About Evolution","Watch Out for Heat Exhaustion"],"emittingConcepts":[]}
+{"concept":"Weddings","rel":"HasA","receivingConcepts":["Buffet Style Dinner","Reception"],"emittingConcepts":[]}
+{"concept":"Werewolves","rel":"HasA","receivingConcepts":["Fangs and Fur","Long Hair"],"emittingConcepts":[]}
+{"concept":"Whales","rel":"HasA","receivingConcepts":["Acute Hearing","Bones","Excellent Hearing","Poor Vision"],"emittingConcepts":[]}
+{"concept":"White People","rel":"HasA","receivingConcepts":["Light Colored Skin","No Soul"],"emittingConcepts":[]}
+{"concept":"Who","rel":"HasA","receivingConcepts":["Done Heinous Deserves Penalty","Personal Touch Can Ellicit Compromise"],"emittingConcepts":[]}
+{"concept":"Appointment","rel":"HasA","emittingConcepts":["Woman Can Forget","Woman Can Remember"],"receivingConcepts":[]}
+{"concept":"Wood","rel":"HasA","receivingConcepts":["Cellulose","Grain To"],"emittingConcepts":[]}
+{"concept":"Two Commonly Used Meanings","rel":"HasA","emittingConcepts":["Word Lie","Word Watch"],"receivingConcepts":[]}
+{"concept":"Workaholics","rel":"HasA","receivingConcepts":["Difficulty Saying No","Hard Time Delegating","Hard Time Letting Go","Strong Self Doubts","Unorthodox Attitude to Work"],"emittingConcepts":[]}
+{"concept":"Yogurt","rel":"HasA","receivingConcepts":["Active Cultures","Bacteria In"],"emittingConcepts":[]}
+{"concept":"Zebra","rel":"HasA","receivingConcepts":["Eyes","Nose","Stripes"],"emittingConcepts":[]}
+{"concept":"Zebras","rel":"HasA","receivingConcepts":["Black and White Stripes","Stripes"],"emittingConcepts":[]}
+{"concept":"Zoom Lens","rel":"HasA","receivingConcepts":["More Magnification Than Normal Lens","More Parts Than Normal Lens"],"emittingConcepts":[]}

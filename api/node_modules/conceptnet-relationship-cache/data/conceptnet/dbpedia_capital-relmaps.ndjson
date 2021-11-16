@@ -1,0 +1,114 @@
+{"concept":"Corinth","rel":"dbpedia/capital","emittingConcepts":["Achaea","Peloponnese"],"receivingConcepts":[]}
+{"concept":"Achaemenid Empire","rel":"dbpedia/capital","receivingConcepts":["Babylon","Ecbatana","Pasargadae","Persepolis","Susa"],"emittingConcepts":[]}
+{"concept":"Ecbatana","rel":"dbpedia/capital","emittingConcepts":["Achaemenid Empire","Medes"],"receivingConcepts":[]}
+{"concept":"Carthage","rel":"dbpedia/capital","emittingConcepts":["Africa","Phoenicia"],"receivingConcepts":[]}
+{"concept":"Amman","rel":"dbpedia/capital","emittingConcepts":["Ammon","Jordan"],"receivingConcepts":[]}
+{"concept":"Khartoum","rel":"dbpedia/capital","emittingConcepts":["Anglo Egyptian Sudan","Sudan"],"receivingConcepts":[]}
+{"concept":"Yerevan","rel":"dbpedia/capital","emittingConcepts":["Armenia","Armenian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"Vienna","rel":"dbpedia/capital","emittingConcepts":["Austria","Austria Hungary","Habsburg Monarchy"],"receivingConcepts":[]}
+{"concept":"Austria Hungary","rel":"dbpedia/capital","receivingConcepts":["Budapest","Vienna"],"emittingConcepts":[]}
+{"concept":"Budapest","rel":"dbpedia/capital","emittingConcepts":["Austria Hungary","Hungary"],"receivingConcepts":[]}
+{"concept":"Azawad","rel":"dbpedia/capital","receivingConcepts":["Gao","Timbuktu"],"emittingConcepts":[]}
+{"concept":"Gao","rel":"dbpedia/capital","emittingConcepts":["Azawad","Songhai Empire"],"receivingConcepts":[]}
+{"concept":"Dhaka","rel":"dbpedia/capital","emittingConcepts":["Bangladesh","East Pakistan"],"receivingConcepts":[]}
+{"concept":"Minsk","rel":"dbpedia/capital","emittingConcepts":["Belarus","Byelorussian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"Kinshasa","rel":"dbpedia/capital","emittingConcepts":["Belgian Congo","Democratic Republic of Congo","Republic of Congo"],"receivingConcepts":[]}
+{"concept":"Brussels","rel":"dbpedia/capital","emittingConcepts":["Belgium","European Economic Community","European Union","Spanish Netherlands"],"receivingConcepts":[]}
+{"concept":"Düsseldorf","rel":"dbpedia/capital","emittingConcepts":["Berg","Electoral Palatinate","North Rhine Westphalia"],"receivingConcepts":[]}
+{"concept":"Sarajevo","rel":"dbpedia/capital","emittingConcepts":["Bosnia and Herzegovina","Federation of Bosnia and Herzegovina","Republika Srpska"],"receivingConcepts":[]}
+{"concept":"London","rel":"dbpedia/capital","emittingConcepts":["British Antarctic Territory","Kingdom of England","Kingdom of Great Britain","United Kingdom","United Kingdom of Great Britain and Ireland"],"receivingConcepts":[]}
+{"concept":"Byelorussian Soviet Socialist Republic","rel":"dbpedia/capital","receivingConcepts":["Minsk","Smolensk"],"emittingConcepts":[]}
+{"concept":"Constantinople","rel":"dbpedia/capital","emittingConcepts":["Byzantine Empire","Ottoman Empire"],"receivingConcepts":[]}
+{"concept":"Beijing","rel":"dbpedia/capital","emittingConcepts":["China","Ming Dynasty","Qing Dynasty"],"receivingConcepts":[]}
+{"concept":"Warsaw","rel":"dbpedia/capital","emittingConcepts":["Congress Poland","Poland","Polish Lithuanian Commonwealth"],"receivingConcepts":[]}
+{"concept":"Prague","rel":"dbpedia/capital","emittingConcepts":["Czech Republic","Czechoslovakia","Habsburg Monarchy","Protectorate of Bohemia and Moravia"],"receivingConcepts":[]}
+{"concept":"Tbilisi","rel":"dbpedia/capital","emittingConcepts":["Democratic Republic of Georgia","Georgia","Georgian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"Djibouti","rel":"dbpedia/capital","receivingConcepts":["Djibouti"],"emittingConcepts":["Djibouti","French Somaliland"]}
+{"concept":"Durrës","rel":"dbpedia/capital","emittingConcepts":["Dyrrhachium","Principality of Albania"],"receivingConcepts":[]}
+{"concept":"Electoral Palatinate","rel":"dbpedia/capital","receivingConcepts":["Düsseldorf","Heidelberg","Mannheim"],"emittingConcepts":[]}
+{"concept":"Tallinn","rel":"dbpedia/capital","emittingConcepts":["Estonia","Estonian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"European Economic Community","rel":"dbpedia/capital","receivingConcepts":["Brussels","Luxembourg City","Strasbourg"],"emittingConcepts":[]}
+{"concept":"Luxembourg City","rel":"dbpedia/capital","emittingConcepts":["European Economic Community","Luxembourg"],"receivingConcepts":[]}
+{"concept":"Harare","rel":"dbpedia/capital","emittingConcepts":["Federation of Rhodesia and Nyasaland","Rhodesia","Southern Rhodesia","Zimbabwe"],"receivingConcepts":[]}
+{"concept":"Paris","rel":"dbpedia/capital","emittingConcepts":["France","Francia","Second French Empire"],"receivingConcepts":[]}
+{"concept":"Francia","rel":"dbpedia/capital","receivingConcepts":["Paris","Tournai"],"emittingConcepts":[]}
+{"concept":"Brazzaville","rel":"dbpedia/capital","emittingConcepts":["French Congo","French Equatorial Africa","Republic of Congo"],"receivingConcepts":[]}
+{"concept":"French Indochina","rel":"dbpedia/capital","receivingConcepts":["Hanoi","Ho Chi Minh City"],"emittingConcepts":[]}
+{"concept":"Hanoi","rel":"dbpedia/capital","emittingConcepts":["French Indochina","North Vietnam","Tonkin","Vietnam"],"receivingConcepts":[]}
+{"concept":"Ho Chi Minh City","rel":"dbpedia/capital","emittingConcepts":["French Indochina","South Vietnam"],"receivingConcepts":[]}
+{"concept":"Bamako","rel":"dbpedia/capital","emittingConcepts":["French Sudan","Mali"],"receivingConcepts":[]}
+{"concept":"Dakar","rel":"dbpedia/capital","emittingConcepts":["French West Africa","Senegal"],"receivingConcepts":[]}
+{"concept":"Georgia","rel":"dbpedia/capital","receivingConcepts":["Tbilisi","Atlanta"],"emittingConcepts":[]}
+{"concept":"Dar Es Salaam","rel":"dbpedia/capital","emittingConcepts":["German East Africa","Tanganyika"],"receivingConcepts":[]}
+{"concept":"Apia","rel":"dbpedia/capital","emittingConcepts":["German Samoa","Samoa"],"receivingConcepts":[]}
+{"concept":"Berlin","rel":"dbpedia/capital","emittingConcepts":["Germany","Prussia"],"receivingConcepts":[]}
+{"concept":"Accra","rel":"dbpedia/capital","emittingConcepts":["Ghana","Gold Coast"],"receivingConcepts":[]}
+{"concept":"Ghaznavids","rel":"dbpedia/capital","receivingConcepts":["Ghazni","Lahore"],"emittingConcepts":[]}
+{"concept":"Lahore","rel":"dbpedia/capital","emittingConcepts":["Ghaznavids","Mughal Empire"],"receivingConcepts":[]}
+{"concept":"Pyongyang","rel":"dbpedia/capital","emittingConcepts":["Goguryeo","North Korea"],"receivingConcepts":[]}
+{"concept":"Vilnius","rel":"dbpedia/capital","emittingConcepts":["Grand Duchy of Lithuania","Lithuania","Lithuanian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"Habsburg Monarchy","rel":"dbpedia/capital","receivingConcepts":["Prague","Vienna"],"emittingConcepts":[]}
+{"concept":"Port Au Prince","rel":"dbpedia/capital","emittingConcepts":["Haiti","Saint Domingue"],"receivingConcepts":[]}
+{"concept":"Luoyang","rel":"dbpedia/capital","emittingConcepts":["Han Dynasty","Tang Dynasty","Zhou Dynasty"],"receivingConcepts":[]}
+{"concept":"Dublin","rel":"dbpedia/capital","emittingConcepts":["Irish Free State","Kingdom of Ireland","Lordship of Ireland","Republic of Ireland","Southern Ireland"],"receivingConcepts":[]}
+{"concept":"Jerusalem","rel":"dbpedia/capital","emittingConcepts":["Israel","Mandatory Palestine","State of Palestine"],"receivingConcepts":[]}
+{"concept":"Mogadishu","rel":"dbpedia/capital","emittingConcepts":["Italian Somaliland","Somalia"],"receivingConcepts":[]}
+{"concept":"Rome","rel":"dbpedia/capital","emittingConcepts":["Italy","Papal States","Roman Empire","Roman Kingdom","Roman Republic","Sovereign Military Order of Malta"],"receivingConcepts":[]}
+{"concept":"Taiyuan","rel":"dbpedia/capital","emittingConcepts":["Jin","Zhao"],"receivingConcepts":[]}
+{"concept":"Seoul","rel":"dbpedia/capital","emittingConcepts":["Joseon","South Korea"],"receivingConcepts":[]}
+{"concept":"Kingdom of England","rel":"dbpedia/capital","receivingConcepts":["City of London","London","Westminster","Winchester"],"emittingConcepts":[]}
+{"concept":"Winchester","rel":"dbpedia/capital","emittingConcepts":["Kingdom of England","Wessex"],"receivingConcepts":[]}
+{"concept":"Kingdom of Laos","rel":"dbpedia/capital","receivingConcepts":["Luang Prabang","Vientiane"],"emittingConcepts":[]}
+{"concept":"Vientiane","rel":"dbpedia/capital","emittingConcepts":["Kingdom of Laos","Laos"],"receivingConcepts":[]}
+{"concept":"Amsterdam","rel":"dbpedia/capital","emittingConcepts":["Kingdom of Netherlands","Netherlands"],"receivingConcepts":[]}
+{"concept":"Belgrade","rel":"dbpedia/capital","emittingConcepts":["Kingdom of Yugoslavia","Republic of Serbia","Serbia","Serbia and Montenegro","Socialist Federal Republic of Yugoslavia"],"receivingConcepts":[]}
+{"concept":"League of Nations","rel":"dbpedia/capital","receivingConcepts":["Geneva","Switzerland"],"emittingConcepts":[]}
+{"concept":"Macedonia","rel":"dbpedia/capital","receivingConcepts":["Pella","Thessaloniki"],"emittingConcepts":[]}
+{"concept":"Malaysia","rel":"dbpedia/capital","receivingConcepts":["Kuala Lumpur","Putrajaya"],"emittingConcepts":[]}
+{"concept":"Medes","rel":"dbpedia/capital","receivingConcepts":["Ecbatana","Hamadan"],"emittingConcepts":[]}
+{"concept":"Mexico City","rel":"dbpedia/capital","emittingConcepts":["Mexico","New Spain"],"receivingConcepts":[]}
+{"concept":"Ming Dynasty","rel":"dbpedia/capital","receivingConcepts":["Beijing","Nanjing"],"emittingConcepts":[]}
+{"concept":"Mughal Empire","rel":"dbpedia/capital","receivingConcepts":["Agra","Delhi","Lahore"],"emittingConcepts":[]}
+{"concept":"Windhoek","rel":"dbpedia/capital","emittingConcepts":["Namibia","South West Africa"],"receivingConcepts":[]}
+{"concept":"Lusaka","rel":"dbpedia/capital","emittingConcepts":["Northern Rhodesia","Zambia"],"receivingConcepts":[]}
+{"concept":"Bloemfontein","rel":"dbpedia/capital","emittingConcepts":["Orange Free State","South Africa","Union of South Africa"],"receivingConcepts":[]}
+{"concept":"Ottoman Empire","rel":"dbpedia/capital","receivingConcepts":["Bursa","Constantinople","Edirne"],"emittingConcepts":[]}
+{"concept":"Ramallah","rel":"dbpedia/capital","emittingConcepts":["Palestinian National Authority","State of Palestine"],"receivingConcepts":[]}
+{"concept":"Phoenicia","rel":"dbpedia/capital","receivingConcepts":["Byblos","Carthage"],"emittingConcepts":[]}
+{"concept":"Polish Lithuanian Commonwealth","rel":"dbpedia/capital","receivingConcepts":["Kraków","Warsaw"],"emittingConcepts":[]}
+{"concept":"Kraków","rel":"dbpedia/capital","emittingConcepts":["Polish Lithuanian Commonwealth","West Galicia"],"receivingConcepts":[]}
+{"concept":"Republic of Congo","rel":"dbpedia/capital","receivingConcepts":["Brazzaville","Kinshasa"],"emittingConcepts":[]}
+{"concept":"Roman Empire","rel":"dbpedia/capital","receivingConcepts":["Rome","Tetrarchy"],"emittingConcepts":[]}
+{"concept":"Bucharest","rel":"dbpedia/capital","emittingConcepts":["Romania","Wallachia"],"receivingConcepts":[]}
+{"concept":"Ross Dependency","rel":"dbpedia/capital","receivingConcepts":["New Zealand","United States"],"emittingConcepts":[]}
+{"concept":"Moscow","rel":"dbpedia/capital","emittingConcepts":["Russia","Russian Soviet Federative Socialist Republic","Soviet Union"],"receivingConcepts":[]}
+{"concept":"Russian Soviet Federative Socialist Republic","rel":"dbpedia/capital","receivingConcepts":["Moscow","Saint Petersburg"],"emittingConcepts":[]}
+{"concept":"Saarbrücken","rel":"dbpedia/capital","emittingConcepts":["Saar","Saarland"],"receivingConcepts":[]}
+{"concept":"Saint Domingue","rel":"dbpedia/capital","receivingConcepts":["Cap Haïtien","Port Au Prince"],"emittingConcepts":[]}
+{"concept":"Antioch","rel":"dbpedia/capital","emittingConcepts":["Seleucid Empire","Syria"],"receivingConcepts":[]}
+{"concept":"Bratislava","rel":"dbpedia/capital","emittingConcepts":["Slovak Republic","Slovakia"],"receivingConcepts":[]}
+{"concept":"Song Dynasty","rel":"dbpedia/capital","receivingConcepts":["Hangzhou","Kaifeng"],"emittingConcepts":[]}
+{"concept":"Kaifeng","rel":"dbpedia/capital","emittingConcepts":["Song Dynasty","Wei"],"receivingConcepts":[]}
+{"concept":"South Africa","rel":"dbpedia/capital","receivingConcepts":["Bloemfontein","Cape Town","Pretoria"],"emittingConcepts":[]}
+{"concept":"Cape Town","rel":"dbpedia/capital","emittingConcepts":["South Africa","Union of South Africa"],"receivingConcepts":[]}
+{"concept":"Pretoria","rel":"dbpedia/capital","emittingConcepts":["South Africa","Union of South Africa"],"receivingConcepts":[]}
+{"concept":"Aden","rel":"dbpedia/capital","emittingConcepts":["South Yemen","Yemen"],"receivingConcepts":[]}
+{"concept":"Sovereign Military Order of Malta","rel":"dbpedia/capital","receivingConcepts":["Italy","Rome"],"emittingConcepts":[]}
+{"concept":"Sri Lanka","rel":"dbpedia/capital","receivingConcepts":["Colombo","Sri Jayawardenepura Kotte"],"emittingConcepts":[]}
+{"concept":"State of Palestine","rel":"dbpedia/capital","receivingConcepts":["East Jerusalem","Jerusalem","Ramallah"],"emittingConcepts":[]}
+{"concept":"Swaziland","rel":"dbpedia/capital","receivingConcepts":["Lobamba","Mbabane"],"emittingConcepts":[]}
+{"concept":"Syria","rel":"dbpedia/capital","receivingConcepts":["Damascus","Antioch"],"emittingConcepts":[]}
+{"concept":"Dushanbe","rel":"dbpedia/capital","emittingConcepts":["Tajik Soviet Socialist Republic","Tajikistan"],"receivingConcepts":[]}
+{"concept":"Lomé","rel":"dbpedia/capital","emittingConcepts":["Togo","Togoland"],"receivingConcepts":[]}
+{"concept":"Kiev","rel":"dbpedia/capital","emittingConcepts":["Ukraine","Ukrainian Soviet Socialist Republic"],"receivingConcepts":[]}
+{"concept":"Ukrainian Soviet Socialist Republic","rel":"dbpedia/capital","receivingConcepts":["Kharkiv","Kiev"],"emittingConcepts":[]}
+{"concept":"Union of South Africa","rel":"dbpedia/capital","receivingConcepts":["Bloemfontein","Cape Town","Pretoria"],"emittingConcepts":[]}
+{"concept":"Vichy France","rel":"dbpedia/capital","receivingConcepts":["De Jure","Vichy"],"emittingConcepts":[]}
+{"concept":"De Jure","rel":"dbpedia/capital","emittingConcepts":["Vichy France","West Indies Federation"],"receivingConcepts":[]}
+{"concept":"West Galicia","rel":"dbpedia/capital","receivingConcepts":["Kraków","Lublin"],"emittingConcepts":[]}
+{"concept":"West Indies Federation","rel":"dbpedia/capital","receivingConcepts":["De Facto","De Jure","Port of Spain"],"emittingConcepts":[]}
+{"concept":"Western Roman Empire","rel":"dbpedia/capital","receivingConcepts":["Mediolanum","Ravenna"],"emittingConcepts":[]}
+{"concept":"Wu","rel":"dbpedia/capital","receivingConcepts":["Jiangsu","Suzhou"],"emittingConcepts":[]}
+{"concept":"Yemen","rel":"dbpedia/capital","receivingConcepts":["Aden","Sana"],"emittingConcepts":[]}
+{"concept":"Sana","rel":"dbpedia/capital","emittingConcepts":["Yemen","Yemen Arab Republic"],"receivingConcepts":[]}
+{"concept":"Zhao","rel":"dbpedia/capital","receivingConcepts":["Handan","Taiyuan"],"emittingConcepts":[]}

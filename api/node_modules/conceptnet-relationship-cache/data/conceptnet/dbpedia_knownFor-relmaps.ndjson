@@ -1,0 +1,171 @@
+{"concept":"Adam Smith","rel":"dbpedia/knownFor","receivingConcepts":["Division of Labour","Free Market","Invisible Hand"],"emittingConcepts":[]}
+{"concept":"Alan Turing","rel":"dbpedia/knownFor","receivingConcepts":["Turing Machine","Turing Test"],"emittingConcepts":[]}
+{"concept":"Albert Einstein","rel":"dbpedia/knownFor","receivingConcepts":["Bose Einstein Condensate","Bose Einstein Statistics","Brownian Motion","Cosmological Constant","Einstein Field Equations","General Relativity","Gravitational Wave","Mass Energy Equivalence","Photoelectric Effect","Special Relativity"],"emittingConcepts":[]}
+{"concept":"Bose Einstein Condensate","rel":"dbpedia/knownFor","emittingConcepts":["Albert Einstein","Satyendra Nath Bose"],"receivingConcepts":[]}
+{"concept":"Bose Einstein Statistics","rel":"dbpedia/knownFor","emittingConcepts":["Albert Einstein","Satyendra Nath Bose"],"receivingConcepts":[]}
+{"concept":"Brownian Motion","rel":"dbpedia/knownFor","emittingConcepts":["Albert Einstein","Robert Brown"],"receivingConcepts":[]}
+{"concept":"Photoelectric Effect","rel":"dbpedia/knownFor","emittingConcepts":["Albert Einstein","Heinrich Hertz","Robert Andrews Millikan"],"receivingConcepts":[]}
+{"concept":"Albert Michelson","rel":"dbpedia/knownFor","receivingConcepts":["Michelson Morley Experiment","Speed of Light"],"emittingConcepts":[]}
+{"concept":"Alfred Nobel","rel":"dbpedia/knownFor","receivingConcepts":["Dynamite","Nobel Prize"],"emittingConcepts":[]}
+{"concept":"Alfred Russel Wallace","rel":"dbpedia/knownFor","receivingConcepts":["Biogeography","Natural Selection","Wallace Line"],"emittingConcepts":[]}
+{"concept":"Natural Selection","rel":"dbpedia/knownFor","emittingConcepts":["Alfred Russel Wallace","Charles Darwin"],"receivingConcepts":[]}
+{"concept":"Amedeo Avogadro","rel":"dbpedia/knownFor","receivingConcepts":["Avogadro's Law","Avogadro Constant"],"emittingConcepts":[]}
+{"concept":"Anaxagoras","rel":"dbpedia/knownFor","receivingConcepts":["Milky Way","Nous"],"emittingConcepts":[]}
+{"concept":"Milky Way","rel":"dbpedia/knownFor","emittingConcepts":["Anaxagoras","Democritus"],"receivingConcepts":[]}
+{"concept":"Nous","rel":"dbpedia/knownFor","emittingConcepts":["Anaxagoras","Edmund Husserl","Plotinus"],"receivingConcepts":[]}
+{"concept":"Anaximander","rel":"dbpedia/knownFor","receivingConcepts":["Arche","Evolution"],"emittingConcepts":[]}
+{"concept":"Arche","rel":"dbpedia/knownFor","emittingConcepts":["Anaximander","Heraclitus","Paracelsus"],"receivingConcepts":[]}
+{"concept":"Evolution","rel":"dbpedia/knownFor","emittingConcepts":["Anaximander","Charles Darwin","Georges Cuvier","Thomas Henry Huxley"],"receivingConcepts":[]}
+{"concept":"Andrei Sakharov","rel":"dbpedia/knownFor","receivingConcepts":["Baryogenesis","Dissident"],"emittingConcepts":[]}
+{"concept":"Andrew Huxley","rel":"dbpedia/knownFor","receivingConcepts":["Action Potential","Muscle Contraction"],"emittingConcepts":[]}
+{"concept":"Antoine Lavoisier","rel":"dbpedia/knownFor","receivingConcepts":["Combustion","Hydrogen","Oxygen","Stoichiometry"],"emittingConcepts":[]}
+{"concept":"Hydrogen","rel":"dbpedia/knownFor","emittingConcepts":["Antoine Lavoisier","Henry Cavendish"],"receivingConcepts":[]}
+{"concept":"Archimedes","rel":"dbpedia/knownFor","receivingConcepts":["Archimedes Principle","Archimedes Screw","Hydrostatics","Lever"],"emittingConcepts":[]}
+{"concept":"Aristotle","rel":"dbpedia/knownFor","receivingConcepts":["Syllogism","Term Logic"],"emittingConcepts":["Theophrastus"]}
+{"concept":"Arthur Evans","rel":"dbpedia/knownFor","receivingConcepts":["Knossos","Minoan Civilization"],"emittingConcepts":[]}
+{"concept":"Arthur Schopenhauer","rel":"dbpedia/knownFor","receivingConcepts":["Pessimism","Will"],"emittingConcepts":[]}
+{"concept":"August Strindberg","rel":"dbpedia/knownFor","receivingConcepts":["Damascus","Red Room"],"emittingConcepts":[]}
+{"concept":"Auguste Comte","rel":"dbpedia/knownFor","receivingConcepts":["Altruism","Positivism"],"emittingConcepts":[]}
+{"concept":"Wave","rel":"dbpedia/knownFor","emittingConcepts":["Augustin Jean Fresnel","Christiaan Huygens"],"receivingConcepts":[]}
+{"concept":"Benjamin Jowett","rel":"dbpedia/knownFor","receivingConcepts":["Plato","Thucydides"],"emittingConcepts":[]}
+{"concept":"Plato","rel":"dbpedia/knownFor","emittingConcepts":["Benjamin Jowett","Xenocrates"],"receivingConcepts":[]}
+{"concept":"Benjamin Peirce","rel":"dbpedia/knownFor","receivingConcepts":["Celestial Mechanics","Linear Algebra"],"emittingConcepts":[]}
+{"concept":"Thermodynamics","rel":"dbpedia/knownFor","emittingConcepts":["Benjamin Thompson","Daniel Bernoulli"],"receivingConcepts":[]}
+{"concept":"Benoit Mandelbrot","rel":"dbpedia/knownFor","receivingConcepts":["Chaos Theory","Fractal","Mandelbrot Set"],"emittingConcepts":[]}
+{"concept":"Brahmagupta","rel":"dbpedia/knownFor","receivingConcepts":["0","Number"],"emittingConcepts":[]}
+{"concept":"Carl David Anderson","rel":"dbpedia/knownFor","receivingConcepts":["Muon","Positron"],"emittingConcepts":[]}
+{"concept":"Carl Jung","rel":"dbpedia/knownFor","receivingConcepts":["Collective Unconscious","Complex"],"emittingConcepts":[]}
+{"concept":"Vitamin","rel":"dbpedia/knownFor","emittingConcepts":["Casimir Funk","Christiaan Eijkman"],"receivingConcepts":[]}
+{"concept":"Charles Darwin","rel":"dbpedia/knownFor","receivingConcepts":["Evolution","Natural Selection"],"emittingConcepts":[]}
+{"concept":"Charles Dickens","rel":"dbpedia/knownFor","receivingConcepts":["Christmas Carol","Oliver Twist"],"emittingConcepts":[]}
+{"concept":"Insulin","rel":"dbpedia/knownFor","emittingConcepts":["Charles Herbert Best","Dorothy Hodgkin"],"receivingConcepts":[]}
+{"concept":"Christiaan Eijkman","rel":"dbpedia/knownFor","receivingConcepts":["Beriberi","Vitamin"],"emittingConcepts":[]}
+{"concept":"Christiaan Huygens","rel":"dbpedia/knownFor","receivingConcepts":["Birefringence","Centrifugal Force","Collision","Evolute","Eyepiece","Pendulum Clock","Titan","Wave"],"emittingConcepts":[]}
+{"concept":"Confucianism","rel":"dbpedia/knownFor","emittingConcepts":["Confucius","Mencius"],"receivingConcepts":[]}
+{"concept":"Daniel Bernoulli","rel":"dbpedia/knownFor","receivingConcepts":["Bernoulli's Principle","Kinetic Theory","Thermodynamics"],"emittingConcepts":[]}
+{"concept":"David Hume","rel":"dbpedia/knownFor","receivingConcepts":["Causality","Inductive Reasoning","Utility"],"emittingConcepts":[]}
+{"concept":"Democritus","rel":"dbpedia/knownFor","receivingConcepts":["Atomism","Etiology","Milky Way"],"emittingConcepts":[]}
+{"concept":"Dorothy Hodgkin","rel":"dbpedia/knownFor","receivingConcepts":["Insulin","X Ray Crystallography"],"emittingConcepts":[]}
+{"concept":"X Ray Crystallography","rel":"dbpedia/knownFor","emittingConcepts":["Dorothy Hodgkin","Maurice Wilkins"],"receivingConcepts":[]}
+{"concept":"Bloomsbury Group","rel":"dbpedia/knownFor","emittingConcepts":["Duncan Grant","Roger Fry"],"receivingConcepts":[]}
+{"concept":"E L Doctorow","rel":"dbpedia/knownFor","receivingConcepts":["March","Ragtime"],"emittingConcepts":[]}
+{"concept":"Edmund Husserl","rel":"dbpedia/knownFor","receivingConcepts":["Noema","Nous","Phenomenology","Physicalism"],"emittingConcepts":[]}
+{"concept":"Edward Calvin Kendall","rel":"dbpedia/knownFor","receivingConcepts":["Cortisone","Thyroid Hormone"],"emittingConcepts":[]}
+{"concept":"Gene","rel":"dbpedia/knownFor","emittingConcepts":["Edward Lawrie Tatum","George Wells Beadle"],"receivingConcepts":[]}
+{"concept":"Emmy Noether","rel":"dbpedia/knownFor","receivingConcepts":["Abstract Algebra","Theoretical Physics"],"emittingConcepts":[]}
+{"concept":"Enrico Fermi","rel":"dbpedia/knownFor","receivingConcepts":["Beta Decay","Fermi Dirac Statistics","Fermi Paradox"],"emittingConcepts":[]}
+{"concept":"Ernest Rutherford","rel":"dbpedia/knownFor","receivingConcepts":["Alpha Particle","Atomic Nucleus","Beta Particle","Proton","Rutherford"],"emittingConcepts":[]}
+{"concept":"Atomic Nucleus","rel":"dbpedia/knownFor","emittingConcepts":["Ernest Rutherford","Hans Geiger"],"receivingConcepts":[]}
+{"concept":"Nuclear Fission","rel":"dbpedia/knownFor","emittingConcepts":["Ernest Walton","Lise Meitner","Otto Hahn"],"receivingConcepts":[]}
+{"concept":"Penicillin","rel":"dbpedia/knownFor","emittingConcepts":["Ernst Boris Chain","Howard Florey"],"receivingConcepts":[]}
+{"concept":"Ernst Mach","rel":"dbpedia/knownFor","receivingConcepts":["Mach's Principle","Mach Number","Shock Wave"],"emittingConcepts":[]}
+{"concept":"Eugene Wigner","rel":"dbpedia/knownFor","receivingConcepts":["Conservation Law","Wigner's Friend","Wigner Eckart Theorem"],"emittingConcepts":[]}
+{"concept":"Frances Wright","rel":"dbpedia/knownFor","receivingConcepts":["Feminism","Freethought","Utopia"],"emittingConcepts":[]}
+{"concept":"Feminism","rel":"dbpedia/knownFor","emittingConcepts":["Frances Wright","Lucy Stone"],"receivingConcepts":[]}
+{"concept":"Francis Crick","rel":"dbpedia/knownFor","receivingConcepts":["Consciousness","Dna"],"emittingConcepts":[]}
+{"concept":"Dna","rel":"dbpedia/knownFor","emittingConcepts":["Francis Crick","Maurice Wilkins"],"receivingConcepts":[]}
+{"concept":"Francis Galton","rel":"dbpedia/knownFor","receivingConcepts":["Eugenics","Standard Deviation","Weather Map"],"emittingConcepts":[]}
+{"concept":"Historical Materialism","rel":"dbpedia/knownFor","emittingConcepts":["Friedrich Engels","Karl Marx"],"receivingConcepts":[]}
+{"concept":"Friedrich Nietzsche","rel":"dbpedia/knownFor","receivingConcepts":["Perspectivism","Will to Power","Übermensch"],"emittingConcepts":[]}
+{"concept":"Fritz Haber","rel":"dbpedia/knownFor","receivingConcepts":["Born Haber Cycle","Chemical Warfare","Fertilizer","Haber Process","Second Battle of Ypres"],"emittingConcepts":[]}
+{"concept":"Born Haber Cycle","rel":"dbpedia/knownFor","emittingConcepts":["Fritz Haber","Max Born"],"receivingConcepts":[]}
+{"concept":"Galileo Galilei","rel":"dbpedia/knownFor","receivingConcepts":["Heliocentrism","Kinematics","Telescope"],"emittingConcepts":[]}
+{"concept":"George Gamow","rel":"dbpedia/knownFor","receivingConcepts":["Alpha Decay","Big Bang","Quantum Tunnelling"],"emittingConcepts":[]}
+{"concept":"Quantum Tunnelling","rel":"dbpedia/knownFor","emittingConcepts":["George Gamow","Leo Esaki"],"receivingConcepts":[]}
+{"concept":"Georges Cuvier","rel":"dbpedia/knownFor","receivingConcepts":["Comparative Anatomy","Evolution","Extinction","Stratigraphy"],"emittingConcepts":[]}
+{"concept":"Gottfried Wilhelm Leibniz","rel":"dbpedia/knownFor","receivingConcepts":["Calculus","Fermat's Little Theorem","Kinetic Energy"],"emittingConcepts":[]}
+{"concept":"Calculus","rel":"dbpedia/knownFor","emittingConcepts":["Gottfried Wilhelm Leibniz","Isaac Newton","Johann Bernoulli"],"receivingConcepts":[]}
+{"concept":"Hans Adolf Krebs","rel":"dbpedia/knownFor","receivingConcepts":["Citric Acid Cycle","Glyoxylate Cycle"],"emittingConcepts":[]}
+{"concept":"Hans Bethe","rel":"dbpedia/knownFor","receivingConcepts":["Bethe Lattice","Cno Cycle","Nuclear Physics","Quantum Electrodynamics"],"emittingConcepts":[]}
+{"concept":"Hans Eysenck","rel":"dbpedia/knownFor","receivingConcepts":["Intelligence","Psychiatry"],"emittingConcepts":[]}
+{"concept":"Hans Geiger","rel":"dbpedia/knownFor","receivingConcepts":["Atomic Nucleus","Geiger Counter"],"emittingConcepts":[]}
+{"concept":"Heinrich Hertz","rel":"dbpedia/knownFor","receivingConcepts":["Electromagnetic Radiation","Photoelectric Effect"],"emittingConcepts":[]}
+{"concept":"Radioactive Decay","rel":"dbpedia/knownFor","emittingConcepts":["Henri Becquerel","Pierre Curie"],"receivingConcepts":[]}
+{"concept":"Henri Bergson","rel":"dbpedia/knownFor","receivingConcepts":["Open Society","Élan Vital"],"emittingConcepts":[]}
+{"concept":"Open Society","rel":"dbpedia/knownFor","emittingConcepts":["Henri Bergson","Karl Popper"],"receivingConcepts":[]}
+{"concept":"Henry David Thoreau","rel":"dbpedia/knownFor","receivingConcepts":["Anarchism","Civil Disobedience","Direct Action"],"emittingConcepts":[]}
+{"concept":"Henry James","rel":"dbpedia/knownFor","receivingConcepts":["Ambassadors","Turn of Screw"],"emittingConcepts":[]}
+{"concept":"Heraclitus","rel":"dbpedia/knownFor","receivingConcepts":["Arche","Logos"],"emittingConcepts":[]}
+{"concept":"Herbert Spencer","rel":"dbpedia/knownFor","receivingConcepts":["Social Darwinism","Survival of Fittest"],"emittingConcepts":[]}
+{"concept":"Hideyo Noguchi","rel":"dbpedia/knownFor","receivingConcepts":["Syphilis","Treponema Pallidum"],"emittingConcepts":[]}
+{"concept":"Igor Tamm","rel":"dbpedia/knownFor","receivingConcepts":["Cherenkov Radiation","Thermonuclear Weapon","Tokamak"],"emittingConcepts":[]}
+{"concept":"Isaac Newton","rel":"dbpedia/knownFor","receivingConcepts":["Binomial Series","Calculus","Classical Mechanics","Newton's Laws of Motion","Newton's Method","Optics"],"emittingConcepts":[]}
+{"concept":"J B S Haldane","rel":"dbpedia/knownFor","receivingConcepts":["Abiogenesis","Enzyme","Population Genetics"],"emittingConcepts":[]}
+{"concept":"James Clerk Maxwell","rel":"dbpedia/knownFor","receivingConcepts":["Maxwell's Demon","Maxwell's Equations"],"emittingConcepts":[]}
+{"concept":"Jan Swammerdam","rel":"dbpedia/knownFor","receivingConcepts":["Entomology","Red Blood Cell"],"emittingConcepts":[]}
+{"concept":"Jean Piaget","rel":"dbpedia/knownFor","receivingConcepts":["Constructivism","Egocentrism"],"emittingConcepts":[]}
+{"concept":"Johann Bernoulli","rel":"dbpedia/knownFor","receivingConcepts":["Calculus","Catenary","L Hôpital's Rule"],"emittingConcepts":[]}
+{"concept":"Johannes Diderik Van Der Waals","rel":"dbpedia/knownFor","receivingConcepts":["Van Der Waals Equation","Van Der Waals Force"],"emittingConcepts":[]}
+{"concept":"John Bardeen","rel":"dbpedia/knownFor","receivingConcepts":["Superconductivity","Transistor"],"emittingConcepts":[]}
+{"concept":"John Dalton","rel":"dbpedia/knownFor","receivingConcepts":["Atomic Theory","Color Blindness","Dalton's Law","Law of Multiple Proportions"],"emittingConcepts":[]}
+{"concept":"John Davis","rel":"dbpedia/knownFor","receivingConcepts":["Falkland Islands","Antarctica"],"emittingConcepts":[]}
+{"concept":"John Locke","rel":"dbpedia/knownFor","receivingConcepts":["Liberty","Right to Life","Tabula Rasa"],"emittingConcepts":[]}
+{"concept":"Utilitarianism","rel":"dbpedia/knownFor","emittingConcepts":["John Stuart Mill","Karl Popper"],"receivingConcepts":[]}
+{"concept":"John Tyndall","rel":"dbpedia/knownFor","receivingConcepts":["Atmosphere","Diamagnetism","Infrared","Tyndall Effect"],"emittingConcepts":[]}
+{"concept":"Infrared","rel":"dbpedia/knownFor","emittingConcepts":["John Tyndall","William Herschel"],"receivingConcepts":[]}
+{"concept":"Joseph Black","rel":"dbpedia/knownFor","receivingConcepts":["Carbon Dioxide","Heat Capacity","Latent Heat"],"emittingConcepts":[]}
+{"concept":"Joseph Henry","rel":"dbpedia/knownFor","receivingConcepts":["Doorbell","Electromagnetic Induction","Relay"],"emittingConcepts":[]}
+{"concept":"Josiah Willard Gibbs","rel":"dbpedia/knownFor","receivingConcepts":["Cross Product","Gibbs Free Energy","Gibbs Phenomenon","Phase Rule","Phase Space","Statistical Mechanics"],"emittingConcepts":[]}
+{"concept":"Karl Jaspers","rel":"dbpedia/knownFor","receivingConcepts":["Dasein","Existentialism"],"emittingConcepts":[]}
+{"concept":"Dasein","rel":"dbpedia/knownFor","emittingConcepts":["Karl Jaspers","Martin Heidegger"],"receivingConcepts":[]}
+{"concept":"Karl Marx","rel":"dbpedia/knownFor","receivingConcepts":["Historical Materialism","Surplus Value"],"emittingConcepts":[]}
+{"concept":"Karl Popper","rel":"dbpedia/knownFor","receivingConcepts":["Critical Rationalism","Darwinism","Essentialism","Falsifiability","Hermeneutics","Open Society","Probability","Utilitarianism"],"emittingConcepts":[]}
+{"concept":"Probability","rel":"dbpedia/knownFor","emittingConcepts":["Karl Popper","Pierre De Fermat"],"receivingConcepts":[]}
+{"concept":"L David Mech","rel":"dbpedia/knownFor","receivingConcepts":["Ethology","Gray Wolf"],"emittingConcepts":[]}
+{"concept":"Leo Esaki","rel":"dbpedia/knownFor","receivingConcepts":["Quantum Tunnelling","Tunnel Diode"],"emittingConcepts":[]}
+{"concept":"Lev Ivanov","rel":"dbpedia/knownFor","receivingConcepts":["Ballet Master","Nutcracker"],"emittingConcepts":[]}
+{"concept":"Lucy Stone","rel":"dbpedia/knownFor","receivingConcepts":["Feminism","Suffragette"],"emittingConcepts":[]}
+{"concept":"Ludwig Boltzmann","rel":"dbpedia/knownFor","receivingConcepts":["Boltzmann Constant","Boltzmann Equation","Stefan Boltzmann Law"],"emittingConcepts":[]}
+{"concept":"Ludwig Wittgenstein","rel":"dbpedia/knownFor","receivingConcepts":["Analytic Philosophy","Fideism","Set Theory","Truth Function"],"emittingConcepts":[]}
+{"concept":"Mahatma Gandhi","rel":"dbpedia/knownFor","receivingConcepts":["Ahimsa","Nonviolence","Pacifism","Satyagraha"],"emittingConcepts":[]}
+{"concept":"Martin Heidegger","rel":"dbpedia/knownFor","receivingConcepts":["Being","Dasein","Ontotheology"],"emittingConcepts":[]}
+{"concept":"Martin Heinrich Klaproth","rel":"dbpedia/knownFor","receivingConcepts":["Cerium","Zirconium"],"emittingConcepts":[]}
+{"concept":"Marvin Minsky","rel":"dbpedia/knownFor","receivingConcepts":["Artificial Intelligence","Confocal Microscopy","Transhumanism"],"emittingConcepts":[]}
+{"concept":"Maurice Wilkins","rel":"dbpedia/knownFor","receivingConcepts":["Dna","X Ray Crystallography"],"emittingConcepts":[]}
+{"concept":"Max Born","rel":"dbpedia/knownFor","receivingConcepts":["Born Haber Cycle","Probability Amplitude"],"emittingConcepts":[]}
+{"concept":"Max Planck","rel":"dbpedia/knownFor","receivingConcepts":["Planck's Law","Planck Constant"],"emittingConcepts":[]}
+{"concept":"Max Weber","rel":"dbpedia/knownFor","receivingConcepts":["Bureaucracy","Rationalization"],"emittingConcepts":[]}
+{"concept":"Michael Faraday","rel":"dbpedia/knownFor","receivingConcepts":["Electrochemistry","Faraday Cage","Line of Force"],"emittingConcepts":[]}
+{"concept":"Montesquieu","rel":"dbpedia/knownFor","receivingConcepts":["Executive","Judiciary","Legislature"],"emittingConcepts":[]}
+{"concept":"Murray Gell Mann","rel":"dbpedia/knownFor","receivingConcepts":["Elementary Particle","Quark","Strangeness"],"emittingConcepts":[]}
+{"concept":"Niels Bohr","rel":"dbpedia/knownFor","receivingConcepts":["Atomic Orbital","Bohr Magneton","Bohr Radius","Complementarity","Hafnium"],"emittingConcepts":[]}
+{"concept":"Niels Henrik Abel","rel":"dbpedia/knownFor","receivingConcepts":["Abelian Group","Abelian Variety","Divergent Series"],"emittingConcepts":[]}
+{"concept":"Nostradamus","rel":"dbpedia/knownFor","receivingConcepts":["Plague","Prophecy"],"emittingConcepts":[]}
+{"concept":"Otto Hahn","rel":"dbpedia/knownFor","receivingConcepts":["Actinium","Nuclear Fission","Nuclear Isomer","Protactinium"],"emittingConcepts":[]}
+{"concept":"Paracelsus","rel":"dbpedia/knownFor","receivingConcepts":["Arche","Toxicology"],"emittingConcepts":[]}
+{"concept":"Peter Abelard","rel":"dbpedia/knownFor","receivingConcepts":["Conceptualism","Scholasticism"],"emittingConcepts":[]}
+{"concept":"Peter Sellers","rel":"dbpedia/knownFor","receivingConcepts":["Character Actor","Improvisation"],"emittingConcepts":[]}
+{"concept":"Pierre De Fermat","rel":"dbpedia/knownFor","receivingConcepts":["Analytic Geometry","Fermat's Last Theorem","Number Theory","Probability"],"emittingConcepts":[]}
+{"concept":"Plotinus","rel":"dbpedia/knownFor","receivingConcepts":["Emanationism","Henology","Nous"],"emittingConcepts":[]}
+{"concept":"Ralph Bunche","rel":"dbpedia/knownFor","receivingConcepts":["Israel","Nobel Peace Prize"],"emittingConcepts":[]}
+{"concept":"Richard J Roberts","rel":"dbpedia/knownFor","receivingConcepts":["Intron","Restriction Enzyme"],"emittingConcepts":[]}
+{"concept":"Richard Stallman","rel":"dbpedia/knownFor","receivingConcepts":["Emacs","Gnu"],"emittingConcepts":[]}
+{"concept":"Richard Wright","rel":"dbpedia/knownFor","receivingConcepts":["Black Boy","Native Son"],"emittingConcepts":[]}
+{"concept":"Roald Amundsen","rel":"dbpedia/knownFor","receivingConcepts":["North Pole","South Pole"],"emittingConcepts":[]}
+{"concept":"North Pole","rel":"dbpedia/knownFor","emittingConcepts":["Roald Amundsen","Robert Peary"],"receivingConcepts":[]}
+{"concept":"Robert Andrews Millikan","rel":"dbpedia/knownFor","receivingConcepts":["Cosmic Ray","Electron","Photoelectric Effect","Physics"],"emittingConcepts":[]}
+{"concept":"Robert Bunsen","rel":"dbpedia/knownFor","receivingConcepts":["Caesium","Rubidium","Spectroscopy"],"emittingConcepts":[]}
+{"concept":"Robert Burns Woodward","rel":"dbpedia/knownFor","receivingConcepts":["Molecule","Woodward Hoffmann Rules"],"emittingConcepts":[]}
+{"concept":"Robert Hooke","rel":"dbpedia/knownFor","receivingConcepts":["Cell","Hooke's Law"],"emittingConcepts":[]}
+{"concept":"Robert Koch","rel":"dbpedia/knownFor","receivingConcepts":["Anthrax","Bacteriology","Cholera","Koch's Postulates","Tuberculosis"],"emittingConcepts":[]}
+{"concept":"Rudolf Steiner","rel":"dbpedia/knownFor","receivingConcepts":["Anthroposophy","Eurythmy","Holism","Waldorf Education"],"emittingConcepts":[]}
+{"concept":"Rudolf Virchow","rel":"dbpedia/knownFor","receivingConcepts":["Biogenesis","Cell Theory"],"emittingConcepts":[]}
+{"concept":"Cell Theory","rel":"dbpedia/knownFor","emittingConcepts":["Rudolf Virchow","Theodor Schwann"],"receivingConcepts":[]}
+{"concept":"Rudyard Kipling","rel":"dbpedia/knownFor","receivingConcepts":["Kim","White Man's Burden"],"emittingConcepts":[]}
+{"concept":"Samuel De Champlain","rel":"dbpedia/knownFor","receivingConcepts":["New France","Quebec City"],"emittingConcepts":[]}
+{"concept":"Satyendra Nath Bose","rel":"dbpedia/knownFor","receivingConcepts":["Bose Einstein Condensate","Bose Einstein Statistics","Boson"],"emittingConcepts":[]}
+{"concept":"Socrates","rel":"dbpedia/knownFor","receivingConcepts":["Irony","Socratic Method"],"emittingConcepts":[]}
+{"concept":"Stephen King","rel":"dbpedia/knownFor","receivingConcepts":["Carrie","It","Misery","Shining","Stand"],"emittingConcepts":[]}
+{"concept":"Steven Weinberg","rel":"dbpedia/knownFor","receivingConcepts":["Electroweak Interaction","Weak Interaction"],"emittingConcepts":[]}
+{"concept":"Theodor Schwann","rel":"dbpedia/knownFor","receivingConcepts":["Cell Theory","Pepsin","Schwann Cell"],"emittingConcepts":[]}
+{"concept":"Thomas Henry Huxley","rel":"dbpedia/knownFor","receivingConcepts":["Agnosticism","Evolution"],"emittingConcepts":[]}
+{"concept":"Vannevar Bush","rel":"dbpedia/knownFor","receivingConcepts":["Manhattan Project","National Science Foundation"],"emittingConcepts":[]}
+{"concept":"Wallace Carothers","rel":"dbpedia/knownFor","receivingConcepts":["Neoprene","Nylon"],"emittingConcepts":[]}
+{"concept":"Wilhelm Eduard Weber","rel":"dbpedia/knownFor","receivingConcepts":["Telegraphy","Wattmeter"],"emittingConcepts":[]}
+{"concept":"Wilhelm Ostwald","rel":"dbpedia/knownFor","receivingConcepts":["Catalysis","Mole","Pipette","Polymorphism","Viscometer"],"emittingConcepts":[]}
+{"concept":"William Herschel","rel":"dbpedia/knownFor","receivingConcepts":["Infrared","Uranus"],"emittingConcepts":[]}
+{"concept":"William Hyde Wollaston","rel":"dbpedia/knownFor","receivingConcepts":["Camera Lucida","Palladium","Rhodium"],"emittingConcepts":[]}
+{"concept":"William Morris","rel":"dbpedia/knownFor","receivingConcepts":["Socialism","Wallpaper"],"emittingConcepts":[]}
+{"concept":"William of Ockham","rel":"dbpedia/knownFor","receivingConcepts":["Nominalism","Occam's Razor"],"emittingConcepts":[]}
+{"concept":"William Rowan Hamilton","rel":"dbpedia/knownFor","receivingConcepts":["Hamiltonian","Hamiltonian Path","Quaternion","Tensor"],"emittingConcepts":[]}
+{"concept":"Wolfgang Pauli","rel":"dbpedia/knownFor","receivingConcepts":["Pauli Exclusion Principle","Pauli Matrices"],"emittingConcepts":[]}
