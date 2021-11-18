@@ -241,7 +241,7 @@ module.exports = {
         startEmojiWords.forEach(emojiWord => {
             var relations = [];
             console.log("Hypernym search go!");
-            fs.createReadStream('node_modules\\conceptnet-relationship-cache\\data\\conceptnet\\IsA-relmaps.ndjson')
+            fs.createReadStream('node_modules/conceptnet-relationship-cache/data/conceptnet/IsA-relmaps.ndjson')
                 .pipe(ndjson.parse())
                 .on('data', function (obj) {
                     relations.push(obj);
