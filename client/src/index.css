@@ -16,3 +16,7 @@ code {
     color: #b4e3ff
 
 }
+p {
+  word-wrap: break-word;
+  width: auto;
+}
